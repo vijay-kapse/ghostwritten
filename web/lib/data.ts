@@ -5,7 +5,8 @@ import type { Leaderboards, Provenance, RepoData, Summary } from "./types";
 
 // Next runs with cwd = web/ (both `next build` and, on Vercel, the function runtime).
 const WEB = process.cwd();
-const DATA_DIR = path.resolve(WEB, "..", "data");
+// GHOSTWRITTEN_DATA_DIR lets tests and CI point elsewhere (e.g. a missing dir to prove the sample fallback).
+const DATA_DIR = process.env.GHOSTWRITTEN_DATA_DIR ? path.resolve(process.env.GHOSTWRITTEN_DATA_DIR) : path.resolve(WEB, "..", "data");
 const FIXTURES = path.join(WEB, "fixtures");
 
 function readJson<T>(file: string): T | null {
@@ -79,6 +80,13 @@ export function loadSummary(): Loaded<Summary | null> {
   if (share === null && last) share = last.ai_share;
   if (share === null) return { data: null, provenance: lb.provenance };
 
+  // mom_change is a bare number in older files and {from, to, change, ...} in the scanner's current output.
+  const momRaw = raw.mom_change;
+  const mom = momRaw && typeof momRaw === "object" ? (momRaw as Record<string, unknown>) : null;
+  const momChange = mom ? num(mom.change) : (num(momRaw) ?? pick(raw, "month_over_month", "mom_delta"));
+  const momMonths: [string, string] | null =
+    mom && typeof mom.from === "string" && typeof mom.to === "string" ? [mom.from, mom.to] : null;
+
   const data: Summary = {
     generated_at: String(raw.generated_at ?? lb.data.generated_at ?? ""),
     window: String(raw.window ?? lb.data.window ?? ""),
@@ -89,7 +97,9 @@ export function loadSummary(): Loaded<Summary | null> {
     ai_share: share,
     median_repo_ai_share: pick(raw, "median_repo_ai_share", "median_ai_share", "median_repo_share"),
     repos_with_any_ai: pick(raw, "repos_with_any_ai_share", "share_repos_with_ai", "repos_with_any_ai", "share_repos_any_ai"),
-    mom_change: pick(raw, "mom_change", "month_over_month", "mom_delta") ?? (last && prev ? last.ai_share - prev.ai_share : null),
+    scanned_repos: pick(universe, "scanned", "covering_window"),
+    mom_change: momChange ?? (last && prev ? last.ai_share - prev.ai_share : null),
+    mom_months: momMonths ?? (last && prev && momChange === null ? [prev.month, last.month] : null),
   };
   return { data, provenance: lb.provenance };
 }

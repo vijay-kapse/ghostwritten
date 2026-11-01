@@ -2,31 +2,43 @@ import Link from "next/link";
 import { BadgeBox } from "@/components/BadgeBox";
 import { LookupBox } from "@/components/LookupBox";
 import { MonthChart } from "@/components/MonthChart";
+import { SampleNote } from "@/components/SampleNote";
 import { RankTable } from "@/components/RankTable";
 import { Section } from "@/components/Section";
 import { TickMeter } from "@/components/TickMeter";
 import { toolForRule } from "@/lib/attribution";
 import { loadLeaderboards, loadSummary } from "@/lib/data";
-import { compact, num, pct, signedPoints, windowLabel } from "@/lib/format";
+import { compact, monthLabel, num, pct, signedPoints, windowLabel } from "@/lib/format";
 
 export default function Home() {
-  const { data: lb } = loadLeaderboards();
+  const { data: lb, provenance } = loadLeaderboards();
   const { data: sum } = loadSummary();
 
   const topRepos = [...lb.repos].sort((a, b) => b.ai_share - a.ai_share).slice(0, 10);
   const topOrgs = [...lb.orgs].sort((a, b) => b.ai_share - a.ai_share).slice(0, 10);
   const toolMax = Math.max(1, ...lb.tools.map((t) => t.ai));
 
-  const stats: { label: string; value: string }[] = [];
+  const stats: { label: string; value: string; sub?: string }[] = [];
   if (sum) {
     if (sum.median_repo_ai_share !== null) stats.push({ label: "Median repository", value: pct(sum.median_repo_ai_share) });
     if (sum.repos_with_any_ai !== null) stats.push({ label: "Repositories with any AI commit", value: pct(sum.repos_with_any_ai, 0) });
-    if (sum.mom_change !== null) stats.push({ label: "Change on the previous month", value: signedPoints(sum.mom_change) });
-    if (sum.universe_repos) stats.push({ label: "Repositories scanned", value: num(sum.universe_repos) });
+    if (sum.mom_change !== null) stats.push({
+        label: "Change on the previous month",
+        value: signedPoints(sum.mom_change),
+        sub: sum.mom_months ? `${monthLabel(sum.mom_months[0])} to ${monthLabel(sum.mom_months[1])}` : undefined,
+      });
+    if (sum.scanned_repos ?? sum.universe_repos) {
+      stats.push({
+        label: "Repositories scanned",
+        value: num((sum.scanned_repos ?? sum.universe_repos) as number),
+        sub: sum.scanned_repos && sum.universe_repos ? `of ${num(sum.universe_repos)} in the universe` : undefined,
+      });
+    }
   }
 
   return (
     <>
+      {provenance === "sample" && <SampleNote />}
       <section className="pt-8 sm:pt-12" aria-labelledby="headline">
         <h1 id="headline" className="display cond text-[1.5rem] sm:text-[2rem] max-w-[24ch]" style={{ lineHeight: 1.05 }}>
           How much of GitHub is ghostwritten by AI agents?
@@ -72,6 +84,7 @@ export default function Home() {
                   >
                     <dt className="text-[13px] text-muted">{s.label}</dt>
                     <dd className="display cond text-[2rem]" style={{ lineHeight: 1.05 }}>{s.value}</dd>
+                    {s.sub && <dd className="text-[12px] text-muted">{s.sub}</dd>}
                   </div>
                 ))}
               </dl>

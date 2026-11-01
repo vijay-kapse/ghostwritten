@@ -100,7 +100,7 @@ export function SortableTable<T extends { total: number }>({
                   </td>
                 );
               })}
-              <td className="hidden md:table-cell">
+              <td className="hidden md:table-cell pl-3">
                 <TickMeter share={(r as unknown as { ai_share: number }).ai_share} height={9} />
               </td>
             </tr>

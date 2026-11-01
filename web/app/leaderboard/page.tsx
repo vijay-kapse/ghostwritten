@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SampleNote } from "@/components/SampleNote";
 import { Leaderboards } from "@/components/Leaderboards";
 import { loadLeaderboards } from "@/lib/data";
 import { num, windowLabel } from "@/lib/format";
@@ -9,10 +10,12 @@ export const metadata: Metadata = {
 };
 
 export default function LeaderboardPage() {
-  const { data } = loadLeaderboards();
+  const { data, provenance } = loadLeaderboards();
   const empty = !data.repos.length && !data.orgs.length && !data.languages.length;
   return (
-    <div className="pt-8 sm:pt-12">
+    <div>
+      {provenance === "sample" && <SampleNote />}
+      <div className="pt-8 sm:pt-12">
       <h1 className="display cond text-[2.6rem] sm:text-[3.6rem]" style={{ lineHeight: 0.95 }}>Leaderboard</h1>
       <p className="prose mt-3">
         {empty
@@ -22,6 +25,7 @@ export default function LeaderboardPage() {
       {!empty && (
         <Leaderboards repos={data.repos} orgs={data.orgs} languages={data.languages} defaultMin={100} />
       )}
+      </div>
     </div>
   );
 }

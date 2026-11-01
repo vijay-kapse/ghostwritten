@@ -73,12 +73,16 @@ export interface Summary {
   generated_at: string;
   window: string;
   universe_repos: number | null;
+  /** Repositories with scan results behind the headline, when the scanner says so. */
+  scanned_repos: number | null;
   ai: number | null;
   total: number | null;
   ai_share: number;
   median_repo_ai_share: number | null;
   repos_with_any_ai: number | null;
   mom_change: number | null;
+  /** "2026-09" and "2026-10" when the scanner says which months were compared. */
+  mom_months: [string, string] | null;
 }
 
 export type Provenance = "data" | "sample";

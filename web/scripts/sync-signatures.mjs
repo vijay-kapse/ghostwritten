@@ -6,7 +6,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const web = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
-const real = path.join(web, "..", "scanner", "signatures.json");
+const scannerDir = process.env.GHOSTWRITTEN_SCANNER_DIR ?? path.join(web, "..", "scanner");
+const real = path.join(scannerDir, "signatures.json");
 const fixture = path.join(web, "fixtures", "signatures.json");
 const useReal = existsSync(real);
 const signatures = JSON.parse(readFileSync(useReal ? real : fixture, "utf8"));

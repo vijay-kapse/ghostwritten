@@ -65,7 +65,7 @@ export default async function Image({ params }: { params: Promise<{ login: strin
         </div>
         <div style={{ display: "flex", marginTop: 24 }}>
           {Array.from({ length: 100 }, (_, i) => (
-            <div key={i} style={{ width: 8.4, height: 40, marginRight: 3.6, background: i < ticks ? ACCENT : RULE }} />
+            <div key={i} style={{ width: 7.2, height: 40, marginRight: 3.52, background: i < ticks ? ACCENT : RULE }} />
           ))}
         </div>
         <div style={{ display: "flex", justifyContent: "space-between", marginTop: 14, fontSize: 24, color: MUTED }}>

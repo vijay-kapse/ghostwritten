@@ -82,7 +82,8 @@ class GitHub:
             self.s.headers["Authorization"] = f"Bearer {self.token}"
         self.sleep = sleep
         self.verbose = verbose
-        self.requests = 0  # requests that count against the rate limit (304s excluded)
+        self.requests = 0  # requests that count against a rate limit (304s excluded)
+        self.core_requests = 0  # of those, the ones against the core limit (the budget applies to these)
         self.not_modified = 0
         self.last_remaining: int | None = None
 
@@ -90,10 +91,10 @@ class GitHub:
     def budget_left(self) -> int | None:
         if self.request_budget is None:
             return None
-        return self.request_budget - self.requests
+        return self.request_budget - self.core_requests
 
     def _check_budget(self) -> None:
-        if self.request_budget is not None and self.requests >= self.request_budget:
+        if self.request_budget is not None and self.core_requests >= self.request_budget:
             raise BudgetExhausted("request budget used up")
         if self.deadline is not None and time.time() >= self.deadline:
             raise BudgetExhausted("time budget used up")
@@ -149,10 +150,13 @@ class GitHub:
                     raise GitHubError(0, url, str(e)) from e
                 self.sleep(2**attempt)
                 continue
+            resource = r.headers.get("X-RateLimit-Resource", "core")
             if r.status_code != 304:
                 self.requests += 1
+                if resource == "core":
+                    self.core_requests += 1
             rem = r.headers.get("X-RateLimit-Remaining")
-            if rem is not None and r.headers.get("X-RateLimit-Resource", "core") == "core":
+            if rem is not None and resource == "core":
                 self.last_remaining = int(rem)
             if self.verbose:
                 print(f"  GET {r.status_code} {url} (remaining {rem})")

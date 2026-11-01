@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "repo": "remotion-dev/remotion",
+  "org": "remotion-dev",
+  "language": "TypeScript",
+  "stars": 69721,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:07:41Z",
+  "window_start": "2026-09-24",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 424,
+      "ai": 13,
+      "automation": 1,
+      "merges": 169,
+      "by_rule": {
+        "claude_trailer": 10,
+        "cursor": 3
+      }
+    },
+    "2026-10": {
+      "total": 1598,
+      "ai": 42,
+      "automation": 11,
+      "merges": 754,
+      "by_rule": {
+        "claude_trailer": 26,
+        "cursor": 11,
+        "codex_trailer": 3,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 34,
+      "ai": 1,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

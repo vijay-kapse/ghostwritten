@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "NousResearch/hermes-agent",
+  "org": "NousResearch",
+  "language": "Python",
+  "stars": 259461,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:40:17Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 2872,
+      "ai": 59,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 57,
+        "codex_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 101,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

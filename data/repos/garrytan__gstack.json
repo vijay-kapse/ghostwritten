@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "repo": "garrytan/gstack",
+  "org": "garrytan",
+  "language": "TypeScript",
+  "stars": 138578,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:18Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 170,
+      "ai": 163,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 163
+      }
+    },
+    "2026-04": {
+      "total": 77,
+      "ai": 70,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 70
+      }
+    },
+    "2026-05": {
+      "total": 55,
+      "ai": 54,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 54,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 18,
+      "ai": 18,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-07": {
+      "total": 27,
+      "ai": 12,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 7,
+        "cursor": 5
+      }
+    },
+    "2026-08": {
+      "total": 24,
+      "ai": 24,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 28,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "codex_trailer": 5,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 341,
+      "ai": 17,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 37,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

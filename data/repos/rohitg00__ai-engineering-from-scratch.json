@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "org": "rohitg00",
+  "language": "Python",
+  "stars": 76232,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:03:38Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 150,
+      "ai": 0,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 688,
+      "ai": 0,
+      "automation": 0,
+      "merges": 37,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 542,
+      "ai": 0,
+      "automation": 37,
+      "merges": 107,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 34,
+      "ai": 13,
+      "automation": 23,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-07": {
+      "total": 12,
+      "ai": 2,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 88,
+      "ai": 2,
+      "automation": 12,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 25,
+      "ai": 1,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 663,
+      "ai": 2,
+      "automation": 90,
+      "merges": 55,
+      "by_rule": {
+        "devin": 2
+      }
+    }
+  }
+}

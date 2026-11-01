@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "punkpeye/awesome-mcp-servers",
+  "org": "punkpeye",
+  "language": null,
+  "stars": 97168,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:47Z",
+  "window_start": "2026-09-07",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 869,
+      "ai": 90,
+      "automation": 4,
+      "merges": 871,
+      "by_rule": {
+        "claude_trailer": 85,
+        "cursor": 5
+      }
+    },
+    "2026-10": {
+      "total": 646,
+      "ai": 70,
+      "automation": 0,
+      "merges": 610,
+      "by_rule": {
+        "claude_trailer": 67,
+        "cursor": 3
+      }
+    }
+  }
+}

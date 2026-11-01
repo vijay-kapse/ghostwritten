@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "karpathy/autoresearch",
+  "org": "karpathy",
+  "language": "Python",
+  "stars": 99015,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:53:22Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 29,
+      "ai": 3,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

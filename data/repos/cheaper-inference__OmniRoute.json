@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "cheaper-inference/OmniRoute",
+  "org": "cheaper-inference",
+  "language": "TypeScript",
+  "stars": 83585,
+  "default_branch": "release/v3.8.53",
+  "scanned_at": "2026-11-01T20:59:39Z",
+  "window_start": "2026-09-19",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 628,
+      "ai": 1,
+      "automation": 11,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 2201,
+      "ai": 1,
+      "automation": 27,
+      "merges": 114,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

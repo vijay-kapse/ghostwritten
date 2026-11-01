@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "repo": "ultraworkers/claw-code",
+  "org": "ultraworkers",
+  "language": "Rust",
+  "stars": 194994,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:41:48Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 124,
+      "ai": 0,
+      "automation": 0,
+      "merges": 28,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 710,
+      "ai": 11,
+      "automation": 0,
+      "merges": 131,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-05": {
+      "total": 477,
+      "ai": 30,
+      "automation": 0,
+      "merges": 44,
+      "by_rule": {
+        "codex_trailer": 29,
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 157,
+      "ai": 3,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 119,
+      "ai": 12,
+      "automation": 1,
+      "merges": 38,
+      "by_rule": {
+        "claude_trailer": 10,
+        "codex_trailer": 2
+      }
+    }
+  }
+}

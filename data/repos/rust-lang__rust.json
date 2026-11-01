@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "rust-lang/rust",
+  "org": "rust-lang",
+  "language": "Rust",
+  "stars": 120961,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:05Z",
+  "window_start": "2026-10-01",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 1821,
+      "ai": 1,
+      "automation": 9,
+      "merges": 1136,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {}
+    }
+  }
+}

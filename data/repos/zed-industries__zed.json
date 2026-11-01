@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "zed-industries/zed",
+  "org": "zed-industries",
+  "language": "Rust",
+  "stars": 92497,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:34Z",
+  "window_start": "2026-05-11",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 429,
+      "ai": 4,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 2,
+        "claude_trailer": 2
+      }
+    },
+    "2026-06": {
+      "total": 629,
+      "ai": 9,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8,
+        "claude_generated": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 634,
+      "ai": 19,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-08": {
+      "total": 392,
+      "ai": 7,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 1,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 421,
+      "ai": 15,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "amp_factory": 6,
+        "claude_trailer": 6,
+        "claude_generated": 2,
+        "cursor": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 454,
+      "ai": 25,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19,
+        "amp_factory": 6,
+        "claude_generated": 5,
+        "codex_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

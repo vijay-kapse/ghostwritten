@@ -1,0 +1,132 @@
+{
+  "schema": 1,
+  "repo": "shanraisshan/claude-code-best-practice",
+  "org": "shanraisshan",
+  "language": "HTML",
+  "stars": 68423,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:08:18Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-10": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 44,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 40,
+      "ai": 4,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-03": {
+      "total": 117,
+      "ai": 47,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 47
+      }
+    },
+    "2026-04": {
+      "total": 390,
+      "ai": 304,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 304,
+        "other_bot_agent": 4
+      }
+    },
+    "2026-05": {
+      "total": 198,
+      "ai": 145,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 145
+      }
+    },
+    "2026-06": {
+      "total": 398,
+      "ai": 321,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 321
+      }
+    },
+    "2026-07": {
+      "total": 391,
+      "ai": 373,
+      "automation": 0,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 373
+      }
+    },
+    "2026-08": {
+      "total": 314,
+      "ai": 292,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 292
+      }
+    },
+    "2026-09": {
+      "total": 341,
+      "ai": 341,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 341
+      }
+    },
+    "2026-10": {
+      "total": 301,
+      "ai": 301,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 301
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    }
+  }
+}

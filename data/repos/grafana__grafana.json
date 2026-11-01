@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "repo": "grafana/grafana",
+  "org": "grafana",
+  "language": "TypeScript",
+  "stars": 77617,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:44Z",
+  "window_start": "2026-08-19",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 393,
+      "ai": 82,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 52,
+        "cursor": 30
+      }
+    },
+    "2026-09": {
+      "total": 992,
+      "ai": 138,
+      "automation": 147,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 86,
+        "cursor": 48,
+        "copilot_trailer": 6,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 1388,
+      "ai": 212,
+      "automation": 49,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 144,
+        "cursor": 71,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

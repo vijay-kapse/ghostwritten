@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "flutter/flutter",
+  "org": "flutter",
+  "language": "Dart",
+  "stars": 180940,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:42:43Z",
+  "window_start": "2026-04-27",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 73,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 2
+      }
+    },
+    "2026-05": {
+      "total": 399,
+      "ai": 6,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 6
+      }
+    },
+    "2026-06": {
+      "total": 442,
+      "ai": 18,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 17,
+        "claude_generated": 1
+      }
+    },
+    "2026-07": {
+      "total": 435,
+      "ai": 9,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 9
+      }
+    },
+    "2026-08": {
+      "total": 614,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 13
+      }
+    },
+    "2026-09": {
+      "total": 484,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 13,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 538,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 7,
+        "claude_generated": 2
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

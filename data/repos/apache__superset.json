@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "repo": "apache/superset",
+  "org": "apache",
+  "language": "Python",
+  "stars": 75386,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:04:10Z",
+  "window_start": "2026-07-07",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 434,
+      "ai": 218,
+      "automation": 213,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 214,
+        "copilot_trailer": 6,
+        "cursor": 1,
+        "devin": 1
+      }
+    },
+    "2026-08": {
+      "total": 461,
+      "ai": 250,
+      "automation": 267,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 248,
+        "copilot_trailer": 2,
+        "cursor": 1,
+        "devin": 1
+      }
+    },
+    "2026-09": {
+      "total": 581,
+      "ai": 339,
+      "automation": 260,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 334,
+        "cursor": 5,
+        "codex_trailer": 2,
+        "copilot_trailer": 1,
+        "devin": 1
+      }
+    },
+    "2026-10": {
+      "total": 560,
+      "ai": 270,
+      "automation": 224,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 267,
+        "cursor": 5,
+        "copilot_trailer": 3
+      }
+    }
+  }
+}

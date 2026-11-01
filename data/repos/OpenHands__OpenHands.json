@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "repo": "OpenHands/OpenHands",
+  "org": "OpenHands",
+  "language": "TypeScript",
+  "stars": 92432,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:48Z",
+  "window_start": "2026-01-09",
+  "complete": false,
+  "months": {
+    "2026-01": {
+      "total": 125,
+      "ai": 56,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 56
+      }
+    },
+    "2026-02": {
+      "total": 143,
+      "ai": 81,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 78,
+        "claude_trailer": 4
+      }
+    },
+    "2026-03": {
+      "total": 266,
+      "ai": 163,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 161,
+        "claude_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 286,
+      "ai": 219,
+      "automation": 32,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 212,
+        "claude_trailer": 13
+      }
+    },
+    "2026-05": {
+      "total": 530,
+      "ai": 329,
+      "automation": 35,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 303,
+        "claude_trailer": 20,
+        "cursor": 15
+      }
+    },
+    "2026-06": {
+      "total": 403,
+      "ai": 242,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 221,
+        "claude_trailer": 41,
+        "cursor": 9,
+        "codex_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 218,
+      "ai": 111,
+      "automation": 39,
+      "merges": 1,
+      "by_rule": {
+        "openhands": 103,
+        "claude_trailer": 11,
+        "codex_trailer": 1,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 152,
+      "ai": 63,
+      "automation": 27,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 50,
+        "cursor": 9,
+        "claude_trailer": 4,
+        "codex_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 228,
+      "ai": 155,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "openhands": 145,
+        "claude_trailer": 10,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 441,
+      "ai": 165,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 88,
+        "openhands": 80,
+        "cursor": 3,
+        "codex_trailer": 1,
+        "devin": 1
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

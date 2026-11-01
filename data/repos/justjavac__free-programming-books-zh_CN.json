@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "justjavac/free-programming-books-zh_CN",
+  "org": "justjavac",
+  "language": null,
+  "stars": 119472,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:25Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-07": {
+      "total": 21,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "repo": "open-webui/open-webui",
+  "org": "open-webui",
+  "language": "Python",
+  "stars": 157475,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:43:42Z",
+  "window_start": "2026-06-29",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 74,
+      "ai": 1,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 672,
+      "ai": 19,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-08": {
+      "total": 548,
+      "ai": 10,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-09": {
+      "total": 507,
+      "ai": 6,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-10": {
+      "total": 1182,
+      "ai": 7,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 6,
+        "cursor": 1
+      }
+    }
+  }
+}

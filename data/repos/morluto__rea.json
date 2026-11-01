@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "morluto/rea",
+  "org": "morluto",
+  "language": "TypeScript",
+  "stars": 418313,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:39:09Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 2932,
+      "ai": 281,
+      "automation": 3,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 193,
+        "cursor": 90,
+        "claude_generated": 5,
+        "copilot_trailer": 5,
+        "codex_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 33,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    }
+  }
+}

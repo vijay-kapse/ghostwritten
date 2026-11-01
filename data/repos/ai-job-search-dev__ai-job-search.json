@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "repo": "ai-job-search-dev/ai-job-search",
+  "org": "ai-job-search-dev",
+  "language": "Python",
+  "stars": 68698,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:08:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 10,
+      "ai": 9,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 123,
+      "ai": 41,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 39,
+        "cursor": 2
+      }
+    },
+    "2026-08": {
+      "total": 106,
+      "ai": 64,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 63,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 52,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 134,
+      "ai": 76,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 76
+      }
+    }
+  }
+}

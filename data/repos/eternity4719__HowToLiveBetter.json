@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "eternity4719/HowToLiveBetter",
+  "org": "eternity4719",
+  "language": "HTML",
+  "stars": 72288,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:05:48Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-09": {
+      "total": 282,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 163,
+      "ai": 4,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

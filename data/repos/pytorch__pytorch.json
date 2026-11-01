@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "pytorch/pytorch",
+  "org": "pytorch",
+  "language": "Python",
+  "stars": 105062,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:40Z",
+  "window_start": "2026-09-15",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 1201,
+      "ai": 198,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 170,
+        "claude_generated": 95,
+        "cursor": 16,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 1769,
+      "ai": 227,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 194,
+        "claude_generated": 39,
+        "cursor": 18,
+        "copilot_trailer": 9
+      }
+    },
+    "2026-11": {
+      "total": 21,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 4,
+        "claude_trailer": 4,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

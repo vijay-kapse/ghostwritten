@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "repo": "career-ops-hq/career-ops",
+  "org": "career-ops-hq",
+  "language": "JavaScript",
+  "stars": 79242,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:12Z",
+  "window_start": "2026-07-11",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 352,
+      "ai": 21,
+      "automation": 13,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-08": {
+      "total": 652,
+      "ai": 27,
+      "automation": 15,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 27,
+        "codex_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 613,
+      "ai": 115,
+      "automation": 9,
+      "merges": 131,
+      "by_rule": {
+        "claude_trailer": 112,
+        "cursor": 3,
+        "claude_generated": 1,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1179,
+      "ai": 434,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 428,
+        "cursor": 6
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

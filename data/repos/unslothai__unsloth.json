@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "unslothai/unsloth",
+  "org": "unslothai",
+  "language": "Python",
+  "stars": 78921,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:26Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 2831,
+      "ai": 19,
+      "automation": 22,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 12,
+        "cursor": 4,
+        "codex_trailer": 3,
+        "claude_generated": 1
+      }
+    },
+    "2026-11": {
+      "total": 140,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema": 1,
+  "repo": "Graphify-Labs/graphify",
+  "org": "Graphify-Labs",
+  "language": "Python",
+  "stars": 140471,
+  "default_branch": "v8",
+  "scanned_at": "2026-11-01T20:45:54Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 239,
+      "ai": 81,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 81
+      }
+    },
+    "2026-05": {
+      "total": 327,
+      "ai": 165,
+      "automation": 0,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 159,
+        "cursor": 3,
+        "codex_trailer": 2,
+        "devin": 1
+      }
+    },
+    "2026-06": {
+      "total": 285,
+      "ai": 233,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {
+        "claude_trailer": 228,
+        "cursor": 5
+      }
+    },
+    "2026-07": {
+      "total": 416,
+      "ai": 255,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 255
+      }
+    },
+    "2026-08": {
+      "total": 301,
+      "ai": 115,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 115
+      }
+    },
+    "2026-09": {
+      "total": 394,
+      "ai": 185,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 185
+      }
+    },
+    "2026-10": {
+      "total": 670,
+      "ai": 296,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 279,
+        "codex_trailer": 18,
+        "cursor": 9
+      }
+    },
+    "2026-11": {
+      "total": 28,
+      "ai": 13,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 8,
+        "codex_trailer": 4,
+        "devin": 1
+      }
+    }
+  }
+}

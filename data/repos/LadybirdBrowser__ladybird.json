@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "LadybirdBrowser/ladybird",
+  "org": "LadybirdBrowser",
+  "language": "C++",
+  "stars": 66792,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:09:23Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 2854,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 146,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

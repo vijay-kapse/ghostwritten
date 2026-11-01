@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "repo": "affaan-m/ECC",
+  "org": "affaan-m",
+  "language": "JavaScript",
+  "stars": 294692,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:39:59Z",
+  "window_start": "2026-04-11",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 186,
+      "ai": 15,
+      "automation": 4,
+      "merges": 42,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-05": {
+      "total": 438,
+      "ai": 6,
+      "automation": 9,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 205,
+      "ai": 31,
+      "automation": 22,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 28,
+        "cursor": 3,
+        "claude_generated": 1
+      }
+    },
+    "2026-07": {
+      "total": 103,
+      "ai": 23,
+      "automation": 6,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 14,
+        "devin": 9,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 283,
+      "ai": 26,
+      "automation": 6,
+      "merges": 42,
+      "by_rule": {
+        "claude_trailer": 26
+      }
+    },
+    "2026-09": {
+      "total": 462,
+      "ai": 33,
+      "automation": 10,
+      "merges": 209,
+      "by_rule": {
+        "claude_trailer": 23,
+        "copilot_trailer": 6,
+        "cursor": 4,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 674,
+      "ai": 36,
+      "automation": 6,
+      "merges": 273,
+      "by_rule": {
+        "claude_trailer": 32,
+        "copilot_trailer": 4
+      }
+    }
+  }
+}

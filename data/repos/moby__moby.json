@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "repo": "moby/moby",
+  "org": "moby",
+  "language": "Go",
+  "stars": 72233,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:06:03Z",
+  "window_start": "2026-01-21",
+  "complete": false,
+  "months": {
+    "2026-01": {
+      "total": 68,
+      "ai": 0,
+      "automation": 14,
+      "merges": 50,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 122,
+      "ai": 0,
+      "automation": 11,
+      "merges": 87,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 119,
+      "ai": 3,
+      "automation": 25,
+      "merges": 91,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-04": {
+      "total": 144,
+      "ai": 2,
+      "automation": 21,
+      "merges": 120,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 105,
+      "ai": 1,
+      "automation": 26,
+      "merges": 95,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 142,
+      "ai": 1,
+      "automation": 26,
+      "merges": 141,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 217,
+      "ai": 10,
+      "automation": 38,
+      "merges": 152,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-08": {
+      "total": 177,
+      "ai": 18,
+      "automation": 40,
+      "merges": 133,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-09": {
+      "total": 288,
+      "ai": 0,
+      "automation": 30,
+      "merges": 181,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 165,
+      "ai": 0,
+      "automation": 29,
+      "merges": 143,
+      "by_rule": {}
+    }
+  }
+}

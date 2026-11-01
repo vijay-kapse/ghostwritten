@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "repo": "vercel/next.js",
+  "org": "vercel",
+  "language": "JavaScript",
+  "stars": 143460,
+  "default_branch": "canary",
+  "scanned_at": "2026-11-01T20:45:26Z",
+  "window_start": "2026-04-08",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 305,
+      "ai": 34,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31,
+        "cursor": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 252,
+      "ai": 22,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "cursor": 9,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 363,
+      "ai": 7,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 411,
+      "ai": 14,
+      "automation": 43,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "claude_generated": 2
+      }
+    },
+    "2026-08": {
+      "total": 438,
+      "ai": 28,
+      "automation": 52,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27,
+        "claude_generated": 2,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 430,
+      "ai": 28,
+      "automation": 48,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27,
+        "claude_generated": 6
+      }
+    },
+    "2026-10": {
+      "total": 521,
+      "ai": 36,
+      "automation": 63,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31,
+        "claude_generated": 9,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

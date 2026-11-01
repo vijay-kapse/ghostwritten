@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "heygen-com/hyperframes",
+  "org": "heygen-com",
+  "language": "TypeScript",
+  "stars": 77032,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:03:04Z",
+  "window_start": "2026-08-04",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 464,
+      "ai": 115,
+      "automation": 1,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 112,
+        "claude_generated": 11,
+        "cursor": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 849,
+      "ai": 130,
+      "automation": 16,
+      "merges": 30,
+      "by_rule": {
+        "claude_trailer": 120,
+        "claude_generated": 5,
+        "cursor": 4,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1529,
+      "ai": 134,
+      "automation": 10,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 132,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 37,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

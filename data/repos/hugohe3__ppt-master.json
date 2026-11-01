@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "repo": "hugohe3/ppt-master",
+  "org": "hugohe3",
+  "language": "Python",
+  "stars": 72081,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:06:22Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-12": {
+      "total": 36,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 84,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 16,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 77,
+      "ai": 24,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24
+      }
+    },
+    "2026-04": {
+      "total": 221,
+      "ai": 106,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 106
+      }
+    },
+    "2026-05": {
+      "total": 242,
+      "ai": 117,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 117
+      }
+    },
+    "2026-06": {
+      "total": 188,
+      "ai": 142,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 142
+      }
+    },
+    "2026-07": {
+      "total": 607,
+      "ai": 100,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 100
+      }
+    },
+    "2026-08": {
+      "total": 358,
+      "ai": 173,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 173
+      }
+    },
+    "2026-09": {
+      "total": 260,
+      "ai": 250,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 250
+      }
+    },
+    "2026-10": {
+      "total": 111,
+      "ai": 100,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 100
+      }
+    }
+  }
+}

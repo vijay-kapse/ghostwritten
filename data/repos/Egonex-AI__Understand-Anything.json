@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "repo": "Egonex-AI/Understand-Anything",
+  "org": "Egonex-AI",
+  "language": "TypeScript",
+  "stars": 89610,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:09Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 209,
+      "ai": 166,
+      "automation": 0,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 164,
+        "copilot_author": 2
+      }
+    },
+    "2026-04": {
+      "total": 134,
+      "ai": 108,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 108,
+        "other_bot_agent": 2
+      }
+    },
+    "2026-05": {
+      "total": 123,
+      "ai": 57,
+      "automation": 0,
+      "merges": 34,
+      "by_rule": {
+        "claude_trailer": 57
+      }
+    },
+    "2026-06": {
+      "total": 66,
+      "ai": 26,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 26
+      }
+    },
+    "2026-07": {
+      "total": 90,
+      "ai": 5,
+      "automation": 0,
+      "merges": 41,
+      "by_rule": {
+        "claude_trailer": 4,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 70,
+      "ai": 3,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 11,
+      "ai": 2,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

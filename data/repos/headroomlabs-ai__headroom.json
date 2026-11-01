@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "repo": "headroomlabs-ai/headroom",
+  "org": "headroomlabs-ai",
+  "language": "Python",
+  "stars": 78553,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:01Z",
+  "window_start": "2026-04-07",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 470,
+      "ai": 211,
+      "automation": 2,
+      "merges": 136,
+      "by_rule": {
+        "copilot_trailer": 122,
+        "claude_trailer": 87,
+        "copilot_author": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-05": {
+      "total": 215,
+      "ai": 8,
+      "automation": 1,
+      "merges": 118,
+      "by_rule": {
+        "claude_trailer": 7,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 390,
+      "ai": 98,
+      "automation": 15,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 93,
+        "claude_generated": 43,
+        "copilot_trailer": 4,
+        "copilot_author": 2
+      }
+    },
+    "2026-07": {
+      "total": 562,
+      "ai": 79,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 63,
+        "claude_generated": 29,
+        "copilot_trailer": 2,
+        "cursor": 2,
+        "devin": 1
+      }
+    },
+    "2026-08": {
+      "total": 292,
+      "ai": 96,
+      "automation": 32,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 81,
+        "claude_generated": 49,
+        "copilot_trailer": 2,
+        "copilot_author": 1,
+        "devin": 1
+      }
+    },
+    "2026-09": {
+      "total": 260,
+      "ai": 111,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 107,
+        "claude_generated": 67,
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
+    },
+    "2026-10": {
+      "total": 424,
+      "ai": 235,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 213,
+        "claude_generated": 192,
+        "codex_trailer": 1
+      }
+    }
+  }
+}

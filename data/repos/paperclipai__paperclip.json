@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "repo": "paperclipai/paperclip",
+  "org": "paperclipai",
+  "language": "TypeScript",
+  "stars": 109870,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:50:28Z",
+  "window_start": "2026-07-16",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 236,
+      "ai": 39,
+      "automation": 28,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31,
+        "claude_generated": 15,
+        "cursor": 2
+      }
+    },
+    "2026-08": {
+      "total": 605,
+      "ai": 102,
+      "automation": 81,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 94,
+        "claude_generated": 21,
+        "codex_trailer": 5,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 590,
+      "ai": 37,
+      "automation": 37,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 30,
+        "claude_generated": 20,
+        "codex_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 1342,
+      "ai": 147,
+      "automation": 56,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 117,
+        "claude_generated": 89,
+        "codex_trailer": 22,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

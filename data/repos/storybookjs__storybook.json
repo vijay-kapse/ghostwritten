@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "storybookjs/storybook",
+  "org": "storybookjs",
+  "language": "TypeScript",
+  "stars": 91421,
+  "default_branch": "next",
+  "scanned_at": "2026-11-01T20:57:01Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 633,
+      "ai": 255,
+      "automation": 2,
+      "merges": 185,
+      "by_rule": {
+        "claude_trailer": 255
+      }
+    },
+    "2026-10": {
+      "total": 1491,
+      "ai": 897,
+      "automation": 0,
+      "merges": 689,
+      "by_rule": {
+        "claude_trailer": 885,
+        "cursor": 12
+      }
+    }
+  }
+}

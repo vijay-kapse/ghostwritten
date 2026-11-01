@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "n8n-io/n8n",
+  "org": "n8n-io",
+  "language": "TypeScript",
+  "stars": 209292,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:41:10Z",
+  "window_start": "2026-09-03",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 1154,
+      "ai": 486,
+      "automation": 160,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 428,
+        "cursor": 64
+      }
+    },
+    "2026-10": {
+      "total": 1501,
+      "ai": 707,
+      "automation": 175,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 641,
+        "cursor": 73,
+        "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

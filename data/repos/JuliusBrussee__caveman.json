@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "repo": "JuliusBrussee/caveman",
+  "org": "JuliusBrussee",
+  "language": "Go",
+  "stars": 116667,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:49:31Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 112,
+      "ai": 32,
+      "automation": 5,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 32
+      }
+    },
+    "2026-05": {
+      "total": 25,
+      "ai": 19,
+      "automation": 2,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-06": {
+      "total": 22,
+      "ai": 18,
+      "automation": 1,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-07": {
+      "total": 38,
+      "ai": 20,
+      "automation": 1,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 20
+      }
+    },
+    "2026-08": {
+      "total": 221,
+      "ai": 97,
+      "automation": 8,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 96,
+        "cursor": 2
+      }
+    },
+    "2026-09": {
+      "total": 298,
+      "ai": 244,
+      "automation": 13,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 244
+      }
+    },
+    "2026-10": {
+      "total": 885,
+      "ai": 796,
+      "automation": 8,
+      "merges": 145,
+      "by_rule": {
+        "claude_trailer": 793,
+        "cursor": 3
+      }
+    }
+  }
+}

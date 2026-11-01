@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "debpalash/VoiceStudio",
+  "org": "debpalash",
+  "language": "Python",
+  "stars": 97748,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:37Z",
+  "window_start": "2026-09-28",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 110,
+      "ai": 2,
+      "automation": 0,
+      "merges": 41,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 1845,
+      "ai": 48,
+      "automation": 13,
+      "merges": 982,
+      "by_rule": {
+        "claude_trailer": 48
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

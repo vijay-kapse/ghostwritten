@@ -1,0 +1,296 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-01T20:35:57Z",
+  "universe": {
+    "repos": 5002,
+    "selection": "top by stars, plus on-demand lookups"
+  },
+  "window": "2026-08..2026-10",
+  "repos": [
+    {
+      "repo": "microsoft/vscode",
+      "ai_share": 0.7572,
+      "ai": 5101,
+      "total": 6737,
+      "stars": 194456,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "cli/cli",
+      "ai_share": 0.75,
+      "ai": 417,
+      "total": 556,
+      "stars": 46838,
+      "language": "Go"
+    },
+    {
+      "repo": "pandas-dev/pandas",
+      "ai_share": 0.7124,
+      "ai": 805,
+      "total": 1130,
+      "stars": 50282,
+      "language": "Python"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "ai_share": 0.1051,
+      "ai": 82,
+      "total": 780,
+      "stars": 494431,
+      "language": "Python"
+    },
+    {
+      "repo": "oven-sh/bun",
+      "ai_share": 0.0269,
+      "ai": 51,
+      "total": 1893,
+      "stars": 96498,
+      "language": "Rust"
+    }
+  ],
+  "orgs": [
+    {
+      "org": "microsoft",
+      "ai_share": 0.7572,
+      "ai": 5101,
+      "total": 6737,
+      "repos": 1
+    },
+    {
+      "org": "cli",
+      "ai_share": 0.75,
+      "ai": 417,
+      "total": 556,
+      "repos": 1
+    },
+    {
+      "org": "pandas-dev",
+      "ai_share": 0.7124,
+      "ai": 805,
+      "total": 1130,
+      "repos": 1
+    },
+    {
+      "org": "public-apis",
+      "ai_share": 0.1051,
+      "ai": 82,
+      "total": 780,
+      "repos": 1
+    },
+    {
+      "org": "oven-sh",
+      "ai_share": 0.0269,
+      "ai": 51,
+      "total": 1893,
+      "repos": 1
+    }
+  ],
+  "languages": [
+    {
+      "language": "TypeScript",
+      "ai_share": 0.7572,
+      "ai": 5101,
+      "total": 6737,
+      "repos": 1
+    },
+    {
+      "language": "Go",
+      "ai_share": 0.75,
+      "ai": 417,
+      "total": 556,
+      "repos": 1
+    },
+    {
+      "language": "Python",
+      "ai_share": 0.4644,
+      "ai": 887,
+      "total": 1910,
+      "repos": 3
+    },
+    {
+      "language": "Rust",
+      "ai_share": 0.0269,
+      "ai": 51,
+      "total": 1893,
+      "repos": 1
+    }
+  ],
+  "tools": [
+    {
+      "rule": "copilot_trailer",
+      "ai": 5410
+    },
+    {
+      "rule": "claude_trailer",
+      "ai": 969
+    },
+    {
+      "rule": "copilot_author",
+      "ai": 198
+    },
+    {
+      "rule": "claude_generated",
+      "ai": 49
+    },
+    {
+      "rule": "cursor",
+      "ai": 3
+    }
+  ],
+  "trend": [
+    {
+      "month": "2025-01",
+      "ai": 0,
+      "total": 1401,
+      "ai_share": 0.0,
+      "repos": 9
+    },
+    {
+      "month": "2025-02",
+      "ai": 0,
+      "total": 1544,
+      "ai_share": 0.0,
+      "repos": 9
+    },
+    {
+      "month": "2025-03",
+      "ai": 0,
+      "total": 1565,
+      "ai_share": 0.0,
+      "repos": 9
+    },
+    {
+      "month": "2025-04",
+      "ai": 0,
+      "total": 1553,
+      "ai_share": 0.0,
+      "repos": 9
+    },
+    {
+      "month": "2025-05",
+      "ai": 9,
+      "total": 1275,
+      "ai_share": 0.0071,
+      "repos": 9
+    },
+    {
+      "month": "2025-06",
+      "ai": 78,
+      "total": 1155,
+      "ai_share": 0.0675,
+      "repos": 9
+    },
+    {
+      "month": "2025-07",
+      "ai": 115,
+      "total": 1856,
+      "ai_share": 0.062,
+      "repos": 9
+    },
+    {
+      "month": "2025-08",
+      "ai": 142,
+      "total": 1889,
+      "ai_share": 0.0752,
+      "repos": 9
+    },
+    {
+      "month": "2025-09",
+      "ai": 157,
+      "total": 1647,
+      "ai_share": 0.0953,
+      "repos": 9
+    },
+    {
+      "month": "2025-10",
+      "ai": 226,
+      "total": 2258,
+      "ai_share": 0.1001,
+      "repos": 9
+    },
+    {
+      "month": "2025-11",
+      "ai": 235,
+      "total": 2067,
+      "ai_share": 0.1137,
+      "repos": 9
+    },
+    {
+      "month": "2025-12",
+      "ai": 171,
+      "total": 1523,
+      "ai_share": 0.1123,
+      "repos": 9
+    },
+    {
+      "month": "2026-01",
+      "ai": 360,
+      "total": 2712,
+      "ai_share": 0.1327,
+      "repos": 9
+    },
+    {
+      "month": "2026-02",
+      "ai": 416,
+      "total": 2746,
+      "ai_share": 0.1515,
+      "repos": 9
+    },
+    {
+      "month": "2026-03",
+      "ai": 830,
+      "total": 3269,
+      "ai_share": 0.2539,
+      "repos": 9
+    },
+    {
+      "month": "2026-04",
+      "ai": 884,
+      "total": 2976,
+      "ai_share": 0.297,
+      "repos": 9
+    },
+    {
+      "month": "2026-05",
+      "ai": 564,
+      "total": 2409,
+      "ai_share": 0.2341,
+      "repos": 9
+    },
+    {
+      "month": "2026-06",
+      "ai": 846,
+      "total": 2355,
+      "ai_share": 0.3592,
+      "repos": 9
+    },
+    {
+      "month": "2026-07",
+      "ai": 1107,
+      "total": 2769,
+      "ai_share": 0.3998,
+      "repos": 9
+    },
+    {
+      "month": "2026-08",
+      "ai": 1534,
+      "total": 3500,
+      "ai_share": 0.4383,
+      "repos": 9
+    },
+    {
+      "month": "2026-09",
+      "ai": 2000,
+      "total": 3540,
+      "ai_share": 0.565,
+      "repos": 9
+    },
+    {
+      "month": "2026-10",
+      "ai": 2922,
+      "total": 4059,
+      "ai_share": 0.7199,
+      "repos": 9
+    }
+  ]
+}

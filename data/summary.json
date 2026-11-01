@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-01T20:35:57Z",
+  "universe": {
+    "repos": 5002,
+    "scanned": 9,
+    "covering_window": 9,
+    "ranked": 5,
+    "selection": "top by stars, plus on-demand lookups"
+  },
+  "window": "2026-08..2026-10",
+  "ai": 6456,
+  "total": 11099,
+  "ai_share": 0.5817,
+  "median_repo_ai_share": 0.7124,
+  "share_repos_with_ai": 1.0,
+  "mom_change": {
+    "from": "2026-09",
+    "to": "2026-10",
+    "from_share": 0.565,
+    "to_share": 0.7199,
+    "change": 0.1549,
+    "repos": 9
+  },
+  "min_commits": 100
+}

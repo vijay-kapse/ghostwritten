@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "repo": "cobalt-systems/cobalt-cli",
+  "org": "cobalt-systems",
+  "language": "Go",
+  "stars": 9340,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T03:12:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 203,
+      "ai": 0,
+      "automation": 12,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 197,
+      "ai": 0,
+      "automation": 14,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 232,
+      "ai": 0,
+      "automation": 16,
+      "merges": 22,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 207,
+      "ai": 0,
+      "automation": 12,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 229,
+      "ai": 0,
+      "automation": 12,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 200,
+      "ai": 0,
+      "automation": 11,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 196,
+      "ai": 0,
+      "automation": 19,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 239,
+      "ai": 11,
+      "automation": 19,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 7,
+        "claude_generated": 4
+      }
+    },
+    "2025-09": {
+      "total": 180,
+      "ai": 13,
+      "automation": 15,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 8,
+        "claude_generated": 5
+      }
+    },
+    "2025-10": {
+      "total": 168,
+      "ai": 16,
+      "automation": 6,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 10,
+        "claude_generated": 6
+      }
+    },
+    "2025-11": {
+      "total": 211,
+      "ai": 26,
+      "automation": 9,
+      "merges": 16,
+      "by_rule": {
+        "claude_trailer": 16,
+        "claude_generated": 10
+      }
+    },
+    "2025-12": {
+      "total": 219,
+      "ai": 38,
+      "automation": 21,
+      "merges": 17,
+      "by_rule": {
+        "claude_trailer": 24,
+        "claude_generated": 14
+      }
+    },
+    "2026-01": {
+      "total": 222,
+      "ai": 48,
+      "automation": 9,
+      "merges": 17,
+      "by_rule": {
+        "claude_trailer": 30,
+        "claude_generated": 18
+      }
+    },
+    "2026-02": {
+      "total": 250,
+      "ai": 61,
+      "automation": 25,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 38,
+        "claude_generated": 23
+      }
+    },
+    "2026-03": {
+      "total": 243,
+      "ai": 63,
+      "automation": 6,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 39,
+        "claude_generated": 24
+      }
+    },
+    "2026-04": {
+      "total": 308,
+      "ai": 85,
+      "automation": 16,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 53,
+        "claude_generated": 32
+      }
+    },
+    "2026-05": {
+      "total": 289,
+      "ai": 84,
+      "automation": 14,
+      "merges": 25,
+      "by_rule": {
+        "claude_trailer": 52,
+        "claude_generated": 32
+      }
+    },
+    "2026-06": {
+      "total": 260,
+      "ai": 82,
+      "automation": 17,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 51,
+        "claude_generated": 31
+      }
+    },
+    "2026-07": {
+      "total": 264,
+      "ai": 89,
+      "automation": 15,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 55,
+        "claude_generated": 34
+      }
+    },
+    "2026-08": {
+      "total": 264,
+      "ai": 86,
+      "automation": 12,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 53,
+        "claude_generated": 33
+      }
+    },
+    "2026-09": {
+      "total": 262,
+      "ai": 80,
+      "automation": 11,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 50,
+        "claude_generated": 30
+      }
+    },
+    "2026-10": {
+      "total": 233,
+      "ai": 80,
+      "automation": 9,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 50,
+        "claude_generated": 30
+      }
+    }
+  }
+}

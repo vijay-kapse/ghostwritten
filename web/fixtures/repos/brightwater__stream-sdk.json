@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "repo": "brightwater/stream-sdk",
+  "org": "brightwater",
+  "language": "Python",
+  "stars": 8120,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T03:12:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 130,
+      "ai": 0,
+      "automation": 10,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 162,
+      "ai": 0,
+      "automation": 15,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 160,
+      "ai": 0,
+      "automation": 8,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 185,
+      "ai": 0,
+      "automation": 17,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 191,
+      "ai": 0,
+      "automation": 14,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 173,
+      "ai": 0,
+      "automation": 14,
+      "merges": 14,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 165,
+      "ai": 8,
+      "automation": 5,
+      "merges": 9,
+      "by_rule": {
+        "codex_trailer": 8
+      }
+    },
+    "2025-08": {
+      "total": 154,
+      "ai": 11,
+      "automation": 10,
+      "merges": 6,
+      "by_rule": {
+        "codex_trailer": 11
+      }
+    },
+    "2025-09": {
+      "total": 132,
+      "ai": 13,
+      "automation": 10,
+      "merges": 10,
+      "by_rule": {
+        "codex_trailer": 13
+      }
+    },
+    "2025-10": {
+      "total": 169,
+      "ai": 24,
+      "automation": 6,
+      "merges": 16,
+      "by_rule": {
+        "codex_trailer": 24
+      }
+    },
+    "2025-11": {
+      "total": 153,
+      "ai": 30,
+      "automation": 5,
+      "merges": 8,
+      "by_rule": {
+        "codex_trailer": 30
+      }
+    },
+    "2025-12": {
+      "total": 174,
+      "ai": 37,
+      "automation": 12,
+      "merges": 12,
+      "by_rule": {
+        "codex_trailer": 37
+      }
+    },
+    "2026-01": {
+      "total": 203,
+      "ai": 51,
+      "automation": 18,
+      "merges": 11,
+      "by_rule": {
+        "codex_trailer": 51
+      }
+    },
+    "2026-02": {
+      "total": 186,
+      "ai": 53,
+      "automation": 14,
+      "merges": 17,
+      "by_rule": {
+        "codex_trailer": 53
+      }
+    },
+    "2026-03": {
+      "total": 205,
+      "ai": 65,
+      "automation": 13,
+      "merges": 15,
+      "by_rule": {
+        "codex_trailer": 65
+      }
+    },
+    "2026-04": {
+      "total": 201,
+      "ai": 64,
+      "automation": 19,
+      "merges": 13,
+      "by_rule": {
+        "codex_trailer": 64
+      }
+    },
+    "2026-05": {
+      "total": 232,
+      "ai": 82,
+      "automation": 6,
+      "merges": 12,
+      "by_rule": {
+        "codex_trailer": 82
+      }
+    },
+    "2026-06": {
+      "total": 253,
+      "ai": 80,
+      "automation": 11,
+      "merges": 24,
+      "by_rule": {
+        "codex_trailer": 80
+      }
+    },
+    "2026-07": {
+      "total": 221,
+      "ai": 81,
+      "automation": 20,
+      "merges": 14,
+      "by_rule": {
+        "codex_trailer": 81
+      }
+    },
+    "2026-08": {
+      "total": 180,
+      "ai": 65,
+      "automation": 14,
+      "merges": 11,
+      "by_rule": {
+        "codex_trailer": 65
+      }
+    },
+    "2026-09": {
+      "total": 202,
+      "ai": 72,
+      "automation": 5,
+      "merges": 7,
+      "by_rule": {
+        "codex_trailer": 72
+      }
+    },
+    "2026-10": {
+      "total": 200,
+      "ai": 66,
+      "automation": 15,
+      "merges": 19,
+      "by_rule": {
+        "codex_trailer": 66
+      }
+    }
+  }
+}

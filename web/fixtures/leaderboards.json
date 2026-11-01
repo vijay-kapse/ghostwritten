@@ -1,0 +1,672 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-01T03:40:00Z",
+  "universe": {
+    "repos": 30,
+    "selection": "sample data: invented repositories"
+  },
+  "window": "2026-08..2026-10",
+  "repos": [
+    {
+      "repo": "sable-ai/sable-agents",
+      "ai_share": 0.8378,
+      "ai": 1147,
+      "total": 1369,
+      "stars": 15780,
+      "language": "Python"
+    },
+    {
+      "repo": "tinyfoundry/kiln",
+      "ai_share": 0.7893,
+      "ai": 809,
+      "total": 1025,
+      "stars": 39870,
+      "language": "Zig"
+    },
+    {
+      "repo": "sable-ai/sable-evals",
+      "ai_share": 0.7539,
+      "ai": 337,
+      "total": 447,
+      "stars": 5290,
+      "language": "Python"
+    },
+    {
+      "repo": "lantern-labs/lantern",
+      "ai_share": 0.7177,
+      "ai": 1904,
+      "total": 2653,
+      "stars": 84210,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "vellum-works/vellum-docs",
+      "ai_share": 0.6987,
+      "ai": 211,
+      "total": 302,
+      "stars": 3320,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "mosaic-dev/mosaic-cloud",
+      "ai_share": 0.6448,
+      "ai": 697,
+      "total": 1081,
+      "stars": 6230,
+      "language": "Go"
+    },
+    {
+      "repo": "vellum-works/vellum",
+      "ai_share": 0.5796,
+      "ai": 972,
+      "total": 1677,
+      "stars": 36200,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "quarry-io/quarry-docs",
+      "ai_share": 0.5464,
+      "ai": 330,
+      "total": 604,
+      "stars": 7410,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "halyard/halyard-ui",
+      "ai_share": 0.5011,
+      "ai": 452,
+      "total": 902,
+      "stars": 12050,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "mosaic-dev/mosaic",
+      "ai_share": 0.4745,
+      "ai": 1443,
+      "total": 3041,
+      "stars": 58760,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "northwind/orbit",
+      "ai_share": 0.4392,
+      "ai": 676,
+      "total": 1539,
+      "stars": 61230,
+      "language": "Rust"
+    },
+    {
+      "repo": "alder-co/alder-web",
+      "ai_share": 0.4048,
+      "ai": 272,
+      "total": 672,
+      "stars": 11430,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "deepcurrent/current",
+      "ai_share": 0.3661,
+      "ai": 540,
+      "total": 1475,
+      "stars": 44650,
+      "language": "Rust"
+    },
+    {
+      "repo": "brightwater/stream-sdk",
+      "ai_share": 0.3488,
+      "ai": 203,
+      "total": 582,
+      "stars": 8120,
+      "language": "Python"
+    },
+    {
+      "repo": "cobalt-systems/cobalt-cli",
+      "ai_share": 0.3241,
+      "ai": 246,
+      "total": 759,
+      "stars": 9340,
+      "language": "Go"
+    },
+    {
+      "repo": "alder-co/alder",
+      "ai_share": 0.2996,
+      "ai": 320,
+      "total": 1068,
+      "stars": 22140,
+      "language": "Python"
+    },
+    {
+      "repo": "quarry-io/quarry",
+      "ai_share": 0.2958,
+      "ai": 731,
+      "total": 2471,
+      "stars": 52140,
+      "language": "Go"
+    },
+    {
+      "repo": "ironbark/ironbark-android",
+      "ai_share": 0.2367,
+      "ai": 89,
+      "total": 376,
+      "stars": 4410,
+      "language": "Kotlin"
+    },
+    {
+      "repo": "ironbark/ironbark",
+      "ai_share": 0.2052,
+      "ai": 198,
+      "total": 965,
+      "stars": 18420,
+      "language": "Kotlin"
+    },
+    {
+      "repo": "halyard/halyard",
+      "ai_share": 0.1706,
+      "ai": 307,
+      "total": 1800,
+      "stars": 47320,
+      "language": "Python"
+    },
+    {
+      "repo": "thistle/thistle",
+      "ai_share": 0.1438,
+      "ai": 108,
+      "total": 751,
+      "stars": 13380,
+      "language": "Dart"
+    },
+    {
+      "repo": "paperplane/paperplane",
+      "ai_share": 0.1392,
+      "ai": 114,
+      "total": 819,
+      "stars": 21800,
+      "language": "Swift"
+    },
+    {
+      "repo": "brightwater/stream",
+      "ai_share": 0.1121,
+      "ai": 154,
+      "total": 1374,
+      "stars": 33910,
+      "language": "Java"
+    },
+    {
+      "repo": "kestrel-lang/kestrel",
+      "ai_share": 0.0733,
+      "ai": 84,
+      "total": 1146,
+      "stars": 27300,
+      "language": "Rust"
+    },
+    {
+      "repo": "cobalt-systems/cobalt",
+      "ai_share": 0.057,
+      "ai": 183,
+      "total": 3211,
+      "stars": 71500,
+      "language": "C++"
+    },
+    {
+      "repo": "umbra-sec/umbra",
+      "ai_share": 0.036,
+      "ai": 20,
+      "total": 556,
+      "stars": 9950,
+      "language": "Go"
+    },
+    {
+      "repo": "fernwood/fern",
+      "ai_share": 0.0282,
+      "ai": 16,
+      "total": 568,
+      "stars": 26610,
+      "language": "Ruby"
+    },
+    {
+      "repo": "openmeadow/meadow",
+      "ai_share": 0.0155,
+      "ai": 17,
+      "total": 1094,
+      "stars": 29980,
+      "language": "PHP"
+    },
+    {
+      "repo": "driftwood/driftwood",
+      "ai_share": 0.0048,
+      "ai": 4,
+      "total": 828,
+      "stars": 31050,
+      "language": "Python"
+    },
+    {
+      "repo": "pinecone-farm/pine",
+      "ai_share": 0,
+      "ai": 0,
+      "total": 463,
+      "stars": 15200,
+      "language": "C"
+    }
+  ],
+  "orgs": [
+    {
+      "org": "sable-ai",
+      "ai_share": 0.8172,
+      "ai": 1484,
+      "total": 1816,
+      "repos": 2
+    },
+    {
+      "org": "tinyfoundry",
+      "ai_share": 0.7893,
+      "ai": 809,
+      "total": 1025,
+      "repos": 1
+    },
+    {
+      "org": "lantern-labs",
+      "ai_share": 0.7177,
+      "ai": 1904,
+      "total": 2653,
+      "repos": 1
+    },
+    {
+      "org": "vellum-works",
+      "ai_share": 0.5978,
+      "ai": 1183,
+      "total": 1979,
+      "repos": 2
+    },
+    {
+      "org": "mosaic-dev",
+      "ai_share": 0.5192,
+      "ai": 2140,
+      "total": 4122,
+      "repos": 2
+    },
+    {
+      "org": "northwind",
+      "ai_share": 0.4392,
+      "ai": 676,
+      "total": 1539,
+      "repos": 1
+    },
+    {
+      "org": "deepcurrent",
+      "ai_share": 0.3661,
+      "ai": 540,
+      "total": 1475,
+      "repos": 1
+    },
+    {
+      "org": "quarry-io",
+      "ai_share": 0.345,
+      "ai": 1061,
+      "total": 3075,
+      "repos": 2
+    },
+    {
+      "org": "alder-co",
+      "ai_share": 0.3402,
+      "ai": 592,
+      "total": 1740,
+      "repos": 2
+    },
+    {
+      "org": "halyard",
+      "ai_share": 0.2809,
+      "ai": 759,
+      "total": 2702,
+      "repos": 2
+    },
+    {
+      "org": "ironbark",
+      "ai_share": 0.214,
+      "ai": 287,
+      "total": 1341,
+      "repos": 2
+    },
+    {
+      "org": "brightwater",
+      "ai_share": 0.1825,
+      "ai": 357,
+      "total": 1956,
+      "repos": 2
+    },
+    {
+      "org": "thistle",
+      "ai_share": 0.1438,
+      "ai": 108,
+      "total": 751,
+      "repos": 1
+    },
+    {
+      "org": "paperplane",
+      "ai_share": 0.1392,
+      "ai": 114,
+      "total": 819,
+      "repos": 1
+    },
+    {
+      "org": "cobalt-systems",
+      "ai_share": 0.1081,
+      "ai": 429,
+      "total": 3970,
+      "repos": 2
+    },
+    {
+      "org": "kestrel-lang",
+      "ai_share": 0.0733,
+      "ai": 84,
+      "total": 1146,
+      "repos": 1
+    },
+    {
+      "org": "umbra-sec",
+      "ai_share": 0.036,
+      "ai": 20,
+      "total": 556,
+      "repos": 1
+    },
+    {
+      "org": "fernwood",
+      "ai_share": 0.0282,
+      "ai": 16,
+      "total": 568,
+      "repos": 1
+    },
+    {
+      "org": "openmeadow",
+      "ai_share": 0.0155,
+      "ai": 17,
+      "total": 1094,
+      "repos": 1
+    },
+    {
+      "org": "driftwood",
+      "ai_share": 0.0048,
+      "ai": 4,
+      "total": 828,
+      "repos": 1
+    },
+    {
+      "org": "pinecone-farm",
+      "ai_share": 0,
+      "ai": 0,
+      "total": 463,
+      "repos": 1
+    }
+  ],
+  "languages": [
+    {
+      "language": "Zig",
+      "ai_share": 0.7893,
+      "ai": 809,
+      "total": 1025,
+      "repos": 1
+    },
+    {
+      "language": "TypeScript",
+      "ai_share": 0.5787,
+      "ai": 5312,
+      "total": 9179,
+      "repos": 6
+    },
+    {
+      "language": "JavaScript",
+      "ai_share": 0.4048,
+      "ai": 272,
+      "total": 672,
+      "repos": 1
+    },
+    {
+      "language": "Python",
+      "ai_share": 0.3804,
+      "ai": 2318,
+      "total": 6094,
+      "repos": 6
+    },
+    {
+      "language": "Go",
+      "ai_share": 0.3481,
+      "ai": 1694,
+      "total": 4867,
+      "repos": 4
+    },
+    {
+      "language": "Rust",
+      "ai_share": 0.3125,
+      "ai": 1300,
+      "total": 4160,
+      "repos": 3
+    },
+    {
+      "language": "Kotlin",
+      "ai_share": 0.214,
+      "ai": 287,
+      "total": 1341,
+      "repos": 2
+    },
+    {
+      "language": "Dart",
+      "ai_share": 0.1438,
+      "ai": 108,
+      "total": 751,
+      "repos": 1
+    },
+    {
+      "language": "Swift",
+      "ai_share": 0.1392,
+      "ai": 114,
+      "total": 819,
+      "repos": 1
+    },
+    {
+      "language": "Java",
+      "ai_share": 0.1121,
+      "ai": 154,
+      "total": 1374,
+      "repos": 1
+    },
+    {
+      "language": "C++",
+      "ai_share": 0.057,
+      "ai": 183,
+      "total": 3211,
+      "repos": 1
+    },
+    {
+      "language": "Ruby",
+      "ai_share": 0.0282,
+      "ai": 16,
+      "total": 568,
+      "repos": 1
+    },
+    {
+      "language": "PHP",
+      "ai_share": 0.0155,
+      "ai": 17,
+      "total": 1094,
+      "repos": 1
+    },
+    {
+      "language": "C",
+      "ai_share": 0,
+      "ai": 0,
+      "total": 463,
+      "repos": 1
+    }
+  ],
+  "tools": [
+    {
+      "rule": "claude_trailer",
+      "ai": 4235
+    },
+    {
+      "rule": "cursor",
+      "ai": 2576
+    },
+    {
+      "rule": "claude_generated",
+      "ai": 2090
+    },
+    {
+      "rule": "copilot_author",
+      "ai": 1242
+    },
+    {
+      "rule": "devin",
+      "ai": 918
+    },
+    {
+      "rule": "codex_trailer",
+      "ai": 730
+    },
+    {
+      "rule": "copilot_trailer",
+      "ai": 355
+    },
+    {
+      "rule": "other_bot_agent",
+      "ai": 229
+    },
+    {
+      "rule": "aider",
+      "ai": 209
+    }
+  ],
+  "trend": [
+    {
+      "month": "2025-01",
+      "ai": 0,
+      "total": 8072,
+      "ai_share": 0
+    },
+    {
+      "month": "2025-02",
+      "ai": 45,
+      "total": 8831,
+      "ai_share": 0.0051
+    },
+    {
+      "month": "2025-03",
+      "ai": 113,
+      "total": 9320,
+      "ai_share": 0.0121
+    },
+    {
+      "month": "2025-04",
+      "ai": 313,
+      "total": 10182,
+      "ai_share": 0.0307
+    },
+    {
+      "month": "2025-05",
+      "ai": 506,
+      "total": 10175,
+      "ai_share": 0.0497
+    },
+    {
+      "month": "2025-06",
+      "ai": 724,
+      "total": 9833,
+      "ai_share": 0.0736
+    },
+    {
+      "month": "2025-07",
+      "ai": 916,
+      "total": 9291,
+      "ai_share": 0.0986
+    },
+    {
+      "month": "2025-08",
+      "ai": 1187,
+      "total": 8799,
+      "ai_share": 0.1349
+    },
+    {
+      "month": "2025-09",
+      "ai": 1450,
+      "total": 8439,
+      "ai_share": 0.1718
+    },
+    {
+      "month": "2025-10",
+      "ai": 1746,
+      "total": 8335,
+      "ai_share": 0.2095
+    },
+    {
+      "month": "2025-11",
+      "ai": 1991,
+      "total": 8383,
+      "ai_share": 0.2375
+    },
+    {
+      "month": "2025-12",
+      "ai": 2461,
+      "total": 8933,
+      "ai_share": 0.2755
+    },
+    {
+      "month": "2026-01",
+      "ai": 2998,
+      "total": 10062,
+      "ai_share": 0.298
+    },
+    {
+      "month": "2026-02",
+      "ai": 3464,
+      "total": 11977,
+      "ai_share": 0.2892
+    },
+    {
+      "month": "2026-03",
+      "ai": 3838,
+      "total": 12487,
+      "ai_share": 0.3074
+    },
+    {
+      "month": "2026-04",
+      "ai": 4389,
+      "total": 13952,
+      "ai_share": 0.3146
+    },
+    {
+      "month": "2026-05",
+      "ai": 4707,
+      "total": 14192,
+      "ai_share": 0.3317
+    },
+    {
+      "month": "2026-06",
+      "ai": 4599,
+      "total": 13929,
+      "ai_share": 0.3302
+    },
+    {
+      "month": "2026-07",
+      "ai": 4605,
+      "total": 13372,
+      "ai_share": 0.3444
+    },
+    {
+      "month": "2026-08",
+      "ai": 4476,
+      "total": 12725,
+      "ai_share": 0.3517
+    },
+    {
+      "month": "2026-09",
+      "ai": 3965,
+      "total": 11477,
+      "ai_share": 0.3455
+    },
+    {
+      "month": "2026-10",
+      "ai": 4143,
+      "total": 11416,
+      "ai_share": 0.3629
+    }
+  ]
+}

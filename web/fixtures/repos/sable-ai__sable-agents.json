@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "repo": "sable-ai/sable-agents",
+  "org": "sable-ai",
+  "language": "Python",
+  "stars": 15780,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T03:12:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 311,
+      "ai": 0,
+      "automation": 13,
+      "merges": 22,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 374,
+      "ai": 45,
+      "automation": 24,
+      "merges": 17,
+      "by_rule": {
+        "devin": 36,
+        "other_bot_agent": 9
+      }
+    },
+    "2025-03": {
+      "total": 410,
+      "ai": 65,
+      "automation": 40,
+      "merges": 17,
+      "by_rule": {
+        "devin": 52,
+        "other_bot_agent": 13
+      }
+    },
+    "2025-04": {
+      "total": 420,
+      "ai": 100,
+      "automation": 31,
+      "merges": 18,
+      "by_rule": {
+        "devin": 80,
+        "other_bot_agent": 20
+      }
+    },
+    "2025-05": {
+      "total": 456,
+      "ai": 149,
+      "automation": 21,
+      "merges": 43,
+      "by_rule": {
+        "devin": 119,
+        "other_bot_agent": 30
+      }
+    },
+    "2025-06": {
+      "total": 418,
+      "ai": 158,
+      "automation": 36,
+      "merges": 39,
+      "by_rule": {
+        "devin": 126,
+        "other_bot_agent": 32
+      }
+    },
+    "2025-07": {
+      "total": 355,
+      "ai": 173,
+      "automation": 15,
+      "merges": 29,
+      "by_rule": {
+        "devin": 138,
+        "other_bot_agent": 35
+      }
+    },
+    "2025-08": {
+      "total": 344,
+      "ai": 192,
+      "automation": 8,
+      "merges": 24,
+      "by_rule": {
+        "devin": 154,
+        "other_bot_agent": 38
+      }
+    },
+    "2025-09": {
+      "total": 337,
+      "ai": 204,
+      "automation": 24,
+      "merges": 25,
+      "by_rule": {
+        "devin": 163,
+        "other_bot_agent": 41
+      }
+    },
+    "2025-10": {
+      "total": 310,
+      "ai": 216,
+      "automation": 21,
+      "merges": 27,
+      "by_rule": {
+        "devin": 173,
+        "other_bot_agent": 43
+      }
+    },
+    "2025-11": {
+      "total": 304,
+      "ai": 238,
+      "automation": 23,
+      "merges": 14,
+      "by_rule": {
+        "devin": 190,
+        "other_bot_agent": 48
+      }
+    },
+    "2025-12": {
+      "total": 393,
+      "ai": 315,
+      "automation": 29,
+      "merges": 32,
+      "by_rule": {
+        "devin": 252,
+        "other_bot_agent": 63
+      }
+    },
+    "2026-01": {
+      "total": 420,
+      "ai": 329,
+      "automation": 9,
+      "merges": 20,
+      "by_rule": {
+        "devin": 263,
+        "other_bot_agent": 66
+      }
+    },
+    "2026-02": {
+      "total": 467,
+      "ai": 358,
+      "automation": 21,
+      "merges": 40,
+      "by_rule": {
+        "devin": 286,
+        "other_bot_agent": 72
+      }
+    },
+    "2026-03": {
+      "total": 507,
+      "ai": 388,
+      "automation": 34,
+      "merges": 25,
+      "by_rule": {
+        "devin": 310,
+        "other_bot_agent": 78
+      }
+    },
+    "2026-04": {
+      "total": 504,
+      "ai": 429,
+      "automation": 32,
+      "merges": 19,
+      "by_rule": {
+        "devin": 343,
+        "other_bot_agent": 86
+      }
+    },
+    "2026-05": {
+      "total": 453,
+      "ai": 369,
+      "automation": 12,
+      "merges": 41,
+      "by_rule": {
+        "devin": 295,
+        "other_bot_agent": 74
+      }
+    },
+    "2026-06": {
+      "total": 460,
+      "ai": 361,
+      "automation": 21,
+      "merges": 24,
+      "by_rule": {
+        "devin": 289,
+        "other_bot_agent": 72
+      }
+    },
+    "2026-07": {
+      "total": 504,
+      "ai": 386,
+      "automation": 45,
+      "merges": 44,
+      "by_rule": {
+        "devin": 309,
+        "other_bot_agent": 77
+      }
+    },
+    "2026-08": {
+      "total": 458,
+      "ai": 376,
+      "automation": 10,
+      "merges": 16,
+      "by_rule": {
+        "devin": 301,
+        "other_bot_agent": 75
+      }
+    },
+    "2026-09": {
+      "total": 483,
+      "ai": 405,
+      "automation": 41,
+      "merges": 28,
+      "by_rule": {
+        "devin": 324,
+        "other_bot_agent": 81
+      }
+    },
+    "2026-10": {
+      "total": 428,
+      "ai": 366,
+      "automation": 41,
+      "merges": 14,
+      "by_rule": {
+        "devin": 293,
+        "other_bot_agent": 73
+      }
+    }
+  }
+}

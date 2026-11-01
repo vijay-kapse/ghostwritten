@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "repo": "vellum-works/vellum",
+  "org": "vellum-works",
+  "language": "TypeScript",
+  "stars": 36200,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T03:12:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 466,
+      "ai": 0,
+      "automation": 15,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 431,
+      "ai": 0,
+      "automation": 13,
+      "merges": 20,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 466,
+      "ai": 0,
+      "automation": 17,
+      "merges": 31,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 469,
+      "ai": 0,
+      "automation": 12,
+      "merges": 21,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 538,
+      "ai": 43,
+      "automation": 39,
+      "merges": 38,
+      "by_rule": {
+        "claude_trailer": 27,
+        "claude_generated": 16
+      }
+    },
+    "2025-06": {
+      "total": 554,
+      "ai": 70,
+      "automation": 14,
+      "merges": 55,
+      "by_rule": {
+        "claude_trailer": 43,
+        "claude_generated": 27
+      }
+    },
+    "2025-07": {
+      "total": 466,
+      "ai": 72,
+      "automation": 24,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 45,
+        "claude_generated": 27
+      }
+    },
+    "2025-08": {
+      "total": 497,
+      "ai": 117,
+      "automation": 20,
+      "merges": 42,
+      "by_rule": {
+        "claude_trailer": 73,
+        "claude_generated": 44
+      }
+    },
+    "2025-09": {
+      "total": 516,
+      "ai": 138,
+      "automation": 37,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 86,
+        "claude_generated": 52
+      }
+    },
+    "2025-10": {
+      "total": 393,
+      "ai": 139,
+      "automation": 28,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 86,
+        "claude_generated": 53
+      }
+    },
+    "2025-11": {
+      "total": 474,
+      "ai": 201,
+      "automation": 25,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 125,
+        "claude_generated": 76
+      }
+    },
+    "2025-12": {
+      "total": 444,
+      "ai": 216,
+      "automation": 19,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 134,
+        "claude_generated": 82
+      }
+    },
+    "2026-01": {
+      "total": 598,
+      "ai": 301,
+      "automation": 42,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 187,
+        "claude_generated": 114
+      }
+    },
+    "2026-02": {
+      "total": 647,
+      "ai": 340,
+      "automation": 25,
+      "merges": 22,
+      "by_rule": {
+        "claude_trailer": 211,
+        "claude_generated": 129
+      }
+    },
+    "2026-03": {
+      "total": 546,
+      "ai": 310,
+      "automation": 27,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 192,
+        "claude_generated": 118
+      }
+    },
+    "2026-04": {
+      "total": 698,
+      "ai": 380,
+      "automation": 20,
+      "merges": 44,
+      "by_rule": {
+        "claude_trailer": 236,
+        "claude_generated": 144
+      }
+    },
+    "2026-05": {
+      "total": 616,
+      "ai": 371,
+      "automation": 42,
+      "merges": 50,
+      "by_rule": {
+        "claude_trailer": 230,
+        "claude_generated": 141
+      }
+    },
+    "2026-06": {
+      "total": 699,
+      "ai": 372,
+      "automation": 54,
+      "merges": 40,
+      "by_rule": {
+        "claude_trailer": 231,
+        "claude_generated": 141
+      }
+    },
+    "2026-07": {
+      "total": 639,
+      "ai": 366,
+      "automation": 59,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 227,
+        "claude_generated": 139
+      }
+    },
+    "2026-08": {
+      "total": 592,
+      "ai": 346,
+      "automation": 30,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 215,
+        "claude_generated": 131
+      }
+    },
+    "2026-09": {
+      "total": 496,
+      "ai": 274,
+      "automation": 47,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 170,
+        "claude_generated": 104
+      }
+    },
+    "2026-10": {
+      "total": 589,
+      "ai": 352,
+      "automation": 14,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 218,
+        "claude_generated": 134
+      }
+    }
+  }
+}

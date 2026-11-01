@@ -1,0 +1,139 @@
+[
+  {
+    "name": "claude trailer",
+    "message": "Fix retry backoff overflow\n\nCap the exponent at 6 so the delay never exceeds a minute.\n\nCo-authored-by: Claude <noreply@anthropic.com>",
+    "author_login": "jdoe",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "claude_trailer"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "claude generated footer and trailer",
+    "message": "Add pagination to the audit log\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus <noreply@anthropic.com>",
+    "author_login": "jdoe",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "claude_trailer",
+        "claude_generated"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "copilot bot author",
+    "message": "Initial plan",
+    "author_login": "copilot-swe-agent[bot]",
+    "committer_login": "copilot-swe-agent[bot]",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "copilot_author"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "codex trailer",
+    "message": "Refactor config loader\n\nCo-authored-by: Codex <codex@openai.com>",
+    "author_login": "asmith",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "codex_trailer"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "cursor agent trailer",
+    "message": "Update dependency table\n\nCo-authored-by: Cursor Agent <cursoragent@cursor.com>",
+    "author_login": "asmith",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "cursor"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "devin bot author",
+    "message": "Add integration test for webhook retries",
+    "author_login": "devin-ai-integration[bot]",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "devin"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "aider prefix",
+    "message": "aider: Rename helper and update call sites",
+    "author_login": "kpatel",
+    "author_name": "Kiran Patel (aider)",
+    "expect": {
+      "kind": "ai",
+      "rules": [
+        "aider"
+      ]
+    },
+    "parents": 1
+  },
+  {
+    "name": "dependabot is automation",
+    "message": "Bump lodash from 4.17.20 to 4.17.21\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "author_login": "dependabot[bot]",
+    "expect": {
+      "kind": "automation",
+      "rules": []
+    },
+    "parents": 1
+  },
+  {
+    "name": "prose mention of claude is not AI",
+    "message": "Document how Claude Shannon's entropy formula is used in the tokenizer\n\nNo functional change. Thanks to claude for the pointer in the issue.",
+    "author_login": "mlee",
+    "expect": {
+      "kind": "human",
+      "rules": []
+    },
+    "parents": 1
+  },
+  {
+    "name": "cursor in prose is not AI",
+    "message": "Fix cursor position after undo in the editor pane",
+    "author_login": "mlee",
+    "expect": {
+      "kind": "human",
+      "rules": []
+    },
+    "parents": 1
+  },
+  {
+    "name": "merge commit is excluded",
+    "message": "Merge pull request #42 from feature/x\n\nCo-authored-by: Claude <noreply@anthropic.com>",
+    "author_login": "jdoe",
+    "parents": 2,
+    "expect": {
+      "kind": "merge",
+      "rules": []
+    }
+  },
+  {
+    "name": "plain human commit",
+    "message": "Handle empty input in the CSV parser",
+    "author_login": "jdoe",
+    "expect": {
+      "kind": "human",
+      "rules": []
+    },
+    "parents": 1
+  }
+]

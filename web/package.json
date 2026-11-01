@@ -1,0 +1,38 @@
+{
+  "name": "ghostwritten-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "fixtures": "node scripts/make-fixtures.mjs",
+    "sync": "node scripts/sync-signatures.mjs",
+    "predev": "npm run sync",
+    "prebuild": "npm run sync",
+    "pretest": "npm run sync",
+    "pretypecheck": "npm run sync",
+    "prelint": "npm run sync",
+    "parity": "python3 scripts/make-parity.py"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.4.3",
+    "server-only": "^0.0.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~5.9.0",
+    "vitest": "^3"
+  }
+}

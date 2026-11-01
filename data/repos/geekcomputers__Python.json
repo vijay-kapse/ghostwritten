@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "repo": "geekcomputers/Python",
+  "org": "geekcomputers",
+  "language": "Python",
+  "stars": 35462,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:57:55Z",
+  "window_start": "2025-10-24",
+  "complete": false,
+  "months": {
+    "2025-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 7,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 36,
+      "ai": 0,
+      "automation": 20,
+      "merges": 44,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 12,
+      "ai": 0,
+      "automation": 31,
+      "merges": 38,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 6,
+      "ai": 0,
+      "automation": 8,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

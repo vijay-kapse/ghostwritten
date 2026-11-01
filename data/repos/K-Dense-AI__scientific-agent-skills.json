@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "org": "K-Dense-AI",
+  "language": "Python",
+  "stars": 55650,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:02Z",
+  "window_start": "2026-05-18",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 40,
+      "ai": 1,
+      "automation": 2,
+      "merges": 6,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 26,
+      "ai": 1,
+      "automation": 6,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 109,
+      "ai": 39,
+      "automation": 6,
+      "merges": 8,
+      "by_rule": {
+        "cursor": 38,
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 28,
+      "ai": 3,
+      "automation": 5,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 42,
+      "ai": 10,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "cursor": 3
+      }
+    },
+    "2026-10": {
+      "total": 9,
+      "ai": 3,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

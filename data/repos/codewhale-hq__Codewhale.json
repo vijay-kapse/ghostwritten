@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "codewhale-hq/Codewhale",
+  "org": "codewhale-hq",
+  "language": "Rust",
+  "stars": 41164,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:27Z",
+  "window_start": "2026-10-29",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 174,
+      "ai": 40,
+      "automation": 5,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 40
+      }
+    },
+    "2026-11": {
+      "total": 60,
+      "ai": 0,
+      "automation": 3,
+      "merges": 23,
+      "by_rule": {}
+    }
+  }
+}

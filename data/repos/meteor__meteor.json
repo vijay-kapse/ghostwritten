@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "meteor/meteor",
+  "org": "meteor",
+  "language": "JavaScript",
+  "stars": 44800,
+  "default_branch": "devel",
+  "scanned_at": "2026-11-01T20:51:54Z",
+  "window_start": "2026-07-14",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 74,
+      "ai": 16,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    },
+    "2026-08": {
+      "total": 79,
+      "ai": 5,
+      "automation": 0,
+      "merges": 59,
+      "by_rule": {
+        "claude_trailer": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 39,
+      "ai": 2,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    }
+  }
+}

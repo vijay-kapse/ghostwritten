@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "ghostty-org/ghostty",
+  "org": "ghostty-org",
+  "language": "Zig",
+  "stars": 63167,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:27Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 177,
+      "ai": 15,
+      "automation": 28,
+      "merges": 82,
+      "by_rule": {
+        "claude_trailer": 12,
+        "cursor": 2,
+        "gemini": 1
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 2,
+      "merges": 4,
+      "by_rule": {}
+    }
+  }
+}

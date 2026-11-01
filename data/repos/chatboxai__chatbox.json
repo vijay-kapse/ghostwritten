@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "chatboxai/chatbox",
+  "org": "chatboxai",
+  "language": "TypeScript",
+  "stars": 42223,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:52:54Z",
+  "window_start": "2026-09-10",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 44,
+      "ai": 7,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 6,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 254,
+      "ai": 78,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 76,
+        "cursor": 2
+      }
+    }
+  }
+}

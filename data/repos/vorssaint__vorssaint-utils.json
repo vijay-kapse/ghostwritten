@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "vorssaint/vorssaint-utils",
+  "org": "vorssaint",
+  "language": "Swift",
+  "stars": 32291,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:06Z",
+  "window_start": "2026-10-08",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 300,
+      "ai": 26,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 26
+      }
+    }
+  }
+}

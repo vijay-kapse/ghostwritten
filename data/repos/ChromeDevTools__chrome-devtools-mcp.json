@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "org": "ChromeDevTools",
+  "language": "TypeScript",
+  "stars": 54617,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:19Z",
+  "window_start": "2026-09-22",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 47,
+      "ai": 2,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 2
+      }
+    },
+    "2026-10": {
+      "total": 216,
+      "ai": 3,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 3
+      }
+    }
+  }
+}

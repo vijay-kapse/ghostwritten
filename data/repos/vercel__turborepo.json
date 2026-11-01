@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "repo": "vercel/turborepo",
+  "org": "vercel",
+  "language": "Rust",
+  "stars": 31292,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:15Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 277,
+      "ai": 4,
+      "automation": 23,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 3,
+        "claude_trailer": 3,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

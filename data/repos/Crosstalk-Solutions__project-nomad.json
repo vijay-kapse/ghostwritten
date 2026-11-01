@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "repo": "Crosstalk-Solutions/project-nomad",
+  "org": "Crosstalk-Solutions",
+  "language": "TypeScript",
+  "stars": 41602,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:09Z",
+  "window_start": "2026-05-20",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 32,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-06": {
+      "total": 76,
+      "ai": 15,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-07": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 89,
+      "ai": 44,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 43,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 95,
+      "ai": 43,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 43
+      }
+    },
+    "2026-10": {
+      "total": 6,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

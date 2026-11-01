@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "dotnet/aspnetcore",
+  "org": "dotnet",
+  "language": "C#",
+  "stars": 38498,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:37Z",
+  "window_start": "2026-09-11",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 92,
+      "ai": 46,
+      "automation": 48,
+      "merges": 23,
+      "by_rule": {
+        "copilot_trailer": 45,
+        "copilot_author": 4
+      }
+    },
+    "2026-10": {
+      "total": 106,
+      "ai": 69,
+      "automation": 28,
+      "merges": 3,
+      "by_rule": {
+        "copilot_trailer": 68,
+        "copilot_author": 3
+      }
+    }
+  }
+}

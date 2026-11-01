@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "VoltAgent/awesome-agent-skills",
+  "org": "VoltAgent",
+  "language": null,
+  "stars": 36717,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:56:57Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 39,
+      "ai": 8,
+      "automation": 0,
+      "merges": 42,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 89,
+      "ai": 20,
+      "automation": 0,
+      "merges": 130,
+      "by_rule": {
+        "claude_trailer": 20
+      }
+    }
+  }
+}

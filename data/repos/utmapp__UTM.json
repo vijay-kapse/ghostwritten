@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "utmapp/UTM",
+  "org": "utmapp",
+  "language": "Swift",
+  "stars": 36634,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:57:05Z",
+  "window_start": "2026-01-02",
+  "complete": false,
+  "months": {
+    "2026-01": {
+      "total": 44,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 99,
+      "ai": 0,
+      "automation": 0,
+      "merges": 41,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 22,
+      "ai": 0,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {}
+    }
+  }
+}

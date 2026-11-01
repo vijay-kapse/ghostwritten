@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "kovidgoyal/kitty",
+  "org": "kovidgoyal",
+  "language": "Python",
+  "stars": 35499,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:57:53Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 231,
+      "ai": 2,
+      "automation": 5,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

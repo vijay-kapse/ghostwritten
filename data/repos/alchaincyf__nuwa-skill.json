@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "repo": "alchaincyf/nuwa-skill",
+  "org": "alchaincyf",
+  "language": "Python",
+  "stars": 37067,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:56:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 27,
+      "ai": 21,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-05": {
+      "total": 8,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-06": {
+      "total": 5,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-07": {
+      "total": 15,
+      "ai": 12,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-08": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 3,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

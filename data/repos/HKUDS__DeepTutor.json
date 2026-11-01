@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "HKUDS/DeepTutor",
+  "org": "HKUDS",
+  "language": "Python",
+  "stars": 53588,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:31Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 166,
+      "ai": 16,
+      "automation": 0,
+      "merges": 134,
+      "by_rule": {
+        "claude_trailer": 12,
+        "cursor": 3,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

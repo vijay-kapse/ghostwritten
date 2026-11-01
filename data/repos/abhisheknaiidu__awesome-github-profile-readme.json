@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "abhisheknaiidu/awesome-github-profile-readme",
+  "org": "abhisheknaiidu",
+  "language": null,
+  "stars": 31494,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:01:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 6,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2026-09": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 28,
+      "by_rule": {}
+    }
+  }
+}

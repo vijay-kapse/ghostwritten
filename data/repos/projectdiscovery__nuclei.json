@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "projectdiscovery/nuclei",
+  "org": "projectdiscovery",
+  "language": "Go",
+  "stars": 32523,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T21:00:44Z",
+  "window_start": "2026-10-06",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 160,
+      "ai": 11,
+      "automation": 7,
+      "merges": 133,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    }
+  }
+}

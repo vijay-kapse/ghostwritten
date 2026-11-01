@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "AMAI-GmbH/AI-Expert-Roadmap",
+  "org": "AMAI-GmbH",
+  "language": "JavaScript",
+  "stars": 31330,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:12Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-09": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

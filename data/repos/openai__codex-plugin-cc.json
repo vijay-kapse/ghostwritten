@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "repo": "openai/codex-plugin-cc",
+  "org": "openai",
+  "language": "JavaScript",
+  "stars": 34790,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:26Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 11,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 15,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-06": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

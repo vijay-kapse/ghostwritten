@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "symfony/symfony",
+  "org": "symfony",
+  "language": "PHP",
+  "stars": 31220,
+  "default_branch": "8.2",
+  "scanned_at": "2026-11-01T21:02:18Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 96,
+      "ai": 2,
+      "automation": 1,
+      "merges": 103,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 44,
+      "ai": 1,
+      "automation": 0,
+      "merges": 56,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

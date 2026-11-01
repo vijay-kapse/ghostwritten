@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "hesamsheikh/awesome-openclaw-usecases",
+  "org": "hesamsheikh",
+  "language": null,
+  "stars": 31639,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 27,
+      "ai": 4,
+      "automation": 12,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-03": {
+      "total": 18,
+      "ai": 2,
+      "automation": 4,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

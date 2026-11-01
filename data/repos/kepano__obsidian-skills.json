@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "repo": "kepano/obsidian-skills",
+  "org": "kepano",
+  "language": null,
+  "stars": 50567,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:49:21Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-01": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 5,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

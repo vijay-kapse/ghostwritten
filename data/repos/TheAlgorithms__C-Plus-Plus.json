@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "repo": "TheAlgorithms/C-Plus-Plus",
+  "org": "TheAlgorithms",
+  "language": "C++",
+  "stars": 34841,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:58:24Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-05": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 16,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

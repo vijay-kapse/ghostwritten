@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "carbon-app/carbon",
+  "org": "carbon-app",
+  "language": "JavaScript",
+  "stars": 36124,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:57:27Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 3,
+      "ai": 1,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

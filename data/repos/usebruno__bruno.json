@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "usebruno/bruno",
+  "org": "usebruno",
+  "language": "JavaScript",
+  "stars": 47979,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:50:19Z",
+  "window_start": "2026-08-17",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 73,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 126,
+      "ai": 1,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 86,
+      "ai": 3,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

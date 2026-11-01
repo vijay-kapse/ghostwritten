@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "hiddify/hiddify-app",
+  "org": "hiddify",
+  "language": "Dart",
+  "stars": 33573,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:59:35Z",
+  "window_start": "2026-10-03",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 168,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 168
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 8,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

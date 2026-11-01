@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "trycua/cua",
+  "org": "trycua",
+  "language": "Rust",
+  "stars": 31502,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:59Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 178,
+      "ai": 121,
+      "automation": 115,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 120,
+        "codex_trailer": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

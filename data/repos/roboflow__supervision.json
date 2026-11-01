@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "roboflow/supervision",
+  "org": "roboflow",
+  "language": "Python",
+  "stars": 51451,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:49:01Z",
+  "window_start": "2026-08-19",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 18,
+      "ai": 13,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 8,
+        "claude_trailer": 7,
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
+    },
+    "2026-09": {
+      "total": 114,
+      "ai": 94,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 70,
+        "codex_trailer": 46,
+        "copilot_trailer": 16,
+        "copilot_author": 1
+      }
+    },
+    "2026-10": {
+      "total": 149,
+      "ai": 99,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 64,
+        "claude_trailer": 45,
+        "copilot_trailer": 6,
+        "copilot_author": 5
+      }
+    }
+  }
+}

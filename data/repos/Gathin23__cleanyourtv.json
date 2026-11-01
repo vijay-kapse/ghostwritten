@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "Gathin23/cleanyourtv",
+  "org": "Gathin23",
+  "language": "Python",
+  "stars": 49015,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:49:59Z",
+  "window_start": "2026-10-31",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 125,
+      "ai": 43,
+      "automation": 0,
+      "merges": 87,
+      "by_rule": {
+        "claude_trailer": 38,
+        "copilot_trailer": 4,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 36,
+      "ai": 13,
+      "automation": 0,
+      "merges": 52,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    }
+  }
+}

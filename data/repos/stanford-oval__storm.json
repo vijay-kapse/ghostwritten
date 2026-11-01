@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "stanford-oval/storm",
+  "org": "stanford-oval",
+  "language": "Python",
+  "stars": 31765,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:45Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

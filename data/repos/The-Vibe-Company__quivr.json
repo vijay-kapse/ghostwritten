@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "The-Vibe-Company/quivr",
+  "org": "The-Vibe-Company",
+  "language": "Go",
+  "stars": 39623,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:54:43Z",
+  "window_start": "2026-10-03",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 269,
+      "ai": 71,
+      "automation": 7,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 71,
+        "claude_generated": 67
+      }
+    }
+  }
+}

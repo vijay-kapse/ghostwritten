@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "omacom/omarchy",
+  "org": "omacom",
+  "language": "Shell",
+  "stars": 46052,
+  "default_branch": "quattro",
+  "scanned_at": "2026-11-01T20:51:12Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 256,
+      "ai": 166,
+      "automation": 0,
+      "merges": 13,
+      "by_rule": {
+        "claude_trailer": 165,
+        "codex_trailer": 53,
+        "copilot_trailer": 2,
+        "amp_factory": 1
+      }
+    },
+    "2026-11": {
+      "total": 31,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18,
+        "codex_trailer": 4
+      }
+    }
+  }
+}

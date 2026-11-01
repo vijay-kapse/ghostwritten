@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "vim/vim",
+  "org": "vim",
+  "language": "Vim Script",
+  "stars": 41181,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:53:25Z",
+  "window_start": "2026-09-11",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 135,
+      "ai": 16,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "codex_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 140,
+      "ai": 3,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 20,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

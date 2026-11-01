@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "repo": "PatrickJS/awesome-cursorrules",
+  "org": "PatrickJS",
+  "language": "JavaScript",
+  "stars": 41080,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 23,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 65,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "aaif-goose/goose",
+  "org": "aaif-goose",
+  "language": "Rust",
+  "stars": 56085,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:54Z",
+  "window_start": "2026-09-08",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 122,
+      "ai": 10,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 145,
+      "ai": 19,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    }
+  }
+}

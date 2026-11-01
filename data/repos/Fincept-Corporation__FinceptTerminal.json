@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "repo": "Fincept-Corporation/FinceptTerminal",
+  "org": "Fincept-Corporation",
+  "language": "C++",
+  "stars": 33345,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:59:55Z",
+  "window_start": "2026-04-20",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 32,
+      "ai": 2,
+      "automation": 2,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 79,
+      "ai": 1,
+      "automation": 1,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 34,
+      "ai": 3,
+      "automation": 3,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 35,
+      "ai": 10,
+      "automation": 2,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 9,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 14,
+      "ai": 1,
+      "automation": 2,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 7,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 9,
+      "ai": 3,
+      "automation": 1,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

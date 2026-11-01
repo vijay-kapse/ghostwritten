@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "twentyhq/twenty",
+  "org": "twentyhq",
+  "language": "TypeScript",
+  "stars": 60255,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:07Z",
+  "window_start": "2026-10-27",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 245,
+      "ai": 36,
+      "automation": 48,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 31,
+        "claude_trailer": 4,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

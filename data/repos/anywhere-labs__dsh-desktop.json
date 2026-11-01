@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "anywhere-labs/dsh-desktop",
+  "org": "anywhere-labs",
+  "language": "TypeScript",
+  "stars": 34389,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:58:42Z",
+  "window_start": "2026-09-28",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 27,
+      "ai": 1,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 181,
+      "ai": 90,
+      "automation": 0,
+      "merges": 71,
+      "by_rule": {
+        "claude_trailer": 90
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "dockur/windows",
+  "org": "dockur",
+  "language": "Shell",
+  "stars": 53994,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:48:29Z",
+  "window_start": "2026-07-18",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 139,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 142,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

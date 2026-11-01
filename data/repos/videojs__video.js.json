@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "videojs/video.js",
+  "org": "videojs",
+  "language": "TypeScript",
+  "stars": 40058,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:54:28Z",
+  "window_start": "2026-09-16",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 123,
+      "ai": 59,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 59
+      }
+    },
+    "2026-10": {
+      "total": 159,
+      "ai": 59,
+      "automation": 10,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 59
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

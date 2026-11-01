@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "decolua/9router",
+  "org": "decolua",
+  "language": "JavaScript",
+  "stars": 31803,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:01:42Z",
+  "window_start": "2026-09-10",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 146,
+      "ai": 41,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 41
+      }
+    },
+    "2026-10": {
+      "total": 153,
+      "ai": 22,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 20,
+        "openhands": 2
+      }
+    }
+  }
+}

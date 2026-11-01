@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "topoteretes/cognee",
+  "org": "topoteretes",
+  "language": "Python",
+  "stars": 32982,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:00:18Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 186,
+      "ai": 45,
+      "automation": 1,
+      "merges": 113,
+      "by_rule": {
+        "claude_trailer": 45,
+        "claude_generated": 3,
+        "cursor": 1
+      }
+    }
+  }
+}

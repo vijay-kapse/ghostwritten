@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "duckdb/duckdb",
+  "org": "duckdb",
+  "language": "C++",
+  "stars": 42732,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:52:41Z",
+  "window_start": "2026-10-27",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 186,
+      "ai": 4,
+      "automation": 0,
+      "merges": 114,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

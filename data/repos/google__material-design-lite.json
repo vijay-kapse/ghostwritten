@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "google/material-design-lite",
+  "org": "google",
+  "language": "HTML",
+  "stars": 32190,
+  "default_branch": "mdl-1.x",
+  "scanned_at": "2026-11-01T21:01:13Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

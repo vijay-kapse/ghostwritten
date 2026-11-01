@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "repo": "stanfordnlp/dspy",
+  "org": "stanfordnlp",
+  "language": "Python",
+  "stars": 38878,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:18Z",
+  "window_start": "2026-05-14",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 28,
+      "ai": 1,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 10,
+      "ai": 3,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "amp_factory": 1
+      }
+    },
+    "2026-07": {
+      "total": 38,
+      "ai": 13,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12,
+        "devin": 1
+      }
+    },
+    "2026-08": {
+      "total": 57,
+      "ai": 31,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "amp_factory": 26,
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 51,
+      "ai": 35,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "amp_factory": 28,
+        "claude_trailer": 7,
+        "devin": 1
+      }
+    },
+    "2026-10": {
+      "total": 74,
+      "ai": 47,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "amp_factory": 40,
+        "claude_trailer": 7
+      }
+    }
+  }
+}

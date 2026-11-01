@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "THU-MAIC/OpenMAIC",
+  "org": "THU-MAIC",
+  "language": "TypeScript",
+  "stars": 42381,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:52:51Z",
+  "window_start": "2026-09-04",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 141,
+      "ai": 34,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 34
+      }
+    },
+    "2026-10": {
+      "total": 158,
+      "ai": 74,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 72,
+        "claude_generated": 3
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "cockroachdb/cockroach",
+  "org": "cockroachdb",
+  "language": "Go",
+  "stars": 32600,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:00:40Z",
+  "window_start": "2026-05-27",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 85,
+      "ai": 7,
+      "automation": 0,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-06": {
+      "total": 54,
+      "ai": 2,
+      "automation": 0,
+      "merges": 61,
+      "by_rule": {
+        "claude_trailer": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-07": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 7,
+      "ai": 3,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 7,
+      "ai": 6,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    }
+  }
+}

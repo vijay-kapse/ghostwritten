@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "BerriAI/litellm",
+  "org": "BerriAI",
+  "language": "Python",
+  "stars": 62498,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:33Z",
+  "window_start": "2026-10-29",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 292,
+      "ai": 111,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "devin": 105,
+        "claude_trailer": 7,
+        "openhands": 1
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "devin": 3
+      }
+    }
+  }
+}

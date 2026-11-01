@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "MemPalace/mempalace",
+  "org": "MemPalace",
+  "language": "Python",
+  "stars": 60224,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:47:08Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 170,
+      "ai": 5,
+      "automation": 1,
+      "merges": 129,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

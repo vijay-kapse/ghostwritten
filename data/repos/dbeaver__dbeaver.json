@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "dbeaver/dbeaver",
+  "org": "dbeaver",
+  "language": "Java",
+  "stars": 52262,
+  "default_branch": "devel",
+  "scanned_at": "2026-11-01T20:48:50Z",
+  "window_start": "2026-09-24",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 46,
+      "ai": 3,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 243,
+      "ai": 15,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 11,
+        "copilot_trailer": 2,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

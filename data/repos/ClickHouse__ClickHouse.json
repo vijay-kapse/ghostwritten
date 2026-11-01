@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "ClickHouse/ClickHouse",
+  "org": "ClickHouse",
+  "language": "C++",
+  "stars": 50706,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:49:20Z",
+  "window_start": "2026-10-30",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 97,
+      "ai": 83,
+      "automation": 0,
+      "merges": 151,
+      "by_rule": {
+        "claude_trailer": 83
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 4,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

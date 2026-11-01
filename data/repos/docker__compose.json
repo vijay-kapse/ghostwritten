@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "docker/compose",
+  "org": "docker",
+  "language": "Go",
+  "stars": 38559,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:34Z",
+  "window_start": "2026-09-21",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 55,
+      "ai": 5,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 213,
+      "ai": 10,
+      "automation": 24,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

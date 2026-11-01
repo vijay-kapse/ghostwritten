@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "pnpm/pnpm",
+  "org": "pnpm",
+  "language": "Rust",
+  "stars": 36985,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:56:49Z",
+  "window_start": "2026-10-18",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 293,
+      "ai": 82,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 80,
+        "copilot_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

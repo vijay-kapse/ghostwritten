@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "appwrite/appwrite",
+  "org": "appwrite",
+  "language": "TypeScript",
+  "stars": 57836,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:29Z",
+  "window_start": "2026-10-29",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 188,
+      "ai": 45,
+      "automation": 0,
+      "merges": 72,
+      "by_rule": {
+        "claude_trailer": 36,
+        "cursor": 9
+      }
+    },
+    "2026-11": {
+      "total": 22,
+      "ai": 5,
+      "automation": 0,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 4,
+        "cursor": 1
+      }
+    }
+  }
+}

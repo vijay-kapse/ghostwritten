@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "NandhaKishorM/laya",
+  "org": "NandhaKishorM",
+  "language": "Python",
+  "stars": 34810,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:26Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 182,
+      "ai": 27,
+      "automation": 6,
+      "merges": 98,
+      "by_rule": {
+        "claude_trailer": 27
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 3,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

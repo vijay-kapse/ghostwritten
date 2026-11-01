@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "jaredpalmer/formik",
+  "org": "jaredpalmer",
+  "language": "TypeScript",
+  "stars": 34305,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-11": {
+      "total": 7,
+      "ai": 5,
+      "automation": 2,
+      "merges": 3,
+      "by_rule": {
+        "copilot_author": 5
+      }
+    }
+  }
+}

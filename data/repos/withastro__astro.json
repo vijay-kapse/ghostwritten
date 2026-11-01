@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "withastro/astro",
+  "org": "withastro",
+  "language": "TypeScript",
+  "stars": 63649,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:21Z",
+  "window_start": "2026-09-16",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 43,
+      "ai": 0,
+      "automation": 55,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 76,
+      "ai": 5,
+      "automation": 123,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 4,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

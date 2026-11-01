@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "dokku/dokku",
+  "org": "dokku",
+  "language": "Go",
+  "stars": 32218,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:01:11Z",
+  "window_start": "2026-09-20",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 25,
+      "ai": 1,
+      "automation": 19,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 54,
+      "ai": 0,
+      "automation": 66,
+      "merges": 103,
+      "by_rule": {}
+    }
+  }
+}

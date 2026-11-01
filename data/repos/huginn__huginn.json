@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "huginn/huginn",
+  "org": "huginn",
+  "language": "Ruby",
+  "stars": 50252,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:49:34Z",
+  "window_start": "2026-04-27",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 16,
+      "ai": 0,
+      "automation": 16,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 11,
+      "ai": 0,
+      "automation": 11,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 8,
+      "ai": 0,
+      "automation": 13,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 13,
+      "ai": 0,
+      "automation": 14,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 46,
+      "ai": 0,
+      "automation": 11,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 46,
+      "ai": 0,
+      "automation": 25,
+      "merges": 25,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

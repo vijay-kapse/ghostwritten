@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "cathrynlavery/diagram-design",
+  "org": "cathrynlavery",
+  "language": "HTML",
+  "stars": 63887,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:17Z",
+  "window_start": "2026-08-18",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 23,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 41,
+      "ai": 13,
+      "automation": 34,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10,
+        "cursor": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 100,
+      "ai": 2,
+      "automation": 94,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

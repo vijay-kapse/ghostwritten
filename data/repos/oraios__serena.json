@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "oraios/serena",
+  "org": "oraios",
+  "language": "Python",
+  "stars": 30988,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:35Z",
+  "window_start": "2026-09-03",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 122,
+      "ai": 7,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 6,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 149,
+      "ai": 7,
+      "automation": 1,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 6,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

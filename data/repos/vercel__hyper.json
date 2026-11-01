@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "vercel/hyper",
+  "org": "vercel",
+  "language": "TypeScript",
+  "stars": 44765,
+  "default_branch": "canary",
+  "scanned_at": "2026-11-01T20:51:54Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

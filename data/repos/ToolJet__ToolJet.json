@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "ToolJet/ToolJet",
+  "org": "ToolJet",
+  "language": "HTML",
+  "stars": 41167,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:26Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 191,
+      "ai": 40,
+      "automation": 0,
+      "merges": 109,
+      "by_rule": {
+        "claude_trailer": 39,
+        "copilot_author": 1
+      }
+    }
+  }
+}

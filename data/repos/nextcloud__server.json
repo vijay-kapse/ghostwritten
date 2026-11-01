@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "nextcloud/server",
+  "org": "nextcloud",
+  "language": "PHP",
+  "stars": 37386,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:56:26Z",
+  "window_start": "2026-10-18",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 147,
+      "ai": 3,
+      "automation": 40,
+      "merges": 110,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

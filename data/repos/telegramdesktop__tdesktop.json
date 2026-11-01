@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "telegramdesktop/tdesktop",
+  "org": "telegramdesktop",
+  "language": "C++",
+  "stars": 33431,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T20:59:49Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 299,
+      "ai": 3,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

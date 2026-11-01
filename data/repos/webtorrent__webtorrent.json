@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "repo": "webtorrent/webtorrent",
+  "org": "webtorrent",
+  "language": "JavaScript",
+  "stars": 31467,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:02:03Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 2,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 0,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 3,
+      "ai": 0,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 3,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 13,
+      "ai": 0,
+      "automation": 56,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 0,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

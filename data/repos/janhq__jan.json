@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "janhq/jan",
+  "org": "janhq",
+  "language": "Rust",
+  "stars": 45222,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:43Z",
+  "window_start": "2026-10-06",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 279,
+      "ai": 2,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

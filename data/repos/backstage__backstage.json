@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "backstage/backstage",
+  "org": "backstage",
+  "language": "TypeScript",
+  "stars": 34757,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:58:29Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 196,
+      "ai": 117,
+      "automation": 32,
+      "merges": 72,
+      "by_rule": {
+        "claude_trailer": 113,
+        "copilot_trailer": 3,
+        "codex_trailer": 2
+      }
+    }
+  }
+}

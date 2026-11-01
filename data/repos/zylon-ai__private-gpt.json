@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "repo": "zylon-ai/private-gpt",
+  "org": "zylon-ai",
+  "language": "Python",
+  "stars": 57625,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:37Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 34,
+      "ai": 11,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 10,
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 24,
+      "ai": 3,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 17,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 13,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 21,
+      "ai": 9,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "reactive-resume/reactive-resume",
+  "org": "reactive-resume",
+  "language": "TypeScript",
+  "stars": 45160,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:46Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 199,
+      "ai": 8,
+      "automation": 24,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-11": {
+      "total": 38,
+      "ai": 2,
+      "automation": 2,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

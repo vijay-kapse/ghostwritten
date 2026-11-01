@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "sgl-project/sglang",
+  "org": "sgl-project",
+  "language": "Python",
+  "stars": 38344,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:43Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 265,
+      "ai": 45,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 40,
+        "cursor": 3,
+        "codex_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 35,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11,
+        "cursor": 1
+      }
+    }
+  }
+}

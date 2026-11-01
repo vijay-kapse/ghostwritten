@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "freqtrade/freqtrade",
+  "org": "freqtrade",
+  "language": "Python",
+  "stars": 56274,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:47:53Z",
+  "window_start": "2026-10-03",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 210,
+      "ai": 2,
+      "automation": 30,
+      "merges": 58,
+      "by_rule": {
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

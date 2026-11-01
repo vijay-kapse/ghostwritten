@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "bmad-code-org/BMAD-METHOD",
+  "org": "bmad-code-org",
+  "language": "Python",
+  "stars": 54860,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:14Z",
+  "window_start": "2026-08-19",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 31,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 185,
+      "ai": 10,
+      "automation": 1,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 66,
+      "ai": 1,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

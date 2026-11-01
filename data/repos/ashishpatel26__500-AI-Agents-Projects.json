@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "repo": "ashishpatel26/500-AI-Agents-Projects",
+  "org": "ashishpatel26",
+  "language": "Python",
+  "stars": 39216,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:55:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "copilot_author": 1
+      }
+    },
+    "2025-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

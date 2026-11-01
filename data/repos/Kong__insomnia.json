@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "Kong/insomnia",
+  "org": "Kong",
+  "language": "TypeScript",
+  "stars": 40106,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:54:25Z",
+  "window_start": "2026-07-02",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 80,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 80,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 59,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 81,
+      "ai": 23,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    }
+  }
+}

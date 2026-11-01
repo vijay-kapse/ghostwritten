@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "dragonflydb/dragonfly",
+  "org": "dragonflydb",
+  "language": "C++",
+  "stars": 31839,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:40Z",
+  "window_start": "2026-09-03",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 116,
+      "ai": 4,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 175,
+      "ai": 8,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

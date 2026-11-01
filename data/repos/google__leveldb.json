@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "google/leveldb",
+  "org": "google",
+  "language": "C++",
+  "stars": 39515,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:54:49Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

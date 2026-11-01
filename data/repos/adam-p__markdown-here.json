@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "adam-p/markdown-here",
+  "org": "adam-p",
+  "language": "JavaScript",
+  "stars": 60261,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:47:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-06": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

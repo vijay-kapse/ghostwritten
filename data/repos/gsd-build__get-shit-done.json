@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "gsd-build/get-shit-done",
+  "org": "gsd-build",
+  "language": "JavaScript",
+  "stars": 64185,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:46:10Z",
+  "window_start": "2026-05-14",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 253,
+      "ai": 145,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {
+        "claude_trailer": 145
+      }
+    }
+  }
+}

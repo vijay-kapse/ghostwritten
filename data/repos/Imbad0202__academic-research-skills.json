@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "repo": "Imbad0202/academic-research-skills",
+  "org": "Imbad0202",
+  "language": "Python",
+  "stars": 54868,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:13Z",
+  "window_start": "2026-06-24",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 75,
+      "ai": 64,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 63,
+        "claude_generated": 1
+      }
+    },
+    "2026-08": {
+      "total": 106,
+      "ai": 50,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 50
+      }
+    },
+    "2026-09": {
+      "total": 54,
+      "ai": 47,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 47
+      }
+    },
+    "2026-10": {
+      "total": 53,
+      "ai": 44,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 44
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

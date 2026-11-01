@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "bojieli/ai-agent-book",
+  "org": "bojieli",
+  "language": "Python",
+  "stars": 56843,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:46Z",
+  "window_start": "2026-08-12",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 177,
+      "ai": 117,
+      "automation": 18,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 117
+      }
+    },
+    "2026-09": {
+      "total": 75,
+      "ai": 27,
+      "automation": 30,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27
+      }
+    }
+  }
+}

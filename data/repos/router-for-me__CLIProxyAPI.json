@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "router-for-me/CLIProxyAPI",
+  "org": "router-for-me",
+  "language": "Go",
+  "stars": 57203,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:39Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 236,
+      "ai": 2,
+      "automation": 0,
+      "merges": 33,
+      "by_rule": {
+        "devin": 2
+      }
+    },
+    "2026-11": {
+      "total": 25,
+      "ai": 1,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

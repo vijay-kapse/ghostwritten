@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "docker/awesome-compose",
+  "org": "docker",
+  "language": "HTML",
+  "stars": 46620,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:50:53Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

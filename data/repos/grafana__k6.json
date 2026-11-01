@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "repo": "grafana/k6",
+  "org": "grafana",
+  "language": "Go",
+  "stars": 32101,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:01:20Z",
+  "window_start": "2026-06-08",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 49,
+      "ai": 2,
+      "automation": 10,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 65,
+      "ai": 4,
+      "automation": 31,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 22,
+      "ai": 1,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 41,
+      "ai": 3,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 24,
+      "ai": 2,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

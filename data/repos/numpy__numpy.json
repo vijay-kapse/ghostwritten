@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "numpy/numpy",
+  "org": "numpy",
+  "language": "Python",
+  "stars": 33222,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:00:02Z",
+  "window_start": "2026-09-23",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 55,
+      "ai": 2,
+      "automation": 4,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 208,
+      "ai": 5,
+      "automation": 11,
+      "merges": 13,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

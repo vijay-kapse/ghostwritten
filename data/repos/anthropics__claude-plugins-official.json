@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "anthropics/claude-plugins-official",
+  "org": "anthropics",
+  "language": "Python",
+  "stars": 45699,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:18Z",
+  "window_start": "2026-10-07",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 88,
+      "ai": 4,
+      "automation": 119,
+      "merges": 93,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

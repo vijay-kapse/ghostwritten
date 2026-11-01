@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "nocodb/nocodb",
+  "org": "nocodb",
+  "language": "TypeScript",
+  "stars": 65398,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:45:50Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 223,
+      "ai": 7,
+      "automation": 11,
+      "merges": 66,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "motiondivision/motion",
+  "org": "motiondivision",
+  "language": "TypeScript",
+  "stars": 34775,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:28Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 192,
+      "ai": 174,
+      "automation": 3,
+      "merges": 105,
+      "by_rule": {
+        "claude_trailer": 174
+      }
+    }
+  }
+}

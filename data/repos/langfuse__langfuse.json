@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "langfuse/langfuse",
+  "org": "langfuse",
+  "language": "TypeScript",
+  "stars": 36842,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:56:54Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 291,
+      "ai": 155,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 80,
+        "claude_trailer": 79
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 2
+      }
+    }
+  }
+}

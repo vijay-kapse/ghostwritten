@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "Wei-Shaw/sub2api",
+  "org": "Wei-Shaw",
+  "language": "Go",
+  "stars": 45239,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:41Z",
+  "window_start": "2026-10-08",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 172,
+      "ai": 17,
+      "automation": 5,
+      "merges": 123,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    }
+  }
+}

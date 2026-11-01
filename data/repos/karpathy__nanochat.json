@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "repo": "karpathy/nanochat",
+  "org": "karpathy",
+  "language": "Python",
+  "stars": 59439,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:47:15Z",
+  "window_start": "2025-11-15",
+  "complete": false,
+  "months": {
+    "2025-11": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 21,
+      "ai": 2,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_generated": 2,
+        "claude_trailer": 2
+      }
+    },
+    "2026-01": {
+      "total": 94,
+      "ai": 5,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 5,
+        "claude_generated": 3
+      }
+    },
+    "2026-02": {
+      "total": 63,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 35,
+      "ai": 2,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 19,
+      "ai": 5,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

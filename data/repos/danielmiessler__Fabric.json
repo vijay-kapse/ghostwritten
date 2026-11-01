@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "danielmiessler/Fabric",
+  "org": "danielmiessler",
+  "language": "Go",
+  "stars": 44521,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:52:01Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 155,
+      "ai": 57,
+      "automation": 46,
+      "merges": 82,
+      "by_rule": {
+        "claude_trailer": 57
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 4,
+      "merges": 8,
+      "by_rule": {}
+    }
+  }
+}

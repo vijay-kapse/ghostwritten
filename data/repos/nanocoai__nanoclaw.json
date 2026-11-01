@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "nanocoai/nanoclaw",
+  "org": "nanocoai",
+  "language": "TypeScript",
+  "stars": 31069,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:02:29Z",
+  "window_start": "2026-09-09",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 103,
+      "ai": 11,
+      "automation": 0,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 146,
+      "ai": 11,
+      "automation": 4,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

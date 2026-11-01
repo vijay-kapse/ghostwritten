@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "rust-unofficial/awesome-rust",
+  "org": "rust-unofficial",
+  "language": "Rust",
+  "stars": 60263,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:05Z",
+  "window_start": "2026-07-31",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 53,
+      "ai": 0,
+      "automation": 0,
+      "merges": 54,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 85,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 102,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

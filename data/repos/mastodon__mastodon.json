@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "mastodon/mastodon",
+  "org": "mastodon",
+  "language": "Ruby",
+  "stars": 50462,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:49:25Z",
+  "window_start": "2026-10-09",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 219,
+      "ai": 0,
+      "automation": 81,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

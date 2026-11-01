@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "portainer/portainer",
+  "org": "portainer",
+  "language": "TypeScript",
+  "stars": 38760,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:55:28Z",
+  "window_start": "2026-05-15",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 37,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-06": {
+      "total": 107,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-07": {
+      "total": 95,
+      "ai": 16,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 58,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

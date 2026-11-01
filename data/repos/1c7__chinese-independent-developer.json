@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "1c7/chinese-independent-developer",
+  "org": "1c7",
+  "language": null,
+  "stars": 61976,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:46:37Z",
+  "window_start": "2026-10-12",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 243,
+      "ai": 9,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 8,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    }
+  }
+}

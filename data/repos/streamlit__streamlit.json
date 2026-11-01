@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "streamlit/streamlit",
+  "org": "streamlit",
+  "language": "Python",
+  "stars": 46200,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:51:06Z",
+  "window_start": "2026-10-09",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 205,
+      "ai": 134,
+      "automation": 94,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 105,
+        "claude_generated": 102,
+        "cursor": 33
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

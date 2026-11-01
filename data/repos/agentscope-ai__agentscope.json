@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "agentscope-ai/agentscope",
+  "org": "agentscope-ai",
+  "language": "Python",
+  "stars": 35123,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:12Z",
+  "window_start": "2026-09-01",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 155,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 145,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

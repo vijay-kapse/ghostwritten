@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "huggingface/diffusers",
+  "org": "huggingface",
+  "language": "Python",
+  "stars": 34844,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:58:24Z",
+  "window_start": "2026-07-26",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 26,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 131,
+      "ai": 25,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 60,
+      "ai": 15,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-10": {
+      "total": 78,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

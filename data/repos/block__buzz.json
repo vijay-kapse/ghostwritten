@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "block/buzz",
+  "org": "block",
+  "language": "Rust",
+  "stars": 36656,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:57:04Z",
+  "window_start": "2026-10-08",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 289,
+      "ai": 113,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 102,
+        "claude_generated": 99,
+        "codex_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 11,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 9,
+        "claude_trailer": 7
+      }
+    }
+  }
+}

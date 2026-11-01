@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "Dokploy/dokploy",
+  "org": "Dokploy",
+  "language": "TypeScript",
+  "stars": 38174,
+  "default_branch": "canary",
+  "scanned_at": "2026-11-01T20:55:48Z",
+  "window_start": "2026-09-08",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 47,
+      "ai": 2,
+      "automation": 1,
+      "merges": 37,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 137,
+      "ai": 6,
+      "automation": 4,
+      "merges": 74,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    }
+  }
+}

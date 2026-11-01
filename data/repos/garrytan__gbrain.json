@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "garrytan/gbrain",
+  "org": "garrytan",
+  "language": "TypeScript",
+  "stars": 31426,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:02:06Z",
+  "window_start": "2026-10-31",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 155,
+      "ai": 1,
+      "automation": 0,
+      "merges": 54,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 74,
+      "ai": 0,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {}
+    }
+  }
+}

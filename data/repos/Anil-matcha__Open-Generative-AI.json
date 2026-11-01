@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "repo": "Anil-matcha/Open-Generative-AI",
+  "org": "Anil-matcha",
+  "language": "JavaScript",
+  "stars": 32013,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:27Z",
+  "window_start": "2026-05-22",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 15,
+      "ai": 6,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 26,
+      "ai": 6,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-07": {
+      "total": 103,
+      "ai": 5,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-08": {
+      "total": 54,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 44,
+      "ai": 2,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

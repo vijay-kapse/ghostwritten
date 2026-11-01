@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "volcengine/OpenViking",
+  "org": "volcengine",
+  "language": "Python",
+  "stars": 41301,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:53:17Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 295,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

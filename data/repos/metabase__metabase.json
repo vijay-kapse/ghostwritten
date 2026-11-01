@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "metabase/metabase",
+  "org": "metabase",
+  "language": "Clojure",
+  "stars": 50085,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:49:41Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 299,
+      "ai": 46,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 46
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

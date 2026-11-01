@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "huihut/interview",
+  "org": "huihut",
+  "language": "C++",
+  "stars": 38276,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:55:45Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-07": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "davila7/claude-code-templates",
+  "org": "davila7",
+  "language": "Python",
+  "stars": 33040,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:00:13Z",
+  "window_start": "2026-09-20",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 37,
+      "ai": 27,
+      "automation": 36,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27,
+        "other_bot_agent": 4
+      }
+    },
+    "2026-10": {
+      "total": 109,
+      "ai": 76,
+      "automation": 108,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 76,
+        "other_bot_agent": 1
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 5,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

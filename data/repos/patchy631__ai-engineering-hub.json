@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "repo": "patchy631/ai-engineering-hub",
+  "org": "patchy631",
+  "language": "Jupyter Notebook",
+  "stars": 40122,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:54:22Z",
+  "window_start": "2025-05-27",
+  "complete": false,
+  "months": {
+    "2025-05": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 31,
+      "ai": 1,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "other_bot_agent": 1
+      }
+    },
+    "2025-07": {
+      "total": 51,
+      "ai": 0,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 37,
+      "ai": 1,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-09": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 15,
+      "ai": 2,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_generated": 2,
+        "claude_trailer": 2
+      }
+    },
+    "2025-11": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "OWASP/CheatSheetSeries",
+  "org": "OWASP",
+  "language": "JavaScript",
+  "stars": 33834,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:59:22Z",
+  "window_start": "2026-10-04",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 286,
+      "ai": 4,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

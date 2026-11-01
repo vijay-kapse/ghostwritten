@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "lbjlaq/Antigravity-Manager",
+  "org": "lbjlaq",
+  "language": "Rust",
+  "stars": 32752,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:00:34Z",
+  "window_start": "2026-10-03",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 249,
+      "ai": 69,
+      "automation": 0,
+      "merges": 51,
+      "by_rule": {
+        "claude_trailer": 69
+      }
+    }
+  }
+}

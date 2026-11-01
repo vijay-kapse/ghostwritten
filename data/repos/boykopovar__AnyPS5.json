@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "boykopovar/AnyPS5",
+  "org": "boykopovar",
+  "language": "C++",
+  "stars": 50408,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:49:27Z",
+  "window_start": "2026-11-01",
+  "complete": false,
+  "months": {
+    "2026-11": {
+      "total": 92,
+      "ai": 36,
+      "automation": 0,
+      "merges": 208,
+      "by_rule": {
+        "claude_trailer": 28,
+        "devin": 8
+      }
+    }
+  }
+}

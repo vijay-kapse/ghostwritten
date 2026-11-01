@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "rustfs/rustfs",
+  "org": "rustfs",
+  "language": "Rust",
+  "stars": 35620,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:57:47Z",
+  "window_start": "2026-10-20",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 294,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 12,
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

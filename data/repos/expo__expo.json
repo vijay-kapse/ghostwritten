@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "expo/expo",
+  "org": "expo",
+  "language": "TypeScript",
+  "stars": 53273,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:48:36Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 285,
+      "ai": 35,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "claude_generated": 19,
+        "codex_trailer": 1,
+        "devin": 1
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

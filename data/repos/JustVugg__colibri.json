@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "JustVugg/colibri",
+  "org": "JustVugg",
+  "language": "C",
+  "stars": 45724,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:16Z",
+  "window_start": "2026-10-25",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 197,
+      "ai": 5,
+      "automation": 0,
+      "merges": 103,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

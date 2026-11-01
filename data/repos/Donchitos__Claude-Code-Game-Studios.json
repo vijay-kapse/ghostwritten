@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "repo": "Donchitos/Claude-Code-Game-Studios",
+  "org": "Donchitos",
+  "language": "Shell",
+  "stars": 32095,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:01:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-03": {
+      "total": 23,
+      "ai": 23,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    },
+    "2026-04": {
+      "total": 6,
+      "ai": 5,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-05": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "DIYgod/RSSHub",
+  "org": "DIYgod",
+  "language": "TypeScript",
+  "stars": 46753,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:50:52Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 172,
+      "ai": 7,
+      "automation": 104,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-11": {
+      "total": 23,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

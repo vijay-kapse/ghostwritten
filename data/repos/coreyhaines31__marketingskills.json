@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "coreyhaines31/marketingskills",
+  "org": "coreyhaines31",
+  "language": "JavaScript",
+  "stars": 57829,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:30Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 228,
+      "ai": 204,
+      "automation": 0,
+      "merges": 72,
+      "by_rule": {
+        "claude_trailer": 199,
+        "cursor": 6
+      }
+    }
+  }
+}

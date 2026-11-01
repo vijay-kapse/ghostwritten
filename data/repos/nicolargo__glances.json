@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "nicolargo/glances",
+  "org": "nicolargo",
+  "language": "Python",
+  "stars": 33889,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:59:21Z",
+  "window_start": "2026-09-27",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 24,
+      "ai": 16,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    },
+    "2026-10": {
+      "total": 197,
+      "ai": 130,
+      "automation": 0,
+      "merges": 72,
+      "by_rule": {
+        "claude_trailer": 130
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

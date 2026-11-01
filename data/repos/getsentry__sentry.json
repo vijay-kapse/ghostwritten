@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "repo": "getsentry/sentry",
+  "org": "getsentry",
+  "language": "Python",
+  "stars": 45694,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:51:22Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 235,
+      "ai": 57,
+      "automation": 64,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 37,
+        "claude_generated": 13,
+        "cursor": 9,
+        "codex_trailer": 7,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

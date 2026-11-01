@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "filamentphp/filament",
+  "org": "filamentphp",
+  "language": "PHP",
+  "stars": 32394,
+  "default_branch": "4.x",
+  "scanned_at": "2026-11-01T21:00:58Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 268,
+      "ai": 4,
+      "automation": 12,
+      "merges": 20,
+      "by_rule": {
+        "amp_factory": 3,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

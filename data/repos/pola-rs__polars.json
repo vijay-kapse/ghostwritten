@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "pola-rs/polars",
+  "org": "pola-rs",
+  "language": "Rust",
+  "stars": 40247,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:54:13Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 285,
+      "ai": 35,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 35
+      }
+    },
+    "2026-11": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "shadps4-emu/shadPS4",
+  "org": "shadps4-emu",
+  "language": "C++",
+  "stars": 34011,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:59:07Z",
+  "window_start": "2026-09-20",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 93,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 200,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "tashfeenahmed/freellmapi",
+  "org": "tashfeenahmed",
+  "language": "TypeScript",
+  "stars": 45635,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:51:26Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 84,
+      "ai": 36,
+      "automation": 3,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 36
+      }
+    },
+    "2026-10": {
+      "total": 207,
+      "ai": 95,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 95
+      }
+    }
+  }
+}

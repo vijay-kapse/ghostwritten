@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "SagerNet/sing-box",
+  "org": "SagerNet",
+  "language": "Go",
+  "stars": 39511,
+  "default_branch": "testing",
+  "scanned_at": "2026-11-01T20:54:50Z",
+  "window_start": "2026-08-30",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 85,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 74,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 141,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

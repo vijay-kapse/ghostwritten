@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "repo": "mattermost/mattermost",
+  "org": "mattermost",
+  "language": "TypeScript",
+  "stars": 39499,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:54:54Z",
+  "window_start": "2026-09-30",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2026-10": {
+      "total": 290,
+      "ai": 211,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 165,
+        "claude_trailer": 72
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

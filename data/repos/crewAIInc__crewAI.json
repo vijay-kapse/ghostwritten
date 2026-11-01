@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "crewAIInc/crewAI",
+  "org": "crewAIInc",
+  "language": "Python",
+  "stars": 60389,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T20:47:01Z",
+  "window_start": "2026-09-04",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 98,
+      "ai": 26,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 26,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 192,
+      "ai": 76,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 75,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 8,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

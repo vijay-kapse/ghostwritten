@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "cypress-io/cypress",
+  "org": "cypress-io",
+  "language": "TypeScript",
+  "stars": 51019,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T20:49:10Z",
+  "window_start": "2026-08-31",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 8,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-09": {
+      "total": 114,
+      "ai": 109,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 105,
+        "cursor": 5
+      }
+    },
+    "2026-10": {
+      "total": 151,
+      "ai": 140,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 135,
+        "cursor": 6
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

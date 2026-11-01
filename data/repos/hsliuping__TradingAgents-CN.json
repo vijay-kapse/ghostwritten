@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "hsliuping/TradingAgents-CN",
+  "org": "hsliuping",
+  "language": "Python",
+  "stars": 32756,
+  "default_branch": "v3.0",
+  "scanned_at": "2026-11-01T21:00:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema": 1,
+  "repo": "zhongyang219/TrafficMonitor",
+  "org": "zhongyang219",
+  "language": "C++",
+  "stars": 46766,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:50:48Z",
+  "window_start": "2025-02-12",
+  "complete": false,
+  "months": {
+    "2025-02": {
+      "total": 77,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 59,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 27,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "keras-team/keras",
+  "org": "keras-team",
+  "language": "Python",
+  "stars": 64411,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T20:46:06Z",
+  "window_start": "2026-09-01",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 120,
+      "ai": 4,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 173,
+      "ai": 2,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 2
+      }
+    }
+  }
+}

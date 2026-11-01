@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "org": "ahmedkhaleel2004",
+  "language": "TypeScript",
+  "stars": 18674,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:11Z",
+  "window_start": "2026-09-25",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 186,
+      "ai": 184,
+      "automation": 1,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 184
+      }
+    },
+    "2026-10": {
+      "total": 94,
+      "ai": 94,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 94
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "dubinc/dub.link",
+  "org": "dubinc",
+  "language": "TypeScript",
+  "stars": 25076,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:21:42Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 206,
+      "ai": 17,
+      "automation": 0,
+      "merges": 94,
+      "by_rule": {
+        "cursor": 16,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

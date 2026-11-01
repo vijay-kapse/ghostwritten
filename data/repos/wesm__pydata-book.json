@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "wesm/pydata-book",
+  "org": "wesm",
+  "language": "Jupyter Notebook",
+  "stars": 25067,
+  "default_branch": "3rd-edition",
+  "scanned_at": "2026-11-01T21:21:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

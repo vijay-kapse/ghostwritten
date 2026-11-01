@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "dromara/Sa-Token",
+  "org": "dromara",
+  "language": "Java",
+  "stars": 19108,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T21:34:47Z",
+  "window_start": "2026-08-08",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 145,
+      "ai": 62,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "cursor": 62
+      }
+    },
+    "2026-09": {
+      "total": 152,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 7
+      }
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

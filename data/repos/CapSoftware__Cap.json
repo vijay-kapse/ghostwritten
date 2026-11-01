@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "CapSoftware/Cap",
+  "org": "CapSoftware",
+  "language": "Rust",
+  "stars": 24235,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:13Z",
+  "window_start": "2026-10-27",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 207,
+      "ai": 0,
+      "automation": 0,
+      "merges": 93,
+      "by_rule": {}
+    }
+  }
+}

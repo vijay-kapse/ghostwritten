@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "windmill-labs/windmill",
+  "org": "windmill-labs",
+  "language": "Rust",
+  "stars": 18352,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:37:15Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 296,
+      "ai": 225,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 225
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

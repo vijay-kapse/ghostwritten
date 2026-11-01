@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "reflex-dev/reflex",
+  "org": "reflex-dev",
+  "language": "Python",
+  "stars": 28985,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:44Z",
+  "window_start": "2026-09-18",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 67,
+      "ai": 24,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24
+      }
+    },
+    "2026-10": {
+      "total": 191,
+      "ai": 64,
+      "automation": 30,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 62,
+        "copilot_trailer": 2,
+        "cursor": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "simstudioai/sim",
+  "org": "simstudioai",
+  "language": "TypeScript",
+  "stars": 29959,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:23Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 275,
+      "ai": 4,
+      "automation": 1,
+      "merges": 13,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

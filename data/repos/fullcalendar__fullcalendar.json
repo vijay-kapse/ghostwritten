@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "repo": "fullcalendar/fullcalendar",
+  "org": "fullcalendar",
+  "language": "TypeScript",
+  "stars": 20735,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:30:58Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-04": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 18,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 26,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 102,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 39,
+      "ai": 9,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    }
+  }
+}

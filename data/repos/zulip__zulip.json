@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "zulip/zulip",
+  "org": "zulip",
+  "language": "Python",
+  "stars": 26154,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:19:51Z",
+  "window_start": "2026-10-07",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 298,
+      "ai": 194,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 194
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

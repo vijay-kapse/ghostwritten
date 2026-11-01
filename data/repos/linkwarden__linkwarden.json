@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "linkwarden/linkwarden",
+  "org": "linkwarden",
+  "language": "TypeScript",
+  "stars": 20290,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:32:02Z",
+  "window_start": "2026-06-04",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 50,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 143,
+      "ai": 0,
+      "automation": 1,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 33,
+      "ai": 0,
+      "automation": 1,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "openobserve/openobserve",
+  "org": "openobserve",
+  "language": "TypeScript",
+  "stars": 22654,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:26:31Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 255,
+      "ai": 5,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-11": {
+      "total": 33,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "Skyvern-AI/skyvern",
+  "org": "Skyvern-AI",
+  "language": "Python",
+  "stars": 23329,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:57Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 293,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

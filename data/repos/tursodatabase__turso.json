@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "tursodatabase/turso",
+  "org": "tursodatabase",
+  "language": "Rust",
+  "stars": 25115,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:21:40Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 164,
+      "ai": 50,
+      "automation": 1,
+      "merges": 111,
+      "by_rule": {
+        "claude_trailer": 50
+      }
+    },
+    "2026-11": {
+      "total": 14,
+      "ai": 3,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

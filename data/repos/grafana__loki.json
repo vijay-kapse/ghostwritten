@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "grafana/loki",
+  "org": "grafana",
+  "language": "Go",
+  "stars": 29105,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:30Z",
+  "window_start": "2026-10-17",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 158,
+      "ai": 27,
+      "automation": 132,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16,
+        "cursor": 11
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

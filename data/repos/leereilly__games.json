@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "leereilly/games",
+  "org": "leereilly",
+  "language": null,
+  "stars": 24990,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:21:54Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-09": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

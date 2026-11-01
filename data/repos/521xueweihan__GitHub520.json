@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "521xueweihan/GitHub520",
+  "org": "521xueweihan",
+  "language": "Python",
+  "stars": 30102,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:04Z",
+  "window_start": "2026-10-07",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 289,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

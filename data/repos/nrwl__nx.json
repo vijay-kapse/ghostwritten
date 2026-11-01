@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "nrwl/nx",
+  "org": "nrwl",
+  "language": "TypeScript",
+  "stars": 29442,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:15:04Z",
+  "window_start": "2026-09-29",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 287,
+      "ai": 37,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 29,
+        "claude_trailer": 14,
+        "amp_factory": 2,
+        "cursor": 1
+      }
+    }
+  }
+}

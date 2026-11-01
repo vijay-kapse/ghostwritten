@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "netbox-community/netbox",
+  "org": "netbox-community",
+  "language": "Python",
+  "stars": 21830,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:28:41Z",
+  "window_start": "2026-08-14",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 73,
+      "ai": 9,
+      "automation": 7,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-09": {
+      "total": 47,
+      "ai": 1,
+      "automation": 15,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 102,
+      "ai": 5,
+      "automation": 21,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

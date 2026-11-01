@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "AprilNEA/OpenLogi",
+  "org": "AprilNEA",
+  "language": "Rust",
+  "stars": 24865,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:22:07Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 243,
+      "ai": 3,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 50,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

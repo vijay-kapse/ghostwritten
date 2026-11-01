@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "overleaf/overleaf",
+  "org": "overleaf",
+  "language": "JavaScript",
+  "stars": 18297,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:37:35Z",
+  "window_start": "2026-09-17",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 299,
+      "ai": 30,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 25,
+        "copilot_author": 4,
+        "copilot_trailer": 3
+      }
+    }
+  }
+}

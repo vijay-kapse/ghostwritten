@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "louis-e/arnis",
+  "org": "louis-e",
+  "language": "Rust",
+  "stars": 18483,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:44Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 243,
+      "ai": 3,
+      "automation": 1,
+      "merges": 45,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

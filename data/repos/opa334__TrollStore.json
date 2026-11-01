@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "opa334/TrollStore",
+  "org": "opa334",
+  "language": "Objective-C",
+  "stars": 22492,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:27:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

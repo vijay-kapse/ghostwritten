@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "deepset-ai/haystack",
+  "org": "deepset-ai",
+  "language": "Python",
+  "stars": 26901,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:18:46Z",
+  "window_start": "2026-09-28",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 31,
+      "ai": 9,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-10": {
+      "total": 236,
+      "ai": 35,
+      "automation": 28,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 35,
+        "cursor": 1
+      }
+    }
+  }
+}

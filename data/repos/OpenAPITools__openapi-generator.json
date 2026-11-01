@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "repo": "OpenAPITools/openapi-generator",
+  "org": "OpenAPITools",
+  "language": "Java",
+  "stars": 26844,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:18:52Z",
+  "window_start": "2026-09-15",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 73,
+      "ai": 29,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 23,
+        "copilot_trailer": 6
+      }
+    },
+    "2026-10": {
+      "total": 162,
+      "ai": 15,
+      "automation": 37,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11,
+        "devin": 6,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 2,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "devin": 1
+      }
+    }
+  }
+}

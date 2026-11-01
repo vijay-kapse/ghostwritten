@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "browser-use/browser-harness",
+  "org": "browser-use",
+  "language": "Python",
+  "stars": 18804,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:46Z",
+  "window_start": "2026-08-02",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 66,
+      "ai": 4,
+      "automation": 0,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 3,
+        "devin": 1
+      }
+    },
+    "2026-09": {
+      "total": 46,
+      "ai": 10,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 81,
+      "ai": 24,
+      "automation": 0,
+      "merges": 43,
+      "by_rule": {
+        "claude_trailer": 24
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 2,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

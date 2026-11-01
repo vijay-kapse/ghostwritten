@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "screenpipe/screenpipe",
+  "org": "screenpipe",
+  "language": "Rust",
+  "stars": 22202,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:27:38Z",
+  "window_start": "2026-10-07",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 246,
+      "ai": 3,
+      "automation": 5,
+      "merges": 49,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

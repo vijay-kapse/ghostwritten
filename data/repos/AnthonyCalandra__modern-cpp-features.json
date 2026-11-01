@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "AnthonyCalandra/modern-cpp-features",
+  "org": "AnthonyCalandra",
+  "language": null,
+  "stars": 21932,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:28:26Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 18,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

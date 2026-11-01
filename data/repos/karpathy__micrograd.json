@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "karpathy/micrograd",
+  "org": "karpathy",
+  "language": "Jupyter Notebook",
+  "stars": 18533,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:36:30Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-08": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

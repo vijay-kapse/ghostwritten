@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "vitessio/vitess",
+  "org": "vitessio",
+  "language": "Go",
+  "stars": 21398,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:29:44Z",
+  "window_start": "2026-08-04",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 35,
+      "ai": 15,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12,
+        "copilot_trailer": 2,
+        "devin": 1
+      }
+    },
+    "2026-09": {
+      "total": 78,
+      "ai": 38,
+      "automation": 35,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 37,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 103,
+      "ai": 45,
+      "automation": 32,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 41,
+        "cursor": 4
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

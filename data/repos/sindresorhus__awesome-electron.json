@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "sindresorhus/awesome-electron",
+  "org": "sindresorhus",
+  "language": null,
+  "stars": 27351,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:17:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

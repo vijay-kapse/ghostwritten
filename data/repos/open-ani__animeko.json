@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "repo": "open-ani/animeko",
+  "org": "open-ani",
+  "language": "Kotlin",
+  "stars": 21406,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:29:41Z",
+  "window_start": "2026-07-28",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 20,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-08": {
+      "total": 61,
+      "ai": 28,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    },
+    "2026-09": {
+      "total": 125,
+      "ai": 103,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 100,
+        "amp_factory": 1,
+        "claude_generated": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 93,
+      "ai": 69,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 69,
+        "claude_generated": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

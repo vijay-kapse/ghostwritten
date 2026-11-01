@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "mozilla/DeepSpeech",
+  "org": "mozilla",
+  "language": "C++",
+  "stars": 26776,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:18:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

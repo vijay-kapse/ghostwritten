@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "square/leakcanary",
+  "org": "square",
+  "language": "Kotlin",
+  "stars": 30002,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:16Z",
+  "window_start": "2026-08-04",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 105,
+      "ai": 70,
+      "automation": 0,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 70
+      }
+    },
+    "2026-09": {
+      "total": 33,
+      "ai": 33,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 33
+      }
+    },
+    "2026-10": {
+      "total": 92,
+      "ai": 88,
+      "automation": 0,
+      "merges": 38,
+      "by_rule": {
+        "claude_trailer": 88
+      }
+    }
+  }
+}

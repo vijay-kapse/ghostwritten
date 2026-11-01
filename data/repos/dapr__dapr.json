@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "dapr/dapr",
+  "org": "dapr",
+  "language": "Go",
+  "stars": 26171,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:19:49Z",
+  "window_start": "2026-07-21",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 23,
+      "ai": 3,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-08": {
+      "total": 50,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 62,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 160,
+      "ai": 35,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31,
+        "copilot_trailer": 4,
+        "cursor": 1
+      }
+    }
+  }
+}

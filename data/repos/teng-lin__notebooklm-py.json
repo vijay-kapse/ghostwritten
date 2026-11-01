@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "teng-lin/notebooklm-py",
+  "org": "teng-lin",
+  "language": "Python",
+  "stars": 20055,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:32:32Z",
+  "window_start": "2026-09-05",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 211,
+      "ai": 16,
+      "automation": 8,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 15,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 42,
+      "ai": 28,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

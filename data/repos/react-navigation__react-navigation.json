@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "react-navigation/react-navigation",
+  "org": "react-navigation",
+  "language": "TypeScript",
+  "stars": 24520,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:37Z",
+  "window_start": "2026-06-10",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 52,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 108,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 35,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 57,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 48,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

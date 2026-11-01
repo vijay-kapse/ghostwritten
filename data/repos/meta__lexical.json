@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "meta/lexical",
+  "org": "meta",
+  "language": "TypeScript",
+  "stars": 23992,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:41Z",
+  "window_start": "2026-08-31",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 9,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-09": {
+      "total": 96,
+      "ai": 14,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12,
+        "codex_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 153,
+      "ai": 25,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

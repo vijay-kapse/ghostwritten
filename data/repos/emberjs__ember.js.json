@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "emberjs/ember.js",
+  "org": "emberjs",
+  "language": "TypeScript",
+  "stars": 22566,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:26:49Z",
+  "window_start": "2026-09-09",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 61,
+      "ai": 39,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 39
+      }
+    },
+    "2026-10": {
+      "total": 134,
+      "ai": 76,
+      "automation": 6,
+      "merges": 72,
+      "by_rule": {
+        "claude_trailer": 76
+      }
+    }
+  }
+}

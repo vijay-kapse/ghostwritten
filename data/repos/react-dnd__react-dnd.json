@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "react-dnd/react-dnd",
+  "org": "react-dnd",
+  "language": "TypeScript",
+  "stars": 21626,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:29:17Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

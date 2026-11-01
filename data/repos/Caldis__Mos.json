@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "Caldis/Mos",
+  "org": "Caldis",
+  "language": "Swift",
+  "stars": 21804,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:28:48Z",
+  "window_start": "2026-04-04",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 122,
+      "ai": 49,
+      "automation": 2,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 36,
+        "codex_trailer": 13
+      }
+    },
+    "2026-05": {
+      "total": 48,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 97,
+      "ai": 94,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 94
+      }
+    },
+    "2026-07": {
+      "total": 5,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 18,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "humanlayer/12-factor-agents",
+  "org": "humanlayer",
+  "language": "TypeScript",
+  "stars": 26945,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:18:42Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-03": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 107,
+      "ai": 0,
+      "automation": 0,
+      "merges": 22,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 68,
+      "ai": 0,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 27,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

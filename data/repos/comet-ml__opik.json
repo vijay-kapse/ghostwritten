@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "comet-ml/opik",
+  "org": "comet-ml",
+  "language": "Python",
+  "stars": 23094,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:39Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 235,
+      "ai": 114,
+      "automation": 65,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 113,
+        "cursor": 1
+      }
+    }
+  }
+}

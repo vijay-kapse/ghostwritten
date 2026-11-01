@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "meta/folly",
+  "org": "meta",
+  "language": "C++",
+  "stars": 30554,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:13:21Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 281,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1
+      }
+    },
+    "2026-11": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

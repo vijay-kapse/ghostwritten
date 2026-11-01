@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "gastownhall/gastown",
+  "org": "gastownhall",
+  "language": "Go",
+  "stars": 18656,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:14Z",
+  "window_start": "2026-06-08",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 104,
+      "ai": 15,
+      "automation": 0,
+      "merges": 39,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-07": {
+      "total": 113,
+      "ai": 25,
+      "automation": 0,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 25
+      }
+    },
+    "2026-10": {
+      "total": 8,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

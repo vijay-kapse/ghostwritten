@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "plotly/plotly.py",
+  "org": "plotly",
+  "language": "Python",
+  "stars": 18868,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:31Z",
+  "window_start": "2026-08-12",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 44,
+      "ai": 15,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-09": {
+      "total": 68,
+      "ai": 7,
+      "automation": 3,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-10": {
+      "total": 100,
+      "ai": 0,
+      "automation": 1,
+      "merges": 40,
+      "by_rule": {}
+    }
+  }
+}

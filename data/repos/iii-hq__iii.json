@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "iii-hq/iii",
+  "org": "iii-hq",
+  "language": "Rust",
+  "stars": 18876,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:28Z",
+  "window_start": "2026-07-16",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 45,
+      "ai": 10,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-08": {
+      "total": 38,
+      "ai": 4,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 107,
+      "ai": 28,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    },
+    "2026-10": {
+      "total": 90,
+      "ai": 22,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "codex_trailer": 10
+      }
+    }
+  }
+}

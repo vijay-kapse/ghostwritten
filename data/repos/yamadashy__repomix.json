@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "yamadashy/repomix",
+  "org": "yamadashy",
+  "language": "TypeScript",
+  "stars": 29110,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:26Z",
+  "window_start": "2026-09-02",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 24,
+      "ai": 20,
+      "automation": 39,
+      "merges": 58,
+      "by_rule": {
+        "claude_trailer": 20
+      }
+    },
+    "2026-10": {
+      "total": 41,
+      "ai": 34,
+      "automation": 37,
+      "merges": 60,
+      "by_rule": {
+        "claude_trailer": 34
+      }
+    },
+    "2026-11": {
+      "total": 19,
+      "ai": 17,
+      "automation": 2,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "tree-sitter/tree-sitter",
+  "org": "tree-sitter",
+  "language": "Rust",
+  "stars": 27349,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:17:59Z",
+  "window_start": "2026-06-27",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 10,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 36,
+      "ai": 0,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 83,
+      "ai": 0,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 19,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 98,
+      "ai": 0,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

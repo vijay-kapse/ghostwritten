@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "community-scripts/ProxmoxVE",
+  "org": "community-scripts",
+  "language": "Shell",
+  "stars": 29996,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:17Z",
+  "window_start": "2026-10-17",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 108,
+      "ai": 5,
+      "automation": 182,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "repo": "jnMetaCode/agency-agents-zh",
+  "org": "jnMetaCode",
+  "language": "Shell",
+  "stars": 21768,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:28:54Z",
+  "window_start": "2026-03-12",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 59,
+      "ai": 5,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-04": {
+      "total": 26,
+      "ai": 19,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-05": {
+      "total": 13,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-06": {
+      "total": 43,
+      "ai": 23,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    },
+    "2026-07": {
+      "total": 36,
+      "ai": 3,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-08": {
+      "total": 42,
+      "ai": 15,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-09": {
+      "total": 16,
+      "ai": 12,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-10": {
+      "total": 47,
+      "ai": 35,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 35
+      }
+    }
+  }
+}

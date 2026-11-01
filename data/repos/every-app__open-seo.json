@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "every-app/open-seo",
+  "org": "every-app",
+  "language": "TypeScript",
+  "stars": 25984,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:20:12Z",
+  "window_start": "2026-09-30",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 53,
+      "ai": 41,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 40,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 247,
+      "ai": 57,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 57,
+        "codex_trailer": 2
+      }
+    }
+  }
+}

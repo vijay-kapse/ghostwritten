@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "alirezarezvani/claude-skills",
+  "org": "alirezarezvani",
+  "language": "Python",
+  "stars": 29114,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:25Z",
+  "window_start": "2026-08-09",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 103,
+      "ai": 63,
+      "automation": 0,
+      "merges": 49,
+      "by_rule": {
+        "claude_trailer": 63
+      }
+    },
+    "2026-09": {
+      "total": 12,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 83,
+      "ai": 75,
+      "automation": 0,
+      "merges": 53,
+      "by_rule": {
+        "claude_trailer": 75
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "ForrestKnight/open-source-cs",
+  "org": "ForrestKnight",
+  "language": null,
+  "stars": 23775,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:24:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

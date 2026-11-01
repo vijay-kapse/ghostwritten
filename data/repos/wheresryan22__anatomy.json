@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "wheresryan22/anatomy",
+  "org": "wheresryan22",
+  "language": "JavaScript",
+  "stars": 23727,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 88,
+      "ai": 8,
+      "automation": 0,
+      "merges": 65,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

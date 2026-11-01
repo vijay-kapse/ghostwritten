@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "repo": "winstonjs/winston",
+  "org": "winstonjs",
+  "language": "JavaScript",
+  "stars": 24529,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:22:35Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-05": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 5,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 4,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 2,
+      "ai": 1,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

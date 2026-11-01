@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "google/gvisor",
+  "org": "google",
+  "language": "Go",
+  "stars": 19845,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:32:58Z",
+  "window_start": "2026-10-24",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 165,
+      "ai": 0,
+      "automation": 0,
+      "merges": 135,
+      "by_rule": {}
+    }
+  }
+}

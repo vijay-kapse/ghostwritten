@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "repo": "OpenListTeam/OpenList",
+  "org": "OpenListTeam",
+  "language": "Go",
+  "stars": 25409,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:21:13Z",
+  "window_start": "2026-01-28",
+  "complete": false,
+  "months": {
+    "2026-01": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 11,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 7,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "claude_trailer": 1,
+        "copilot_author": 1
+      }
+    },
+    "2026-04": {
+      "total": 18,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-05": {
+      "total": 28,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
+    },
+    "2026-06": {
+      "total": 36,
+      "ai": 17,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 15,
+        "copilot_trailer": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 30,
+      "ai": 11,
+      "automation": 36,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 7,
+        "copilot_trailer": 4,
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 19,
+      "ai": 5,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 34,
+      "ai": 15,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 15
+      }
+    },
+    "2026-10": {
+      "total": 29,
+      "ai": 12,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 7,
+        "claude_trailer": 3,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    }
+  }
+}

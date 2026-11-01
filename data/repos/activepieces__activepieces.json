@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "activepieces/activepieces",
+  "org": "activepieces",
+  "language": "TypeScript",
+  "stars": 25324,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:21:16Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 290,
+      "ai": 56,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 56,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

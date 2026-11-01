@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "bendlang/bend",
+  "org": "bendlang",
+  "language": "TypeScript",
+  "stars": 24618,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:28Z",
+  "window_start": "2026-10-04",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 298,
+      "ai": 150,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 150
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

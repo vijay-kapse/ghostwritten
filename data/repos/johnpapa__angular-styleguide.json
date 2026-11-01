@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "johnpapa/angular-styleguide",
+  "org": "johnpapa",
+  "language": "Vim Snippet",
+  "stars": 23589,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:24Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

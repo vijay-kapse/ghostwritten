@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "openai/openai-agents-python",
+  "org": "openai",
+  "language": "Python",
+  "stars": 30437,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:13:32Z",
+  "window_start": "2026-09-09",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 160,
+      "ai": 4,
+      "automation": 42,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 56,
+      "ai": 0,
+      "automation": 42,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

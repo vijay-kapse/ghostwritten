@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "dyad-sh/dyad",
+  "org": "dyad-sh",
+  "language": "TypeScript",
+  "stars": 22148,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:27:53Z",
+  "window_start": "2026-08-14",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 40,
+      "ai": 11,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-09": {
+      "total": 69,
+      "ai": 13,
+      "automation": 55,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "claude_generated": 3
+      }
+    },
+    "2026-10": {
+      "total": 78,
+      "ai": 37,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 37,
+        "claude_generated": 12
+      }
+    }
+  }
+}

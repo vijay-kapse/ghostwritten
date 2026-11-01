@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "2025Emma/vibe-coding-cn",
+  "org": "2025Emma",
+  "language": "Python",
+  "stars": 23121,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:32Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-12": {
+      "total": 129,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

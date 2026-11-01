@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "andrewyng/openworker",
+  "org": "andrewyng",
+  "language": "Python",
+  "stars": 18831,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:39Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 175,
+      "ai": 8,
+      "automation": 0,
+      "merges": 125,
+      "by_rule": {
+        "claude_trailer": 7,
+        "cursor": 1
+      }
+    }
+  }
+}

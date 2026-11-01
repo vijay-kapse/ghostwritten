@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "recharts/recharts",
+  "org": "recharts",
+  "language": "TypeScript",
+  "stars": 27680,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:17:30Z",
+  "window_start": "2026-08-22",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 19,
+      "ai": 4,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 111,
+      "ai": 22,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 12,
+        "claude_trailer": 10,
+        "claude_generated": 8
+      }
+    },
+    "2026-10": {
+      "total": 134,
+      "ai": 82,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 79,
+        "claude_generated": 64,
+        "copilot_trailer": 4,
+        "cursor": 3
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    }
+  }
+}

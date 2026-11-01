@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "bytecodealliance/wasmtime",
+  "org": "bytecodealliance",
+  "language": "Rust",
+  "stars": 18811,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:43Z",
+  "window_start": "2026-10-06",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 294,
+      "ai": 1,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

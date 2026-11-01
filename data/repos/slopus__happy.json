@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "slopus/happy",
+  "org": "slopus",
+  "language": "Swift",
+  "stars": 24443,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:46Z",
+  "window_start": "2026-10-30",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 233,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 55,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "pascalorg/editor",
+  "org": "pascalorg",
+  "language": "TypeScript",
+  "stars": 25262,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:21:24Z",
+  "window_start": "2026-09-29",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 12,
+      "ai": 11,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 256,
+      "ai": 225,
+      "automation": 5,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 152,
+        "cursor": 75
+      }
+    }
+  }
+}

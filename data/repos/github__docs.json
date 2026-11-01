@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "github/docs",
+  "org": "github",
+  "language": "TypeScript",
+  "stars": 21197,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:30:04Z",
+  "window_start": "2026-10-20",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 260,
+      "ai": 221,
+      "automation": 7,
+      "merges": 33,
+      "by_rule": {
+        "copilot_trailer": 220,
+        "copilot_author": 10,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

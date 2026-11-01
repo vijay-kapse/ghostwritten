@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "xbmc/xbmc",
+  "org": "xbmc",
+  "language": "C++",
+  "stars": 21412,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:29:39Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 190,
+      "ai": 92,
+      "automation": 0,
+      "merges": 104,
+      "by_rule": {
+        "claude_trailer": 92,
+        "copilot_trailer": 5
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

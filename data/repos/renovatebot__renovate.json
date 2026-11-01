@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "renovatebot/renovate",
+  "org": "renovatebot",
+  "language": "TypeScript",
+  "stars": 22980,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:55Z",
+  "window_start": "2026-10-18",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 142,
+      "ai": 87,
+      "automation": 150,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 86,
+        "amp_factory": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "charmbracelet/crush",
+  "org": "charmbracelet",
+  "language": "Go",
+  "stars": 28908,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:54Z",
+  "window_start": "2026-09-09",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 131,
+      "ai": 2,
+      "automation": 2,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 152,
+      "ai": 1,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

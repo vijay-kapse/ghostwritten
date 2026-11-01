@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "steipete/CodexBar",
+  "org": "steipete",
+  "language": "Swift",
+  "stars": 22932,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:58Z",
+  "window_start": "2026-10-12",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 264,
+      "ai": 0,
+      "automation": 6,
+      "merges": 30,
+      "by_rule": {}
+    }
+  }
+}

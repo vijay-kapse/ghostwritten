@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "KnifeLemon/Filee",
+  "org": "KnifeLemon",
+  "language": "C#",
+  "stars": 19966,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:32:46Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 201,
+      "ai": 51,
+      "automation": 0,
+      "merges": 70,
+      "by_rule": {
+        "claude_trailer": 51
+      }
+    },
+    "2026-11": {
+      "total": 15,
+      "ai": 6,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    }
+  }
+}

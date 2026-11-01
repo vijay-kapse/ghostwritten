@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "repo": "ratatui/ratatui",
+  "org": "ratatui",
+  "language": "Rust",
+  "stars": 23139,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:27Z",
+  "window_start": "2026-03-17",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 5,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 14,
+      "ai": 0,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 12,
+      "ai": 0,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 14,
+      "ai": 1,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 5,
+      "ai": 0,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 18,
+      "ai": 0,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 17,
+      "ai": 1,
+      "automation": 27,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 35,
+      "ai": 0,
+      "automation": 32,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

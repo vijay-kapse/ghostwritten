@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "xerj-org/xerj",
+  "org": "xerj-org",
+  "language": "Rust",
+  "stars": 18644,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:16Z",
+  "window_start": "2026-10-26",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 193,
+      "ai": 17,
+      "automation": 1,
+      "merges": 94,
+      "by_rule": {
+        "cursor": 13,
+        "copilot_trailer": 4
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

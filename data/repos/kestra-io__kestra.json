@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "kestra-io/kestra",
+  "org": "kestra-io",
+  "language": "Java",
+  "stars": 30105,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T21:14:03Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 283,
+      "ai": 41,
+      "automation": 17,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 36,
+        "cursor": 4,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

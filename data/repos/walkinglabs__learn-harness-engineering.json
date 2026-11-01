@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "walkinglabs/learn-harness-engineering",
+  "org": "walkinglabs",
+  "language": "TypeScript",
+  "stars": 22809,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:26:15Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 20,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-04": {
+      "total": 31,
+      "ai": 10,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-05": {
+      "total": 88,
+      "ai": 22,
+      "automation": 0,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 8,
+        "claude_generated": 2
+      }
+    },
+    "2026-06": {
+      "total": 42,
+      "ai": 2,
+      "automation": 0,
+      "merges": 13,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 12,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 15,
+      "ai": 3,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "Infisical/infisical",
+  "org": "Infisical",
+  "language": "TypeScript",
+  "stars": 30198,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:13:54Z",
+  "window_start": "2026-10-28",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 210,
+      "ai": 26,
+      "automation": 0,
+      "merges": 88,
+      "by_rule": {
+        "claude_trailer": 14,
+        "devin": 12
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

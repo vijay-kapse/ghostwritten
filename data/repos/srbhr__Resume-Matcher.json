@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "srbhr/Resume-Matcher",
+  "org": "srbhr",
+  "language": "Python",
+  "stars": 29032,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:37Z",
+  "window_start": "2026-10-11",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 246,
+      "ai": 231,
+      "automation": 3,
+      "merges": 51,
+      "by_rule": {
+        "claude_trailer": 231
+      }
+    }
+  }
+}

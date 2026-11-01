@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "pedronauck/docz",
+  "org": "pedronauck",
+  "language": "TypeScript",
+  "stars": 23568,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:28Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

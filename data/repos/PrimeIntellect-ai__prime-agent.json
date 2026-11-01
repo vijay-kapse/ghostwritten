@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "PrimeIntellect-ai/prime-agent",
+  "org": "PrimeIntellect-ai",
+  "language": "Rust",
+  "stars": 22495,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:26:59Z",
+  "window_start": "2026-10-01",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 298,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

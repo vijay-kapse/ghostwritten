@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "rancher/rancher",
+  "org": "rancher",
+  "language": "Go",
+  "stars": 26025,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:20:06Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 44,
+      "ai": 3,
+      "automation": 34,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 131,
+      "ai": 6,
+      "automation": 91,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 5,
+        "copilot_trailer": 3,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

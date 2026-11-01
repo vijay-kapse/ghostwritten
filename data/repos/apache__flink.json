@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "apache/flink",
+  "org": "apache",
+  "language": "Java",
+  "stars": 26441,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:19:21Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 89,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 209,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

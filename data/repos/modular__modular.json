@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "modular/modular",
+  "org": "modular",
+  "language": "Mojo",
+  "stars": 30087,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:08Z",
+  "window_start": "2026-10-29",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "other_bot_agent": 1
+      }
+    },
+    "2026-11": {
+      "total": 33,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

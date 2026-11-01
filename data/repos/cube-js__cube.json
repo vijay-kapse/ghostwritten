@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "cube-js/cube",
+  "org": "cube-js",
+  "language": "Rust",
+  "stars": 21140,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:30:11Z",
+  "window_start": "2026-10-06",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 293,
+      "ai": 201,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 183,
+        "claude_generated": 120
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1
+      }
+    }
+  }
+}

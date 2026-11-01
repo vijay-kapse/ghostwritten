@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "repo": "citrolabs/ego-lite",
+  "org": "citrolabs",
+  "language": "JavaScript",
+  "stars": 21152,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:30:08Z",
+  "window_start": "2026-06-27",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 9,
+      "ai": 7,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-07": {
+      "total": 51,
+      "ai": 9,
+      "automation": 0,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-08": {
+      "total": 84,
+      "ai": 7,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "copilot_trailer": 6,
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 58,
+      "ai": 32,
+      "automation": 0,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 32
+      }
+    },
+    "2026-10": {
+      "total": 13,
+      "ai": 10,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "ether/etherpad",
+  "org": "ether",
+  "language": "TypeScript",
+  "stars": 18615,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T21:36:18Z",
+  "window_start": "2026-08-10",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 17,
+      "ai": 8,
+      "automation": 50,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-09": {
+      "total": 31,
+      "ai": 19,
+      "automation": 68,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-10": {
+      "total": 39,
+      "ai": 17,
+      "automation": 85,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "DuarteSantos8/openGym",
+  "org": "DuarteSantos8",
+  "language": "JavaScript",
+  "stars": 18580,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:24Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 277,
+      "ai": 26,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 26
+      }
+    }
+  }
+}

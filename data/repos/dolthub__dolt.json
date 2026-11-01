@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "dolthub/dolt",
+  "org": "dolthub",
+  "language": "Go",
+  "stars": 24797,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:15Z",
+  "window_start": "2026-10-08",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 227,
+      "ai": 84,
+      "automation": 0,
+      "merges": 73,
+      "by_rule": {
+        "claude_trailer": 84
+      }
+    }
+  }
+}

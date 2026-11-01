@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "openai/symphony",
+  "org": "openai",
+  "language": "Elixir",
+  "stars": 27888,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:17:08Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 10,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 2,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 5,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 6,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 20,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    }
+  }
+}

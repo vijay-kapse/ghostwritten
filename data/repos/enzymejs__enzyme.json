@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "enzymejs/enzyme",
+  "org": "enzymejs",
+  "language": "JavaScript",
+  "stars": 19802,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:33:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-10": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

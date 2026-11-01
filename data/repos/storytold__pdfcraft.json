@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "storytold/pdfcraft",
+  "org": "storytold",
+  "language": "Rust",
+  "stars": 19064,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:34:50Z",
+  "window_start": "2026-10-29",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 188,
+      "ai": 127,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 127
+      }
+    },
+    "2026-11": {
+      "total": 80,
+      "ai": 75,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "codex_trailer": 41,
+        "claude_trailer": 34
+      }
+    }
+  }
+}

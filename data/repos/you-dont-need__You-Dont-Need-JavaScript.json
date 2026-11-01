@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "you-dont-need/You-Dont-Need-JavaScript",
+  "org": "you-dont-need",
+  "language": "HTML",
+  "stars": 20571,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:31:23Z",
+  "window_start": "2025-10-11",
+  "complete": false,
+  "months": {
+    "2025-10": {
+      "total": 164,
+      "ai": 1,
+      "automation": 0,
+      "merges": 136,
+      "by_rule": {
+        "gemini": 1
+      }
+    }
+  }
+}

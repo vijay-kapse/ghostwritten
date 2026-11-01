@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "zama-ai/fhevm",
+  "org": "zama-ai",
+  "language": "Rust",
+  "stars": 24750,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:18Z",
+  "window_start": "2026-08-17",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 31,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 3,
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 140,
+      "ai": 21,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 13,
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 129,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "cursor": 6,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "repo": "chroma-core/chroma",
+  "org": "chroma-core",
+  "language": "Rust",
+  "stars": 29616,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:49Z",
+  "window_start": "2026-05-20",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 54,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 4
+      }
+    },
+    "2026-06": {
+      "total": 74,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 3,
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 85,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12,
+        "claude_generated": 11,
+        "other_bot_agent": 7
+      }
+    },
+    "2026-08": {
+      "total": 28,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "claude_generated": 5
+      }
+    },
+    "2026-09": {
+      "total": 43,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 11,
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 16,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "claude_generated": 1
+      }
+    }
+  }
+}

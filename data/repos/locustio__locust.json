@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "repo": "locustio/locust",
+  "org": "locustio",
+  "language": "Python",
+  "stars": 28254,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:16:52Z",
+  "window_start": "2026-05-30",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 23,
+      "ai": 3,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 63,
+      "ai": 0,
+      "automation": 13,
+      "merges": 29,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 15,
+      "ai": 1,
+      "automation": 3,
+      "merges": 12,
+      "by_rule": {
+        "devin": 1
+      }
+    },
+    "2026-09": {
+      "total": 14,
+      "ai": 1,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 60,
+      "ai": 2,
+      "automation": 0,
+      "merges": 38,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    }
+  }
+}

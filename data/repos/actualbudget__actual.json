@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "actualbudget/actual",
+  "org": "actualbudget",
+  "language": "TypeScript",
+  "stars": 29901,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:14:27Z",
+  "window_start": "2026-08-11",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 55,
+      "ai": 17,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    },
+    "2026-09": {
+      "total": 77,
+      "ai": 12,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 151,
+      "ai": 50,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 49,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

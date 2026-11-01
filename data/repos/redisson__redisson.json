@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "redisson/redisson",
+  "org": "redisson",
+  "language": "Java",
+  "stars": 24425,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:22:49Z",
+  "window_start": "2026-06-24",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 23,
+      "ai": 1,
+      "automation": 4,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 89,
+      "ai": 0,
+      "automation": 6,
+      "merges": 37,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 46,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 33,
+      "ai": 0,
+      "automation": 2,
+      "merges": 23,
+      "by_rule": {}
+    }
+  }
+}

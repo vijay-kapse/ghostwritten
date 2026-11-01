@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "xiaolai/the-craft-of-selfteaching",
+  "org": "xiaolai",
+  "language": "Jupyter Notebook",
+  "stars": 18974,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:35:02Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

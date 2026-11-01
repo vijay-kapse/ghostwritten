@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "vercel/ai",
+  "org": "vercel",
+  "language": "TypeScript",
+  "stars": 27679,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:17:31Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 243,
+      "ai": 7,
+      "automation": 57,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 2,
+        "cursor": 1
+      }
+    }
+  }
+}

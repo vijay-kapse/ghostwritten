@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "hypit-ai/hypit",
+  "org": "hypit-ai",
+  "language": "TypeScript",
+  "stars": 27315,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:18:05Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 180,
+      "ai": 5,
+      "automation": 0,
+      "merges": 40,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 76,
+      "ai": 2,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

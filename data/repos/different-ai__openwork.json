@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "different-ai/openwork",
+  "org": "different-ai",
+  "language": "TypeScript",
+  "stars": 24361,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T21:22:59Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 296,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

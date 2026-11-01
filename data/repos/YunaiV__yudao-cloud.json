@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "YunaiV/yudao-cloud",
+  "org": "YunaiV",
+  "language": "Java",
+  "stars": 19731,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:33:21Z",
+  "window_start": "2026-04-06",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 55,
+      "ai": 0,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 20,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 29,
+      "ai": 0,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 45,
+      "ai": 0,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

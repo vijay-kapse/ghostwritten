@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+  "org": "wanshuiyin",
+  "language": "Python",
+  "stars": 18442,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:50Z",
+  "window_start": "2026-07-02",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 80,
+      "ai": 48,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 48
+      }
+    },
+    "2026-08": {
+      "total": 69,
+      "ai": 25,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 25
+      }
+    },
+    "2026-09": {
+      "total": 65,
+      "ai": 56,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 56
+      }
+    },
+    "2026-10": {
+      "total": 49,
+      "ai": 2,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

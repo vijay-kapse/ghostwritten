@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "fosrl/pangolin",
+  "org": "fosrl",
+  "language": "TypeScript",
+  "stars": 23288,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:25:08Z",
+  "window_start": "2026-09-21",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 64,
+      "ai": 1,
+      "automation": 1,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 158,
+      "ai": 0,
+      "automation": 7,
+      "merges": 61,
+      "by_rule": {}
+    }
+  }
+}

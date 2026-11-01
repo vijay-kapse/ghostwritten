@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "biomejs/biome",
+  "org": "biomejs",
+  "language": "Rust",
+  "stars": 26033,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:20:02Z",
+  "window_start": "2026-10-11",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 267,
+      "ai": 36,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 36
+      }
+    },
+    "2026-11": {
+      "total": 21,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

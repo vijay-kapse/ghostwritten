@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "mastra-ai/mastra",
+  "org": "mastra-ai",
+  "language": "TypeScript",
+  "stars": 29258,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:16Z",
+  "window_start": "2026-10-27",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 177,
+      "ai": 9,
+      "automation": 101,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5,
+        "claude_generated": 2,
+        "copilot_trailer": 1,
+        "devin": 1
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

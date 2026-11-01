@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "NVIDIA/SkillSpector",
+  "org": "NVIDIA",
+  "language": "Python",
+  "stars": 23841,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:56Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 96,
+      "ai": 11,
+      "automation": 0,
+      "merges": 204,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    }
+  }
+}

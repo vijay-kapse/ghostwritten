@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "temporalio/temporal",
+  "org": "temporalio",
+  "language": "Go",
+  "stars": 24119,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:27Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 61,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 237,
+      "ai": 50,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 48,
+        "claude_generated": 10,
+        "cursor": 1
+      }
+    }
+  }
+}

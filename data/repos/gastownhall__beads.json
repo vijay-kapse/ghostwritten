@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "gastownhall/beads",
+  "org": "gastownhall",
+  "language": "Go",
+  "stars": 28392,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:16:37Z",
+  "window_start": "2026-10-08",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 223,
+      "ai": 219,
+      "automation": 67,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 219
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

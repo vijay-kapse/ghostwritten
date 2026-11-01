@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "hummingbot/hummingbot",
+  "org": "hummingbot",
+  "language": "Python",
+  "stars": 20900,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:30:41Z",
+  "window_start": "2026-06-30",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 8,
+      "ai": 8,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-07": {
+      "total": 97,
+      "ai": 60,
+      "automation": 0,
+      "merges": 77,
+      "by_rule": {
+        "claude_trailer": 58,
+        "cursor": 2
+      }
+    },
+    "2026-08": {
+      "total": 67,
+      "ai": 36,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 36
+      }
+    },
+    "2026-09": {
+      "total": 23,
+      "ai": 10,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

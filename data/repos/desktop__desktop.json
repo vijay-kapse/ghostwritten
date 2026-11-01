@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "desktop/desktop",
+  "org": "desktop",
+  "language": "TypeScript",
+  "stars": 22038,
+  "default_branch": "development",
+  "scanned_at": "2026-11-01T21:28:08Z",
+  "window_start": "2026-09-16",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 69,
+      "ai": 56,
+      "automation": 1,
+      "merges": 23,
+      "by_rule": {
+        "copilot_trailer": 47,
+        "claude_trailer": 7,
+        "copilot_author": 2
+      }
+    },
+    "2026-10": {
+      "total": 114,
+      "ai": 75,
+      "automation": 14,
+      "merges": 79,
+      "by_rule": {
+        "copilot_trailer": 75
+      }
+    }
+  }
+}

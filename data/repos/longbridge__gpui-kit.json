@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "longbridge/gpui-kit",
+  "org": "longbridge",
+  "language": "Rust",
+  "stars": 18858,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:35Z",
+  "window_start": "2026-09-27",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 43,
+      "ai": 37,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 34,
+        "claude_generated": 26,
+        "codex_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 245,
+      "ai": 123,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 114,
+        "claude_generated": 85,
+        "codex_trailer": 4,
+        "cursor": 2,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

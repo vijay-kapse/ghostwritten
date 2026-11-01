@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "hardikpandya/stop-slop",
+  "org": "hardikpandya",
+  "language": null,
+  "stars": 18521,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:36:32Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-01": {
+      "total": 7,
+      "ai": 4,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-03": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

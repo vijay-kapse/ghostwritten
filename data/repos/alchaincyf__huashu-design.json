@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "alchaincyf/huashu-design",
+  "org": "alchaincyf",
+  "language": "HTML",
+  "stars": 28396,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:16:35Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 29,
+      "ai": 19,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-05": {
+      "total": 8,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-06": {
+      "total": 17,
+      "ai": 15,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-07": {
+      "total": 19,
+      "ai": 18,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-08": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 5,
+      "ai": 3,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 13,
+      "ai": 11,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    }
+  }
+}

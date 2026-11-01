@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "repo": "JanDeDobbeleer/oh-my-posh",
+  "org": "JanDeDobbeleer",
+  "language": "Go",
+  "stars": 23692,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:16Z",
+  "window_start": "2026-07-19",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 65,
+      "ai": 23,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 13,
+        "claude_trailer": 10
+      }
+    },
+    "2026-08": {
+      "total": 90,
+      "ai": 51,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 42,
+        "copilot_trailer": 8,
+        "copilot_author": 1
+      }
+    },
+    "2026-09": {
+      "total": 39,
+      "ai": 28,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 12,
+        "copilot_author": 2
+      }
+    },
+    "2026-10": {
+      "total": 32,
+      "ai": 16,
+      "automation": 27,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 11,
+        "claude_trailer": 4,
+        "codex_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "emmabostian/developer-portfolios",
+  "org": "emmabostian",
+  "language": "Python",
+  "stars": 27512,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:17:48Z",
+  "window_start": "2026-09-26",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 14,
+      "ai": 1,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 141,
+      "ai": 14,
+      "automation": 0,
+      "merges": 126,
+      "by_rule": {
+        "claude_trailer": 9,
+        "copilot_trailer": 4,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

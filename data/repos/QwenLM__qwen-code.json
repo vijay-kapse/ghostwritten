@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "QwenLM/qwen-code",
+  "org": "QwenLM",
+  "language": "TypeScript",
+  "stars": 28857,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:57Z",
+  "window_start": "2026-10-26",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 276,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 24,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

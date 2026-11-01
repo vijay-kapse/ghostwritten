@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "langchain-ai/langchainjs",
+  "org": "langchain-ai",
+  "language": "TypeScript",
+  "stars": 18311,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:37:28Z",
+  "window_start": "2026-06-12",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 28,
+      "ai": 1,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 15,
+      "ai": 1,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 37,
+      "ai": 6,
+      "automation": 25,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5,
+        "cursor": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-09": {
+      "total": 61,
+      "ai": 3,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 49,
+      "ai": 4,
+      "automation": 34,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

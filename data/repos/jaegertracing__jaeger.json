@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "repo": "jaegertracing/jaeger",
+  "org": "jaegertracing",
+  "language": "Go",
+  "stars": 23366,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:50Z",
+  "window_start": "2026-08-18",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 44,
+      "ai": 10,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 3,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 123,
+      "ai": 61,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 56,
+        "claude_generated": 42,
+        "cursor": 5,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 86,
+      "ai": 54,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 49,
+        "claude_generated": 40,
+        "cursor": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "claude_generated": 6,
+        "cursor": 2
+      }
+    }
+  }
+}

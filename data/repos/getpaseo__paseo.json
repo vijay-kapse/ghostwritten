@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "getpaseo/paseo",
+  "org": "getpaseo",
+  "language": "TypeScript",
+  "stars": 22722,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:26:24Z",
+  "window_start": "2026-10-18",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 173,
+      "ai": 8,
+      "automation": 104,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 1,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

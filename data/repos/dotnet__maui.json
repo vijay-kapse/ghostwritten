@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "dotnet/maui",
+  "org": "dotnet",
+  "language": "C#",
+  "stars": 23331,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:55Z",
+  "window_start": "2026-09-30",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 279,
+      "ai": 110,
+      "automation": 18,
+      "merges": 2,
+      "by_rule": {
+        "copilot_trailer": 107,
+        "claude_generated": 4,
+        "claude_trailer": 2,
+        "copilot_author": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "wasp-lang/wasp",
+  "org": "wasp-lang",
+  "language": "TypeScript",
+  "stars": 18794,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:35:53Z",
+  "window_start": "2026-09-17",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 26,
+      "ai": 3,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 225,
+      "ai": 5,
+      "automation": 2,
+      "merges": 44,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

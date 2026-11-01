@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "nocobase/nocobase",
+  "org": "nocobase",
+  "language": "TypeScript",
+  "stars": 24806,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:22:13Z",
+  "window_start": "2026-08-13",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 53,
+      "ai": 3,
+      "automation": 24,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 78,
+      "ai": 10,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 58,
+      "ai": 5,
+      "automation": 34,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    }
+  }
+}

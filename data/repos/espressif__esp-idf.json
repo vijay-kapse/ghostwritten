@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "espressif/esp-idf",
+  "org": "espressif",
+  "language": "C",
+  "stars": 19400,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:34:10Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 166,
+      "ai": 4,
+      "automation": 0,
+      "merges": 134,
+      "by_rule": {
+        "cursor": 4
+      }
+    }
+  }
+}

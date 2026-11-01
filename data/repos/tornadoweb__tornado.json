@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "repo": "tornadoweb/tornado",
+  "org": "tornadoweb",
+  "language": "Python",
+  "stars": 22164,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:27:50Z",
+  "window_start": "2026-05-06",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 14,
+      "ai": 0,
+      "automation": 2,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 71,
+      "ai": 46,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 45,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 72,
+      "ai": 47,
+      "automation": 5,
+      "merges": 69,
+      "by_rule": {
+        "claude_trailer": 47
+      }
+    }
+  }
+}

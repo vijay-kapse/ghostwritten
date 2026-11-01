@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "ayangweb/BongoCat",
+  "org": "ayangweb",
+  "language": "Rust",
+  "stars": 24429,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:22:47Z",
+  "window_start": "2026-09-20",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 233,
+      "ai": 2,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 66,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "balderdashy/sails",
+  "org": "balderdashy",
+  "language": "JavaScript",
+  "stars": 22779,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:26:21Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-08": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

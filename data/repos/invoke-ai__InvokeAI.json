@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "invoke-ai/InvokeAI",
+  "org": "invoke-ai",
+  "language": "TypeScript",
+  "stars": 28952,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:15:46Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 184,
+      "ai": 25,
+      "automation": 1,
+      "merges": 103,
+      "by_rule": {
+        "claude_trailer": 25
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

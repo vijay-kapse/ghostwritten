@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "antirez/ds4",
+  "org": "antirez",
+  "language": "C",
+  "stars": 24184,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:17Z",
+  "window_start": "2026-08-29",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 66,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 177,
+      "ai": 46,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 46
+      }
+    },
+    "2026-10": {
+      "total": 45,
+      "ai": 1,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

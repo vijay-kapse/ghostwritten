@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "dotnet/runtime",
+  "org": "dotnet",
+  "language": "C#",
+  "stars": 18404,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:37:00Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 290,
+      "ai": 190,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 188,
+        "copilot_author": 14,
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
+    }
+  }
+}

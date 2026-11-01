@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "elizaOS/eliza",
+  "org": "elizaOS",
+  "language": "TypeScript",
+  "stars": 19750,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T21:33:19Z",
+  "window_start": "2026-10-30",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 167,
+      "ai": 91,
+      "automation": 0,
+      "merges": 34,
+      "by_rule": {
+        "claude_trailer": 91
+      }
+    },
+    "2026-11": {
+      "total": 79,
+      "ai": 21,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "harvard-edge/cs249r_book",
+  "org": "harvard-edge",
+  "language": "Python",
+  "stars": 29762,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T21:14:38Z",
+  "window_start": "2026-10-20",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 213,
+      "ai": 0,
+      "automation": 22,
+      "merges": 65,
+      "by_rule": {}
+    }
+  }
+}

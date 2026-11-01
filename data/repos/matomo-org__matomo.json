@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "matomo-org/matomo",
+  "org": "matomo-org",
+  "language": "PHP",
+  "stars": 21994,
+  "default_branch": "6.x-dev",
+  "scanned_at": "2026-11-01T21:28:15Z",
+  "window_start": "2026-08-10",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 66,
+      "ai": 4,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 99,
+      "ai": 2,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 104,
+      "ai": 4,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

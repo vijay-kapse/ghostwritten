@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "bagisto/bagisto",
+  "org": "bagisto",
+  "language": "PHP",
+  "stars": 28320,
+  "default_branch": "2.5",
+  "scanned_at": "2026-11-01T21:16:45Z",
+  "window_start": "2026-09-12",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 82,
+      "ai": 1,
+      "automation": 1,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 145,
+      "ai": 0,
+      "automation": 0,
+      "merges": 45,
+      "by_rule": {}
+    }
+  }
+}

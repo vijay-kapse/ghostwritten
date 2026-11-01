@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "processing/p5.js",
+  "org": "processing",
+  "language": "JavaScript",
+  "stars": 24284,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:23:08Z",
+  "window_start": "2026-09-24",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 27,
+      "ai": 1,
+      "automation": 3,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 89,
+      "ai": 0,
+      "automation": 23,
+      "merges": 131,
+      "by_rule": {}
+    }
+  }
+}

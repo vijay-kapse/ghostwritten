@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "h4ckf0r0day/obscura",
+  "org": "h4ckf0r0day",
+  "language": "Rust",
+  "stars": 29953,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:14:25Z",
+  "window_start": "2026-10-03",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 134,
+      "ai": 1,
+      "automation": 0,
+      "merges": 166,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

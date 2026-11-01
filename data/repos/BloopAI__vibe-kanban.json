@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "repo": "BloopAI/vibe-kanban",
+  "org": "BloopAI",
+  "language": "Rust",
+  "stars": 28552,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:16:24Z",
+  "window_start": "2026-02-19",
+  "complete": false,
+  "months": {
+    "2026-02": {
+      "total": 85,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-03": {
+      "total": 177,
+      "ai": 47,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 47
+      }
+    },
+    "2026-04": {
+      "total": 25,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

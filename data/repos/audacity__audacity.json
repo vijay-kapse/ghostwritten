@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "repo": "audacity/audacity",
+  "org": "audacity",
+  "language": "C++",
+  "stars": 18909,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:35:19Z",
+  "window_start": "2026-09-29",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 35,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 181,
+      "ai": 1,
+      "automation": 17,
+      "merges": 59,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

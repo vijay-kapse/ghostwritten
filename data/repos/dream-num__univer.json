@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "repo": "dream-num/univer",
+  "org": "dream-num",
+  "language": "TypeScript",
+  "stars": 22841,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T21:26:07Z",
+  "window_start": "2026-08-17",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 65,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 108,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 127,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4,
+        "codex_trailer": 1
+      }
+    }
+  }
+}

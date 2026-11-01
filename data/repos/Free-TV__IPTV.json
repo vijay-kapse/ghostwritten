@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "Free-TV/IPTV",
+  "org": "Free-TV",
+  "language": "Python",
+  "stars": 21657,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T21:29:12Z",
+  "window_start": "2026-08-22",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 18,
+      "ai": 1,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 164,
+      "ai": 13,
+      "automation": 0,
+      "merges": 31,
+      "by_rule": {
+        "claude_trailer": 12,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 62,
+      "ai": 6,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    }
+  }
+}

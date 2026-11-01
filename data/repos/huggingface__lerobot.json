@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repo": "huggingface/lerobot",
+  "org": "huggingface",
+  "language": "Python",
+  "stars": 28628,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:16:19Z",
+  "window_start": "2026-07-29",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 61,
+      "ai": 3,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 49,
+      "ai": 5,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 70,
+      "ai": 1,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 115,
+      "ai": 3,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 2,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

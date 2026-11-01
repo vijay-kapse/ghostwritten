@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "matplotlib/matplotlib",
+  "org": "matplotlib",
+  "language": "Python",
+  "stars": 23409,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:24:46Z",
+  "window_start": "2026-09-05",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 76,
+      "ai": 1,
+      "automation": 3,
+      "merges": 46,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 102,
+      "ai": 1,
+      "automation": 4,
+      "merges": 68,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "repo": "winfunc/opcode",
+  "org": "winfunc",
+  "language": "TypeScript",
+  "stars": 22432,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:27:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-06": {
+      "total": 47,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 67,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 63,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 2,
+        "claude_trailer": 2
+      }
+    },
+    "2025-09": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 11,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 7,
+        "claude_trailer": 7
+      }
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

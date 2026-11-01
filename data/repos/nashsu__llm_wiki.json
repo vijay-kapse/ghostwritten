@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "repo": "nashsu/llm_wiki",
+  "org": "nashsu",
+  "language": "TypeScript",
+  "stars": 21264,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:29:57Z",
+  "window_start": "2026-06-18",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 55,
+      "ai": 2,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 82,
+      "ai": 9,
+      "automation": 0,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-08": {
+      "total": 76,
+      "ai": 2,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 27,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 13,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

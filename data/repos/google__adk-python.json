@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "google/adk-python",
+  "org": "google",
+  "language": "Python",
+  "stars": 22072,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T21:28:03Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 299,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

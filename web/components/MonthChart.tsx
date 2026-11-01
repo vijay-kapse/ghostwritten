@@ -9,11 +9,11 @@ export interface MonthPoint {
   ai: number;
 }
 
+/** Smallest "nice" maximum at or above v whose quarters are round numbers (1.2, 2, 4, 6, 8, 10 times a power of ten). */
 function niceCeil(v: number): number {
   if (v <= 0) return 1;
   const p = Math.pow(10, Math.floor(Math.log10(v)));
-  const f = v / p;
-  const n = f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10;
+  const n = [1, 1.2, 2, 4, 6, 8, 10].find((c) => c * p >= v) ?? 10;
   return n * p;
 }
 

@@ -1,0 +1,23 @@
+[project]
+name = "ghostwritten-scanner"
+version = "0.1.0"
+description = "Nightly scanner: share of default-branch commits attributed to AI coding agents."
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31"]
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

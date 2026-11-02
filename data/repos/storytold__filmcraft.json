@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "repo": "storytold/filmcraft",
+  "org": "storytold",
+  "language": "Rust",
+  "stars": 17199,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:30:19Z",
+  "window_start": "2026-10-06",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 1772,
+      "ai": 851,
+      "automation": 1,
+      "merges": 1191,
+      "by_rule": {
+        "claude_trailer": 791,
+        "codex_trailer": 57,
+        "claude_generated": 3,
+        "copilot_trailer": 1,
+        "other_bot_agent": 1
+      }
+    },
+    "2026-11": {
+      "total": 36,
+      "ai": 24,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21,
+        "codex_trailer": 3,
+        "claude_generated": 1
+      }
+    }
+  }
+}

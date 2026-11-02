@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "repo": "laramies/theHarvester",
+  "org": "laramies",
+  "language": "Python",
+  "stars": 18208,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:17:26Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 13,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 0,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 3,
+      "ai": 0,
+      "automation": 9,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 7,
+      "ai": 0,
+      "automation": 16,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 58,
+      "ai": 0,
+      "automation": 12,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 8,
+      "ai": 0,
+      "automation": 24,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 16,
+      "ai": 0,
+      "automation": 20,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 27,
+      "ai": 0,
+      "automation": 24,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 8,
+      "ai": 0,
+      "automation": 16,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 9,
+      "ai": 0,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 11,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 13,
+      "ai": 0,
+      "automation": 21,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 19,
+      "ai": 0,
+      "automation": 2,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 22,
+      "ai": 0,
+      "automation": 2,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 5,
+      "ai": 1,
+      "automation": 16,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 42,
+      "merges": 33,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 9,
+      "ai": 0,
+      "automation": 33,
+      "merges": 31,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 7,
+      "ai": 0,
+      "automation": 30,
+      "merges": 40,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 78,
+      "ai": 0,
+      "automation": 12,
+      "merges": 32,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 181,
+      "ai": 0,
+      "automation": 4,
+      "merges": 77,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 6,
+      "ai": 0,
+      "automation": 8,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 5,
+      "merges": 5,
+      "by_rule": {}
+    }
+  }
+}

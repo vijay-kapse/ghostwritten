@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "cft0808/edict",
+  "org": "cft0808",
+  "language": "Python",
+  "stars": 17039,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:32:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 56,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 54,
+      "ai": 5,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-04": {
+      "total": 27,
+      "ai": 2,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 0,
+      "ai": 0,
+      "automation": 4,
+      "merges": 4,
+      "by_rule": {}
+    }
+  }
+}

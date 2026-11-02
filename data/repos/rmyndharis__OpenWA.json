@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "rmyndharis/OpenWA",
+  "org": "rmyndharis",
+  "language": "TypeScript",
+  "stars": 16448,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:43:13Z",
+  "window_start": "2026-10-02",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 2590,
+      "ai": 2,
+      "automation": 31,
+      "merges": 120,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 250,
+      "ai": 1,
+      "automation": 1,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

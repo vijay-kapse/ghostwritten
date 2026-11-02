@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "repo": "open-metadata/OpenMetadata",
+  "org": "open-metadata",
+  "language": "TypeScript",
+  "stars": 15648,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:58:13Z",
+  "window_start": "2026-07-14",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 360,
+      "ai": 172,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 169,
+        "copilot_trailer": 6
+      }
+    },
+    "2026-08": {
+      "total": 644,
+      "ai": 347,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 347,
+        "copilot_trailer": 4,
+        "claude_generated": 1
+      }
+    },
+    "2026-09": {
+      "total": 827,
+      "ai": 457,
+      "automation": 64,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 452,
+        "copilot_trailer": 7,
+        "cursor": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 901,
+      "ai": 109,
+      "automation": 169,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 107,
+        "copilot_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 16,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

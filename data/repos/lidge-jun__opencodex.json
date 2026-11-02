@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "repo": "lidge-jun/opencodex",
+  "org": "lidge-jun",
+  "language": "TypeScript",
+  "stars": 18140,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:18:00Z",
+  "window_start": "2026-09-12",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 1348,
+      "ai": 64,
+      "automation": 23,
+      "merges": 335,
+      "by_rule": {
+        "devin": 30,
+        "claude_trailer": 21,
+        "codex_trailer": 12,
+        "cursor": 6
+      }
+    },
+    "2026-10": {
+      "total": 1084,
+      "ai": 71,
+      "automation": 22,
+      "merges": 185,
+      "by_rule": {
+        "devin": 31,
+        "claude_trailer": 30,
+        "cursor": 13,
+        "codex_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

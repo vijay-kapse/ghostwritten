@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "scylladb/scylladb",
+  "org": "scylladb",
+  "language": "C++",
+  "stars": 15816,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:54:22Z",
+  "window_start": "2026-08-13",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 286,
+      "ai": 17,
+      "automation": 0,
+      "merges": 40,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 7
+      }
+    },
+    "2026-09": {
+      "total": 1166,
+      "ai": 353,
+      "automation": 0,
+      "merges": 125,
+      "by_rule": {
+        "claude_trailer": 352,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 1220,
+      "ai": 164,
+      "automation": 1,
+      "merges": 158,
+      "by_rule": {
+        "claude_trailer": 164,
+        "claude_generated": 6
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

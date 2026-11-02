@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "repo": "quarkusio/quarkus",
+  "org": "quarkusio",
+  "language": "Java",
+  "stars": 15973,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:51:27Z",
+  "window_start": "2026-07-01",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 359,
+      "ai": 43,
+      "automation": 38,
+      "merges": 250,
+      "by_rule": {
+        "claude_trailer": 37,
+        "cursor": 4,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 294,
+      "ai": 10,
+      "automation": 67,
+      "merges": 287,
+      "by_rule": {
+        "claude_trailer": 7,
+        "cursor": 3
+      }
+    },
+    "2026-09": {
+      "total": 434,
+      "ai": 11,
+      "automation": 40,
+      "merges": 349,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 449,
+      "ai": 11,
+      "automation": 54,
+      "merges": 361,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "repo": "larksuite/cli",
+  "org": "larksuite",
+  "language": "Go",
+  "stars": 17911,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:20:38Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 24,
+      "ai": 6,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-04": {
+      "total": 299,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-05": {
+      "total": 189,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 207,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 220,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 167,
+      "ai": 2,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 73,
+      "ai": 1,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 12,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

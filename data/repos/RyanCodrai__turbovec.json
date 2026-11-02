@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "RyanCodrai/turbovec",
+  "org": "RyanCodrai",
+  "language": "Rust",
+  "stars": 17451,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:26:24Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 38,
+      "ai": 38,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 38
+      }
+    },
+    "2026-04": {
+      "total": 71,
+      "ai": 70,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 70
+      }
+    },
+    "2026-05": {
+      "total": 35,
+      "ai": 31,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31
+      }
+    },
+    "2026-06": {
+      "total": 8,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-07": {
+      "total": 163,
+      "ai": 163,
+      "automation": 6,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 163
+      }
+    },
+    "2026-08": {
+      "total": 37,
+      "ai": 33,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 33
+      }
+    },
+    "2026-10": {
+      "total": 14,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    }
+  }
+}

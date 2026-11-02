@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "ceph/ceph",
+  "org": "ceph",
+  "language": "C++",
+  "stars": 17188,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:30:54Z",
+  "window_start": "2026-08-17",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 492,
+      "ai": 1,
+      "automation": 0,
+      "merges": 157,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 742,
+      "ai": 13,
+      "automation": 0,
+      "merges": 367,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-10": {
+      "total": 793,
+      "ai": 7,
+      "automation": 0,
+      "merges": 414,
+      "by_rule": {
+        "claude_trailer": 6,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 26,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "weaviate/weaviate",
+  "org": "weaviate",
+  "language": "Go",
+  "stars": 16934,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:35:12Z",
+  "window_start": "2026-08-12",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 497,
+      "ai": 133,
+      "automation": 5,
+      "merges": 198,
+      "by_rule": {
+        "claude_trailer": 132,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 1094,
+      "ai": 202,
+      "automation": 16,
+      "merges": 427,
+      "by_rule": {
+        "claude_trailer": 200,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 476,
+      "ai": 139,
+      "automation": 4,
+      "merges": 273,
+      "by_rule": {
+        "claude_trailer": 136,
+        "copilot_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

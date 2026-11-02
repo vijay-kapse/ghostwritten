@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "repo": "opensandbox-group/OpenSandbox",
+  "org": "opensandbox-group",
+  "language": "Python",
+  "stars": 16359,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:44:55Z",
+  "window_start": "2026-05-07",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 77,
+      "ai": 29,
+      "automation": 16,
+      "merges": 53,
+      "by_rule": {
+        "claude_trailer": 29
+      }
+    },
+    "2026-06": {
+      "total": 178,
+      "ai": 100,
+      "automation": 14,
+      "merges": 68,
+      "by_rule": {
+        "claude_trailer": 91,
+        "copilot_trailer": 7,
+        "copilot_author": 3
+      }
+    },
+    "2026-07": {
+      "total": 270,
+      "ai": 11,
+      "automation": 9,
+      "merges": 152,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-08": {
+      "total": 344,
+      "ai": 14,
+      "automation": 4,
+      "merges": 190,
+      "by_rule": {
+        "claude_trailer": 11,
+        "devin": 3
+      }
+    },
+    "2026-09": {
+      "total": 499,
+      "ai": 17,
+      "automation": 0,
+      "merges": 102,
+      "by_rule": {
+        "claude_trailer": 8,
+        "devin": 8,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 789,
+      "ai": 31,
+      "automation": 0,
+      "merges": 172,
+      "by_rule": {
+        "claude_trailer": 16,
+        "cursor": 13,
+        "codex_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 34,
+      "ai": 0,
+      "automation": 0,
+      "merges": 29,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "material-components/material-components-web",
+  "org": "material-components",
+  "language": "TypeScript",
+  "stars": 17036,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:32:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

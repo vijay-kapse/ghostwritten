@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "AgriciDaniel/claude-obsidian",
+  "org": "AgriciDaniel",
+  "language": "Python",
+  "stars": 16053,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:50:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 155,
+      "ai": 55,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 55
+      }
+    },
+    "2026-05": {
+      "total": 57,
+      "ai": 33,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 33
+      }
+    },
+    "2026-07": {
+      "total": 28,
+      "ai": 11,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-08": {
+      "total": 14,
+      "ai": 8,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "codex_trailer": 7,
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 15,
+      "ai": 12,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-10": {
+      "total": 62,
+      "ai": 62,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 56,
+        "codex_trailer": 6
+      }
+    }
+  }
+}

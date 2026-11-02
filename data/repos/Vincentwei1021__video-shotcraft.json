@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "Vincentwei1021/video-shotcraft",
+  "org": "Vincentwei1021",
+  "language": "TypeScript",
+  "stars": 15790,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:54:42Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-07": {
+      "total": 56,
+      "ai": 43,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 43
+      }
+    },
+    "2026-08": {
+      "total": 25,
+      "ai": 17,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    },
+    "2026-09": {
+      "total": 9,
+      "ai": 3,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 10,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

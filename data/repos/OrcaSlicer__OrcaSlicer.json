@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "repo": "OrcaSlicer/OrcaSlicer",
+  "org": "OrcaSlicer",
+  "language": "C++",
+  "stars": 16266,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:47:24Z",
+  "window_start": "2026-07-13",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 394,
+      "ai": 85,
+      "automation": 0,
+      "merges": 71,
+      "by_rule": {
+        "claude_trailer": 83,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 531,
+      "ai": 98,
+      "automation": 0,
+      "merges": 100,
+      "by_rule": {
+        "claude_trailer": 96,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 636,
+      "ai": 99,
+      "automation": 0,
+      "merges": 143,
+      "by_rule": {
+        "claude_trailer": 83,
+        "codex_trailer": 14,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 904,
+      "ai": 69,
+      "automation": 2,
+      "merges": 202,
+      "by_rule": {
+        "claude_trailer": 67,
+        "codex_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 17,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

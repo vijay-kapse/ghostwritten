@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "realm/realm-swift",
+  "org": "realm",
+  "language": "Objective-C",
+  "stars": 16600,
+  "default_branch": "community",
+  "scanned_at": "2026-11-02T11:41:12Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

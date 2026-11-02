@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "repo": "Lakr233/vphone-cli",
+  "org": "Lakr233",
+  "language": "Swift",
+  "stars": 16347,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:45:27Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 175,
+      "ai": 6,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-04": {
+      "total": 37,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-05": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 18,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-07": {
+      "total": 65,
+      "ai": 44,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 44
+      }
+    },
+    "2026-08": {
+      "total": 37,
+      "ai": 30,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 30
+      }
+    },
+    "2026-09": {
+      "total": 334,
+      "ai": 207,
+      "automation": 0,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 207
+      }
+    },
+    "2026-10": {
+      "total": 585,
+      "ai": 462,
+      "automation": 0,
+      "merges": 209,
+      "by_rule": {
+        "claude_trailer": 462
+      }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 6,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    }
+  }
+}

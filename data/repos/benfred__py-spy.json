@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "benfred/py-spy",
+  "org": "benfred",
+  "language": "Rust",
+  "stars": 15622,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:58:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-07": {
+      "total": 25,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 1,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 12,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 21,
+      "ai": 1,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

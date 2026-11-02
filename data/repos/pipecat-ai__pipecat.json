@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "repo": "pipecat-ai/pipecat",
+  "org": "pipecat-ai",
+  "language": "Python",
+  "stars": 16980,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:33:15Z",
+  "window_start": "2026-08-19",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 404,
+      "ai": 22,
+      "automation": 6,
+      "merges": 84,
+      "by_rule": {
+        "claude_trailer": 17,
+        "other_bot_agent": 5
+      }
+    },
+    "2026-09": {
+      "total": 903,
+      "ai": 59,
+      "automation": 104,
+      "merges": 254,
+      "by_rule": {
+        "other_bot_agent": 41,
+        "claude_trailer": 13,
+        "cursor": 5
+      }
+    },
+    "2026-10": {
+      "total": 951,
+      "ai": 59,
+      "automation": 38,
+      "merges": 256,
+      "by_rule": {
+        "claude_trailer": 35,
+        "other_bot_agent": 24
+      }
+    }
+  }
+}

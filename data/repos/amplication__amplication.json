@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "repo": "amplication/amplication",
+  "org": "amplication",
+  "language": "TypeScript",
+  "stars": 16011,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:50:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 187,
+      "ai": 0,
+      "automation": 5,
+      "merges": 102,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 84,
+      "ai": 0,
+      "automation": 0,
+      "merges": 68,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 32,
+      "ai": 0,
+      "automation": 0,
+      "merges": 31,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 4,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

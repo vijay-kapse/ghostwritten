@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "apple-aiml-research/ml-stable-diffusion",
+  "org": "apple-aiml-research",
+  "language": "Python",
+  "stars": 17967,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:19:53Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

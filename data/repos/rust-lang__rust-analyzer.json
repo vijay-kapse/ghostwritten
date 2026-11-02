@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "repo": "rust-lang/rust-analyzer",
+  "org": "rust-lang",
+  "language": "Rust",
+  "stars": 16961,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:34:23Z",
+  "window_start": "2026-04-01",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 328,
+      "ai": 0,
+      "automation": 8,
+      "merges": 270,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 256,
+      "ai": 0,
+      "automation": 5,
+      "merges": 245,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 135,
+      "ai": 3,
+      "automation": 1,
+      "merges": 272,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 227,
+      "ai": 1,
+      "automation": 0,
+      "merges": 235,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 150,
+      "ai": 0,
+      "automation": 0,
+      "merges": 249,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 111,
+      "ai": 1,
+      "automation": 0,
+      "merges": 204,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 93,
+      "ai": 1,
+      "automation": 3,
+      "merges": 180,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {}
+    }
+  }
+}

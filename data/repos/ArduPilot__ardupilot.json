@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "repo": "ArduPilot/ardupilot",
+  "org": "ArduPilot",
+  "language": "C++",
+  "stars": 16300,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:46:49Z",
+  "window_start": "2026-04-15",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 163,
+      "ai": 30,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 30
+      }
+    },
+    "2026-05": {
+      "total": 381,
+      "ai": 31,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 29,
+        "amp_factory": 2
+      }
+    },
+    "2026-06": {
+      "total": 327,
+      "ai": 68,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 68
+      }
+    },
+    "2026-07": {
+      "total": 471,
+      "ai": 117,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 115,
+        "cursor": 2
+      }
+    },
+    "2026-08": {
+      "total": 495,
+      "ai": 136,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 133,
+        "cursor": 2,
+        "gemini": 1
+      }
+    },
+    "2026-09": {
+      "total": 599,
+      "ai": 117,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 113,
+        "cursor": 4
+      }
+    },
+    "2026-10": {
+      "total": 560,
+      "ai": 63,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 57,
+        "cursor": 5,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

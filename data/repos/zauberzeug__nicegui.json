@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "repo": "zauberzeug/nicegui",
+  "org": "zauberzeug",
+  "language": "Python",
+  "stars": 16330,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:46:06Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 34,
+      "ai": 0,
+      "automation": 13,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 32,
+      "ai": 0,
+      "automation": 5,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 48,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 40,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 49,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 19,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 29,
+      "ai": 0,
+      "automation": 3,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 46,
+      "ai": 0,
+      "automation": 6,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 29,
+      "ai": 1,
+      "automation": 4,
+      "merges": 6,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-10": {
+      "total": 100,
+      "ai": 0,
+      "automation": 7,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 68,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 37,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 74,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 64,
+      "ai": 32,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 30,
+        "claude_generated": 10,
+        "copilot_trailer": 5,
+        "copilot_author": 1
+      }
+    },
+    "2026-03": {
+      "total": 51,
+      "ai": 27,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 26,
+        "claude_generated": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 57,
+      "ai": 46,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 46,
+        "copilot_trailer": 5,
+        "claude_generated": 1
+      }
+    },
+    "2026-05": {
+      "total": 39,
+      "ai": 25,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 25,
+        "claude_generated": 7
+      }
+    },
+    "2026-06": {
+      "total": 51,
+      "ai": 47,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 47,
+        "claude_generated": 8
+      }
+    },
+    "2026-07": {
+      "total": 59,
+      "ai": 57,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 57,
+        "claude_generated": 4,
+        "codex_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 43,
+      "ai": 38,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 38,
+        "claude_generated": 2
+      }
+    },
+    "2026-09": {
+      "total": 39,
+      "ai": 38,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 38,
+        "claude_generated": 9
+      }
+    },
+    "2026-10": {
+      "total": 64,
+      "ai": 62,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 62,
+        "claude_generated": 4,
+        "codex_trailer": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "mml-book/mml-book.github.io",
+  "org": "mml-book",
+  "language": "Jupyter Notebook",
+  "stars": 16182,
+  "default_branch": "master",
+  "scanned_at": "2026-11-02T11:48:45Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-03": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

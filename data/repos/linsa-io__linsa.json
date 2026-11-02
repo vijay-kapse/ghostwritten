@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "linsa-io/linsa",
+  "org": "linsa-io",
+  "language": "TypeScript",
+  "stars": 16859,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:36:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

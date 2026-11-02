@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "repo": "a2ui-project/a2ui",
+  "org": "a2ui-project",
+  "language": "TypeScript",
+  "stars": 16925,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:35:49Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-09": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 105,
+      "ai": 0,
+      "automation": 1,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 51,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 90,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 71,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 1
+      }
+    },
+    "2026-02": {
+      "total": 52,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 4
+      }
+    },
+    "2026-03": {
+      "total": 142,
+      "ai": 5,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 5
+      }
+    },
+    "2026-04": {
+      "total": 137,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 3
+      }
+    },
+    "2026-05": {
+      "total": 105,
+      "ai": 3,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 3
+      }
+    },
+    "2026-06": {
+      "total": 131,
+      "ai": 4,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 128,
+      "ai": 8,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 7,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 121,
+      "ai": 5,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "gemini": 5
+      }
+    },
+    "2026-09": {
+      "total": 191,
+      "ai": 3,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "gemini": 3
+      }
+    },
+    "2026-10": {
+      "total": 337,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 2
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

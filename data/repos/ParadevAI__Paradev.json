@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "repo": "ParadevAI/Paradev",
+  "org": "ParadevAI",
+  "language": "TypeScript",
+  "stars": 15822,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:54:06Z",
+  "window_start": "2026-04-25",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 120,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 428,
+      "ai": 1,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 88,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 296,
+      "ai": 4,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 687,
+      "ai": 3,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 605,
+      "ai": 8,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 706,
+      "ai": 74,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 74
+      }
+    },
+    "2026-11": {
+      "total": 28,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    }
+  }
+}

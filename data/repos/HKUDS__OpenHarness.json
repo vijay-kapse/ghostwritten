@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "HKUDS/OpenHarness",
+  "org": "HKUDS",
+  "language": "Python",
+  "stars": 16150,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:49:18Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 282,
+      "ai": 36,
+      "automation": 0,
+      "merges": 62,
+      "by_rule": {
+        "claude_trailer": 18,
+        "copilot_trailer": 15,
+        "copilot_author": 3
+      }
+    },
+    "2026-05": {
+      "total": 64,
+      "ai": 5,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {
+        "claude_trailer": 3,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-06": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

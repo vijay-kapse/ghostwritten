@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "repo": "architecture-decision-record/architecture-decision-record",
+  "org": "architecture-decision-record",
+  "language": "CSS",
+  "stars": 17377,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:27:13Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 8,
+      "ai": 6,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-10": {
+      "total": 141,
+      "ai": 134,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 134
+      }
+    }
+  }
+}

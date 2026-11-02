@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "steven-tey/novel",
+  "org": "steven-tey",
+  "language": "TypeScript",
+  "stars": 16463,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:42:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 7,
+      "ai": 0,
+      "automation": 1,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "dagger/dagger",
+  "org": "dagger",
+  "language": "Go",
+  "stars": 16567,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:41:35Z",
+  "window_start": "2026-09-14",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 1304,
+      "ai": 2,
+      "automation": 0,
+      "merges": 136,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 1243,
+      "ai": 11,
+      "automation": 2,
+      "merges": 315,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    }
+  }
+}

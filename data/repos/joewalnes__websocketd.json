@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "joewalnes/websocketd",
+  "org": "joewalnes",
+  "language": "Go",
+  "stars": 17454,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:26:04Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 59,
+      "ai": 59,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 59
+      }
+    },
+    "2026-07": {
+      "total": 22,
+      "ai": 22,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 22
+      }
+    },
+    "2026-08": {
+      "total": 31,
+      "ai": 21,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-09": {
+      "total": 23,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "TransformerOptimus/SuperAGI",
+  "org": "TransformerOptimus",
+  "language": "Python",
+  "stars": 17723,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:22:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

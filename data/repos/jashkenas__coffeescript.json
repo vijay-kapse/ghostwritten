@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "jashkenas/coffeescript",
+  "org": "jashkenas",
+  "language": "CoffeeScript",
+  "stars": 16596,
+  "default_branch": "main",
+  "scanned_at": "2026-11-02T11:41:13Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
+    }
+  }
+}

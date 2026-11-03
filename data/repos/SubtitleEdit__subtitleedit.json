@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "SubtitleEdit/subtitleedit",
+  "org": "SubtitleEdit",
+  "language": "C#",
+  "stars": 14811,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:03:39Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 154,
+      "ai": 60,
+      "automation": 0,
+      "merges": 99,
+      "by_rule": {
+        "claude_trailer": 59,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 25,
+      "ai": 19,
+      "automation": 0,
+      "merges": 22,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    }
+  }
+}

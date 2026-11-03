@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "memstechtips/Winhance",
+  "org": "memstechtips",
+  "language": "C#",
+  "stars": 14592,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:04:54Z",
+  "window_start": "2026-05-05",
+  "complete": false,
+  "months": {
+    "2026-05": {
+      "total": 167,
+      "ai": 30,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 30
+      }
+    },
+    "2026-06": {
+      "total": 113,
+      "ai": 53,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 53
+      }
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

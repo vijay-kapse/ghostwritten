@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "storytold/lightcraft",
+  "org": "storytold",
+  "language": "Rust",
+  "stars": 15243,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:01:13Z",
+  "window_start": "2026-10-30",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 84,
+      "ai": 17,
+      "automation": 0,
+      "merges": 213,
+      "by_rule": {
+        "claude_trailer": 14,
+        "codex_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

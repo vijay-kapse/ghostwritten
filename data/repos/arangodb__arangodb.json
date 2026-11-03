@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "arangodb/arangodb",
+  "org": "arangodb",
+  "language": "C++",
+  "stars": 14291,
+  "default_branch": "devel",
+  "scanned_at": "2026-11-01T23:06:41Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 201,
+      "ai": 1,
+      "automation": 0,
+      "merges": 99,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

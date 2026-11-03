@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "jpmorganchase/python-training",
+  "org": "jpmorganchase",
+  "language": "Jupyter Notebook",
+  "stars": 14321,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-08": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

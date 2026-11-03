@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "daijro/camoufox",
+  "org": "daijro",
+  "language": "Python",
+  "stars": 12967,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:15Z",
+  "window_start": "2026-07-28",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 32,
+      "ai": 21,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-08": {
+      "total": 26,
+      "ai": 8,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-09": {
+      "total": 56,
+      "ai": 40,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 40
+      }
+    },
+    "2026-10": {
+      "total": 133,
+      "ai": 113,
+      "automation": 0,
+      "merges": 40,
+      "by_rule": {
+        "claude_trailer": 113
+      }
+    }
+  }
+}

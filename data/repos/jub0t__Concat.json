@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "jub0t/Concat",
+  "org": "jub0t",
+  "language": "Rust",
+  "stars": 13532,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:11:17Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 212,
+      "automation": 1,
+      "merges": 33,
+      "by_rule": {
+        "claude_trailer": 212
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "repo": "reduxjs/redux-devtools",
+  "org": "reduxjs",
+  "language": "TypeScript",
+  "stars": 14372,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:18Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 0,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 0,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 2,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 0,
+      "ai": 0,
+      "automation": 18,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 0,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 0,
+      "ai": 0,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 0,
+      "ai": 0,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 0,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 9,
+      "ai": 0,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 0,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 0,
+      "ai": 0,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 66,
+      "ai": 0,
+      "automation": 1,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 2,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

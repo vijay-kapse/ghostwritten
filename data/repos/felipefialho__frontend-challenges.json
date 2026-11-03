@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "felipefialho/frontend-challenges",
+  "org": "felipefialho",
+  "language": null,
+  "stars": 15047,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:25Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

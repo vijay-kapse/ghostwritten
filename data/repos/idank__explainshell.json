@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "idank/explainshell",
+  "org": "idank",
+  "language": "Python",
+  "stars": 14322,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:06:32Z",
+  "window_start": "2026-04-12",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 247,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 23,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

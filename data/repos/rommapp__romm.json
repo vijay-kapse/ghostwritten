@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "rommapp/romm",
+  "org": "rommapp",
+  "language": "Python",
+  "stars": 14193,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:07:11Z",
+  "window_start": "2026-10-01",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 262,
+      "ai": 153,
+      "automation": 26,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 152,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "semantica-agi/semantica",
+  "org": "semantica-agi",
+  "language": "Python",
+  "stars": 14373,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:16Z",
+  "window_start": "2026-09-13",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 111,
+      "ai": 9,
+      "automation": 10,
+      "merges": 30,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-10": {
+      "total": 134,
+      "ai": 8,
+      "automation": 9,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

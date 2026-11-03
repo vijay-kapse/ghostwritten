@@ -1,0 +1,121 @@
+{
+  "schema": 1,
+  "repo": "iptv-org/awesome-iptv",
+  "org": "iptv-org",
+  "language": null,
+  "stars": 12799,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:16:30Z",
+  "window_start": "2025-08-07",
+  "complete": false,
+  "months": {
+    "2025-08": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 19,
+      "ai": 2,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 30,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 9,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 19,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "makerspet/oomwoo",
+  "org": "makerspet",
+  "language": "Python",
+  "stars": 12925,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:38Z",
+  "window_start": "2026-07-01",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 132,
+      "ai": 28,
+      "automation": 0,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    },
+    "2026-08": {
+      "total": 31,
+      "ai": 10,
+      "automation": 9,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-09": {
+      "total": 24,
+      "ai": 9,
+      "automation": 8,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-10": {
+      "total": 37,
+      "ai": 7,
+      "automation": 9,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 6,
+        "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "debezium/debezium",
+  "org": "debezium",
+  "language": "Java",
+  "stars": 13302,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:12:28Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 286,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 14,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

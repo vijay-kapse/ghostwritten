@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "codecentric/spring-boot-admin",
+  "org": "codecentric",
+  "language": "Java",
+  "stars": 12853,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:16:09Z",
+  "window_start": "2026-07-16",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 11,
+      "ai": 0,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 3,
+      "ai": 0,
+      "automation": 71,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 6,
+      "ai": 0,
+      "automation": 59,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 25,
+      "ai": 2,
+      "automation": 89,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

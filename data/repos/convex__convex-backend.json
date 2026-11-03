@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "convex/convex-backend",
+  "org": "convex",
+  "language": "TypeScript",
+  "stars": 12773,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:16:42Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 290,
+      "ai": 8,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "devin": 8
+      }
+    }
+  }
+}

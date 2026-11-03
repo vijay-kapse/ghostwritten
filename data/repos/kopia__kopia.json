@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "repo": "kopia/kopia",
+  "org": "kopia",
+  "language": "Go",
+  "stars": 14551,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:05:11Z",
+  "window_start": "2026-03-11",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 16,
+      "ai": 1,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 30,
+      "ai": 1,
+      "automation": 23,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1
+      }
+    },
+    "2026-05": {
+      "total": 9,
+      "ai": 1,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 20,
+      "ai": 1,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1
+      }
+    },
+    "2026-07": {
+      "total": 20,
+      "ai": 1,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1
+      }
+    },
+    "2026-08": {
+      "total": 10,
+      "ai": 0,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 34,
+      "ai": 0,
+      "automation": 17,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 20,
+      "ai": 1,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

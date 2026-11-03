@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "musescore/MuseScore",
+  "org": "musescore",
+  "language": "C++",
+  "stars": 15343,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:00:00Z",
+  "window_start": "2026-10-02",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 227,
+      "ai": 19,
+      "automation": 4,
+      "merges": 69,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    }
+  }
+}

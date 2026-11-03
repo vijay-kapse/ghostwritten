@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "repo": "elastic/beats",
+  "org": "elastic",
+  "language": "Go",
+  "stars": 12649,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:17:51Z",
+  "window_start": "2026-09-02",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 99,
+      "ai": 24,
+      "automation": 31,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 15,
+        "cursor": 7,
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
+    },
+    "2026-10": {
+      "total": 130,
+      "ai": 37,
+      "automation": 39,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 29,
+        "cursor": 8,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "graphile/crystal",
+  "org": "graphile",
+  "language": "TypeScript",
+  "stars": 12935,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:34Z",
+  "window_start": "2026-09-07",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 174,
+      "ai": 0,
+      "automation": 4,
+      "merges": 30,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 71,
+      "ai": 1,
+      "automation": 3,
+      "merges": 18,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "repo": "simonw/llm",
+  "org": "simonw",
+  "language": "Python",
+  "stars": 12687,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:17:18Z",
+  "window_start": "2026-04-22",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 35,
+      "ai": 8,
+      "automation": 2,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-05": {
+      "total": 16,
+      "ai": 1,
+      "automation": 2,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 17,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-07": {
+      "total": 93,
+      "ai": 40,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 40
+      }
+    },
+    "2026-08": {
+      "total": 76,
+      "ai": 7,
+      "automation": 2,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-09": {
+      "total": 31,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

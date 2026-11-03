@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "Tracer-Cloud/opensre",
+  "org": "Tracer-Cloud",
+  "language": "Python",
+  "stars": 12647,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:17:55Z",
+  "window_start": "2026-10-02",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 263,
+      "ai": 97,
+      "automation": 36,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 76,
+        "cursor": 21
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

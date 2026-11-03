@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "KAYOKG/BibliotecaDev",
+  "org": "KAYOKG",
+  "language": "HTML",
+  "stars": 15244,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:01:11Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

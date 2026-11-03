@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "huggingface/speech-to-speech",
+  "org": "huggingface",
+  "language": "Python",
+  "stars": 13615,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:10:43Z",
+  "window_start": "2026-10-04",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 195,
+      "ai": 2,
+      "automation": 2,
+      "merges": 102,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

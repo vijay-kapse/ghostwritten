@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "repo": "casdoor/casdoor",
+  "org": "casdoor",
+  "language": "Go",
+  "stars": 14726,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:04:08Z",
+  "window_start": "2026-09-26",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 43,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 236,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 21,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

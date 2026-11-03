@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "liketrek/TREK",
+  "org": "liketrek",
+  "language": "TypeScript",
+  "stars": 15298,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:00:43Z",
+  "window_start": "2026-10-24",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 297,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

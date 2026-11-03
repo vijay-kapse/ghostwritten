@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "InsForge/InsForge",
+  "org": "InsForge",
+  "language": "TypeScript",
+  "stars": 13274,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:12:48Z",
+  "window_start": "2026-08-06",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 159,
+      "ai": 96,
+      "automation": 12,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 94,
+        "cursor": 2
+      }
+    },
+    "2026-09": {
+      "total": 15,
+      "ai": 7,
+      "automation": 3,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-10": {
+      "total": 31,
+      "ai": 30,
+      "automation": 2,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 27,
+        "claude_generated": 3
+      }
+    }
+  }
+}

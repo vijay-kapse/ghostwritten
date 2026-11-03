@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "repo": "fish2018/pansou",
+  "org": "fish2018",
+  "language": "Go",
+  "stars": 15101,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:04Z",
+  "window_start": "2025-08-24",
+  "complete": false,
+  "months": {
+    "2025-08": {
+      "total": 16,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 39,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 37,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 9,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 129,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

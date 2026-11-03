@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "tamagui/tamagui",
+  "org": "tamagui",
+  "language": "TypeScript",
+  "stars": 14295,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:39Z",
+  "window_start": "2026-10-09",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 259,
+      "ai": 1,
+      "automation": 29,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "nearai/ironclaw",
+  "org": "nearai",
+  "language": "Rust",
+  "stars": 12702,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:17:12Z",
+  "window_start": "2026-08-05",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 246,
+      "ai": 91,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 91
+      }
+    },
+    "2026-09": {
+      "total": 30,
+      "ai": 15,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "repo": "livekit/agents",
+  "org": "livekit",
+  "language": "Python",
+  "stars": 15039,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:27Z",
+  "window_start": "2026-09-22",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 36,
+      "ai": 9,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "devin": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 240,
+      "ai": 64,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 57,
+        "devin": 6,
+        "cursor": 2,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

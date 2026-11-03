@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "0xk1h0/ChatGPT_DAN",
+  "org": "0xk1h0",
+  "language": null,
+  "stars": 13056,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:14:35Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

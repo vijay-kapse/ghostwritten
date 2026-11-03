@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "supertokens/supertokens-core",
+  "org": "supertokens",
+  "language": "Java",
+  "stars": 15341,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:00:03Z",
+  "window_start": "2026-08-28",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 19,
+      "ai": 17,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    },
+    "2026-09": {
+      "total": 91,
+      "ai": 69,
+      "automation": 6,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 69
+      }
+    },
+    "2026-10": {
+      "total": 73,
+      "ai": 68,
+      "automation": 0,
+      "merges": 69,
+      "by_rule": {
+        "claude_trailer": 68
+      }
+    }
+  }
+}

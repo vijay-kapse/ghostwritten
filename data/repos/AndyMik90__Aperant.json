@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "AndyMik90/Aperant",
+  "org": "AndyMik90",
+  "language": "TypeScript",
+  "stars": 14584,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T23:04:58Z",
+  "window_start": "2026-02-06",
+  "complete": false,
+  "months": {
+    "2026-02": {
+      "total": 253,
+      "ai": 225,
+      "automation": 0,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 225
+      }
+    },
+    "2026-03": {
+      "total": 17,
+      "ai": 16,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

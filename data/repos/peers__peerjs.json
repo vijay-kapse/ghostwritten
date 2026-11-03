@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "peers/peerjs",
+  "org": "peers",
+  "language": "TypeScript",
+  "stars": 13500,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:11:26Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-04": {
+      "total": 0,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

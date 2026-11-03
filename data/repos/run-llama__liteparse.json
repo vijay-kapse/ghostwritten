@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "run-llama/liteparse",
+  "org": "run-llama",
+  "language": "Rust",
+  "stars": 12968,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:13Z",
+  "window_start": "2026-08-03",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 114,
+      "ai": 8,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-09": {
+      "total": 55,
+      "ai": 9,
+      "automation": 0,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-10": {
+      "total": 47,
+      "ai": 24,
+      "automation": 1,
+      "merges": 31,
+      "by_rule": {
+        "claude_trailer": 14,
+        "devin": 10
+      }
+    }
+  }
+}

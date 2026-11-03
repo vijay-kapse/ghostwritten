@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "repo": "zitadel/zitadel",
+  "org": "zitadel",
+  "language": "Go",
+  "stars": 15492,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T22:59:15Z",
+  "window_start": "2026-03-16",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 42,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 10,
+        "cursor": 1
+      }
+    },
+    "2026-04": {
+      "total": 52,
+      "ai": 11,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 10,
+        "claude_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 8,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 31,
+      "ai": 4,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
+    },
+    "2026-07": {
+      "total": 60,
+      "ai": 27,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 17,
+        "cursor": 7,
+        "claude_trailer": 6,
+        "claude_generated": 3
+      }
+    },
+    "2026-08": {
+      "total": 34,
+      "ai": 19,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "cursor": 7,
+        "copilot_trailer": 5,
+        "claude_generated": 4
+      }
+    },
+    "2026-09": {
+      "total": 35,
+      "ai": 24,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "cursor": 11,
+        "claude_generated": 4,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 26,
+      "ai": 19,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18,
+        "claude_generated": 13,
+        "cursor": 1
+      }
+    }
+  }
+}

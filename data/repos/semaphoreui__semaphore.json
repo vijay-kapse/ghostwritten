@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "semaphoreui/semaphore",
+  "org": "semaphoreui",
+  "language": "Go",
+  "stars": 14357,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T23:06:23Z",
+  "window_start": "2026-10-04",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 246,
+      "ai": 18,
+      "automation": 3,
+      "merges": 51,
+      "by_rule": {
+        "copilot_trailer": 13,
+        "claude_trailer": 4,
+        "copilot_author": 1
+      }
+    }
+  }
+}

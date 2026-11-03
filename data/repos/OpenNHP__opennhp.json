@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "OpenNHP/opennhp",
+  "org": "OpenNHP",
+  "language": "Go",
+  "stars": 13953,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:08:31Z",
+  "window_start": "2026-09-11",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 75,
+      "ai": 10,
+      "automation": 17,
+      "merges": 47,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-10": {
+      "total": 93,
+      "ai": 14,
+      "automation": 32,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 14
+      }
+    }
+  }
+}

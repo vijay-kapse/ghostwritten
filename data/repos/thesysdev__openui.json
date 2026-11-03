@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "thesysdev/openui",
+  "org": "thesysdev",
+  "language": "TypeScript",
+  "stars": 14609,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:04:48Z",
+  "window_start": "2026-08-13",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 84,
+      "ai": 17,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "devin": 6,
+        "copilot_author": 1,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 99,
+      "ai": 49,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27,
+        "devin": 20,
+        "claude_generated": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 94,
+      "ai": 68,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "devin": 50,
+        "claude_trailer": 19,
+        "claude_generated": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "apache/pulsar",
+  "org": "apache",
+  "language": "Java",
+  "stars": 15354,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T22:59:53Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 294,
+      "ai": 4,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

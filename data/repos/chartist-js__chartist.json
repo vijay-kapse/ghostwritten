@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "chartist-js/chartist",
+  "org": "chartist-js",
+  "language": "TypeScript",
+  "stars": 13453,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:11:42Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 276,
+      "ai": 0,
+      "automation": 5,
+      "merges": 19,
+      "by_rule": {}
+    }
+  }
+}

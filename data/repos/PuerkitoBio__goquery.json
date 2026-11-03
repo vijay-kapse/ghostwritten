@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "repo": "PuerkitoBio/goquery",
+  "org": "PuerkitoBio",
+  "language": "Go",
+  "stars": 14989,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:02:45Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 3,
+      "ai": 0,
+      "automation": 1,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 2,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 1,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 0,
+      "ai": 0,
+      "automation": 2,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 2,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 2,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 21,
+      "ai": 0,
+      "automation": 2,
+      "merges": 20,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 8,
+      "ai": 0,
+      "automation": 2,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 3,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 5,
+      "ai": 0,
+      "automation": 1,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 0,
+      "automation": 1,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    }
+  }
+}

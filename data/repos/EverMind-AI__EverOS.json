@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "repo": "EverMind-AI/EverOS",
+  "org": "EverMind-AI",
+  "language": "Python",
+  "stars": 13751,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:09:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-06": {
+      "total": 35,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 30,
+      "ai": 24,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 24
+      }
+    },
+    "2026-08": {
+      "total": 18,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-09": {
+      "total": 28,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 28,
+      "ai": 27,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27
+      }
+    }
+  }
+}

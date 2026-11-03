@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "repo": "XiaomiMiMo/MiMo-Code",
+  "org": "XiaomiMiMo",
+  "language": "TypeScript",
+  "stars": 13741,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:10:04Z",
+  "window_start": "2026-08-25",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 33,
+      "ai": 3,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "cursor": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 131,
+      "ai": 2,
+      "automation": 0,
+      "merges": 32,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2026-10": {
+      "total": 84,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    }
+  }
+}

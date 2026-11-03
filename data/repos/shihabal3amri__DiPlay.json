@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "shihabal3amri/DiPlay",
+  "org": "shihabal3amri",
+  "language": "Kotlin",
+  "stars": 13018,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:14:54Z",
+  "window_start": "2026-10-17",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 171,
+      "ai": 24,
+      "automation": 0,
+      "merges": 129,
+      "by_rule": {
+        "claude_trailer": 19,
+        "copilot_trailer": 5
+      }
+    }
+  }
+}

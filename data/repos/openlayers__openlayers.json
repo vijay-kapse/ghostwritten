@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "openlayers/openlayers",
+  "org": "openlayers",
+  "language": "JavaScript",
+  "stars": 12640,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:17:58Z",
+  "window_start": "2026-06-24",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 4,
+      "ai": 1,
+      "automation": 2,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 85,
+      "ai": 7,
+      "automation": 10,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 5,
+        "copilot_author": 2
+      }
+    },
+    "2026-08": {
+      "total": 29,
+      "ai": 0,
+      "automation": 5,
+      "merges": 18,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 28,
+      "ai": 2,
+      "automation": 3,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 34,
+      "ai": 3,
+      "automation": 3,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "prowler-cloud/prowler",
+  "org": "prowler-cloud",
+  "language": "Python",
+  "stars": 15150,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:01:56Z",
+  "window_start": "2026-08-17",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 68,
+      "ai": 2,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 110,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 119,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

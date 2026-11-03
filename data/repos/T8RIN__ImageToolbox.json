@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "T8RIN/ImageToolbox",
+  "org": "T8RIN",
+  "language": "Kotlin",
+  "stars": 15287,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:00:49Z",
+  "window_start": "2026-09-11",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 46,
+      "ai": 0,
+      "automation": 4,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 174,
+      "ai": 0,
+      "automation": 16,
+      "merges": 38,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    }
+  }
+}

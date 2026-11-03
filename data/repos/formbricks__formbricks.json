@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "formbricks/formbricks",
+  "org": "formbricks",
+  "language": "TypeScript",
+  "stars": 13208,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:13:13Z",
+  "window_start": "2026-09-24",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 57,
+      "ai": 28,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    },
+    "2026-10": {
+      "total": 238,
+      "ai": 117,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 116,
+        "codex_trailer": 1
+      }
+    }
+  }
+}

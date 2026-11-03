@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "emdash-cms/emdash",
+  "org": "emdash-cms",
+  "language": "TypeScript",
+  "stars": 14093,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:07:50Z",
+  "window_start": "2026-10-12",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 158,
+      "ai": 16,
+      "automation": 130,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 1,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

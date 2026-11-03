@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "apify/apify-mcp-server",
+  "org": "apify",
+  "language": "TypeScript",
+  "stars": 14241,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:06:57Z",
+  "window_start": "2026-08-18",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 38,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "claude_generated": 1
+      }
+    },
+    "2026-09": {
+      "total": 77,
+      "ai": 22,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 22,
+        "claude_generated": 7
+      }
+    },
+    "2026-10": {
+      "total": 185,
+      "ai": 74,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 68,
+        "claude_generated": 55,
+        "copilot_trailer": 3,
+        "cursor": 1
+      }
+    }
+  }
+}

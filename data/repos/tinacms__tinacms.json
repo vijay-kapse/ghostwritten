@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "repo": "tinacms/tinacms",
+  "org": "tinacms",
+  "language": "TypeScript",
+  "stars": 13858,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:09:10Z",
+  "window_start": "2026-06-03",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 34,
+      "ai": 25,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 25,
+        "claude_generated": 11
+      }
+    },
+    "2026-07": {
+      "total": 52,
+      "ai": 36,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 36,
+        "claude_generated": 1
+      }
+    },
+    "2026-08": {
+      "total": 49,
+      "ai": 38,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 38,
+        "claude_generated": 9,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 46,
+      "ai": 38,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 37,
+        "claude_generated": 11,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 73,
+      "ai": 59,
+      "automation": 18,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 58,
+        "claude_generated": 11,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

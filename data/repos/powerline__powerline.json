@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "powerline/powerline",
+  "org": "powerline",
+  "language": "Python",
+  "stars": 14838,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T23:03:28Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

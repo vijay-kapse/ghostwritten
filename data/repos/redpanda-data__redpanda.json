@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "redpanda-data/redpanda",
+  "org": "redpanda-data",
+  "language": "C++",
+  "stars": 12651,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T23:17:48Z",
+  "window_start": "2026-08-03",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 205,
+      "ai": 22,
+      "automation": 0,
+      "merges": 93,
+      "by_rule": {
+        "claude_trailer": 22
+      }
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

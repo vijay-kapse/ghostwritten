@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "lsdefine/GenericAgent",
+  "org": "lsdefine",
+  "language": "Python",
+  "stars": 14380,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:08Z",
+  "window_start": "2026-06-18",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 77,
+      "ai": 1,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 79,
+      "ai": 0,
+      "automation": 0,
+      "merges": 18,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 46,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 18,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 44,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "fathah/hermes-desktop",
+  "org": "fathah",
+  "language": "TypeScript",
+  "stars": 14509,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:05:23Z",
+  "window_start": "2026-07-16",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 36,
+      "ai": 1,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 19,
+      "ai": 1,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 65,
+      "ai": 2,
+      "automation": 0,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 87,
+      "ai": 4,
+      "automation": 0,
+      "merges": 43,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    }
+  }
+}

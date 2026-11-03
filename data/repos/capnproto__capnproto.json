@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "capnproto/capnproto",
+  "org": "capnproto",
+  "language": "C++",
+  "stars": 13234,
+  "default_branch": "v2",
+  "scanned_at": "2026-11-01T23:13:05Z",
+  "window_start": "2026-02-12",
+  "complete": false,
+  "months": {
+    "2026-02": {
+      "total": 10,
+      "ai": 4,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-03": {
+      "total": 28,
+      "ai": 13,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-04": {
+      "total": 22,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 31,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 29,
+      "ai": 1,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 44,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 35,
+      "ai": 4,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 27,
+      "ai": 8,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

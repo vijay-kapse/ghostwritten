@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "OrchestratorInc/agent-orchestrator",
+  "org": "OrchestratorInc",
+  "language": "Go",
+  "stars": 13995,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:08:13Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 272,
+      "ai": 131,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 131
+      }
+    },
+    "2026-11": {
+      "total": 28,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    }
+  }
+}

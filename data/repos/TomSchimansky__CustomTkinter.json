@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "TomSchimansky/CustomTkinter",
+  "org": "TomSchimansky",
+  "language": "Python",
+  "stars": 13597,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:10:54Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-07": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 30,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

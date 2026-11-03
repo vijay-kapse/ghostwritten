@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "repo": "cert-manager/cert-manager",
+  "org": "cert-manager",
+  "language": "Go",
+  "stars": 14146,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:07:32Z",
+  "window_start": "2026-08-30",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 5,
+      "ai": 3,
+      "automation": 5,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 41,
+      "ai": 18,
+      "automation": 49,
+      "merges": 59,
+      "by_rule": {
+        "claude_trailer": 17,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 20,
+      "ai": 13,
+      "automation": 49,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 6,
+      "by_rule": {}
+    }
+  }
+}

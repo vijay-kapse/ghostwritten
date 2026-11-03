@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "FreeRDP/FreeRDP",
+  "org": "FreeRDP",
+  "language": "C",
+  "stars": 13922,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:08:45Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 211,
+      "ai": 2,
+      "automation": 0,
+      "merges": 89,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

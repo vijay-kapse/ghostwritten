@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "borgbackup/borg",
+  "org": "borgbackup",
+  "language": "Python",
+  "stars": 13899,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:08:53Z",
+  "window_start": "2026-09-19",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 101,
+      "ai": 57,
+      "automation": 4,
+      "merges": 51,
+      "by_rule": {
+        "claude_trailer": 57
+      }
+    },
+    "2026-10": {
+      "total": 72,
+      "ai": 39,
+      "automation": 9,
+      "merges": 62,
+      "by_rule": {
+        "claude_trailer": 39
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

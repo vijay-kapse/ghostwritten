@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "repo": "NevaMind-AI/memU",
+  "org": "NevaMind-AI",
+  "language": "Python",
+  "stars": 14591,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:04:56Z",
+  "window_start": "2025-12-05",
+  "complete": false,
+  "months": {
+    "2025-12": {
+      "total": 13,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 70,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 14,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 4,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 35,
+      "ai": 22,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 16,
+        "claude_trailer": 5,
+        "copilot_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 97,
+      "ai": 66,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 66
+      }
+    },
+    "2026-08": {
+      "total": 27,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "codex_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 15,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 11,
+        "claude_trailer": 2
+      }
+    }
+  }
+}

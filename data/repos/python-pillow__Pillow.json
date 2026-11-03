@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "python-pillow/Pillow",
+  "org": "python-pillow",
+  "language": "Python",
+  "stars": 13956,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:08:29Z",
+  "window_start": "2026-09-23",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 32,
+      "ai": 1,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 218,
+      "ai": 36,
+      "automation": 11,
+      "merges": 30,
+      "by_rule": {
+        "copilot_trailer": 24,
+        "claude_trailer": 20,
+        "copilot_author": 1
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

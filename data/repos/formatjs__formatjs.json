@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "formatjs/formatjs",
+  "org": "formatjs",
+  "language": "TypeScript",
+  "stars": 14754,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:03:56Z",
+  "window_start": "2026-09-28",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 2,
+      "ai": 1,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 128,
+      "ai": 1,
+      "automation": 156,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

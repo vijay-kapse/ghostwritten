@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "zai-org/ChatGLM3",
+  "org": "zai-org",
+  "language": "Python",
+  "stars": 13639,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:10:34Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

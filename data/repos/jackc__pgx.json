@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "jackc/pgx",
+  "org": "jackc",
+  "language": "Go",
+  "stars": 14373,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:06:14Z",
+  "window_start": "2026-03-21",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 10,
+      "ai": 5,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-04": {
+      "total": 11,
+      "ai": 2,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 19,
+      "ai": 6,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 29,
+      "ai": 8,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-07": {
+      "total": 48,
+      "ai": 31,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 31
+      }
+    },
+    "2026-08": {
+      "total": 36,
+      "ai": 18,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-09": {
+      "total": 30,
+      "ai": 4,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {
+        "claude_trailer": 3,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 37,
+      "ai": 2,
+      "automation": 0,
+      "merges": 19,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

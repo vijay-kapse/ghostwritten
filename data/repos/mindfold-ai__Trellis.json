@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "mindfold-ai/Trellis",
+  "org": "mindfold-ai",
+  "language": "TypeScript",
+  "stars": 15078,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:13Z",
+  "window_start": "2026-06-18",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 75,
+      "ai": 1,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 112,
+      "ai": 6,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-08": {
+      "total": 74,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 6,
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 9,
+      "ai": 1,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "cursor": 1
+      }
+    }
+  }
+}

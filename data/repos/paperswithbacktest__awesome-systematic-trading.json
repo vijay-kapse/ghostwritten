@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "paperswithbacktest/awesome-systematic-trading",
+  "org": "paperswithbacktest",
+  "language": "Python",
+  "stars": 15128,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:01:58Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 22,
+      "ai": 12,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-09": {
+      "total": 5,
+      "ai": 2,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

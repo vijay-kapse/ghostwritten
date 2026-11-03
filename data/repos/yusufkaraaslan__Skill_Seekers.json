@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "yusufkaraaslan/Skill_Seekers",
+  "org": "yusufkaraaslan",
+  "language": "Python",
+  "stars": 15263,
+  "default_branch": "development",
+  "scanned_at": "2026-11-01T23:01:05Z",
+  "window_start": "2026-02-22",
+  "complete": false,
+  "months": {
+    "2026-02": {
+      "total": 27,
+      "ai": 23,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    },
+    "2026-03": {
+      "total": 60,
+      "ai": 41,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 41
+      }
+    },
+    "2026-04": {
+      "total": 29,
+      "ai": 23,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    },
+    "2026-05": {
+      "total": 43,
+      "ai": 13,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-06": {
+      "total": 14,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-07": {
+      "total": 21,
+      "ai": 14,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 13,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 20,
+      "ai": 17,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    },
+    "2026-09": {
+      "total": 68,
+      "ai": 65,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 65
+      }
+    }
+  }
+}

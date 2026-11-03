@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "abpframework/abp",
+  "org": "abpframework",
+  "language": "C#",
+  "stars": 14465,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-01T23:05:42Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 122,
+      "ai": 4,
+      "automation": 10,
+      "merges": 163,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    }
+  }
+}

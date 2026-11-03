@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "repo": "jsdoc/jsdoc",
+  "org": "jsdoc",
+  "language": "JavaScript",
+  "stars": 15471,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T22:59:19Z",
+  "window_start": "2025-12-24",
+  "complete": false,
+  "months": {
+    "2025-12": {
+      "total": 2,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 5,
+      "ai": 0,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 13,
+      "ai": 0,
+      "automation": 17,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 21,
+      "ai": 0,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 6,
+      "ai": 0,
+      "automation": 24,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 25,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 1,
+      "ai": 0,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 3,
+      "ai": 0,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 0,
+      "ai": 0,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

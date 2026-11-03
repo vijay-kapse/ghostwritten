@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "dbt-labs/dbt",
+  "org": "dbt-labs",
+  "language": "Rust",
+  "stars": 14106,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:07:44Z",
+  "window_start": "2026-09-25",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 37,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 258,
+      "ai": 88,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 88
+      }
+    }
+  }
+}

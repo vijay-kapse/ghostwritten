@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "lokesh/color-thief",
+  "org": "lokesh",
+  "language": "TypeScript",
+  "stars": 13663,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:10:26Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 11,
+      "ai": 9,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-03": {
+      "total": 14,
+      "ai": 6,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-07": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "glideapps/quicktype",
+  "org": "glideapps",
+  "language": "TypeScript",
+  "stars": 13905,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:08:50Z",
+  "window_start": "2026-08-30",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 75,
+      "ai": 1,
+      "automation": 0,
+      "merges": 70,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 105,
+      "ai": 21,
+      "automation": 1,
+      "merges": 49,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    }
+  }
+}

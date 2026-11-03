@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "rolldown/rolldown",
+  "org": "rolldown",
+  "language": "Rust",
+  "stars": 13995,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:08:15Z",
+  "window_start": "2026-09-08",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 90,
+      "ai": 2,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 136,
+      "ai": 26,
+      "automation": 29,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 22,
+        "claude_trailer": 14
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

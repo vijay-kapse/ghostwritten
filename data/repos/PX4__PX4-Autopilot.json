@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "PX4/PX4-Autopilot",
+  "org": "PX4",
+  "language": "C++",
+  "stars": 12953,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:26Z",
+  "window_start": "2026-10-15",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 294,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

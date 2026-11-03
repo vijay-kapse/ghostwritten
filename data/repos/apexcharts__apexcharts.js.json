@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "apexcharts/apexcharts.js",
+  "org": "apexcharts",
+  "language": "JavaScript",
+  "stars": 15186,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:01:36Z",
+  "window_start": "2026-10-14",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 258,
+      "ai": 6,
+      "automation": 2,
+      "merges": 40,
+      "by_rule": {
+        "cursor": 4,
+        "claude_trailer": 2
+      }
+    }
+  }
+}

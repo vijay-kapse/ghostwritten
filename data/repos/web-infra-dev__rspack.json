@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "repo": "web-infra-dev/rspack",
+  "org": "web-infra-dev",
+  "language": "Rust",
+  "stars": 12966,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:18Z",
+  "window_start": "2026-10-07",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 7,
+      "automation": 27,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

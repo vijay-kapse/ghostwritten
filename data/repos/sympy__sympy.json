@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "repo": "sympy/sympy",
+  "org": "sympy",
+  "language": "Python",
+  "stars": 15056,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:02:24Z",
+  "window_start": "2026-09-04",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 73,
+      "ai": 22,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {
+        "claude_trailer": 22,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 141,
+      "ai": 17,
+      "automation": 1,
+      "merges": 56,
+      "by_rule": {
+        "claude_trailer": 17
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    }
+  }
+}

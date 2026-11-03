@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "NVIDIA/TensorRT-LLM",
+  "org": "NVIDIA",
+  "language": "Python",
+  "stars": 14986,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:47Z",
+  "window_start": "2026-10-23",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 293,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

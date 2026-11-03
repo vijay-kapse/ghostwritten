@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "Unleash/unleash",
+  "org": "Unleash",
+  "language": "TypeScript",
+  "stars": 13923,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:08:44Z",
+  "window_start": "2026-09-30",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 5,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 270,
+      "ai": 37,
+      "automation": 23,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 31,
+        "claude_generated": 6,
+        "copilot_author": 1,
+        "copilot_trailer": 1,
+        "devin": 1
+      }
+    }
+  }
+}

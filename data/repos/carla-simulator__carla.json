@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "carla-simulator/carla",
+  "org": "carla-simulator",
+  "language": "C++",
+  "stars": 14559,
+  "default_branch": "ue58-dev",
+  "scanned_at": "2026-11-01T23:05:07Z",
+  "window_start": "2026-08-19",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 135,
+      "ai": 110,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 110
+      }
+    },
+    "2026-09": {
+      "total": 86,
+      "ai": 49,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 48,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 67,
+      "ai": 22,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 22
+      }
+    }
+  }
+}

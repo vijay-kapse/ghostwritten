@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "elie222/inbox-zero",
+  "org": "elie222",
+  "language": "TypeScript",
+  "stars": 12878,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:15:52Z",
+  "window_start": "2026-10-10",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 271,
+      "ai": 193,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 184,
+        "cursor": 10
+      }
+    },
+    "2026-11": {
+      "total": 28,
+      "ai": 28,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "JetBrains/JetBrainsMono",
+  "org": "JetBrains",
+  "language": "Shell",
+  "stars": 13140,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:13:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

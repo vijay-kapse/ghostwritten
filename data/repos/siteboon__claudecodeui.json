@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "repo": "siteboon/claudecodeui",
+  "org": "siteboon",
+  "language": "TypeScript",
+  "stars": 14379,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:06:10Z",
+  "window_start": "2026-04-21",
+  "complete": false,
+  "months": {
+    "2026-04": {
+      "total": 22,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 15,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 89,
+      "ai": 9,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-07": {
+      "total": 25,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-08": {
+      "total": 15,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 57,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-10": {
+      "total": 53,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    }
+  }
+}

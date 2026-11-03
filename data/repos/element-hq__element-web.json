@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "element-hq/element-web",
+  "org": "element-hq",
+  "language": "TypeScript",
+  "stars": 13633,
+  "default_branch": "develop",
+  "scanned_at": "2026-11-01T23:10:39Z",
+  "window_start": "2026-09-22",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 58,
+      "ai": 1,
+      "automation": 27,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 153,
+      "ai": 10,
+      "automation": 59,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

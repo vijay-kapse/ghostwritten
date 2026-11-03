@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "Renhuai123/ziwei-doushu",
+  "org": "Renhuai123",
+  "language": "TypeScript",
+  "stars": 13026,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:14:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 7,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 6,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 7,
+      "ai": 6,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-10": {
+      "total": 30,
+      "ai": 30,
+      "automation": 1,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 30
+      }
+    }
+  }
+}

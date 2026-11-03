@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "repo": "aiming-lab/AutoResearchClaw",
+  "org": "aiming-lab",
+  "language": "Python",
+  "stars": 14798,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:03:43Z",
+  "window_start": "2026-03-15",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 157,
+      "ai": 8,
+      "automation": 0,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-04": {
+      "total": 33,
+      "ai": 1,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 17,
+      "ai": 5,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-06": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 5,
+      "ai": 1,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

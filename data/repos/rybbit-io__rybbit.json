@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "repo": "rybbit-io/rybbit",
+  "org": "rybbit-io",
+  "language": "TypeScript",
+  "stars": 13197,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:13:21Z",
+  "window_start": "2026-07-19",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 67,
+      "ai": 2,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 58,
+      "ai": 6,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-09": {
+      "total": 111,
+      "ai": 3,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 33,
+      "ai": 2,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

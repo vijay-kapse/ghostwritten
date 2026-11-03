@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "repo": "dotnet/AspNetCore.Docs",
+  "org": "dotnet",
+  "language": "C#",
+  "stars": 13152,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:13:45Z",
+  "window_start": "2026-08-20",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 29,
+      "ai": 17,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 17,
+        "copilot_author": 15
+      }
+    },
+    "2026-09": {
+      "total": 70,
+      "ai": 23,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 21,
+        "copilot_author": 16
+      }
+    },
+    "2026-10": {
+      "total": 164,
+      "ai": 29,
+      "automation": 33,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 15,
+        "copilot_author": 14
+      }
+    }
+  }
+}

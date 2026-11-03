@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "tomnomnom/gron",
+  "org": "tomnomnom",
+  "language": "Go",
+  "stars": 14535,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:05:14Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-05": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {}
+    }
+  }
+}

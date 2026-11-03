@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "alienator88/Pearcleaner",
+  "org": "alienator88",
+  "language": "Swift",
+  "stars": 15021,
+  "default_branch": "main",
+  "scanned_at": "2026-11-01T23:02:31Z",
+  "window_start": "2025-10-14",
+  "complete": false,
+  "months": {
+    "2025-10": {
+      "total": 130,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 148,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "YuJunZhiXue/dsh-purge",
+  "org": "YuJunZhiXue",
+  "language": "JavaScript",
+  "stars": 15308,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:00:24Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 28,
+      "ai": 3,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

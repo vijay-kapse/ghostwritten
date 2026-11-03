@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "repo": "seleniumbase/SeleniumBase",
+  "org": "seleniumbase",
+  "language": "Python",
+  "stars": 13218,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:13:09Z",
+  "window_start": "2026-08-05",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 66,
+      "ai": 1,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 102,
+      "ai": 0,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 93,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    }
+  }
+}

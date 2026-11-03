@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "searx/searx",
+  "org": "searx",
+  "language": "Python",
+  "stars": 13562,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:11:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

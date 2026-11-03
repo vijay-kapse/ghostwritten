@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "ggml-org/ggml",
+  "org": "ggml-org",
+  "language": "C++",
+  "stars": 15567,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T22:58:54Z",
+  "window_start": "2026-10-04",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 300,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

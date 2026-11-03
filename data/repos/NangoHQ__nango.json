@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "repo": "NangoHQ/nango",
+  "org": "NangoHQ",
+  "language": "TypeScript",
+  "stars": 13073,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:14:21Z",
+  "window_start": "2026-10-01",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 267,
+      "ai": 39,
+      "automation": 33,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 26,
+        "claude_generated": 19,
+        "cursor": 13
+      }
+    }
+  }
+}

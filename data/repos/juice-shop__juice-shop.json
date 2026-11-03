@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "juice-shop/juice-shop",
+  "org": "juice-shop",
+  "language": "TypeScript",
+  "stars": 14325,
+  "default_branch": "master",
+  "scanned_at": "2026-11-01T23:06:30Z",
+  "window_start": "2026-07-25",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 21,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 55,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 186,
+      "ai": 0,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    }
+  }
+}

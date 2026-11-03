@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T11:17:00Z",
+  "generated_at": "2026-11-03T10:57:27Z",
   "top_refreshed_at": "2026-11-01T20:34:35Z",
   "selection": "top 5000 by stars (search stars:>1000, non-fork), plus on-demand lookups",
   "repos": [
@@ -9,6 +9,15 @@
       "stars": 3945,
       "language": "Python",
       "default_branch": "main",
+      "archived": false,
+      "fork": false,
+      "source": "request"
+    },
+    {
+      "repo": "skizzophrenic/SquachWatch-CYD",
+      "stars": 445,
+      "language": "C++",
+      "default_branch": "master",
       "archived": false,
       "fork": false,
       "source": "request"
@@ -45025,6 +45034,7 @@
   ],
   "resolved_requests": [
     "huggingface/smollm",
+    "skizzophrenic/squachwatch-cyd",
     "sveltejs/kit",
     "vijay-kapse/ghostwritten"
   ]

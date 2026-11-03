@@ -5,26 +5,96 @@
   "language": "TypeScript",
   "stars": 22980,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:25:55Z",
-  "window_start": "2026-10-18",
+  "scanned_at": "2026-11-03T11:24:02Z",
+  "window_start": "2026-04-08",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 142,
-      "ai": 87,
-      "automation": 150,
+    "2026-04": {
+      "total": 182,
+      "ai": 46,
+      "automation": 179,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 86,
-        "amp_factory": 1
+        "claude_trailer": 40,
+        "copilot_trailer": 8
+      }
+    },
+    "2026-05": {
+      "total": 170,
+      "ai": 24,
+      "automation": 248,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 22,
+        "copilot_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 138,
+      "ai": 36,
+      "automation": 204,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 35,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 159,
+      "ai": 48,
+      "automation": 266,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 44,
+        "copilot_trailer": 3,
+        "codex_trailer": 1,
+        "copilot_author": 1
+      }
+    },
+    "2026-08": {
+      "total": 174,
+      "ai": 91,
+      "automation": 196,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 89,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 412,
+      "ai": 219,
+      "automation": 277,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 218,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 262,
+      "ai": 160,
+      "automation": 325,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 158,
+        "amp_factory": 1,
+        "codex_trailer": 1,
+        "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 0,
-      "automation": 7,
+      "total": 22,
+      "ai": 9,
+      "automation": 25,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 9
+      }
     }
   }
 }

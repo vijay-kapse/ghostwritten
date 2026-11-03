@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "GoogleContainerTools/distroless",
-  "head_sha": "e376b9e184a9d3fac863dc9fa5620bf5c562dd71",
-  "oldest": "2026-03-05T21:22:35Z",
-  "complete": false,
+  "head_sha": "c3bf6a1d94037418960aa093212f11a943334266",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-01T21:25:20Z"
+  "updated_at": "2026-11-03T11:22:09Z"
 }

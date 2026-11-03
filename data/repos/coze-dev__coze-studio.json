@@ -5,15 +5,15 @@
   "language": "TypeScript",
   "stars": 21790,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:28:50Z",
-  "window_start": "2025-07-30",
-  "complete": false,
+  "scanned_at": "2026-11-03T11:37:12Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-07": {
-      "total": 30,
+      "total": 121,
       "ai": 1,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
         "copilot_trailer": 1
       }

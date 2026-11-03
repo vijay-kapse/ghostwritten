@@ -5,12 +5,157 @@
   "language": "Java",
   "stars": 24664,
   "default_branch": "dev-v3",
-  "scanned_at": "2026-11-01T21:22:26Z",
-  "window_start": "2026-10-08",
+  "scanned_at": "2026-11-03T11:07:32Z",
+  "window_start": "2025-03-07",
   "complete": false,
   "months": {
+    "2025-03": {
+      "total": 238,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 294,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 80,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 27,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 20,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 101,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 232,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 58,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 58,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 48,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 20,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 11,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 24,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 118,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 186,
+      "ai": 4,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 3,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 252,
+      "ai": 4,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-07": {
+      "total": 197,
+      "ai": 0,
+      "automation": 0,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 551,
+      "ai": 1,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 282,
+      "ai": 1,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
     "2026-10": {
-      "total": 288,
+      "total": 292,
       "ai": 4,
       "automation": 7,
       "merges": 4,
@@ -20,7 +165,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 29,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -5,12 +5,12 @@
   "language": "Python",
   "stars": 25893,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:20:20Z",
-  "window_start": "2026-08-12",
-  "complete": false,
+  "scanned_at": "2026-11-03T10:57:54Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-08": {
-      "total": 179,
+      "total": 195,
       "ai": 29,
       "automation": 11,
       "merges": 55,

@@ -5,7 +5,7 @@
   "language": "Jupyter Notebook",
   "stars": 24777,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:22:16Z",
+  "scanned_at": "2026-11-03T11:06:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -144,6 +144,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 12
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

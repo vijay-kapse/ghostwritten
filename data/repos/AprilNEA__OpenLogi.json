@@ -5,22 +5,59 @@
   "language": "Rust",
   "stars": 24865,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T21:22:07Z",
-  "window_start": "2026-10-13",
-  "complete": false,
+  "scanned_at": "2026-11-03T11:05:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2026-05": {
+      "total": 145,
+      "ai": 0,
+      "automation": 3,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 342,
+      "ai": 0,
+      "automation": 32,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 101,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 522,
+      "ai": 5,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 346,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-10": {
-      "total": 243,
-      "ai": 3,
-      "automation": 6,
+      "total": 346,
+      "ai": 4,
+      "automation": 10,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2,
-        "cursor": 1
+        "cursor": 2
       }
     },
     "2026-11": {
-      "total": 50,
+      "total": 70,
       "ai": 0,
       "automation": 1,
       "merges": 0,

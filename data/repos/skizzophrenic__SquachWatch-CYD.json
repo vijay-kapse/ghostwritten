@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "skizzophrenic/SquachWatch-CYD",
+  "org": "skizzophrenic",
+  "language": "C++",
+  "stars": 445,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T10:57:31Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-08": {
+      "total": 51,
+      "ai": 31,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 31
+      }
+    },
+    "2026-09": {
+      "total": 416,
+      "ai": 396,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 396
+      }
+    },
+    "2026-10": {
+      "total": 214,
+      "ai": 201,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 201
+      }
+    }
+  }
+}

@@ -5,12 +5,33 @@
   "language": "PowerShell",
   "stars": 22063,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:28:06Z",
-  "window_start": "2025-04-10",
-  "complete": false,
+  "scanned_at": "2026-11-03T11:34:46Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 16,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 29,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 18,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-04": {
-      "total": 10,
+      "total": 16,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -181,6 +202,15 @@
       "by_rule": {
         "copilot_trailer": 5,
         "copilot_author": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
       }
     }
   }

@@ -5,12 +5,12 @@
   "language": "Swift",
   "stars": 22168,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T21:27:49Z",
-  "window_start": "2025-01-16",
-  "complete": false,
+  "scanned_at": "2026-11-03T11:33:28Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 10,
+      "total": 13,
       "ai": 0,
       "automation": 0,
       "merges": 0,

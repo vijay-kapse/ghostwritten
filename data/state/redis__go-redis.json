@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "redis/go-redis",
-  "head_sha": "d8786fbdcc932cc9903debf3c4cf83b755b4fe49",
-  "oldest": "2026-04-07T07:26:18Z",
-  "complete": false,
+  "head_sha": "debed2e870353d5f9bea87632cf39b15b7e82c86",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-01T21:27:24Z"
+  "updated_at": "2026-11-03T11:31:14Z"
 }

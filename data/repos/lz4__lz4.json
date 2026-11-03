@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repo": "lz4/lz4",
+  "org": "lz4",
+  "language": "C",
+  "stars": 12193,
+  "default_branch": "dev",
+  "scanned_at": "2026-11-03T01:43:47Z",
+  "window_start": "2026-10-19",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 166,
+      "ai": 0,
+      "automation": 0,
+      "merges": 108,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 0,
+      "automation": 3,
+      "merges": 11,
+      "by_rule": {}
+    }
+  }
+}

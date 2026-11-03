@@ -5,28 +5,17 @@
   "language": "TypeScript",
   "stars": 57836,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:47:29Z",
-  "window_start": "2026-10-29",
+  "scanned_at": "2026-11-03T01:55:27Z",
+  "window_start": "2026-11-02",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 188,
-      "ai": 45,
-      "automation": 0,
-      "merges": 72,
-      "by_rule": {
-        "claude_trailer": 36,
-        "cursor": 9
-      }
-    },
     "2026-11": {
-      "total": 22,
-      "ai": 5,
+      "total": 148,
+      "ai": 26,
       "automation": 0,
-      "merges": 18,
+      "merges": 52,
       "by_rule": {
-        "claude_trailer": 4,
-        "cursor": 1
+        "claude_trailer": 26
       }
     }
   }

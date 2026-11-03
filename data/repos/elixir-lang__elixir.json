@@ -5,16 +5,25 @@
   "language": "Elixir",
   "stars": 26700,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:19:03Z",
-  "window_start": "2026-08-24",
+  "scanned_at": "2026-11-03T02:21:36Z",
+  "window_start": "2026-07-09",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 27,
+    "2026-07": {
+      "total": 123,
       "ai": 0,
-      "automation": 0,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-08": {
+      "total": 94,
+      "ai": 1,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     },
     "2026-09": {
       "total": 98,
@@ -31,7 +40,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 13,
+      "total": 24,
       "ai": 0,
       "automation": 0,
       "merges": 0,

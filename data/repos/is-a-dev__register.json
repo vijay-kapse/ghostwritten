@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "is-a-dev/register",
+  "org": "is-a-dev",
+  "language": "JavaScript",
+  "stars": 11714,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:47:30Z",
+  "window_start": "2026-11-01",
+  "complete": false,
+  "months": {
+    "2026-11": {
+      "total": 175,
+      "ai": 3,
+      "automation": 0,
+      "merges": 125,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

@@ -5,15 +5,15 @@
   "language": "C#",
   "stars": 32910,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:00:22Z",
-  "window_start": "2026-07-23",
+  "scanned_at": "2026-11-03T02:10:56Z",
+  "window_start": "2026-07-09",
   "complete": false,
   "months": {
     "2026-07": {
-      "total": 55,
+      "total": 346,
       "ai": 3,
       "automation": 0,
-      "merges": 8,
+      "merges": 17,
       "by_rule": {
         "claude_trailer": 3
       }

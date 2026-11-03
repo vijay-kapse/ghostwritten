@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repo": "GitoxideLabs/gitoxide",
+  "org": "GitoxideLabs",
+  "language": "Rust",
+  "stars": 12094,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:44:30Z",
+  "window_start": "2026-10-05",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 212,
+      "ai": 160,
+      "automation": 1,
+      "merges": 60,
+      "by_rule": {
+        "codex_trailer": 140,
+        "claude_trailer": 21,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 21,
+      "ai": 8,
+      "automation": 1,
+      "merges": 5,
+      "by_rule": {
+        "codex_trailer": 8
+      }
+    }
+  }
+}

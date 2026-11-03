@@ -5,7 +5,7 @@
   "language": "JavaScript",
   "stars": 99292,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T20:52:58Z",
+  "scanned_at": "2026-11-03T02:02:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,6 +193,15 @@
       "by_rule": {
         "claude_trailer": 8,
         "copilot_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 1,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

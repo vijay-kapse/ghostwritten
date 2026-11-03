@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "jaredpalmer/tsdx",
+  "org": "jaredpalmer",
+  "language": "TypeScript",
+  "stars": 11462,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:49:06Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-12": {
+      "total": 28,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

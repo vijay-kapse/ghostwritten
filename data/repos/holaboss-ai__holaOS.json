@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "holaboss-ai/holaOS",
+  "org": "holaboss-ai",
+  "language": "TypeScript",
+  "stars": 11451,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:49:11Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-07": {
+      "total": 39,
+      "ai": 29,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 29
+      }
+    },
+    "2026-08": {
+      "total": 116,
+      "ai": 103,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 101,
+        "claude_generated": 2
+      }
+    }
+  }
+}

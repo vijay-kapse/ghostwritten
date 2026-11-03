@@ -5,27 +5,40 @@
   "language": "Python",
   "stars": 46200,
   "default_branch": "develop",
-  "scanned_at": "2026-11-01T20:51:06Z",
-  "window_start": "2026-10-09",
+  "scanned_at": "2026-11-03T01:59:48Z",
+  "window_start": "2026-09-19",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 205,
-      "ai": 134,
-      "automation": 94,
+    "2026-09": {
+      "total": 49,
+      "ai": 9,
+      "automation": 48,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 105,
-        "claude_generated": 102,
-        "cursor": 33
+        "cursor": 9
+      }
+    },
+    "2026-10": {
+      "total": 278,
+      "ai": 170,
+      "automation": 124,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 111,
+        "claude_generated": 107,
+        "cursor": 64
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 0,
-      "automation": 0,
+      "total": 11,
+      "ai": 6,
+      "automation": 6,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 5,
+        "cursor": 1
+      }
     }
   }
 }

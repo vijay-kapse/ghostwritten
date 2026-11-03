@@ -5,7 +5,7 @@
   "language": "C++",
   "stars": 77285,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:02:47Z",
+  "scanned_at": "2026-11-03T02:13:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -155,6 +155,13 @@
       "by_rule": {
         "copilot_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

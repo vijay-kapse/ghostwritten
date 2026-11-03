@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "kornia/kornia",
+  "org": "kornia",
+  "language": "Python",
+  "stars": 11735,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:47:17Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 277,
+      "ai": 88,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 86,
+        "codex_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 3,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

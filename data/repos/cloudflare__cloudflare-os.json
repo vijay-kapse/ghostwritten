@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "repo": "cloudflare/cloudflare-os",
+  "org": "cloudflare",
+  "language": "TypeScript",
+  "stars": 11641,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:48:01Z",
+  "window_start": "2026-08-27",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 7,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 113,
+      "ai": 16,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    },
+    "2026-10": {
+      "total": 144,
+      "ai": 3,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

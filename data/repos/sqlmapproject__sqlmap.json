@@ -5,15 +5,22 @@
   "language": "Python",
   "stars": 38828,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T20:55:22Z",
-  "window_start": "2026-07-11",
+  "scanned_at": "2026-11-03T02:04:58Z",
+  "window_start": "2026-06-11",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 175,
+    "2026-06": {
+      "total": 124,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 249,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
       "by_rule": {}
     },
     "2026-08": {
@@ -32,6 +39,13 @@
     },
     "2026-10": {
       "total": 35,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

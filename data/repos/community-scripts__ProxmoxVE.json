@@ -5,23 +5,23 @@
   "language": "Shell",
   "stars": 29996,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:14:17Z",
-  "window_start": "2026-10-17",
+  "scanned_at": "2026-11-03T02:16:27Z",
+  "window_start": "2026-10-04",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 108,
-      "ai": 5,
-      "automation": 182,
+      "total": 167,
+      "ai": 7,
+      "automation": 323,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 7
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
-      "automation": 9,
+      "automation": 17,
       "merges": 0,
       "by_rule": {}
     }

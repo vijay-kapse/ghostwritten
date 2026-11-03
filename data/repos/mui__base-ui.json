@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "mui/base-ui",
+  "org": "mui",
+  "language": "TypeScript",
+  "stars": 11272,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:50:52Z",
+  "window_start": "2026-09-11",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 53,
+      "ai": 6,
+      "automation": 53,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-10": {
+      "total": 122,
+      "ai": 21,
+      "automation": 70,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

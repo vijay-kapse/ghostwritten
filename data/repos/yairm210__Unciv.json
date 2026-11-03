@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "repo": "yairm210/Unciv",
+  "org": "yairm210",
+  "language": "Kotlin",
+  "stars": 11518,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:48:42Z",
+  "window_start": "2026-09-23",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 51,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 232,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

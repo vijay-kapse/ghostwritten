@@ -5,26 +5,29 @@
   "language": "TypeScript",
   "stars": 30198,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:13:54Z",
-  "window_start": "2026-10-28",
+  "scanned_at": "2026-11-03T02:15:57Z",
+  "window_start": "2026-10-26",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 210,
-      "ai": 26,
-      "automation": 0,
-      "merges": 88,
+      "total": 390,
+      "ai": 68,
+      "automation": 1,
+      "merges": 137,
       "by_rule": {
-        "claude_trailer": 14,
-        "devin": 12
+        "claude_trailer": 55,
+        "devin": 13
       }
     },
     "2026-11": {
-      "total": 0,
-      "ai": 0,
-      "automation": 0,
-      "merges": 2,
-      "by_rule": {}
+      "total": 33,
+      "ai": 19,
+      "automation": 1,
+      "merges": 13,
+      "by_rule": {
+        "claude_trailer": 18,
+        "devin": 1
+      }
     }
   }
 }

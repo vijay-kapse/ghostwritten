@@ -5,24 +5,24 @@
   "language": "C",
   "stars": 41749,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T20:53:06Z",
-  "window_start": "2026-10-28",
+  "scanned_at": "2026-11-03T02:02:11Z",
+  "window_start": "2026-10-25",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 84,
+      "total": 152,
       "ai": 1,
       "automation": 0,
-      "merges": 118,
+      "merges": 250,
       "by_rule": {
         "devin": 1
       }
     },
     "2026-11": {
-      "total": 46,
+      "total": 72,
       "ai": 0,
       "automation": 0,
-      "merges": 52,
+      "merges": 87,
       "by_rule": {}
     }
   }

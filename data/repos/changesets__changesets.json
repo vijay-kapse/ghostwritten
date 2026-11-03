@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "repo": "changesets/changesets",
+  "org": "changesets",
+  "language": "TypeScript",
+  "stars": 12552,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:40:59Z",
+  "window_start": "2025-11-18",
+  "complete": false,
+  "months": {
+    "2025-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 19,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-03": {
+      "total": 14,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 8,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 69,
+      "ai": 0,
+      "automation": 5,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 49,
+      "ai": 0,
+      "automation": 4,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 27,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 38,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 10,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

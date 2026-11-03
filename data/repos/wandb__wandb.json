@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "wandb/wandb",
+  "org": "wandb",
+  "language": "Python",
+  "stars": 11310,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:50:33Z",
+  "window_start": "2026-09-07",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 150,
+      "ai": 47,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 45,
+        "cursor": 4
+      }
+    },
+    "2026-10": {
+      "total": 94,
+      "ai": 28,
+      "automation": 30,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 25,
+        "codex_trailer": 1,
+        "cursor": 1,
+        "devin": 1
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "repo": "PipedreamHQ/pipedream",
+  "org": "PipedreamHQ",
+  "language": "JavaScript",
+  "stars": 11767,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:47:05Z",
+  "window_start": "2026-07-20",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 28,
+      "ai": 9,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 85,
+      "ai": 25,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 25
+      }
+    },
+    "2026-09": {
+      "total": 99,
+      "ai": 25,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 63,
+      "ai": 23,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

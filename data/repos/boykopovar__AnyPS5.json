@@ -5,18 +5,17 @@
   "language": "C++",
   "stars": 50408,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:49:27Z",
-  "window_start": "2026-11-01",
+  "scanned_at": "2026-11-03T01:57:49Z",
+  "window_start": "2026-11-02",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 92,
-      "ai": 36,
+      "total": 4,
+      "ai": 1,
       "automation": 0,
-      "merges": 208,
+      "merges": 196,
       "by_rule": {
-        "claude_trailer": 28,
-        "devin": 8
+        "claude_trailer": 1
       }
     }
   }

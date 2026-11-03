@@ -5,15 +5,15 @@
   "language": "C",
   "stars": 28523,
   "default_branch": "BiLi_PC_Gamer",
-  "scanned_at": "2026-11-01T21:16:28Z",
-  "window_start": "2025-01-20",
-  "complete": false,
+  "scanned_at": "2026-11-03T02:18:47Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 4,
+      "total": 21,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 6,
       "by_rule": {}
     },
     "2025-02": {
@@ -158,6 +158,13 @@
     },
     "2026-10": {
       "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -5,12 +5,40 @@
   "language": "C#",
   "stars": 26804,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:18:56Z",
-  "window_start": "2026-07-10",
+  "scanned_at": "2026-11-03T02:21:27Z",
+  "window_start": "2026-04-23",
   "complete": false,
   "months": {
+    "2026-04": {
+      "total": 13,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 88,
+      "ai": 11,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 11,
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 72,
+      "ai": 1,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
     "2026-07": {
-      "total": 79,
+      "total": 103,
       "ai": 1,
       "automation": 3,
       "merges": 0,
@@ -44,6 +72,15 @@
       "by_rule": {
         "claude_trailer": 7,
         "copilot_trailer": 4
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
       }
     }
   }

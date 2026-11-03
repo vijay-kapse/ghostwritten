@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "SVProgressHUD/SVProgressHUD",
+  "org": "SVProgressHUD",
+  "language": "Objective-C",
+  "stars": 12434,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:41:52Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

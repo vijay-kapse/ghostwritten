@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "EKKOLearnAI/ekko-studio",
+  "org": "EKKOLearnAI",
+  "language": "TypeScript",
+  "stars": 11634,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:48:07Z",
+  "window_start": "2026-09-21",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 56,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2026-10": {
+      "total": 218,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8,
+        "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 26,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

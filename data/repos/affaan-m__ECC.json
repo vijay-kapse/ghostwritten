@@ -5,12 +5,21 @@
   "language": "JavaScript",
   "stars": 294692,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:39:59Z",
-  "window_start": "2026-04-11",
+  "scanned_at": "2026-11-03T01:52:36Z",
+  "window_start": "2026-03-31",
   "complete": false,
   "months": {
+    "2026-03": {
+      "total": 14,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
     "2026-04": {
-      "total": 186,
+      "total": 472,
       "ai": 15,
       "automation": 4,
       "merges": 42,

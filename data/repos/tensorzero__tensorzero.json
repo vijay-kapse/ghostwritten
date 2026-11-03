@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "repo": "tensorzero/tensorzero",
+  "org": "tensorzero",
+  "language": "Rust",
+  "stars": 11710,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:47:34Z",
+  "window_start": "2026-03-18",
+  "complete": false,
+  "months": {
+    "2026-03": {
+      "total": 78,
+      "ai": 20,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18,
+        "cursor": 2
+      }
+    },
+    "2026-04": {
+      "total": 136,
+      "ai": 26,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-05": {
+      "total": 48,
+      "ai": 3,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

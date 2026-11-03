@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "HW-whistleblower/True-Story-of-Pangu",
+  "org": "HW-whistleblower",
+  "language": null,
+  "stars": 11534,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:48:32Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-07": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

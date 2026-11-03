@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "repo": "mRemoteNG/mRemoteNG",
+  "org": "mRemoteNG",
+  "language": "C#",
+  "stars": 11183,
+  "default_branch": "v1.78.2-dev",
+  "scanned_at": "2026-11-03T01:51:55Z",
+  "window_start": "2026-09-17",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 39,
+      "ai": 38,
+      "automation": 20,
+      "merges": 31,
+      "by_rule": {
+        "copilot_author": 20,
+        "copilot_trailer": 13,
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 103,
+      "ai": 40,
+      "automation": 24,
+      "merges": 73,
+      "by_rule": {
+        "copilot_author": 29,
+        "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {}
+    }
+  }
+}

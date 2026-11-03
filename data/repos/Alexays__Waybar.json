@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "repo": "Alexays/Waybar",
+  "org": "Alexays",
+  "language": "C++",
+  "stars": 12129,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:44:13Z",
+  "window_start": "2026-07-03",
+  "complete": false,
+  "months": {
+    "2026-07": {
+      "total": 119,
+      "ai": 14,
+      "automation": 0,
+      "merges": 39,
+      "by_rule": {
+        "claude_trailer": 14
+      }
+    },
+    "2026-08": {
+      "total": 26,
+      "ai": 3,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 32,
+      "ai": 1,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 18,
+      "ai": 2,
+      "automation": 0,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

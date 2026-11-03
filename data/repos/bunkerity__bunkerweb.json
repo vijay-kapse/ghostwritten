@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "bunkerity/bunkerweb",
+  "org": "bunkerity",
+  "language": "Python",
+  "stars": 11202,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:51:40Z",
+  "window_start": "2026-09-17",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 104,
+      "ai": 4,
+      "automation": 21,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 134,
+      "ai": 0,
+      "automation": 2,
+      "merges": 12,
+      "by_rule": {}
+    }
+  }
+}

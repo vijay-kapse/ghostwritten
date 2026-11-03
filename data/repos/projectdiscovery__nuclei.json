@@ -5,17 +5,35 @@
   "language": "Go",
   "stars": 32523,
   "default_branch": "dev",
-  "scanned_at": "2026-11-01T21:00:44Z",
-  "window_start": "2026-10-06",
+  "scanned_at": "2026-11-03T02:11:18Z",
+  "window_start": "2026-09-02",
   "complete": false,
   "months": {
+    "2026-09": {
+      "total": 120,
+      "ai": 2,
+      "automation": 8,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
     "2026-10": {
-      "total": 160,
+      "total": 192,
       "ai": 11,
       "automation": 7,
-      "merges": 133,
+      "merges": 141,
       "by_rule": {
         "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 20,
+      "ai": 2,
+      "automation": 1,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 2
       }
     }
   }

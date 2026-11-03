@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "statsmodels/statsmodels",
+  "org": "statsmodels",
+  "language": "Python",
+  "stars": 11733,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:47:23Z",
+  "window_start": "2026-10-26",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 230,
+      "ai": 163,
+      "automation": 0,
+      "merges": 63,
+      "by_rule": {
+        "claude_trailer": 163
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 1,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

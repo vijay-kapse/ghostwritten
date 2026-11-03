@@ -5,15 +5,15 @@
   "language": "C++",
   "stars": 37613,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:56:11Z",
-  "window_start": "2026-10-27",
+  "scanned_at": "2026-11-03T02:06:03Z",
+  "window_start": "2026-11-02",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 250,
+    "2026-11": {
+      "total": 143,
       "ai": 0,
       "automation": 0,
-      "merges": 50,
+      "merges": 57,
       "by_rule": {}
     }
   }

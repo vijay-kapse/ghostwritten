@@ -5,30 +5,30 @@
   "language": "Shell",
   "stars": 46052,
   "default_branch": "quattro",
-  "scanned_at": "2026-11-01T20:51:12Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-03T01:59:55Z",
+  "window_start": "2026-10-15",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 256,
-      "ai": 166,
+      "total": 436,
+      "ai": 226,
       "automation": 0,
-      "merges": 13,
+      "merges": 33,
       "by_rule": {
-        "claude_trailer": 165,
-        "codex_trailer": 53,
-        "copilot_trailer": 2,
+        "claude_trailer": 210,
+        "codex_trailer": 75,
+        "copilot_trailer": 3,
         "amp_factory": 1
       }
     },
     "2026-11": {
-      "total": 31,
-      "ai": 19,
+      "total": 50,
+      "ai": 30,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 18,
-        "codex_trailer": 4
+        "claude_trailer": 28,
+        "codex_trailer": 6
       }
     }
   }

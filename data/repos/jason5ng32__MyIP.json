@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "repo": "jason5ng32/MyIP",
+  "org": "jason5ng32",
+  "language": "JavaScript",
+  "stars": 12279,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:42:56Z",
+  "window_start": "2026-08-26",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 23,
+      "ai": 13,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 11,
+        "codex_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 68,
+      "ai": 30,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 15,
+        "codex_trailer": 14,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 161,
+      "ai": 113,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 112,
+        "codex_trailer": 1
+      }
+    }
+  }
+}

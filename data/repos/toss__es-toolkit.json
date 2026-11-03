@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "repo": "toss/es-toolkit",
+  "org": "toss",
+  "language": "TypeScript",
+  "stars": 11386,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:49:43Z",
+  "window_start": "2026-06-23",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 39,
+      "ai": 3,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 68,
+      "ai": 3,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-08": {
+      "total": 83,
+      "ai": 9,
+      "automation": 14,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 8,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 26,
+      "ai": 9,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-10": {
+      "total": 45,
+      "ai": 18,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 18
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

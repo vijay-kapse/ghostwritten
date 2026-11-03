@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "jxxghp/MoviePilot",
+  "org": "jxxghp",
+  "language": "Python",
+  "stars": 12002,
+  "default_branch": "v3",
+  "scanned_at": "2026-11-03T01:45:21Z",
+  "window_start": "2026-10-17",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 12,
+      "automation": 0,
+      "merges": 21,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

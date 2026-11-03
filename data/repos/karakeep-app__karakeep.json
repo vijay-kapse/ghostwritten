@@ -5,17 +5,45 @@
   "language": "TypeScript",
   "stars": 30224,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:13:50Z",
-  "window_start": "2026-07-18",
+  "scanned_at": "2026-11-03T02:15:52Z",
+  "window_start": "2026-04-09",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 34,
-      "ai": 4,
+    "2026-04": {
+      "total": 82,
+      "ai": 6,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 5,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 74,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 13,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 63,
+      "ai": 5,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
       }
     },
     "2026-08": {
@@ -44,12 +72,12 @@
       }
     },
     "2026-11": {
-      "total": 10,
-      "ai": 6,
+      "total": 27,
+      "ai": 21,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 21
       }
     }
   }

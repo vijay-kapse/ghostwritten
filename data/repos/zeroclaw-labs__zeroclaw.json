@@ -5,16 +5,18 @@
   "language": "Rust",
   "stars": 33091,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T21:00:12Z",
-  "window_start": "2026-09-29",
+  "scanned_at": "2026-11-03T02:10:43Z",
+  "window_start": "2026-09-18",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 15,
-      "ai": 0,
-      "automation": 0,
+      "total": 214,
+      "ai": 1,
+      "automation": 1,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     },
     "2026-10": {
       "total": 277,
@@ -26,7 +28,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 9,
       "ai": 0,
       "automation": 0,
       "merges": 0,

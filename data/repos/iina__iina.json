@@ -5,15 +5,59 @@
   "language": "Swift",
   "stars": 46980,
   "default_branch": "develop",
-  "scanned_at": "2026-11-01T20:50:41Z",
-  "window_start": "2026-06-11",
+  "scanned_at": "2026-11-03T01:59:21Z",
+  "window_start": "2025-11-08",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 102,
+    "2025-11": {
+      "total": 5,
       "ai": 0,
       "automation": 0,
-      "merges": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 116,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 59,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 104,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
       "by_rule": {}
     },
     "2026-07": {
@@ -51,6 +95,13 @@
       "by_rule": {
         "claude_trailer": 6
       }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

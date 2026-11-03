@@ -5,22 +5,24 @@
   "language": "Ruby",
   "stars": 50180,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:49:35Z",
-  "window_start": "2026-10-15",
+  "scanned_at": "2026-11-03T01:57:59Z",
+  "window_start": "2026-10-01",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 132,
-      "ai": 0,
-      "automation": 15,
-      "merges": 114,
-      "by_rule": {}
+      "total": 239,
+      "ai": 1,
+      "automation": 22,
+      "merges": 200,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     },
     "2026-11": {
-      "total": 25,
+      "total": 34,
       "ai": 0,
       "automation": 0,
-      "merges": 14,
+      "merges": 22,
       "by_rule": {}
     }
   }

@@ -5,15 +5,15 @@
   "language": "Shell",
   "stars": 73533,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:05:26Z",
-  "window_start": "2025-12-29",
+  "scanned_at": "2026-11-03T02:14:28Z",
+  "window_start": "2025-12-17",
   "complete": false,
   "months": {
     "2025-12": {
-      "total": 59,
+      "total": 228,
       "ai": 1,
-      "automation": 2,
-      "merges": 9,
+      "automation": 6,
+      "merges": 36,
       "by_rule": {
         "claude_generated": 1,
         "claude_trailer": 1
@@ -96,9 +96,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 19,
+      "total": 57,
       "ai": 0,
-      "automation": 14,
+      "automation": 32,
       "merges": 0,
       "by_rule": {}
     }

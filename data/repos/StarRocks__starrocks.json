@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "StarRocks/starrocks",
+  "org": "StarRocks",
+  "language": "Java",
+  "stars": 12225,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:43:18Z",
+  "window_start": "2026-10-21",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 127,
+      "ai": 59,
+      "automation": 126,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 59
+      }
+    },
+    "2026-11": {
+      "total": 31,
+      "ai": 23,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 23
+      }
+    }
+  }
+}

@@ -5,17 +5,18 @@
   "language": "Java",
   "stars": 78452,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:02:12Z",
-  "window_start": "2026-08-27",
+  "scanned_at": "2026-11-03T02:13:06Z",
+  "window_start": "2026-08-24",
   "complete": false,
   "months": {
     "2026-08": {
-      "total": 142,
-      "ai": 1,
+      "total": 341,
+      "ai": 6,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
-        "cursor": 1
+        "cursor": 5,
+        "copilot_trailer": 1
       }
     },
     "2026-09": {
@@ -42,9 +43,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 39,
       "ai": 0,
-      "automation": 3,
+      "automation": 9,
       "merges": 0,
       "by_rule": {}
     }

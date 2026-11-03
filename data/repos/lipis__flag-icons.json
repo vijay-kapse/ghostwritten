@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "repo": "lipis/flag-icons",
+  "org": "lipis",
+  "language": "HTML",
+  "stars": 12499,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:41:23Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-01": {
+      "total": 9,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 0,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 7,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 2,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 13,
+      "ai": 1,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    }
+  }
+}

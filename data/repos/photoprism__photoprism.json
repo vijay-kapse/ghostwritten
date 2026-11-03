@@ -5,15 +5,15 @@
   "language": "Go",
   "stars": 40383,
   "default_branch": "develop",
-  "scanned_at": "2026-11-01T20:54:09Z",
-  "window_start": "2026-10-15",
+  "scanned_at": "2026-11-03T02:03:35Z",
+  "window_start": "2026-10-07",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 292,
+      "total": 584,
       "ai": 0,
-      "automation": 5,
-      "merges": 3,
+      "automation": 6,
+      "merges": 10,
       "by_rule": {}
     }
   }

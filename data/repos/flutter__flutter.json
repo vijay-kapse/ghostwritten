@@ -5,17 +5,17 @@
   "language": "Dart",
   "stars": 180940,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T20:42:43Z",
-  "window_start": "2026-04-27",
+  "scanned_at": "2026-11-03T01:53:02Z",
+  "window_start": "2026-04-15",
   "complete": false,
   "months": {
     "2026-04": {
-      "total": 73,
-      "ai": 2,
-      "automation": 0,
+      "total": 266,
+      "ai": 10,
+      "automation": 7,
       "merges": 0,
       "by_rule": {
-        "gemini": 2
+        "gemini": 10
       }
     },
     "2026-05": {
@@ -76,7 +76,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 22,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "repo": "zubair-trabzada/geo-seo-claude",
+  "org": "zubair-trabzada",
+  "language": "Python",
+  "stars": 11402,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:49:35Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 9,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-03": {
+      "total": 23,
+      "ai": 2,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 9,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-05": {
+      "total": 5,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 5,
+      "ai": 3,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 6,
+      "ai": 4,
+      "automation": 30,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 3,
+      "ai": 3,
+      "automation": 2,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

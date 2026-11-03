@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "DayBreak-u/chineseocr_lite",
+  "org": "DayBreak-u",
+  "language": "C++",
+  "stars": 12355,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:42:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-05": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

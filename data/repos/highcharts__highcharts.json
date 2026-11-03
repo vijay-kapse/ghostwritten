@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "highcharts/highcharts",
+  "org": "highcharts",
+  "language": "TypeScript",
+  "stars": 12502,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:41:20Z",
+  "window_start": "2026-10-16",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 216,
+      "ai": 13,
+      "automation": 0,
+      "merges": 79,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

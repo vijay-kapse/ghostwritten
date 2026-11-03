@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "repo": "ClassicOldSong/Apollo",
+  "org": "ClassicOldSong",
+  "language": "C++",
+  "stars": 11426,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:49:21Z",
+  "window_start": "2025-05-08",
+  "complete": false,
+  "months": {
+    "2025-05": {
+      "total": 49,
+      "ai": 0,
+      "automation": 6,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 39,
+      "ai": 0,
+      "automation": 18,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 43,
+      "ai": 0,
+      "automation": 20,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 27,
+      "ai": 0,
+      "automation": 15,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 35,
+      "ai": 0,
+      "automation": 12,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    }
+  }
+}

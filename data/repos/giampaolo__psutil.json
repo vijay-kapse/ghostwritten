@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "repo": "giampaolo/psutil",
+  "org": "giampaolo",
+  "language": "Python",
+  "stars": 11313,
+  "default_branch": "master",
+  "scanned_at": "2026-11-03T01:50:30Z",
+  "window_start": "2026-08-01",
+  "complete": false,
+  "months": {
+    "2026-08": {
+      "total": 134,
+      "ai": 3,
+      "automation": 1,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 14,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 128,
+      "ai": 3,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "maplibre/maplibre-gl-js",
+  "org": "maplibre",
+  "language": "TypeScript",
+  "stars": 11992,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:45:27Z",
+  "window_start": "2026-09-18",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 37,
+      "ai": 1,
+      "automation": 38,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 106,
+      "ai": 7,
+      "automation": 108,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 1,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    }
+  }
+}

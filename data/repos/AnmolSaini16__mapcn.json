@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "repo": "AnmolSaini16/mapcn",
+  "org": "AnmolSaini16",
+  "language": "TypeScript",
+  "stars": 12352,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:42:24Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2025-12": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 31,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 18,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 5,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 27,
+      "ai": 16,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16
+      }
+    }
+  }
+}

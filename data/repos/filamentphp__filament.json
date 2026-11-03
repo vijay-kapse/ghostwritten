@@ -5,17 +5,38 @@
   "language": "PHP",
   "stars": 32394,
   "default_branch": "4.x",
-  "scanned_at": "2026-11-01T21:00:58Z",
-  "window_start": "2026-10-10",
+  "scanned_at": "2026-11-03T02:11:37Z",
+  "window_start": "2026-09-18",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 268,
-      "ai": 4,
-      "automation": 12,
-      "merges": 20,
+    "2026-09": {
+      "total": 55,
+      "ai": 5,
+      "automation": 4,
+      "merges": 3,
       "by_rule": {
         "amp_factory": 3,
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-10": {
+      "total": 395,
+      "ai": 4,
+      "automation": 15,
+      "merges": 28,
+      "by_rule": {
+        "amp_factory": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 14,
+      "ai": 3,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "amp_factory": 2,
         "claude_trailer": 1
       }
     }

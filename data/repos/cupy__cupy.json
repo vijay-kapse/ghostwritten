@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "repo": "cupy/cupy",
+  "org": "cupy",
+  "language": "Python",
+  "stars": 12390,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:42:05Z",
+  "window_start": "2026-09-25",
+  "complete": false,
+  "months": {
+    "2026-09": {
+      "total": 8,
+      "ai": 4,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 194,
+      "ai": 5,
+      "automation": 2,
+      "merges": 88,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 1,
+      "by_rule": {}
+    }
+  }
+}

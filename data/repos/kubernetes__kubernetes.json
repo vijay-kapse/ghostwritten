@@ -5,15 +5,15 @@
   "language": "Go",
   "stars": 128811,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T20:46:59Z",
-  "window_start": "2026-07-20",
+  "scanned_at": "2026-11-03T01:54:52Z",
+  "window_start": "2026-07-15",
   "complete": false,
   "months": {
     "2026-07": {
-      "total": 393,
+      "total": 521,
       "ai": 0,
       "automation": 0,
-      "merges": 165,
+      "merges": 237,
       "by_rule": {}
     },
     "2026-08": {
@@ -33,7 +33,7 @@
       }
     },
     "2026-10": {
-      "total": 656,
+      "total": 673,
       "ai": 1,
       "automation": 0,
       "merges": 488,
@@ -42,10 +42,10 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 15,
       "ai": 0,
       "automation": 0,
-      "merges": 3,
+      "merges": 23,
       "by_rule": {}
     }
   }

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "Arize-ai/phoenix",
+  "org": "Arize-ai",
+  "language": "Python",
+  "stars": 12095,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:44:28Z",
+  "window_start": "2026-10-13",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 266,
+      "ai": 65,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 64,
+        "amp_factory": 1
+      }
+    },
+    "2026-11": {
+      "total": 14,
+      "ai": 10,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    }
+  }
+}

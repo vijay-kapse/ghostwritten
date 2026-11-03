@@ -5,17 +5,17 @@
   "language": "JavaScript",
   "stars": 57829,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T20:47:30Z",
-  "window_start": "2026-10-10",
+  "scanned_at": "2026-11-03T01:55:28Z",
+  "window_start": "2026-10-04",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 228,
-      "ai": 204,
+      "total": 373,
+      "ai": 276,
       "automation": 0,
-      "merges": 72,
+      "merges": 227,
       "by_rule": {
-        "claude_trailer": 199,
+        "claude_trailer": 271,
         "cursor": 6
       }
     }

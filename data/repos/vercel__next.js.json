@@ -5,18 +5,27 @@
   "language": "JavaScript",
   "stars": 143460,
   "default_branch": "canary",
-  "scanned_at": "2026-11-01T20:45:26Z",
-  "window_start": "2026-04-08",
+  "scanned_at": "2026-11-03T01:53:28Z",
+  "window_start": "2026-03-23",
   "complete": false,
   "months": {
+    "2026-03": {
+      "total": 90,
+      "ai": 13,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
     "2026-04": {
-      "total": 305,
-      "ai": 34,
+      "total": 415,
+      "ai": 54,
       "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 31,
-        "cursor": 2,
+        "claude_trailer": 48,
+        "cursor": 5,
         "copilot_trailer": 1
       }
     },
@@ -81,6 +90,15 @@
         "claude_trailer": 31,
         "claude_generated": 9,
         "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 22,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
       }
     }
   }

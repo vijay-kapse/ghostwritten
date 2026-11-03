@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "omnigent-ai/omnigent",
+  "org": "omnigent-ai",
+  "language": "Python",
+  "stars": 11158,
+  "default_branch": "main",
+  "scanned_at": "2026-11-03T01:52:08Z",
+  "window_start": "2026-10-27",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 225,
+      "ai": 12,
+      "automation": 25,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11,
+        "devin": 1
+      }
+    },
+    "2026-11": {
+      "total": 42,
+      "ai": 2,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    }
+  }
+}

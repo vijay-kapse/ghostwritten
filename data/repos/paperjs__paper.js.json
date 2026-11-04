@@ -5,19 +5,19 @@
   "language": "JavaScript",
   "stars": 15180,
   "default_branch": "develop",
-  "scanned_at": "2026-11-01T23:01:38Z",
-  "window_start": "2026-10-19",
-  "complete": false,
+  "scanned_at": "2026-11-04T11:32:47Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-10": {
-      "total": 299,
+      "total": 364,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 1,
+      "total": 23,
       "ai": 0,
       "automation": 0,
       "merges": 0,

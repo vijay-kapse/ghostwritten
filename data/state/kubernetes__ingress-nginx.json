@@ -2,8 +2,8 @@
   "schema": 1,
   "repo": "kubernetes/ingress-nginx",
   "head_sha": "dbb11b92ddb77bee9c35e462479129354c84f939",
-  "oldest": "2025-07-28T16:00:28Z",
-  "complete": false,
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-01T21:34:06Z"
+  "updated_at": "2026-11-04T11:09:58Z"
 }

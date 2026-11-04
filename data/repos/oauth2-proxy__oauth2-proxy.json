@@ -5,14 +5,14 @@
   "language": "Go",
   "stars": 15307,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T23:00:26Z",
-  "window_start": "2025-01-04",
-  "complete": false,
+  "scanned_at": "2026-11-04T11:29:25Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
       "total": 14,
       "ai": 0,
-      "automation": 11,
+      "automation": 13,
       "merges": 7,
       "by_rule": {}
     },

@@ -5,12 +5,12 @@
   "language": "JavaScript",
   "stars": 20051,
   "default_branch": "develop",
-  "scanned_at": "2026-11-01T21:32:33Z",
-  "window_start": "2025-01-13",
-  "complete": false,
+  "scanned_at": "2026-11-04T11:05:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 10,
+      "total": 25,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -162,6 +162,13 @@
         "copilot_author": 1,
         "copilot_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -5,12 +5,12 @@
   "language": "C",
   "stars": 18370,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T21:37:10Z",
-  "window_start": "2025-01-09",
-  "complete": false,
+  "scanned_at": "2026-11-04T11:22:25Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 57,
+      "total": 75,
       "ai": 0,
       "automation": 0,
       "merges": 0,

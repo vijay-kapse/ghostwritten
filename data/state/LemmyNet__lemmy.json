@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "LemmyNet/lemmy",
-  "head_sha": "dd033a3d243e33d3fc51070c8dadf1477748e13f",
-  "oldest": "2025-12-01T04:24:33Z",
-  "complete": false,
+  "head_sha": "cc129e95f1cb19ab80ba595246aad46724d6ac88",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-01T23:04:37Z"
+  "updated_at": "2026-11-04T11:42:48Z"
 }

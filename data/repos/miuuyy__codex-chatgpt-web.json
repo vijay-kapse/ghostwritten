@@ -5,12 +5,12 @@
   "language": "TypeScript",
   "stars": 15387,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T22:59:42Z",
-  "window_start": "2026-07-30",
-  "complete": false,
+  "scanned_at": "2026-11-04T11:27:31Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-07": {
-      "total": 24,
+      "total": 139,
       "ai": 0,
       "automation": 0,
       "merges": 4,

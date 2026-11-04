@@ -5,7 +5,7 @@
   "language": "C",
   "stars": 15523,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T22:59:03Z",
+  "scanned_at": "2026-11-04T11:26:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,6 +186,13 @@
         "copilot_author": 3,
         "copilot_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

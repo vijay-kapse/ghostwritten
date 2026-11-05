@@ -5,15 +5,15 @@
   "language": "Objective-C",
   "stars": 13478,
   "default_branch": "master",
-  "scanned_at": "2026-11-01T23:11:35Z",
-  "window_start": "2025-01-21",
-  "complete": false,
+  "scanned_at": "2026-11-05T11:18:36Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 13,
+      "total": 28,
       "ai": 0,
       "automation": 0,
-      "merges": 11,
+      "merges": 13,
       "by_rule": {}
     },
     "2025-02": {
@@ -145,7 +145,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 3,
       "ai": 0,
       "automation": 0,
       "merges": 0,

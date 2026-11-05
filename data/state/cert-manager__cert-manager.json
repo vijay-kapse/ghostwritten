@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "cert-manager/cert-manager",
-  "head_sha": "9cca11acf979723c7ec88e7c39f9518dc007f3e9",
-  "oldest": "2026-08-30T04:57:30Z",
-  "complete": false,
+  "head_sha": "1f662e4cde375491b8c0da395630d2e60a11f785",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-01T23:07:32Z"
+  "updated_at": "2026-11-05T11:04:12Z"
 }

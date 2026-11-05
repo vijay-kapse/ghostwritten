@@ -5,16 +5,84 @@
   "language": "C++",
   "stars": 17957,
   "default_branch": "master",
-  "scanned_at": "2026-11-02T11:20:21Z",
-  "window_start": "2025-10-30",
-  "complete": false,
+  "scanned_at": "2026-11-05T11:40:11Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-10": {
-      "total": 14,
+    "2025-01": {
+      "total": 136,
       "ai": 0,
       "automation": 0,
-      "merges": 14,
+      "merges": 72,
       "by_rule": {}
+    },
+    "2025-02": {
+      "total": 133,
+      "ai": 0,
+      "automation": 0,
+      "merges": 77,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 126,
+      "ai": 0,
+      "automation": 1,
+      "merges": 66,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 151,
+      "ai": 0,
+      "automation": 0,
+      "merges": 97,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 185,
+      "ai": 0,
+      "automation": 0,
+      "merges": 93,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 91,
+      "ai": 0,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 114,
+      "ai": 0,
+      "automation": 0,
+      "merges": 66,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 204,
+      "ai": 1,
+      "automation": 2,
+      "merges": 122,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2025-09": {
+      "total": 305,
+      "ai": 0,
+      "automation": 1,
+      "merges": 149,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 311,
+      "ai": 2,
+      "automation": 4,
+      "merges": 181,
+      "by_rule": {
+        "claude_trailer": 2,
+        "claude_generated": 1
+      }
     },
     "2025-11": {
       "total": 230,
@@ -108,7 +176,7 @@
       }
     },
     "2026-10": {
-      "total": 151,
+      "total": 155,
       "ai": 2,
       "automation": 8,
       "merges": 82,
@@ -117,10 +185,10 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 19,
       "ai": 0,
-      "automation": 1,
-      "merges": 3,
+      "automation": 3,
+      "merges": 12,
       "by_rule": {}
     }
   }

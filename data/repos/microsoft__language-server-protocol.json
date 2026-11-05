@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 13067,
   "default_branch": "gh-pages",
-  "scanned_at": "2026-11-01T23:14:25Z",
+  "scanned_at": "2026-11-05T11:27:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,6 +169,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

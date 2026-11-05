@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "prometheus/node_exporter",
-  "head_sha": "3af7d9f3d6a1b583a0a00801385dbec79f84c411",
-  "oldest": "2025-02-24T09:19:48Z",
-  "complete": false,
+  "head_sha": "2ae7dd881ed9e551fb75abc811bef974b2c31819",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-01T23:08:57Z"
+  "updated_at": "2026-11-05T11:10:53Z"
 }

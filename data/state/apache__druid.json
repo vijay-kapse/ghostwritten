@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "apache/druid",
-  "head_sha": "776254ea1b25aff4719a41c3ba51ce22e96db99d",
-  "oldest": "2026-09-22T18:25:03Z",
-  "complete": false,
+  "head_sha": "e2a89971bd8dd5887108353d217d75fca2958910",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-01T23:07:49Z"
+  "updated_at": "2026-11-05T11:05:16Z"
 }

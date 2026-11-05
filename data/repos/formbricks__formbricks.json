@@ -5,17 +5,193 @@
   "language": "TypeScript",
   "stars": 13208,
   "default_branch": "main",
-  "scanned_at": "2026-11-01T23:13:13Z",
-  "window_start": "2026-09-24",
-  "complete": false,
+  "scanned_at": "2026-11-05T11:24:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-09": {
-      "total": 57,
-      "ai": 28,
+    "2025-01": {
+      "total": 71,
+      "ai": 1,
+      "automation": 2,
+      "merges": 1,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-02": {
+      "total": 89,
+      "ai": 0,
+      "automation": 8,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 121,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 132,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 136,
+      "ai": 4,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "devin": 2
+      }
+    },
+    "2025-06": {
+      "total": 67,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28
+        "cursor": 2
+      }
+    },
+    "2025-07": {
+      "total": 100,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 80,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 65,
+      "ai": 1,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "devin": 1
+      }
+    },
+    "2025-10": {
+      "total": 68,
+      "ai": 1,
+      "automation": 1,
+      "merges": 3,
+      "by_rule": {
+        "devin": 1
+      }
+    },
+    "2025-11": {
+      "total": 51,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 71,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 63,
+      "ai": 3,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-02": {
+      "total": 88,
+      "ai": 15,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 12,
+        "claude_trailer": 2,
+        "devin": 1
+      }
+    },
+    "2026-03": {
+      "total": 110,
+      "ai": 15,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "cursor": 2
+      }
+    },
+    "2026-04": {
+      "total": 85,
+      "ai": 27,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "cursor": 13
+      }
+    },
+    "2026-05": {
+      "total": 132,
+      "ai": 58,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 48,
+        "cursor": 13
+      }
+    },
+    "2026-06": {
+      "total": 114,
+      "ai": 38,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 31,
+        "cursor": 9
+      }
+    },
+    "2026-07": {
+      "total": 195,
+      "ai": 79,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 74,
+        "cursor": 10
+      }
+    },
+    "2026-08": {
+      "total": 230,
+      "ai": 109,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 109
+      }
+    },
+    "2026-09": {
+      "total": 234,
+      "ai": 106,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 106,
+        "other_bot_agent": 1
       }
     },
     "2026-10": {
@@ -26,6 +202,15 @@
       "by_rule": {
         "claude_trailer": 116,
         "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 32,
+      "ai": 20,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 20
       }
     }
   }

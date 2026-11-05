@@ -5,12 +5,12 @@
   "language": "Java",
   "stars": 13599,
   "default_branch": "v3.x",
-  "scanned_at": "2026-11-01T23:10:53Z",
-  "window_start": "2025-01-22",
-  "complete": false,
+  "scanned_at": "2026-11-05T11:17:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 5,
+      "total": 42,
       "ai": 0,
       "automation": 0,
       "merges": 0,

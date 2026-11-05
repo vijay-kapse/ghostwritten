@@ -5,15 +5,36 @@
   "language": "C",
   "stars": 16978,
   "default_branch": "main",
-  "scanned_at": "2026-11-02T11:33:30Z",
-  "window_start": "2026-07-03",
+  "scanned_at": "2026-11-05T11:44:42Z",
+  "window_start": "2026-04-14",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 483,
+    "2026-04": {
+      "total": 413,
       "ai": 0,
       "automation": 0,
-      "merges": 70,
+      "merges": 55,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 924,
+      "ai": 0,
+      "automation": 5,
+      "merges": 126,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 651,
+      "ai": 0,
+      "automation": 17,
+      "merges": 80,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 595,
+      "ai": 0,
+      "automation": 1,
+      "merges": 86,
       "by_rule": {}
     },
     "2026-08": {
@@ -40,10 +61,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 30,
+      "total": 556,
       "ai": 0,
       "automation": 1,
-      "merges": 5,
+      "merges": 39,
       "by_rule": {}
     }
   }

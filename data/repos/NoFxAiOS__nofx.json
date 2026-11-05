@@ -5,12 +5,46 @@
   "language": "Go",
   "stars": 13185,
   "default_branch": "dev",
-  "scanned_at": "2026-11-01T23:13:31Z",
-  "window_start": "2026-02-05",
-  "complete": false,
+  "scanned_at": "2026-11-05T11:24:56Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-10": {
+      "total": 120,
+      "ai": 2,
+      "automation": 0,
+      "merges": 52,
+      "by_rule": {
+        "claude_generated": 2
+      }
+    },
+    "2025-11": {
+      "total": 400,
+      "ai": 40,
+      "automation": 0,
+      "merges": 159,
+      "by_rule": {
+        "claude_generated": 40
+      }
+    },
+    "2025-12": {
+      "total": 146,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 79,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
     "2026-02": {
-      "total": 11,
+      "total": 24,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -77,6 +111,13 @@
       "ai": 0,
       "automation": 0,
       "merges": 1,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
       "by_rule": {}
     }
   }

@@ -5,12 +5,47 @@
   "language": "TypeScript",
   "stars": 12046,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:45:02Z",
-  "window_start": "2025-06-20",
-  "complete": false,
+  "scanned_at": "2026-11-06T11:15:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 14,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-06": {
-      "total": 9,
+      "total": 17,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -149,6 +184,13 @@
     },
     "2026-10": {
       "total": 21,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 4,
       "ai": 0,
       "automation": 0,
       "merges": 0,

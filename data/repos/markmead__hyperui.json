@@ -5,12 +5,19 @@
   "language": "Astro",
   "stars": 12275,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:43:01Z",
-  "window_start": "2025-02-22",
-  "complete": false,
+  "scanned_at": "2026-11-06T11:10:35Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-02": {
-      "total": 8,
+      "total": 13,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -5,17 +5,71 @@
   "language": "Dart",
   "stars": 180940,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T01:53:02Z",
-  "window_start": "2026-04-15",
+  "scanned_at": "2026-11-06T11:38:55Z",
+  "window_start": "2025-10-10",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 266,
-      "ai": 10,
+    "2025-10": {
+      "total": 293,
+      "ai": 3,
       "automation": 7,
       "merges": 0,
       "by_rule": {
-        "gemini": 10
+        "gemini": 3
+      }
+    },
+    "2025-11": {
+      "total": 434,
+      "ai": 6,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 6
+      }
+    },
+    "2025-12": {
+      "total": 433,
+      "ai": 9,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 9
+      }
+    },
+    "2026-01": {
+      "total": 497,
+      "ai": 11,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 11
+      }
+    },
+    "2026-02": {
+      "total": 421,
+      "ai": 13,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 13
+      }
+    },
+    "2026-03": {
+      "total": 455,
+      "ai": 14,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 14
+      }
+    },
+    "2026-04": {
+      "total": 492,
+      "ai": 18,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 18
       }
     },
     "2026-05": {
@@ -76,11 +130,13 @@
       }
     },
     "2026-11": {
-      "total": 22,
-      "ai": 0,
+      "total": 125,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "gemini": 1
+      }
     }
   }
 }

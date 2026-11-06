@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "redis/jedis",
-  "head_sha": "88f2e7c5337c9d14fca5ca736bd5f82ef2019696",
-  "oldest": "2025-08-14T16:28:32Z",
-  "complete": false,
+  "head_sha": "e7c37d3d3d5e2fd7266bc7097208aa938bdd6e2c",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-03T01:42:13Z"
+  "updated_at": "2026-11-06T11:08:33Z"
 }

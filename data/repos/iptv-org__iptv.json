@@ -5,15 +5,43 @@
   "language": "TypeScript",
   "stars": 142996,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T01:53:30Z",
-  "window_start": "2025-05-12",
-  "complete": false,
+  "scanned_at": "2026-11-06T11:41:09Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 53,
+    "2025-01": {
+      "total": 102,
       "ai": 0,
-      "automation": 38,
-      "merges": 32,
+      "automation": 65,
+      "merges": 52,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 72,
+      "ai": 0,
+      "automation": 56,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 114,
+      "ai": 0,
+      "automation": 53,
+      "merges": 59,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 87,
+      "ai": 0,
+      "automation": 62,
+      "merges": 35,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 88,
+      "ai": 0,
+      "automation": 64,
+      "merges": 49,
       "by_rule": {}
     },
     "2025-06": {
@@ -139,19 +167,19 @@
       }
     },
     "2026-10": {
-      "total": 61,
+      "total": 64,
       "ai": 1,
       "automation": 64,
-      "merges": 31,
+      "merges": 33,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 0,
+      "total": 2,
       "ai": 0,
-      "automation": 6,
-      "merges": 0,
+      "automation": 12,
+      "merges": 4,
       "by_rule": {}
     }
   }

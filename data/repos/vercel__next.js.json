@@ -5,17 +5,82 @@
   "language": "JavaScript",
   "stars": 143460,
   "default_branch": "canary",
-  "scanned_at": "2026-11-03T01:53:28Z",
-  "window_start": "2026-03-23",
+  "scanned_at": "2026-11-06T11:41:03Z",
+  "window_start": "2025-08-28",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 90,
-      "ai": 13,
+    "2025-08": {
+      "total": 60,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 480,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 13
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
+    },
+    "2025-10": {
+      "total": 567,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 305,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 3
+      }
+    },
+    "2025-12": {
+      "total": 253,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2026-01": {
+      "total": 438,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 6,
+        "claude_trailer": 4,
+        "claude_generated": 1
+      }
+    },
+    "2026-02": {
+      "total": 435,
+      "ai": 20,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 18,
+        "claude_trailer": 2
+      }
+    },
+    "2026-03": {
+      "total": 451,
+      "ai": 50,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 39,
+        "cursor": 10,
+        "claude_generated": 1
       }
     },
     "2026-04": {
@@ -93,12 +158,13 @@
       }
     },
     "2026-11": {
-      "total": 22,
-      "ai": 2,
-      "automation": 1,
+      "total": 105,
+      "ai": 14,
+      "automation": 7,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 12,
+        "claude_generated": 2
       }
     }
   }

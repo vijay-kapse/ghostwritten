@@ -5,19 +5,44 @@
   "language": "C++",
   "stars": 11332,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T01:50:13Z",
-  "window_start": "2026-10-24",
+  "scanned_at": "2026-11-06T11:29:09Z",
+  "window_start": "2026-07-28",
   "complete": false,
   "months": {
+    "2026-07": {
+      "total": 122,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 938,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-09": {
+      "total": 1003,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
     "2026-10": {
-      "total": 240,
+      "total": 977,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 60,
+      "total": 215,
       "ai": 0,
       "automation": 0,
       "merges": 0,

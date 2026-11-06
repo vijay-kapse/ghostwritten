@@ -5,15 +5,80 @@
   "language": "TypeScript",
   "stars": 15672,
   "default_branch": "latest",
-  "scanned_at": "2026-11-02T11:57:03Z",
-  "window_start": "2025-10-13",
-  "complete": false,
+  "scanned_at": "2026-11-06T11:03:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 262,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 429,
+      "ai": 0,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 297,
+      "ai": 0,
+      "automation": 0,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 184,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 155,
+      "ai": 0,
+      "automation": 0,
+      "merges": 13,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 504,
+      "ai": 0,
+      "automation": 0,
+      "merges": 39,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 311,
+      "ai": 1,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-08": {
+      "total": 154,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 132,
+      "ai": 0,
+      "automation": 4,
+      "merges": 11,
+      "by_rule": {}
+    },
     "2025-10": {
-      "total": 85,
+      "total": 123,
       "ai": 0,
       "automation": 6,
-      "merges": 6,
+      "merges": 10,
       "by_rule": {}
     },
     "2025-11": {
@@ -108,12 +173,21 @@
       }
     },
     "2026-10": {
-      "total": 290,
+      "total": 293,
       "ai": 1,
       "automation": 24,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 59,
+      "ai": 3,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
       }
     }
   }

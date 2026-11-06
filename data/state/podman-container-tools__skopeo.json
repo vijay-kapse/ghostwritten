@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "podman-container-tools/skopeo",
-  "head_sha": "bba63c23015f03b5c14a8fe1ad8bcb79f48b9437",
-  "oldest": "2026-02-26T19:34:14Z",
-  "complete": false,
+  "head_sha": "c51a5f8fc3c88d7dae273c0b0c0f80c3baa32e12",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T01:49:55Z"
+  "updated_at": "2026-11-06T11:28:18Z"
 }

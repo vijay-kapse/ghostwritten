@@ -5,26 +5,91 @@
   "language": "Java",
   "stars": 12225,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:43:18Z",
-  "window_start": "2026-10-21",
+  "scanned_at": "2026-11-06T11:11:38Z",
+  "window_start": "2026-04-29",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 127,
-      "ai": 59,
-      "automation": 126,
+    "2026-04": {
+      "total": 34,
+      "ai": 15,
+      "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 59
+        "claude_trailer": 15
+      }
+    },
+    "2026-05": {
+      "total": 446,
+      "ai": 132,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 126,
+        "copilot_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 548,
+      "ai": 189,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 182,
+        "copilot_trailer": 7,
+        "cursor": 2
+      }
+    },
+    "2026-07": {
+      "total": 490,
+      "ai": 228,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 221,
+        "cursor": 6,
+        "copilot_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 366,
+      "ai": 165,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 162,
+        "codex_trailer": 2,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 473,
+      "ai": 275,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 269,
+        "cursor": 4,
+        "codex_trailer": 3
+      }
+    },
+    "2026-10": {
+      "total": 557,
+      "ai": 286,
+      "automation": 137,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 284,
+        "codex_trailer": 2
       }
     },
     "2026-11": {
-      "total": 31,
-      "ai": 23,
-      "automation": 16,
+      "total": 79,
+      "ai": 55,
+      "automation": 80,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 23
+        "claude_trailer": 53,
+        "cursor": 2
       }
     }
   }

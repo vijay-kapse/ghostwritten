@@ -5,22 +5,42 @@
   "language": "Python",
   "stars": 11419,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:49:26Z",
-  "window_start": "2026-09-23",
-  "complete": false,
+  "scanned_at": "2026-11-06T11:26:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-09": {
-      "total": 73,
-      "ai": 38,
+    "2026-07": {
+      "total": 82,
+      "ai": 30,
       "automation": 0,
-      "merges": 7,
+      "merges": 14,
       "by_rule": {
-        "cursor": 37,
-        "claude_trailer": 1
+        "cursor": 28,
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 192,
+      "ai": 54,
+      "automation": 2,
+      "merges": 46,
+      "by_rule": {
+        "cursor": 53,
+        "claude_trailer": 3
+      }
+    },
+    "2026-09": {
+      "total": 305,
+      "ai": 114,
+      "automation": 0,
+      "merges": 33,
+      "by_rule": {
+        "cursor": 112,
+        "claude_trailer": 2
       }
     },
     "2026-10": {
-      "total": 171,
+      "total": 172,
       "ai": 65,
       "automation": 1,
       "merges": 42,
@@ -30,12 +50,12 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 4,
+      "total": 42,
+      "ai": 21,
       "automation": 0,
-      "merges": 1,
+      "merges": 8,
       "by_rule": {
-        "cursor": 4
+        "cursor": 21
       }
     }
   }

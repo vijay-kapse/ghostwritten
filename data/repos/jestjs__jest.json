@@ -5,14 +5,14 @@
   "language": "TypeScript",
   "stars": 45471,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:00:27Z",
-  "window_start": "2025-01-15",
-  "complete": false,
+  "scanned_at": "2026-11-07T10:46:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 13,
+      "total": 20,
       "ai": 0,
-      "automation": 4,
+      "automation": 8,
       "merges": 0,
       "by_rule": {}
     },

@@ -5,15 +5,66 @@
   "language": "C++",
   "stars": 50132,
   "default_branch": "development",
-  "scanned_at": "2026-11-03T01:58:01Z",
-  "window_start": "2025-08-17",
-  "complete": false,
+  "scanned_at": "2026-11-07T10:36:08Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 32,
+    "2025-01": {
+      "total": 9,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 38,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 29,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 46,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 71,
+      "ai": 1,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
+    "2025-08": {
+      "total": 77,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
       "by_rule": {}
     },
     "2025-09": {

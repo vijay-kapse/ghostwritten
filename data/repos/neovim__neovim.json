@@ -5,15 +5,87 @@
   "language": "Vim Script",
   "stars": 103289,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:01:09Z",
-  "window_start": "2026-02-17",
+  "scanned_at": "2026-11-07T10:48:51Z",
+  "window_start": "2025-04-27",
   "complete": false,
   "months": {
-    "2026-02": {
-      "total": 123,
-      "ai": 1,
+    "2025-04": {
+      "total": 39,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 228,
+      "ai": 0,
+      "automation": 1,
+      "merges": 26,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 258,
+      "ai": 0,
+      "automation": 0,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 259,
+      "ai": 0,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 275,
+      "ai": 0,
       "automation": 5,
-      "merges": 12,
+      "merges": 38,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 276,
+      "ai": 0,
+      "automation": 6,
+      "merges": 35,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 271,
+      "ai": 0,
+      "automation": 7,
+      "merges": 32,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 195,
+      "ai": 0,
+      "automation": 1,
+      "merges": 15,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 269,
+      "ai": 0,
+      "automation": 9,
+      "merges": 33,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 310,
+      "ai": 1,
+      "automation": 3,
+      "merges": 35,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 330,
+      "ai": 1,
+      "automation": 6,
+      "merges": 26,
       "by_rule": {
         "claude_trailer": 1
       }
@@ -88,10 +160,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 26,
+      "total": 62,
       "ai": 0,
-      "automation": 0,
-      "merges": 1,
+      "automation": 1,
+      "merges": 4,
       "by_rule": {}
     }
   }

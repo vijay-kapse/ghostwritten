@@ -5,27 +5,63 @@
   "language": "Python",
   "stars": 45699,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:00:02Z",
-  "window_start": "2026-09-13",
+  "scanned_at": "2026-11-07T10:44:41Z",
+  "window_start": "2026-06-17",
   "complete": false,
   "months": {
+    "2026-06": {
+      "total": 38,
+      "ai": 9,
+      "automation": 490,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-07": {
+      "total": 37,
+      "ai": 6,
+      "automation": 1023,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-08": {
+      "total": 42,
+      "ai": 5,
+      "automation": 639,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
     "2026-09": {
-      "total": 72,
+      "total": 85,
       "ai": 1,
-      "automation": 119,
-      "merges": 99,
+      "automation": 497,
+      "merges": 325,
       "by_rule": {
         "claude_trailer": 1,
         "other_bot_agent": 1
       }
     },
     "2026-10": {
-      "total": 95,
+      "total": 108,
       "ai": 8,
       "automation": 119,
-      "merges": 96,
+      "merges": 101,
       "by_rule": {
         "claude_trailer": 8
+      }
+    },
+    "2026-11": {
+      "total": 27,
+      "ai": 18,
+      "automation": 14,
+      "merges": 23,
+      "by_rule": {
+        "claude_trailer": 18
       }
     }
   }

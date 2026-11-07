@@ -5,23 +5,27 @@
   "language": "Python",
   "stars": 40830,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T02:02:58Z",
-  "window_start": "2026-10-29",
+  "scanned_at": "2026-11-07T10:54:18Z",
+  "window_start": "2026-10-14",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 290,
-      "ai": 0,
-      "automation": 0,
-      "merges": 86,
-      "by_rule": {}
+      "total": 2064,
+      "ai": 3,
+      "automation": 3,
+      "merges": 630,
+      "by_rule": {
+        "claude_trailer": 3
+      }
     },
     "2026-11": {
-      "total": 96,
-      "ai": 0,
-      "automation": 1,
-      "merges": 47,
-      "by_rule": {}
+      "total": 526,
+      "ai": 4,
+      "automation": 5,
+      "merges": 197,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

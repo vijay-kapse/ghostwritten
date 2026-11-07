@@ -5,7 +5,7 @@
   "language": "HTML",
   "stars": 63887,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:54:03Z",
+  "scanned_at": "2026-11-07T10:20:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -58,6 +58,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

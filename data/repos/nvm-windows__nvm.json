@@ -5,7 +5,7 @@
   "language": "Inno Setup",
   "stars": 48100,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:58:49Z",
+  "scanned_at": "2026-11-07T10:39:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -35,10 +35,10 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 19,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 11,
       "by_rule": {}
     }
   }

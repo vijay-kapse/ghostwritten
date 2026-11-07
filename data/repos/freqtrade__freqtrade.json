@@ -5,15 +5,104 @@
   "language": "Python",
   "stars": 56274,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T01:55:51Z",
-  "window_start": "2026-09-08",
+  "scanned_at": "2026-11-07T10:27:47Z",
+  "window_start": "2025-10-27",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 109,
+    "2025-10": {
+      "total": 19,
       "ai": 0,
-      "automation": 34,
-      "merges": 44,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 193,
+      "ai": 0,
+      "automation": 39,
+      "merges": 70,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 202,
+      "ai": 0,
+      "automation": 58,
+      "merges": 90,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 127,
+      "ai": 0,
+      "automation": 29,
+      "merges": 46,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 150,
+      "ai": 1,
+      "automation": 40,
+      "merges": 62,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 214,
+      "ai": 3,
+      "automation": 56,
+      "merges": 86,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-04": {
+      "total": 241,
+      "ai": 3,
+      "automation": 51,
+      "merges": 69,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-05": {
+      "total": 84,
+      "ai": 0,
+      "automation": 38,
+      "merges": 52,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 118,
+      "ai": 6,
+      "automation": 47,
+      "merges": 71,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-07": {
+      "total": 132,
+      "ai": 1,
+      "automation": 42,
+      "merges": 78,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 194,
+      "ai": 1,
+      "automation": 53,
+      "merges": 76,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 149,
+      "ai": 0,
+      "automation": 43,
+      "merges": 61,
       "by_rule": {}
     },
     "2026-10": {
@@ -26,10 +115,10 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 17,
       "ai": 0,
-      "automation": 6,
-      "merges": 8,
+      "automation": 7,
+      "merges": 11,
       "by_rule": {}
     }
   }

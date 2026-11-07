@@ -5,27 +5,39 @@
   "language": "Kotlin",
   "stars": 53533,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T01:56:39Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-07T10:30:44Z",
+  "window_start": "2026-09-02",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 500,
-      "ai": 99,
+    "2026-09": {
+      "total": 1358,
+      "ai": 155,
       "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 154,
+        "codex_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1739,
+      "ai": 269,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 99,
-        "claude_generated": 1
+        "claude_trailer": 266,
+        "codex_trailer": 2,
+        "claude_generated": 1,
+        "copilot_author": 1
       }
     },
     "2026-11": {
-      "total": 49,
-      "ai": 10,
-      "automation": 0,
+      "total": 415,
+      "ai": 94,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10
+        "claude_trailer": 94
       }
     }
   }

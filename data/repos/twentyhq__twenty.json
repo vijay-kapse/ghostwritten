@@ -5,29 +5,49 @@
   "language": "TypeScript",
   "stars": 60255,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T01:55:04Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-07T10:24:21Z",
+  "window_start": "2026-08-20",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 441,
-      "ai": 46,
-      "automation": 52,
+    "2026-08": {
+      "total": 301,
+      "ai": 48,
+      "automation": 152,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 41,
-        "claude_trailer": 4,
+        "claude_generated": 48
+      }
+    },
+    "2026-09": {
+      "total": 1004,
+      "ai": 74,
+      "automation": 141,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 73,
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 1466,
+      "ai": 185,
+      "automation": 129,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 179,
+        "claude_trailer": 5,
         "copilot_trailer": 2
       }
     },
     "2026-11": {
-      "total": 40,
-      "ai": 4,
-      "automation": 11,
+      "total": 249,
+      "ai": 41,
+      "automation": 61,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 2,
-        "claude_trailer": 2
+        "claude_generated": 35,
+        "claude_trailer": 6
       }
     }
   }

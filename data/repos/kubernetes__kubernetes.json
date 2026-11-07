@@ -5,15 +5,36 @@
   "language": "Go",
   "stars": 128811,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T01:54:52Z",
-  "window_start": "2026-07-15",
+  "scanned_at": "2026-11-07T10:23:32Z",
+  "window_start": "2026-04-06",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 521,
+    "2026-04": {
+      "total": 319,
       "ai": 0,
       "automation": 0,
-      "merges": 237,
+      "merges": 169,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 480,
+      "ai": 0,
+      "automation": 0,
+      "merges": 279,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 493,
+      "ai": 0,
+      "automation": 0,
+      "merges": 289,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 905,
+      "ai": 0,
+      "automation": 0,
+      "merges": 424,
       "by_rule": {}
     },
     "2026-08": {
@@ -24,7 +45,7 @@
       "by_rule": {}
     },
     "2026-09": {
-      "total": 556,
+      "total": 563,
       "ai": 1,
       "automation": 0,
       "merges": 379,
@@ -33,7 +54,7 @@
       }
     },
     "2026-10": {
-      "total": 673,
+      "total": 715,
       "ai": 1,
       "automation": 0,
       "merges": 488,
@@ -42,10 +63,10 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 219,
       "ai": 0,
       "automation": 0,
-      "merges": 23,
+      "merges": 166,
       "by_rule": {}
     }
   }

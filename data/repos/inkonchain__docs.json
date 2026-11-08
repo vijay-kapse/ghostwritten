@@ -5,7 +5,7 @@
   "language": "MDX",
   "stars": 36441,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:07:19Z",
+  "scanned_at": "2026-11-08T10:45:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -147,13 +147,20 @@
       }
     },
     "2026-10": {
-      "total": 5,
+      "total": 7,
       "ai": 3,
       "automation": 0,
       "merges": 4,
       "by_rule": {
         "claude_trailer": 3
       }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
     }
   }
 }

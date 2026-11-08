@@ -5,14 +5,133 @@
   "language": "Rust",
   "stars": 32324,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:11:45Z",
-  "window_start": "2026-08-07",
+  "scanned_at": "2026-11-08T10:59:51Z",
+  "window_start": "2025-03-27",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 98,
+    "2025-03": {
+      "total": 44,
       "ai": 0,
       "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 220,
+      "ai": 0,
+      "automation": 17,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 216,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 178,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 188,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 190,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 148,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 165,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 147,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 247,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 224,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 160,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 193,
+      "ai": 0,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 128,
+      "ai": 0,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 93,
+      "ai": 0,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 68,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 107,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 121,
+      "ai": 0,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     },
@@ -31,9 +150,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 27,
+      "total": 103,
       "ai": 0,
-      "automation": 0,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

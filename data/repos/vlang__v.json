@@ -5,23 +5,40 @@
   "language": "V",
   "stars": 38082,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:05:40Z",
-  "window_start": "2026-10-20",
+  "scanned_at": "2026-11-08T10:39:14Z",
+  "window_start": "2026-08-29",
   "complete": false,
   "months": {
+    "2026-08": {
+      "total": 15,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1539,
+      "ai": 19,
+      "automation": 5,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 19
+      }
+    },
     "2026-10": {
-      "total": 398,
-      "ai": 40,
-      "automation": 2,
+      "total": 1536,
+      "ai": 91,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 40
+        "claude_trailer": 86,
+        "codex_trailer": 6
       }
     },
     "2026-11": {
-      "total": 176,
+      "total": 383,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

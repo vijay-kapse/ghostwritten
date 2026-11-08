@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "dokku/dokku",
-  "head_sha": "5ef061d3d2dad4af1fbdc17f3323798d1b58702a",
-  "oldest": "2026-08-19T03:21:43Z",
-  "complete": false,
+  "head_sha": "926ed2e6990f28625b39b6717e6a850d1838a194",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-03T02:11:52Z"
+  "updated_at": "2026-11-08T11:00:21Z"
 }

@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "k3s-io/k3s",
-  "head_sha": "3461a87f36257bee62fafc980e43ef8b23514145",
-  "oldest": "2025-09-24T15:52:28Z",
-  "complete": false,
+  "head_sha": "dca306c81c44fed1dd0621d5579785c980080ae8",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T02:09:02Z"
+  "updated_at": "2026-11-08T10:51:06Z"
 }

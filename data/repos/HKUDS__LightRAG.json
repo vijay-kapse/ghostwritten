@@ -5,17 +5,64 @@
   "language": "Python",
   "stars": 40468,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:03:32Z",
-  "window_start": "2026-09-06",
+  "scanned_at": "2026-11-08T10:30:49Z",
+  "window_start": "2026-04-26",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 411,
-      "ai": 267,
-      "automation": 14,
-      "merges": 161,
+    "2026-04": {
+      "total": 45,
+      "ai": 2,
+      "automation": 3,
+      "merges": 22,
       "by_rule": {
-        "claude_trailer": 267
+        "claude_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 575,
+      "ai": 157,
+      "automation": 18,
+      "merges": 193,
+      "by_rule": {
+        "claude_trailer": 157,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 385,
+      "ai": 190,
+      "automation": 19,
+      "merges": 117,
+      "by_rule": {
+        "claude_trailer": 190
+      }
+    },
+    "2026-07": {
+      "total": 463,
+      "ai": 283,
+      "automation": 19,
+      "merges": 165,
+      "by_rule": {
+        "claude_trailer": 281,
+        "codex_trailer": 2
+      }
+    },
+    "2026-08": {
+      "total": 567,
+      "ai": 298,
+      "automation": 17,
+      "merges": 201,
+      "by_rule": {
+        "claude_trailer": 298
+      }
+    },
+    "2026-09": {
+      "total": 546,
+      "ai": 340,
+      "automation": 20,
+      "merges": 211,
+      "by_rule": {
+        "claude_trailer": 340
       }
     },
     "2026-10": {

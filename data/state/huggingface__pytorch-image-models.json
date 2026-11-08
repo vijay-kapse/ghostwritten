@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "huggingface/pytorch-image-models",
-  "head_sha": "03b76b6ed7d98a844afc5529669b761b3ac5f562",
-  "oldest": "2025-05-30T21:36:41Z",
-  "complete": false,
+  "head_sha": "43b549bfe9d680bc94284cfd0b611152d18e97d7",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T02:06:36Z"
+  "updated_at": "2026-11-08T10:41:58Z"
 }

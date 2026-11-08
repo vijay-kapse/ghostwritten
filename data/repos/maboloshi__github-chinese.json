@@ -5,14 +5,28 @@
   "language": "JavaScript",
   "stars": 37401,
   "default_branch": "gh-pages",
-  "scanned_at": "2026-11-03T02:06:19Z",
-  "window_start": "2025-03-21",
-  "complete": false,
+  "scanned_at": "2026-11-08T10:41:02Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-03": {
-      "total": 5,
+    "2025-01": {
+      "total": 26,
       "ai": 0,
-      "automation": 5,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 44,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 21,
+      "ai": 0,
+      "automation": 14,
       "merges": 0,
       "by_rule": {}
     },
@@ -154,9 +168,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 8,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

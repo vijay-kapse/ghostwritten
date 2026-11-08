@@ -5,22 +5,24 @@
   "language": "Go",
   "stars": 36028,
   "default_branch": "studio",
-  "scanned_at": "2026-11-03T02:07:34Z",
-  "window_start": "2026-10-25",
+  "scanned_at": "2026-11-08T10:45:54Z",
+  "window_start": "2026-10-14",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 256,
-      "ai": 0,
-      "automation": 2,
-      "merges": 204,
-      "by_rule": {}
+      "total": 1645,
+      "ai": 3,
+      "automation": 12,
+      "merges": 1209,
+      "by_rule": {
+        "claude_trailer": 3
+      }
     },
     "2026-11": {
-      "total": 52,
+      "total": 577,
       "ai": 0,
       "automation": 4,
-      "merges": 29,
+      "merges": 35,
       "by_rule": {}
     }
   }

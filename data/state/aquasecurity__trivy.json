@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "aquasecurity/trivy",
-  "head_sha": "1d1ab074ed6f2834633370ddc11256fd7ef8e052",
-  "oldest": "2025-11-11T13:22:34Z",
-  "complete": false,
+  "head_sha": "c22582a1a226379b070041a9e76dcd615c343328",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T02:04:52Z"
+  "updated_at": "2026-11-08T10:35:31Z"
 }

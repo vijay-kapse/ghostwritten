@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "netdata/netdata",
-  "head_sha": "077b068c81bfa5171602ce109e0fafcb1337a484",
-  "oldest": "2025-08-12T08:23:33Z",
-  "complete": false,
+  "head_sha": "b67c094f5c59e0cc3ae0aafb522a60d3369bc3c9",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-03T02:11:08Z"
+  "updated_at": "2026-11-08T10:57:58Z"
 }

@@ -3,9 +3,9 @@
   "repo": "browserbase/stagehand",
   "org": "browserbase",
   "language": "TypeScript",
-  "stars": 25899,
+  "stars": 25990,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T10:57:53Z",
+  "scanned_at": "2026-11-09T12:22:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,9 +203,9 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 19,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

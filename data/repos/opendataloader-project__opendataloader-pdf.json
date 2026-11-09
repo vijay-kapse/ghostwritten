@@ -3,19 +3,83 @@
   "repo": "opendataloader-project/opendataloader-pdf",
   "org": "opendataloader-project",
   "language": "Java",
-  "stars": 30136,
+  "stars": 30253,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:16:06Z",
-  "window_start": "2026-03-30",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:56:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 4,
-      "ai": 4,
+    "2025-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 26,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 93,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 15,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 38,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 80,
+      "ai": 29,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 29,
+        "claude_trailer": 29
+      }
+    },
+    "2026-01": {
+      "total": 116,
+      "ai": 105,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 105,
+        "claude_generated": 78
+      }
+    },
+    "2026-02": {
+      "total": 48,
+      "ai": 37,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 37
+      }
+    },
+    "2026-03": {
+      "total": 134,
+      "ai": 104,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 104
       }
     },
     "2026-04": {
@@ -85,12 +149,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 4,
-      "automation": 0,
+      "total": 98,
+      "ai": 83,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 83
       }
     }
   }

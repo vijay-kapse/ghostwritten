@@ -3,9 +3,9 @@
   "repo": "warpdotdev/warp",
   "org": "warpdotdev",
   "language": "Rust",
-  "stars": 65819,
+  "stars": 65934,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:15:13Z",
+  "scanned_at": "2026-11-09T11:53:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,9 +76,9 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 13,
       "ai": 0,
-      "automation": 0,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     }

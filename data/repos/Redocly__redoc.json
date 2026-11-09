@@ -3,9 +3,9 @@
   "repo": "Redocly/redoc",
   "org": "Redocly",
   "language": "TypeScript",
-  "stars": 25996,
+  "stars": 26005,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T10:57:34Z",
+  "scanned_at": "2026-11-09T12:22:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,11 +117,13 @@
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 0,
-      "automation": 0,
+      "total": 4,
+      "ai": 1,
+      "automation": 5,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

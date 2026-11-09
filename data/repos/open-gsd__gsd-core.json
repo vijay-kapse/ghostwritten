@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "repo": "open-gsd/gsd-core",
+  "org": "open-gsd",
+  "language": "JavaScript",
+  "stars": 11371,
+  "default_branch": "next",
+  "scanned_at": "2026-11-09T11:45:58Z",
+  "window_start": "2026-06-12",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 406,
+      "ai": 206,
+      "automation": 15,
+      "merges": 82,
+      "by_rule": {
+        "claude_trailer": 206,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 655,
+      "ai": 216,
+      "automation": 18,
+      "merges": 131,
+      "by_rule": {
+        "claude_trailer": 210,
+        "cursor": 7
+      }
+    },
+    "2026-08": {
+      "total": 640,
+      "ai": 113,
+      "automation": 10,
+      "merges": 31,
+      "by_rule": {
+        "claude_trailer": 113
+      }
+    },
+    "2026-09": {
+      "total": 466,
+      "ai": 262,
+      "automation": 12,
+      "merges": 26,
+      "by_rule": {
+        "claude_trailer": 262,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 345,
+      "ai": 256,
+      "automation": 12,
+      "merges": 36,
+      "by_rule": {
+        "claude_trailer": 256
+      }
+    },
+    "2026-11": {
+      "total": 103,
+      "ai": 92,
+      "automation": 5,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 92
+      }
+    }
+  }
+}

@@ -3,19 +3,55 @@
   "repo": "onlook-dev/onlook",
   "org": "onlook-dev",
   "language": "TypeScript",
-  "stars": 27073,
+  "stars": 27149,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:55Z",
-  "window_start": "2025-05-26",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:16:34Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 38,
-      "ai": 1,
+    "2025-01": {
+      "total": 122,
+      "ai": 6,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "devin": 6
+      }
+    },
+    "2025-02": {
+      "total": 144,
+      "ai": 18,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "devin": 18
+      }
+    },
+    "2025-03": {
+      "total": 111,
+      "ai": 8,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "devin": 1
+        "devin": 8
+      }
+    },
+    "2025-04": {
+      "total": 49,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "devin": 2
+      }
+    },
+    "2025-05": {
+      "total": 97,
+      "ai": 8,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "devin": 8
       }
     },
     "2025-06": {

@@ -3,18 +3,56 @@
   "repo": "slymnoyann/hey.xyz",
   "org": "slymnoyann",
   "language": "TypeScript",
-  "stars": 29353,
+  "stars": 29345,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:17:22Z",
-  "window_start": "2025-07-25",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:02:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-07": {
-      "total": 16,
+    "2025-03": {
+      "total": 191,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 498,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2025-05": {
+      "total": 265,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2025-06": {
+      "total": 339,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-07": {
+      "total": 160,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
     },
     "2025-08": {
       "total": 157,

@@ -3,16 +3,58 @@
   "repo": "goharbor/harbor",
   "org": "goharbor",
   "language": "Go",
-  "stars": 29654,
+  "stars": 29701,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:16:55Z",
-  "window_start": "2025-07-23",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:59:40Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-07": {
-      "total": 8,
+    "2025-01": {
+      "total": 21,
+      "ai": 0,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 16,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 38,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 27,
       "ai": 0,
       "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 11,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 12,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 25,
+      "ai": 0,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     },
@@ -139,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 8,
       "ai": 1,
-      "automation": 0,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "openbq-org/OpenBB",
   "org": "openbq-org",
   "language": "Python",
-  "stars": 74995,
+  "stars": 75266,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T02:14:18Z",
+  "scanned_at": "2026-11-09T11:49:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 0,

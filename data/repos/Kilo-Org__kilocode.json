@@ -3,24 +3,35 @@
   "repo": "Kilo-Org/kilocode",
   "org": "Kilo-Org",
   "language": "TypeScript",
-  "stars": 27829,
+  "stars": 27914,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:19:35Z",
-  "window_start": "2026-10-13",
+  "scanned_at": "2026-11-09T12:12:05Z",
+  "window_start": "2026-09-01",
   "complete": false,
   "months": {
+    "2026-09": {
+      "total": 1236,
+      "ai": 2,
+      "automation": 183,
+      "merges": 745,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
     "2026-10": {
-      "total": 256,
-      "ai": 0,
-      "automation": 55,
-      "merges": 200,
-      "by_rule": {}
+      "total": 612,
+      "ai": 9,
+      "automation": 101,
+      "merges": 439,
+      "by_rule": {
+        "claude_trailer": 9
+      }
     },
     "2026-11": {
-      "total": 20,
+      "total": 100,
       "ai": 0,
-      "automation": 7,
-      "merges": 12,
+      "automation": 21,
+      "merges": 55,
       "by_rule": {}
     }
   }

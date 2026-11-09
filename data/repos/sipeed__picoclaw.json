@@ -3,20 +3,43 @@
   "repo": "sipeed/picoclaw",
   "org": "sipeed",
   "language": "Go",
-  "stars": 30078,
+  "stars": 30115,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:16:18Z",
-  "window_start": "2026-04-25",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:57:12Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-04": {
-      "total": 67,
-      "ai": 8,
-      "automation": 1,
-      "merges": 7,
+    "2026-02": {
+      "total": 539,
+      "ai": 83,
+      "automation": 0,
+      "merges": 183,
       "by_rule": {
-        "claude_trailer": 6,
-        "copilot_trailer": 2
+        "claude_trailer": 73,
+        "copilot_trailer": 6,
+        "cursor": 3,
+        "amp_factory": 1
+      }
+    },
+    "2026-03": {
+      "total": 669,
+      "ai": 107,
+      "automation": 32,
+      "merges": 215,
+      "by_rule": {
+        "claude_trailer": 87,
+        "copilot_trailer": 20,
+        "claude_generated": 2
+      }
+    },
+    "2026-04": {
+      "total": 322,
+      "ai": 21,
+      "automation": 36,
+      "merges": 63,
+      "by_rule": {
+        "claude_trailer": 17,
+        "copilot_trailer": 4
       }
     },
     "2026-05": {

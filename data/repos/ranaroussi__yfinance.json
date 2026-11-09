@@ -3,9 +3,9 @@
   "repo": "ranaroussi/yfinance",
   "org": "ranaroussi",
   "language": "Python",
-  "stars": 25781,
+  "stars": 25873,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T10:58:54Z",
+  "scanned_at": "2026-11-09T12:23:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -145,31 +145,31 @@
       }
     },
     "2026-08": {
-      "total": 14,
+      "total": 15,
       "ai": 0,
       "automation": 0,
       "merges": 11,
       "by_rule": {}
     },
     "2026-09": {
-      "total": 2,
+      "total": 16,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 11,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 3,
+      "total": 24,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 17,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 4,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 4,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "mem0ai/mem0",
   "org": "mem0ai",
   "language": "Python",
-  "stars": 68236,
+  "stars": 68685,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:56Z",
+  "scanned_at": "2026-11-09T11:52:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,6 +183,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

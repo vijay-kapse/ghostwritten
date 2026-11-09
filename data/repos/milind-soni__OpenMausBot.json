@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "milind-soni/OpenMausBot",
+  "org": "milind-soni",
+  "language": "TypeScript",
+  "stars": 19148,
+  "default_branch": "main",
+  "scanned_at": "2026-11-09T11:44:27Z",
+  "window_start": "2026-10-22",
+  "complete": false,
+  "months": {
+    "2026-10": {
+      "total": 913,
+      "ai": 793,
+      "automation": 13,
+      "merges": 481,
+      "by_rule": {
+        "claude_trailer": 791,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 983,
+      "ai": 811,
+      "automation": 14,
+      "merges": 596,
+      "by_rule": {
+        "claude_trailer": 806,
+        "copilot_trailer": 3,
+        "cursor": 2
+      }
+    }
+  }
+}

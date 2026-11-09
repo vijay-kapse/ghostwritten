@@ -3,9 +3,9 @@
   "repo": "nektos/act",
   "org": "nektos",
   "language": "Go",
-  "stars": 72512,
+  "stars": 72601,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:31Z",
+  "scanned_at": "2026-11-09T11:50:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -144,6 +144,13 @@
         "cursor": 62,
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

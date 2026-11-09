@@ -3,9 +3,9 @@
   "repo": "alchaincyf/huashu-design",
   "org": "alchaincyf",
   "language": "HTML",
-  "stars": 28396,
+  "stars": 29031,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:18:53Z",
+  "scanned_at": "2026-11-09T12:09:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -70,6 +70,15 @@
       "merges": 2,
       "by_rule": {
         "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
       }
     }
   }

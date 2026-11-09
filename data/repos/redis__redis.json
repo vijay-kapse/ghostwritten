@@ -3,9 +3,9 @@
   "repo": "redis/redis",
   "org": "redis",
   "language": "C",
-  "stars": 77131,
+  "stars": 77316,
   "default_branch": "unstable",
-  "scanned_at": "2026-11-03T02:13:57Z",
+  "scanned_at": "2026-11-09T11:48:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,12 +198,13 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 1,
+      "total": 25,
+      "ai": 8,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 8,
+        "copilot_trailer": 1
       }
     }
   }

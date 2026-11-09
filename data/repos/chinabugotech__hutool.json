@@ -3,17 +3,52 @@
   "repo": "chinabugotech/hutool",
   "org": "chinabugotech",
   "language": "Java",
-  "stars": 30235,
+  "stars": 30229,
   "default_branch": "v5-master",
-  "scanned_at": "2026-11-03T02:15:50Z",
-  "window_start": "2025-06-11",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:55:21Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 23,
+    "2025-01": {
+      "total": 21,
       "ai": 0,
       "automation": 0,
       "merges": 6,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 22,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 41,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 35,
+      "ai": 0,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 34,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
       "by_rule": {}
     },
     "2025-07": {

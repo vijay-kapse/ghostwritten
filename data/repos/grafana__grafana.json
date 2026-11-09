@@ -3,20 +3,51 @@
   "repo": "grafana/grafana",
   "org": "grafana",
   "language": "TypeScript",
-  "stars": 77617,
+  "stars": 77783,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:13:44Z",
-  "window_start": "2026-08-13",
+  "scanned_at": "2026-11-09T11:47:59Z",
+  "window_start": "2026-05-26",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 581,
-      "ai": 116,
-      "automation": 41,
+    "2026-05": {
+      "total": 152,
+      "ai": 15,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 72,
-        "cursor": 44
+        "claude_trailer": 15
+      }
+    },
+    "2026-06": {
+      "total": 836,
+      "ai": 148,
+      "automation": 50,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 135,
+        "cursor": 8,
+        "copilot_trailer": 5
+      }
+    },
+    "2026-07": {
+      "total": 1174,
+      "ai": 230,
+      "automation": 73,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 174,
+        "cursor": 56,
+        "copilot_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 978,
+      "ai": 194,
+      "automation": 56,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 120,
+        "cursor": 74
       }
     },
     "2026-09": {
@@ -43,13 +74,13 @@
       }
     },
     "2026-11": {
-      "total": 73,
-      "ai": 16,
-      "automation": 1,
+      "total": 357,
+      "ai": 86,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10,
-        "cursor": 6
+        "claude_trailer": 68,
+        "cursor": 20
       }
     }
   }

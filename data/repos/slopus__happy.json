@@ -3,20 +3,30 @@
   "repo": "slopus/happy",
   "org": "slopus",
   "language": "Swift",
-  "stars": 24443,
+  "stars": 24553,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:09:14Z",
-  "window_start": "2025-08-27",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:27:10Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 40,
-      "ai": 11,
+    "2025-07": {
+      "total": 386,
+      "ai": 1,
       "automation": 0,
-      "merges": 2,
+      "merges": 34,
       "by_rule": {
-        "claude_generated": 11,
-        "claude_trailer": 11
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-08": {
+      "total": 460,
+      "ai": 101,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {
+        "claude_generated": 101,
+        "claude_trailer": 101
       }
     },
     "2025-09": {
@@ -158,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 153,
+      "total": 654,
       "ai": 0,
       "automation": 0,
       "merges": 0,

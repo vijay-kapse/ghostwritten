@@ -3,17 +3,31 @@
   "repo": "typesense/typesense",
   "org": "typesense",
   "language": "C++",
-  "stars": 27075,
+  "stars": 27106,
   "default_branch": "v31",
-  "scanned_at": "2026-11-03T02:20:53Z",
-  "window_start": "2025-03-20",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:16:30Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-03": {
-      "total": 38,
+    "2025-01": {
+      "total": 94,
       "ai": 0,
       "automation": 0,
-      "merges": 24,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 97,
+      "ai": 0,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 66,
+      "ai": 0,
+      "automation": 0,
+      "merges": 30,
       "by_rule": {}
     },
     "2025-04": {
@@ -147,6 +161,13 @@
       "ai": 0,
       "automation": 0,
       "merges": 1,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
       "by_rule": {}
     }
   }

@@ -3,18 +3,70 @@
   "repo": "goauthentik/authentik",
   "org": "goauthentik",
   "language": "Python",
-  "stars": 26189,
+  "stars": 26279,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:22:14Z",
-  "window_start": "2026-09-29",
+  "scanned_at": "2026-11-09T12:21:08Z",
+  "window_start": "2026-04-15",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 23,
-      "ai": 0,
-      "automation": 6,
+    "2026-04": {
+      "total": 136,
+      "ai": 3,
+      "automation": 112,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "codex_trailer": 3
+      }
+    },
+    "2026-05": {
+      "total": 183,
+      "ai": 1,
+      "automation": 230,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 292,
+      "ai": 3,
+      "automation": 238,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-07": {
+      "total": 346,
+      "ai": 8,
+      "automation": 309,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 5,
+        "claude_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 216,
+      "ai": 8,
+      "automation": 233,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 292,
+      "ai": 10,
+      "automation": 242,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
     },
     "2026-10": {
       "total": 263,
@@ -27,11 +79,13 @@
       }
     },
     "2026-11": {
-      "total": 30,
-      "ai": 0,
-      "automation": 11,
+      "total": 77,
+      "ai": 1,
+      "automation": 102,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "dani-garcia/vaultwarden",
   "org": "dani-garcia",
   "language": "Rust",
-  "stars": 70050,
+  "stars": 70468,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:46Z",
+  "scanned_at": "2026-11-09T11:51:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 8,
       "ai": 0,
       "automation": 0,
       "merges": 0,

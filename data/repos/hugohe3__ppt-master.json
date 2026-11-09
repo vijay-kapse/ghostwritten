@@ -3,9 +3,9 @@
   "repo": "hugohe3/ppt-master",
   "org": "hugohe3",
   "language": "Python",
-  "stars": 72081,
+  "stars": 75126,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:36Z",
+  "scanned_at": "2026-11-09T11:50:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -103,12 +103,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 57,
+      "ai": 57,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 57
       }
     }
   }

@@ -3,20 +3,62 @@
   "repo": "ruby/ruby",
   "org": "ruby",
   "language": "Ruby",
-  "stars": 23799,
+  "stars": 23801,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:16:50Z",
-  "window_start": "2026-07-15",
+  "scanned_at": "2026-11-09T12:30:26Z",
+  "window_start": "2026-03-15",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 379,
-      "ai": 52,
-      "automation": 6,
+    "2026-03": {
+      "total": 557,
+      "ai": 66,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 51,
+        "claude_trailer": 65,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 367,
+      "ai": 55,
+      "automation": 25,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 46,
+        "copilot_author": 9,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 581,
+      "ai": 85,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 83,
+        "codex_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 734,
+      "ai": 241,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 240,
         "copilot_author": 1
+      }
+    },
+    "2026-07": {
+      "total": 764,
+      "ai": 143,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 141,
+        "copilot_author": 2
       }
     },
     "2026-08": {
@@ -50,12 +92,12 @@
       }
     },
     "2026-11": {
-      "total": 51,
-      "ai": 10,
-      "automation": 2,
+      "total": 272,
+      "ai": 73,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10
+        "claude_trailer": 73
       }
     }
   }

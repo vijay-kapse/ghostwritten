@@ -3,29 +3,52 @@
   "repo": "QwenLM/qwen-code",
   "org": "QwenLM",
   "language": "TypeScript",
-  "stars": 28857,
+  "stars": 29124,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:12Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-09T12:06:12Z",
+  "window_start": "2026-08-21",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 476,
-      "ai": 6,
+    "2026-08": {
+      "total": 446,
+      "ai": 56,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5,
-        "cursor": 1
+        "claude_trailer": 49,
+        "cursor": 7
+      }
+    },
+    "2026-09": {
+      "total": 1181,
+      "ai": 45,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 35,
+        "cursor": 6,
+        "codex_trailer": 4
+      }
+    },
+    "2026-10": {
+      "total": 1449,
+      "ai": 19,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9,
+        "cursor": 5,
+        "codex_trailer": 4,
+        "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 63,
-      "ai": 1,
+      "total": 440,
+      "ai": 24,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 24
       }
     }
   }

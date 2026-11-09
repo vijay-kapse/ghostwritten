@@ -3,19 +3,82 @@
   "repo": "zulip/zulip",
   "org": "zulip",
   "language": "Python",
-  "stars": 26154,
+  "stars": 26193,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:22:18Z",
-  "window_start": "2026-09-15",
+  "scanned_at": "2026-11-09T12:21:34Z",
+  "window_start": "2026-02-04",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 142,
-      "ai": 73,
+    "2026-02": {
+      "total": 525,
+      "ai": 84,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 73
+        "claude_trailer": 84
+      }
+    },
+    "2026-03": {
+      "total": 618,
+      "ai": 100,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 100
+      }
+    },
+    "2026-04": {
+      "total": 675,
+      "ai": 149,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 149
+      }
+    },
+    "2026-05": {
+      "total": 238,
+      "ai": 62,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 62
+      }
+    },
+    "2026-06": {
+      "total": 264,
+      "ai": 95,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 95
+      }
+    },
+    "2026-07": {
+      "total": 244,
+      "ai": 41,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 41
+      }
+    },
+    "2026-08": {
+      "total": 209,
+      "ai": 61,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 61
+      }
+    },
+    "2026-09": {
+      "total": 266,
+      "ai": 146,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 146
       }
     },
     "2026-10": {
@@ -28,12 +91,12 @@
       }
     },
     "2026-11": {
-      "total": 7,
-      "ai": 2,
-      "automation": 0,
+      "total": 32,
+      "ai": 14,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 14
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "pypa/pipenv",
   "org": "pypa",
   "language": "Python",
-  "stars": 25019,
+  "stars": 25020,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:05:18Z",
+  "scanned_at": "2026-11-09T12:26:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,22 +161,24 @@
       }
     },
     "2026-10": {
-      "total": 237,
-      "ai": 98,
+      "total": 239,
+      "ai": 100,
       "automation": 4,
       "merges": 46,
       "by_rule": {
-        "claude_trailer": 88,
+        "claude_trailer": 90,
         "copilot_author": 8,
         "copilot_trailer": 2
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 19,
+      "ai": 6,
       "automation": 0,
-      "merges": 3,
-      "by_rule": {}
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 6
+      }
     }
   }
 }

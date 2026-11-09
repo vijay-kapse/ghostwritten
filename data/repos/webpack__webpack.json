@@ -3,9 +3,9 @@
   "repo": "webpack/webpack",
   "org": "webpack",
   "language": "JavaScript",
-  "stars": 65977,
+  "stars": 65996,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:15:13Z",
+  "scanned_at": "2026-11-09T11:53:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 35,
-      "ai": 7,
-      "automation": 2,
+      "total": 143,
+      "ai": 17,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 17
       }
     }
   }

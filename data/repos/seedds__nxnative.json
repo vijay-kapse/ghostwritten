@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "seedds/nxnative",
+  "org": "seedds",
+  "language": "Python",
+  "stars": 13923,
+  "default_branch": "main",
+  "scanned_at": "2026-11-09T11:44:38Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 765,
+      "ai": 15,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {
+        "claude_trailer": 14,
+        "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 467,
+      "ai": 8,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    }
+  }
+}

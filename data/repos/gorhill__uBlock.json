@@ -3,9 +3,9 @@
   "repo": "gorhill/uBlock",
   "org": "gorhill",
   "language": "JavaScript",
-  "stars": 69010,
+  "stars": 69200,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:14:51Z",
+  "scanned_at": "2026-11-09T11:52:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 27,
+      "total": 54,
       "ai": 0,
       "automation": 0,
       "merges": 0,

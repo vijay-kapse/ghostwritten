@@ -3,19 +3,41 @@
   "repo": "tobi/qmd",
   "org": "tobi",
   "language": "TypeScript",
-  "stars": 30795,
+  "stars": 30985,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:13:52Z",
-  "window_start": "2026-02-15",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:48:15Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-12": {
+      "total": 98,
+      "ai": 70,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 70,
+        "claude_trailer": 68
+      }
+    },
+    "2026-01": {
+      "total": 62,
+      "ai": 50,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 49,
+        "claude_generated": 4,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    },
     "2026-02": {
-      "total": 90,
-      "ai": 8,
+      "total": 106,
+      "ai": 11,
       "automation": 0,
       "merges": 12,
       "by_rule": {
-        "claude_trailer": 8
+        "claude_trailer": 11
       }
     },
     "2026-03": {

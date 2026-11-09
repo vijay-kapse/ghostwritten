@@ -3,14 +3,14 @@
   "repo": "rohitg00/agentmemory",
   "org": "rohitg00",
   "language": "TypeScript",
-  "stars": 30069,
+  "stars": 30227,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:16:20Z",
-  "window_start": "2026-02-27",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:57:13Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-02": {
-      "total": 16,
+      "total": 18,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -82,6 +82,16 @@
       "by_rule": {
         "claude_trailer": 1,
         "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 76,
+      "ai": 6,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3,
+        "devin": 3
       }
     }
   }

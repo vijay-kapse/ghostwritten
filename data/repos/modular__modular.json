@@ -3,27 +3,33 @@
   "repo": "modular/modular",
   "org": "modular",
   "language": "Mojo",
-  "stars": 30087,
+  "stars": 30121,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:16:15Z",
-  "window_start": "2026-10-29",
+  "scanned_at": "2026-11-09T11:57:00Z",
+  "window_start": "2026-10-02",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 465,
-      "ai": 1,
-      "automation": 2,
-      "merges": 0,
+      "total": 2856,
+      "ai": 19,
+      "automation": 10,
+      "merges": 1,
       "by_rule": {
-        "other_bot_agent": 1
+        "cursor": 13,
+        "other_bot_agent": 3,
+        "claude_trailer": 2,
+        "claude_generated": 1
       }
     },
     "2026-11": {
-      "total": 109,
-      "ai": 0,
+      "total": 622,
+      "ai": 9,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "cursor": 6,
+        "other_bot_agent": 3
+      }
     }
   }
 }

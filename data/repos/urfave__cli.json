@@ -3,9 +3,9 @@
   "repo": "urfave/cli",
   "org": "urfave",
   "language": "Go",
-  "stars": 24307,
+  "stars": 24316,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:10:56Z",
+  "scanned_at": "2026-11-09T12:28:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,22 +169,23 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 102,
-      "ai": 15,
+      "total": 105,
+      "ai": 17,
       "automation": 0,
       "merges": 51,
       "by_rule": {
-        "claude_trailer": 13,
+        "claude_trailer": 15,
         "codex_trailer": 2
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 1,
+      "total": 6,
+      "ai": 3,
       "automation": 1,
-      "merges": 2,
+      "merges": 8,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2,
+        "cursor": 2
       }
     }
   }

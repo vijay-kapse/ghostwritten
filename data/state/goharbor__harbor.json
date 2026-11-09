@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "goharbor/harbor",
-  "head_sha": "7743de2c912bf1c4a203954974837026afd47a83",
-  "oldest": "2025-07-23T08:21:10Z",
-  "complete": false,
+  "head_sha": "bc458019b25733827e07d8131ca6cdccd3cc635b",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T02:16:55Z"
+  "updated_at": "2026-11-09T11:59:40Z"
 }

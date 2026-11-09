@@ -3,19 +3,84 @@
   "repo": "coollabsio/coolify",
   "org": "coollabsio",
   "language": "PHP",
-  "stars": 65503,
+  "stars": 65821,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:15:16Z",
-  "window_start": "2026-04-13",
+  "scanned_at": "2026-11-09T11:53:34Z",
+  "window_start": "2025-09-30",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 121,
-      "ai": 16,
-      "automation": 2,
-      "merges": 88,
+    "2025-09": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 439,
+      "ai": 119,
+      "automation": 20,
+      "merges": 207,
       "by_rule": {
-        "claude_trailer": 16
+        "claude_trailer": 119,
+        "claude_generated": 116
+      }
+    },
+    "2025-11": {
+      "total": 380,
+      "ai": 119,
+      "automation": 10,
+      "merges": 149,
+      "by_rule": {
+        "claude_generated": 119,
+        "claude_trailer": 119
+      }
+    },
+    "2025-12": {
+      "total": 303,
+      "ai": 182,
+      "automation": 0,
+      "merges": 139,
+      "by_rule": {
+        "claude_trailer": 182,
+        "claude_generated": 180
+      }
+    },
+    "2026-01": {
+      "total": 186,
+      "ai": 11,
+      "automation": 3,
+      "merges": 47,
+      "by_rule": {
+        "claude_trailer": 11,
+        "claude_generated": 9
+      }
+    },
+    "2026-02": {
+      "total": 164,
+      "ai": 1,
+      "automation": 5,
+      "merges": 66,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 266,
+      "ai": 25,
+      "automation": 9,
+      "merges": 205,
+      "by_rule": {
+        "claude_trailer": 25
+      }
+    },
+    "2026-04": {
+      "total": 176,
+      "ai": 17,
+      "automation": 6,
+      "merges": 125,
+      "by_rule": {
+        "claude_trailer": 17
       }
     },
     "2026-05": {
@@ -70,12 +135,12 @@
       }
     },
     "2026-11": {
-      "total": 92,
-      "ai": 16,
+      "total": 285,
+      "ai": 135,
       "automation": 0,
-      "merges": 13,
+      "merges": 23,
       "by_rule": {
-        "claude_trailer": 16
+        "claude_trailer": 135
       }
     }
   }

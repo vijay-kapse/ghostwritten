@@ -3,9 +3,9 @@
   "repo": "OpenBMB/MiniCPM-V",
   "org": "OpenBMB",
   "language": "Python",
-  "stars": 27045,
+  "stars": 27108,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:58Z",
+  "scanned_at": "2026-11-09T12:16:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -133,6 +133,13 @@
       "by_rule": {
         "cursor": 3
       }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "iv-org/invidious",
   "org": "iv-org",
   "language": "Crystal",
-  "stars": 25821,
+  "stars": 25903,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T10:58:43Z",
+  "scanned_at": "2026-11-09T12:23:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 11,
+      "total": 13,
       "ai": 0,
       "automation": 1,
       "merges": 0,

@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "repo": "storytold/craft-anything",
+  "org": "storytold",
+  "language": "Rust",
+  "stars": 23697,
+  "default_branch": "main",
+  "scanned_at": "2026-11-09T11:43:50Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 3,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 580,
+      "ai": 12,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 12
+      }
+    }
+  }
+}

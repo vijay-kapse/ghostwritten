@@ -3,9 +3,9 @@
   "repo": "QL-Win/QuickLook",
   "org": "QL-Win",
   "language": "C#",
-  "stars": 25615,
+  "stars": 25698,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T10:59:31Z",
+  "scanned_at": "2026-11-09T12:23:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,7 +188,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "requarks/wiki",
   "org": "requarks",
   "language": "TypeScript",
-  "stars": 29116,
+  "stars": 29227,
   "default_branch": "scarlett",
-  "scanned_at": "2026-11-03T02:17:33Z",
+  "scanned_at": "2026-11-09T12:02:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,7 +94,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 15,
+      "total": 71,
       "ai": 0,
       "automation": 0,
       "merges": 0,

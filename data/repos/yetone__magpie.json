@@ -3,25 +3,30 @@
   "repo": "yetone/magpie",
   "org": "yetone",
   "language": "Go",
-  "stars": 27537,
+  "stars": 32873,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:12Z",
-  "window_start": "2026-10-31",
+  "scanned_at": "2026-11-09T12:14:23Z",
+  "window_start": "2026-10-14",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 176,
-      "ai": 0,
+      "total": 2272,
+      "ai": 3,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 2,
+        "amp_factory": 1
+      }
     },
     "2026-11": {
-      "total": 421,
-      "ai": 0,
+      "total": 1234,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

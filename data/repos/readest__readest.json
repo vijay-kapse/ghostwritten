@@ -3,14 +3,21 @@
   "repo": "readest/readest",
   "org": "readest",
   "language": "TypeScript",
-  "stars": 25824,
+  "stars": 26115,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T10:58:40Z",
-  "window_start": "2025-02-09",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:23:02Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 115,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-02": {
-      "total": 63,
+      "total": 103,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -182,12 +189,14 @@
       }
     },
     "2026-11": {
-      "total": 53,
-      "ai": 49,
-      "automation": 0,
+      "total": 119,
+      "ai": 111,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 49
+        "claude_trailer": 109,
+        "amp_factory": 1,
+        "copilot_trailer": 1
       }
     }
   }

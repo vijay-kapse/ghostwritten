@@ -3,9 +3,9 @@
   "repo": "clockworklabs/SpacetimeDB",
   "org": "clockworklabs",
   "language": "Rust",
-  "stars": 25495,
+  "stars": 25533,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:00:00Z",
+  "scanned_at": "2026-11-09T12:23:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,11 +196,13 @@
       }
     },
     "2026-11": {
-      "total": 9,
-      "ai": 0,
+      "total": 32,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

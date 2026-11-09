@@ -3,9 +3,9 @@
   "repo": "syl20bnr/spacemacs",
   "org": "syl20bnr",
   "language": "Emacs Lisp",
-  "stars": 24548,
+  "stars": 24553,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T11:08:00Z",
+  "scanned_at": "2026-11-09T12:26:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 12,
       "ai": 0,
       "automation": 0,
       "merges": 0,

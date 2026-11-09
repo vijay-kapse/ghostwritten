@@ -3,28 +3,47 @@
   "repo": "invoke-ai/InvokeAI",
   "org": "invoke-ai",
   "language": "TypeScript",
-  "stars": 28952,
+  "stars": 29039,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:02Z",
-  "window_start": "2026-10-09",
+  "scanned_at": "2026-11-09T12:05:08Z",
+  "window_start": "2026-08-13",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 261,
-      "ai": 26,
-      "automation": 2,
-      "merges": 225,
+    "2026-08": {
+      "total": 595,
+      "ai": 241,
+      "automation": 0,
+      "merges": 264,
       "by_rule": {
-        "claude_trailer": 26
+        "claude_trailer": 241
+      }
+    },
+    "2026-09": {
+      "total": 1069,
+      "ai": 140,
+      "automation": 0,
+      "merges": 640,
+      "by_rule": {
+        "claude_trailer": 140
+      }
+    },
+    "2026-10": {
+      "total": 492,
+      "ai": 34,
+      "automation": 2,
+      "merges": 326,
+      "by_rule": {
+        "claude_trailer": 34
       }
     },
     "2026-11": {
-      "total": 20,
-      "ai": 1,
+      "total": 91,
+      "ai": 21,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 20,
+        "cursor": 1
       }
     }
   }

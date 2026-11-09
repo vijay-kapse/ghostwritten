@@ -3,19 +3,48 @@
   "repo": "jarrodwatts/claude-hud",
   "org": "jarrodwatts",
   "language": "JavaScript",
-  "stars": 29075,
+  "stars": 29137,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:17:47Z",
-  "window_start": "2026-04-04",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:04:06Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-04": {
-      "total": 88,
-      "ai": 15,
-      "automation": 41,
-      "merges": 13,
+    "2026-01": {
+      "total": 174,
+      "ai": 132,
+      "automation": 21,
+      "merges": 2,
       "by_rule": {
-        "claude_trailer": 15
+        "claude_trailer": 132,
+        "claude_generated": 118
+      }
+    },
+    "2026-02": {
+      "total": 9,
+      "ai": 2,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-03": {
+      "total": 74,
+      "ai": 15,
+      "automation": 38,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 109,
+      "ai": 17,
+      "automation": 50,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 17
       }
     },
     "2026-05": {
@@ -68,7 +97,7 @@
     "2026-11": {
       "total": 8,
       "ai": 8,
-      "automation": 1,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 8

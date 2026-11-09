@@ -3,9 +3,9 @@
   "repo": "usestrix/strix",
   "org": "usestrix",
   "language": "Python",
-  "stars": 73212,
+  "stars": 74558,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:31Z",
+  "scanned_at": "2026-11-09T11:50:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -134,6 +134,13 @@
       "by_rule": {
         "devin": 1
       }
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

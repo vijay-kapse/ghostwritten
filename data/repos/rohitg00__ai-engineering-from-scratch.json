@@ -3,9 +3,9 @@
   "repo": "rohitg00/ai-engineering-from-scratch",
   "org": "rohitg00",
   "language": "Python",
-  "stars": 76232,
+  "stars": 77962,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:09Z",
+  "scanned_at": "2026-11-09T11:49:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -74,6 +74,13 @@
       "by_rule": {
         "devin": 2
       }
+    },
+    "2026-11": {
+      "total": 31,
+      "ai": 0,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

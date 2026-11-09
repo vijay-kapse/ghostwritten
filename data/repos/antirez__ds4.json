@@ -3,9 +3,9 @@
   "repo": "antirez/ds4",
   "org": "antirez",
   "language": "C",
-  "stars": 24184,
+  "stars": 24286,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:12:32Z",
+  "scanned_at": "2026-11-09T12:28:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -45,28 +45,28 @@
       }
     },
     "2026-09": {
-      "total": 232,
+      "total": 269,
       "ai": 46,
       "automation": 0,
-      "merges": 8,
+      "merges": 11,
       "by_rule": {
         "claude_trailer": 46
       }
     },
     "2026-10": {
-      "total": 89,
+      "total": 135,
       "ai": 1,
       "automation": 0,
-      "merges": 7,
+      "merges": 18,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 17,
       "ai": 0,
       "automation": 0,
-      "merges": 3,
+      "merges": 9,
       "by_rule": {}
     }
   }

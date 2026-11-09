@@ -3,19 +3,88 @@
   "repo": "gastownhall/beads",
   "org": "gastownhall",
   "language": "Go",
-  "stars": 28392,
+  "stars": 28614,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:55Z",
-  "window_start": "2026-09-30",
+  "scanned_at": "2026-11-09T12:09:43Z",
+  "window_start": "2026-03-28",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 26,
-      "ai": 20,
-      "automation": 0,
-      "merges": 0,
+    "2026-03": {
+      "total": 65,
+      "ai": 50,
+      "automation": 1,
+      "merges": 10,
       "by_rule": {
-        "claude_trailer": 20
+        "copilot_trailer": 24,
+        "claude_trailer": 16,
+        "amp_factory": 10
+      }
+    },
+    "2026-04": {
+      "total": 401,
+      "ai": 154,
+      "automation": 21,
+      "merges": 53,
+      "by_rule": {
+        "claude_trailer": 108,
+        "amp_factory": 30,
+        "copilot_trailer": 20
+      }
+    },
+    "2026-05": {
+      "total": 443,
+      "ai": 64,
+      "automation": 9,
+      "merges": 90,
+      "by_rule": {
+        "claude_trailer": 49,
+        "copilot_trailer": 7,
+        "amp_factory": 5,
+        "cursor": 4,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 193,
+      "ai": 109,
+      "automation": 7,
+      "merges": 22,
+      "by_rule": {
+        "claude_trailer": 107,
+        "cursor": 2
+      }
+    },
+    "2026-07": {
+      "total": 699,
+      "ai": 325,
+      "automation": 33,
+      "merges": 96,
+      "by_rule": {
+        "claude_trailer": 307,
+        "cursor": 19,
+        "claude_generated": 2,
+        "amp_factory": 1
+      }
+    },
+    "2026-08": {
+      "total": 474,
+      "ai": 188,
+      "automation": 4,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 186,
+        "claude_generated": 6,
+        "cursor": 2
+      }
+    },
+    "2026-09": {
+      "total": 242,
+      "ai": 154,
+      "automation": 4,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 153,
+        "cursor": 1
       }
     },
     "2026-10": {
@@ -28,12 +97,12 @@
       }
     },
     "2026-11": {
-      "total": 10,
-      "ai": 10,
-      "automation": 26,
+      "total": 52,
+      "ai": 51,
+      "automation": 47,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10,
+        "claude_trailer": 51,
         "devin": 1
       }
     }

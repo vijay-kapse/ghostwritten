@@ -3,9 +3,9 @@
   "repo": "fffaraz/awesome-cpp",
   "org": "fffaraz",
   "language": null,
-  "stars": 74146,
+  "stars": 74332,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:14:20Z",
+  "scanned_at": "2026-11-09T11:49:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,6 +164,15 @@
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 3,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
     }
   }
 }

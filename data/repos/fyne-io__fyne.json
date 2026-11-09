@@ -3,21 +3,145 @@
   "repo": "fyne-io/fyne",
   "org": "fyne-io",
   "language": "Go",
-  "stars": 28800,
+  "stars": 28820,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T02:18:21Z",
-  "window_start": "2026-06-28",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:06:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-06": {
-      "total": 18,
+    "2025-01": {
+      "total": 332,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 77,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 169,
+      "ai": 0,
+      "automation": 0,
+      "merges": 48,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 92,
+      "ai": 0,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 32,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 69,
+      "ai": 0,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 178,
+      "ai": 0,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 105,
+      "ai": 0,
+      "automation": 0,
+      "merges": 26,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 130,
+      "ai": 0,
+      "automation": 0,
+      "merges": 42,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 73,
+      "ai": 0,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 51,
+      "ai": 0,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 28,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 17,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 78,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 109,
+      "ai": 0,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 72,
+      "ai": 2,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 95,
+      "ai": 1,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 287,
+      "ai": 0,
+      "automation": 0,
+      "merges": 48,
       "by_rule": {}
     },
     "2026-07": {
-      "total": 143,
+      "total": 144,
       "ai": 0,
       "automation": 0,
       "merges": 17,
@@ -40,13 +164,20 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 99,
+      "total": 106,
       "ai": 6,
       "automation": 0,
-      "merges": 31,
+      "merges": 33,
       "by_rule": {
         "claude_trailer": 6
       }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
     }
   }
 }

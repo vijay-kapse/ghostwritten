@@ -3,9 +3,9 @@
   "repo": "actix/actix-web",
   "org": "actix",
   "language": "Rust",
-  "stars": 24904,
+  "stars": 24938,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:05:44Z",
+  "scanned_at": "2026-11-09T12:26:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,11 +168,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
-      "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "total": 37,
+      "ai": 2,
+      "automation": 6,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

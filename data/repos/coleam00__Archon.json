@@ -3,19 +3,69 @@
   "repo": "coleam00/Archon",
   "org": "coleam00",
   "language": "TypeScript",
-  "stars": 23799,
+  "stars": 23868,
   "default_branch": "dev",
-  "scanned_at": "2026-11-03T11:16:30Z",
-  "window_start": "2026-04-06",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:30:00Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-04": {
-      "total": 258,
-      "ai": 88,
-      "automation": 9,
-      "merges": 42,
+    "2025-11": {
+      "total": 41,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
       "by_rule": {
-        "claude_trailer": 88
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-12": {
+      "total": 121,
+      "ai": 48,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {
+        "claude_trailer": 48,
+        "claude_generated": 23
+      }
+    },
+    "2026-01": {
+      "total": 182,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 99,
+      "ai": 10,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-03": {
+      "total": 297,
+      "ai": 127,
+      "automation": 0,
+      "merges": 51,
+      "by_rule": {
+        "claude_trailer": 126,
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 430,
+      "ai": 131,
+      "automation": 9,
+      "merges": 100,
+      "by_rule": {
+        "claude_trailer": 131
       }
     },
     "2026-05": {
@@ -75,10 +125,10 @@
       }
     },
     "2026-11": {
-      "total": 12,
+      "total": 56,
       "ai": 0,
-      "automation": 0,
-      "merges": 0,
+      "automation": 1,
+      "merges": 1,
       "by_rule": {}
     }
   }

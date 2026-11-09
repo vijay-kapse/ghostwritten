@@ -3,9 +3,9 @@
   "repo": "NVIDIA/SkillSpector",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 23841,
+  "stars": 24985,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:15:39Z",
+  "scanned_at": "2026-11-09T12:29:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -72,10 +72,10 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 204,
       "ai": 3,
       "automation": 0,
-      "merges": 2,
+      "merges": 115,
       "by_rule": {
         "claude_trailer": 3
       }

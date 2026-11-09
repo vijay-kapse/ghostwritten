@@ -3,20 +3,66 @@
   "repo": "different-ai/openwork",
   "org": "different-ai",
   "language": "TypeScript",
-  "stars": 24361,
+  "stars": 24459,
   "default_branch": "dev",
-  "scanned_at": "2026-11-03T11:10:10Z",
-  "window_start": "2026-07-07",
+  "scanned_at": "2026-11-09T12:27:29Z",
+  "window_start": "2026-02-02",
   "complete": false,
   "months": {
+    "2026-02": {
+      "total": 668,
+      "ai": 1,
+      "automation": 4,
+      "merges": 29,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 787,
+      "ai": 4,
+      "automation": 35,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-04": {
+      "total": 373,
+      "ai": 7,
+      "automation": 3,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-05": {
+      "total": 371,
+      "ai": 2,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "codex_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 379,
+      "ai": 2,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
     "2026-07": {
-      "total": 724,
-      "ai": 78,
-      "automation": 13,
+      "total": 852,
+      "ai": 86,
+      "automation": 14,
       "merges": 1,
       "by_rule": {
         "cursor": 72,
-        "claude_trailer": 6
+        "claude_trailer": 14
       }
     },
     "2026-08": {
@@ -51,11 +97,14 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 0,
-      "automation": 0,
+      "total": 243,
+      "ai": 2,
+      "automation": 4,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
     }
   }
 }

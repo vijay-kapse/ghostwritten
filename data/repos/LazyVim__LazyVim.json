@@ -3,9 +3,9 @@
   "repo": "LazyVim/LazyVim",
   "org": "LazyVim",
   "language": "Lua",
-  "stars": 27782,
+  "stars": 27832,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:19:42Z",
+  "scanned_at": "2026-11-09T12:12:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -104,6 +104,16 @@
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
     }
   }
 }

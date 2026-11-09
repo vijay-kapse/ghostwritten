@@ -3,9 +3,9 @@
   "repo": "Fission-AI/OpenSpec",
   "org": "Fission-AI",
   "language": "TypeScript",
-  "stars": 73605,
+  "stars": 74377,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:26Z",
+  "scanned_at": "2026-11-09T11:50:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -136,12 +136,12 @@
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 1,
-      "automation": 0,
+      "total": 6,
+      "ai": 6,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 6
       }
     }
   }

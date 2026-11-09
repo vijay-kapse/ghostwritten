@@ -3,19 +3,96 @@
   "repo": "alirezarezvani/claude-skills",
   "org": "alirezarezvani",
   "language": "Python",
-  "stars": 29114,
+  "stars": 29511,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:17:35Z",
-  "window_start": "2026-07-01",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:03:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-07": {
-      "total": 92,
-      "ai": 53,
+    "2025-10": {
+      "total": 27,
+      "ai": 25,
       "automation": 0,
-      "merges": 32,
+      "merges": 2,
       "by_rule": {
-        "claude_trailer": 53
+        "claude_generated": 25,
+        "claude_trailer": 25
+      }
+    },
+    "2025-11": {
+      "total": 26,
+      "ai": 1,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 106,
+      "ai": 79,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 79,
+        "claude_generated": 52
+      }
+    },
+    "2026-02": {
+      "total": 63,
+      "ai": 28,
+      "automation": 0,
+      "merges": 39,
+      "by_rule": {
+        "claude_trailer": 28,
+        "claude_generated": 13
+      }
+    },
+    "2026-03": {
+      "total": 243,
+      "ai": 106,
+      "automation": 0,
+      "merges": 101,
+      "by_rule": {
+        "claude_trailer": 106
+      }
+    },
+    "2026-04": {
+      "total": 43,
+      "ai": 24,
+      "automation": 2,
+      "merges": 44,
+      "by_rule": {
+        "claude_trailer": 24
+      }
+    },
+    "2026-05": {
+      "total": 205,
+      "ai": 5,
+      "automation": 1,
+      "merges": 148,
+      "by_rule": {
+        "claude_trailer": 4,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 73,
+      "ai": 5,
+      "automation": 0,
+      "merges": 29,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-07": {
+      "total": 98,
+      "ai": 56,
+      "automation": 0,
+      "merges": 34,
+      "by_rule": {
+        "claude_trailer": 56
       }
     },
     "2026-08": {
@@ -46,12 +123,12 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 5,
+      "total": 30,
+      "ai": 27,
       "automation": 0,
-      "merges": 4,
+      "merges": 23,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 27
       }
     }
   }

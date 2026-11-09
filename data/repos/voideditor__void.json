@@ -3,17 +3,40 @@
   "repo": "voideditor/void",
   "org": "voideditor",
   "language": "TypeScript",
-  "stars": 28724,
+  "stars": 28710,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:27Z",
-  "window_start": "2025-04-18",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:07:04Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-04": {
-      "total": 95,
+    "2025-01": {
+      "total": 330,
       "ai": 0,
       "automation": 0,
-      "merges": 16,
+      "merges": 39,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 198,
+      "ai": 5,
+      "automation": 0,
+      "merges": 22,
+      "by_rule": {
+        "devin": 5
+      }
+    },
+    "2025-03": {
+      "total": 355,
+      "ai": 0,
+      "automation": 0,
+      "merges": 85,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 356,
+      "ai": 0,
+      "automation": 0,
+      "merges": 62,
       "by_rule": {}
     },
     "2025-05": {

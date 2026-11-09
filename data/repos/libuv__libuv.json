@@ -3,9 +3,9 @@
   "repo": "libuv/libuv",
   "org": "libuv",
   "language": "C",
-  "stars": 27292,
+  "stars": 27315,
   "default_branch": "v1.x",
-  "scanned_at": "2026-11-03T02:20:37Z",
+  "scanned_at": "2026-11-09T12:15:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,

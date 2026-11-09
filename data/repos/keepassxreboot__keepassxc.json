@@ -3,9 +3,9 @@
   "repo": "keepassxreboot/keepassxc",
   "org": "keepassxreboot",
   "language": "C++",
-  "stars": 29677,
+  "stars": 29882,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T02:16:52Z",
+  "scanned_at": "2026-11-09T11:59:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,7 +189,7 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 12,
       "ai": 0,
       "automation": 0,
       "merges": 0,

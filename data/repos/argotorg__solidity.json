@@ -3,9 +3,9 @@
   "repo": "argotorg/solidity",
   "org": "argotorg",
   "language": "C++",
-  "stars": 25767,
+  "stars": 25765,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T10:59:09Z",
+  "scanned_at": "2026-11-09T12:23:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,6 +166,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
     }
   }
 }

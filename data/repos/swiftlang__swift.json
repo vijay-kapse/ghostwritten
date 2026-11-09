@@ -3,18 +3,29 @@
   "repo": "swiftlang/swift",
   "org": "swiftlang",
   "language": "Swift",
-  "stars": 70521,
+  "stars": 70546,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:45Z",
-  "window_start": "2026-08-27",
+  "scanned_at": "2026-11-09T11:51:44Z",
+  "window_start": "2026-07-10",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 80,
-      "ai": 0,
+    "2026-07": {
+      "total": 616,
+      "ai": 1,
       "automation": 0,
-      "merges": 74,
-      "by_rule": {}
+      "merges": 581,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 848,
+      "ai": 1,
+      "automation": 0,
+      "merges": 709,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     },
     "2026-09": {
       "total": 800,
@@ -24,7 +35,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1029,
+      "total": 1069,
       "ai": 1,
       "automation": 0,
       "merges": 554,
@@ -33,10 +44,10 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 235,
       "ai": 0,
       "automation": 0,
-      "merges": 14,
+      "merges": 135,
       "by_rule": {}
     }
   }

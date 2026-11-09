@@ -3,9 +3,9 @@
   "repo": "phuryn/pm-skills",
   "org": "phuryn",
   "language": null,
-  "stars": 27593,
+  "stars": 27801,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:05Z",
+  "scanned_at": "2026-11-09T12:13:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -64,6 +64,15 @@
       "merges": 5,
       "by_rule": {
         "claude_trailer": 11
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
       }
     }
   }

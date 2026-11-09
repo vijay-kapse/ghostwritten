@@ -3,19 +3,41 @@
   "repo": "jackwener/OpenCLI",
   "org": "jackwener",
   "language": "JavaScript",
-  "stars": 30817,
+  "stars": 30976,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:13:47Z",
-  "window_start": "2026-05-06",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:48:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2026-03": {
+      "total": 596,
+      "ai": 35,
+      "automation": 9,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 32,
+        "claude_generated": 2,
+        "copilot_trailer": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 331,
+      "ai": 20,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 19,
+        "copilot_trailer": 1
+      }
+    },
     "2026-05": {
-      "total": 251,
-      "ai": 10,
+      "total": 361,
+      "ai": 11,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10
+        "claude_trailer": 11
       }
     },
     "2026-06": {
@@ -60,6 +82,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 6
+      }
+    },
+    "2026-11": {
+      "total": 27,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

@@ -3,27 +3,29 @@
   "repo": "code-yeongyu/oh-my-openagent",
   "org": "code-yeongyu",
   "language": "TypeScript",
-  "stars": 70576,
+  "stars": 70796,
   "default_branch": "dev",
-  "scanned_at": "2026-11-03T02:14:43Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-09T11:51:23Z",
+  "window_start": "2026-10-19",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 1784,
-      "ai": 2,
+      "total": 2595,
+      "ai": 5,
       "automation": 0,
-      "merges": 1281,
+      "merges": 1669,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 5
       }
     },
     "2026-11": {
-      "total": 104,
-      "ai": 0,
+      "total": 1116,
+      "ai": 18,
       "automation": 0,
-      "merges": 92,
-      "by_rule": {}
+      "merges": 840,
+      "by_rule": {
+        "claude_trailer": 18
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "micro-editor/micro",
   "org": "micro-editor",
   "language": "Go",
-  "stars": 29814,
+  "stars": 29860,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:16:43Z",
+  "scanned_at": "2026-11-09T11:59:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,6 +164,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

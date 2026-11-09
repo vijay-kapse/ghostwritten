@@ -3,9 +3,9 @@
   "repo": "Dao-AILab/flash-attention",
   "org": "Dao-AILab",
   "language": "Python",
-  "stars": 25235,
+  "stars": 25260,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:01:39Z",
+  "scanned_at": "2026-11-09T12:24:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,11 +181,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
-      "ai": 0,
+      "total": 21,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

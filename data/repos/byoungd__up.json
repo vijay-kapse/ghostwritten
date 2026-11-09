@@ -3,9 +3,9 @@
   "repo": "byoungd/up",
   "org": "byoungd",
   "language": "JavaScript",
-  "stars": 69844,
+  "stars": 70302,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:14:46Z",
+  "scanned_at": "2026-11-09T11:51:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -62,6 +62,13 @@
     },
     "2026-10": {
       "total": 23,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

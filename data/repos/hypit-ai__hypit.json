@@ -3,14 +3,30 @@
   "repo": "hypit-ai/hypit",
   "org": "hypit-ai",
   "language": "TypeScript",
-  "stars": 27315,
+  "stars": 28713,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:33Z",
-  "window_start": "2026-09-01",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:15:43Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2026-07": {
+      "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 790,
+      "ai": 1,
+      "automation": 0,
+      "merges": 93,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
     "2026-09": {
-      "total": 434,
+      "total": 435,
       "ai": 22,
       "automation": 0,
       "merges": 86,
@@ -26,6 +42,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

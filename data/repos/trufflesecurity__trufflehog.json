@@ -3,16 +3,65 @@
   "repo": "trufflesecurity/trufflehog",
   "org": "trufflesecurity",
   "language": "Go",
-  "stars": 28816,
+  "stars": 29032,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:18Z",
-  "window_start": "2025-08-28",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:06:22Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 2,
+    "2025-01": {
+      "total": 27,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 48,
+      "ai": 0,
+      "automation": 14,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 31,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 52,
+      "ai": 0,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 67,
       "ai": 0,
       "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 46,
+      "ai": 0,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 41,
+      "ai": 0,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 42,
+      "ai": 0,
+      "automation": 7,
       "merges": 0,
       "by_rule": {}
     },
@@ -137,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 2,
-      "automation": 4,
+      "total": 11,
+      "ai": 3,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
-        "cursor": 2
+        "cursor": 3
       }
     }
   }

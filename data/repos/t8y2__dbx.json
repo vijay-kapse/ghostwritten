@@ -3,28 +3,37 @@
   "repo": "t8y2/dbx",
   "org": "t8y2",
   "language": "Rust",
-  "stars": 28456,
+  "stars": 29700,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:18:51Z",
-  "window_start": "2026-10-21",
+  "scanned_at": "2026-11-09T12:09:21Z",
+  "window_start": "2026-09-03",
   "complete": false,
   "months": {
+    "2026-09": {
+      "total": 1539,
+      "ai": 0,
+      "automation": 68,
+      "merges": 3,
+      "by_rule": {}
+    },
     "2026-10": {
-      "total": 430,
-      "ai": 4,
-      "automation": 48,
-      "merges": 4,
+      "total": 1518,
+      "ai": 7,
+      "automation": 149,
+      "merges": 5,
       "by_rule": {
-        "claude_trailer": 3,
+        "claude_trailer": 4,
+        "devin": 2,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 81,
-      "ai": 2,
-      "automation": 8,
+      "total": 245,
+      "ai": 5,
+      "automation": 22,
       "merges": 0,
       "by_rule": {
+        "copilot_trailer": 3,
         "claude_trailer": 2
       }
     }

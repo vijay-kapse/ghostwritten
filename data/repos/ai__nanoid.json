@@ -3,9 +3,9 @@
   "repo": "ai/nanoid",
   "org": "ai",
   "language": "JavaScript",
-  "stars": 27119,
+  "stars": 27128,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:20:47Z",
+  "scanned_at": "2026-11-09T12:16:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -116,6 +116,13 @@
     },
     "2026-10": {
       "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "rxhanson/Rectangle",
   "org": "rxhanson",
   "language": "Swift",
-  "stars": 30199,
+  "stars": 30261,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:15:53Z",
+  "scanned_at": "2026-11-09T11:55:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,6 +159,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 15
+      }
+    },
+    "2026-11": {
+      "total": 17,
+      "ai": 6,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6
       }
     }
   }

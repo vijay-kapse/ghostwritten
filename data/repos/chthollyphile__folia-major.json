@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "repo": "chthollyphile/folia-major",
+  "org": "chthollyphile",
+  "language": "TypeScript",
+  "stars": 12142,
+  "default_branch": "main",
+  "scanned_at": "2026-11-09T11:45:20Z",
+  "window_start": "2026-06-02",
+  "complete": false,
+  "months": {
+    "2026-06": {
+      "total": 230,
+      "ai": 0,
+      "automation": 4,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 373,
+      "ai": 4,
+      "automation": 37,
+      "merges": 50,
+      "by_rule": {
+        "gemini": 3,
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 256,
+      "ai": 0,
+      "automation": 18,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 307,
+      "ai": 20,
+      "automation": 39,
+      "merges": 43,
+      "by_rule": {
+        "claude_trailer": 20
+      }
+    },
+    "2026-10": {
+      "total": 956,
+      "ai": 182,
+      "automation": 38,
+      "merges": 212,
+      "by_rule": {
+        "claude_trailer": 181,
+        "cursor": 1
+      }
+    },
+    "2026-11": {
+      "total": 272,
+      "ai": 35,
+      "automation": 8,
+      "merges": 113,
+      "by_rule": {
+        "claude_trailer": 35
+      }
+    }
+  }
+}

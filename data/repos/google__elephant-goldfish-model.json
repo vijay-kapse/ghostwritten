@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "repo": "google/elephant-goldfish-model",
+  "org": "google",
+  "language": "Python",
+  "stars": 15828,
+  "default_branch": "main",
+  "scanned_at": "2026-11-09T11:44:32Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 97,
+      "ai": 1,
+      "automation": 7,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 45,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    }
+  }
+}

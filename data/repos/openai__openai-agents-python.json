@@ -3,16 +3,139 @@
   "repo": "openai/openai-agents-python",
   "org": "openai",
   "language": "Python",
-  "stars": 30437,
+  "stars": 30571,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T02:15:35Z",
-  "window_start": "2026-08-05",
-  "complete": false,
+  "scanned_at": "2026-11-09T11:54:53Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-08": {
-      "total": 258,
+    "2025-03": {
+      "total": 207,
       "ai": 0,
       "automation": 0,
+      "merges": 118,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 70,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 26,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 42,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 110,
+      "ai": 0,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 85,
+      "ai": 0,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 77,
+      "ai": 0,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 55,
+      "ai": 0,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 29,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 35,
+      "ai": 0,
+      "automation": 6,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 93,
+      "ai": 0,
+      "automation": 18,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 87,
+      "ai": 0,
+      "automation": 30,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 118,
+      "ai": 1,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 67,
+      "ai": 1,
+      "automation": 28,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 168,
+      "ai": 0,
+      "automation": 28,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 52,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 192,
+      "ai": 0,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 351,
+      "ai": 0,
+      "automation": 7,
       "merges": 0,
       "by_rule": {}
     },
@@ -29,6 +152,13 @@
       "total": 56,
       "ai": 0,
       "automation": 42,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 18,
+      "ai": 0,
+      "automation": 14,
       "merges": 0,
       "by_rule": {}
     }

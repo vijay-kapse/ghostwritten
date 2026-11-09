@@ -3,14 +3,39 @@
   "repo": "activepieces/activepieces",
   "org": "activepieces",
   "language": "TypeScript",
-  "stars": 25324,
+  "stars": 25441,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:00:40Z",
-  "window_start": "2026-02-02",
+  "scanned_at": "2026-11-09T12:23:51Z",
+  "window_start": "2025-11-06",
   "complete": false,
   "months": {
+    "2025-11": {
+      "total": 812,
+      "ai": 0,
+      "automation": 3,
+      "merges": 444,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 781,
+      "ai": 10,
+      "automation": 3,
+      "merges": 399,
+      "by_rule": {
+        "cursor": 10
+      }
+    },
+    "2026-01": {
+      "total": 347,
+      "ai": 1,
+      "automation": 3,
+      "merges": 5,
+      "by_rule": {
+        "cursor": 1
+      }
+    },
     "2026-02": {
-      "total": 187,
+      "total": 190,
       "ai": 11,
       "automation": 1,
       "merges": 0,
@@ -101,12 +126,12 @@
       }
     },
     "2026-11": {
-      "total": 47,
-      "ai": 11,
+      "total": 175,
+      "ai": 44,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11
+        "claude_trailer": 44
       }
     }
   }

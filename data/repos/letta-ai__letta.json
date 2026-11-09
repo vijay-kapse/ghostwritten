@@ -3,17 +3,52 @@
   "repo": "letta-ai/letta",
   "org": "letta-ai",
   "language": null,
-  "stars": 25316,
+  "stars": 25390,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:00:58Z",
-  "window_start": "2025-06-13",
-  "complete": false,
+  "scanned_at": "2026-11-09T12:24:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 231,
+    "2025-01": {
+      "total": 381,
       "ai": 0,
       "automation": 0,
-      "merges": 16,
+      "merges": 28,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 200,
+      "ai": 0,
+      "automation": 0,
+      "merges": 35,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 332,
+      "ai": 0,
+      "automation": 0,
+      "merges": 23,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 438,
+      "ai": 0,
+      "automation": 0,
+      "merges": 26,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 640,
+      "ai": 0,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 437,
+      "ai": 0,
+      "automation": 0,
+      "merges": 28,
       "by_rule": {}
     },
     "2025-07": {

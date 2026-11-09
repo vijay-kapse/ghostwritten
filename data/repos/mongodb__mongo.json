@@ -3,30 +3,63 @@
   "repo": "mongodb/mongo",
   "org": "mongodb",
   "language": "C++",
-  "stars": 28670,
+  "stars": 28678,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T02:18:32Z",
-  "window_start": "2026-10-12",
+  "scanned_at": "2026-11-09T12:07:31Z",
+  "window_start": "2026-07-01",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 444,
-      "ai": 17,
+    "2026-07": {
+      "total": 1277,
+      "ai": 95,
+      "automation": 89,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 84,
+        "cursor": 8,
+        "claude_trailer": 3
+      }
+    },
+    "2026-08": {
+      "total": 751,
+      "ai": 57,
       "automation": 56,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 9,
-        "claude_trailer": 8,
+        "copilot_trailer": 44,
+        "claude_trailer": 9,
+        "cursor": 5
+      }
+    },
+    "2026-09": {
+      "total": 422,
+      "ai": 23,
+      "automation": 56,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 18,
+        "cursor": 4,
+        "claude_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 675,
+      "ai": 28,
+      "automation": 74,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 19,
+        "claude_trailer": 9,
         "cursor": 2
       }
     },
     "2026-11": {
-      "total": 41,
-      "ai": 5,
-      "automation": 1,
+      "total": 102,
+      "ai": 7,
+      "automation": 7,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 5
+        "copilot_trailer": 7
       }
     }
   }

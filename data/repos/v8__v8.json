@@ -3,14 +3,35 @@
   "repo": "v8/v8",
   "org": "v8",
   "language": "C++",
-  "stars": 25316,
+  "stars": 25320,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:01:19Z",
-  "window_start": "2026-06-25",
+  "scanned_at": "2026-11-09T12:24:16Z",
+  "window_start": "2026-03-03",
   "complete": false,
   "months": {
+    "2026-03": {
+      "total": 643,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 792,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 686,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-06": {
-      "total": 94,
+      "total": 673,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -54,12 +75,12 @@
       }
     },
     "2026-11": {
-      "total": 74,
-      "ai": 1,
+      "total": 367,
+      "ai": 14,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 14
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "bin456789/reinstall",
   "org": "bin456789",
   "language": "Shell",
-  "stars": 13986,
+  "stars": 14040,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:07:36Z",
+  "scanned_at": "2026-11-10T11:58:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
+      "total": 10,
       "ai": 0,
       "automation": 0,
       "merges": 0,

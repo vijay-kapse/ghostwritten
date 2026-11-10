@@ -3,9 +3,9 @@
   "repo": "game1024/OpenSpeedy",
   "org": "game1024",
   "language": "TypeScript",
-  "stars": 20653,
+  "stars": 20852,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:46:53Z",
+  "scanned_at": "2026-11-10T11:36:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -50,6 +50,16 @@
       "merges": 1,
       "by_rule": {
         "claude_trailer": 8
+      }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5,
+        "cursor": 3
       }
     }
   }

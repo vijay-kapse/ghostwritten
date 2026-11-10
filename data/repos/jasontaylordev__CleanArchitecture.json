@@ -3,9 +3,9 @@
   "repo": "jasontaylordev/CleanArchitecture",
   "org": "jasontaylordev",
   "language": "C#",
-  "stars": 20698,
+  "stars": 20711,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:46:20Z",
+  "scanned_at": "2026-11-10T11:35:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -82,7 +82,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 5,
+      "automation": 8,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "microsoft/SkillOpt",
   "org": "microsoft",
   "language": "Python",
-  "stars": 18802,
+  "stars": 18955,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:16:38Z",
+  "scanned_at": "2026-11-10T11:42:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,9 +73,9 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 14,
       "ai": 2,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

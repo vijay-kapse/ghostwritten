@@ -3,9 +3,9 @@
   "repo": "juicedata/juicefs",
   "org": "juicedata",
   "language": "Go",
-  "stars": 14595,
+  "stars": 14713,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:43:24Z",
+  "scanned_at": "2026-11-10T11:53:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,11 +192,14 @@
       }
     },
     "2026-11": {
-      "total": 7,
-      "ai": 0,
+      "total": 16,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
     }
   }
 }

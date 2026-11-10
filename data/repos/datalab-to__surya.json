@@ -3,9 +3,9 @@
   "repo": "datalab-to/surya",
   "org": "datalab-to",
   "language": "Python",
-  "stars": 21565,
+  "stars": 21588,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:38:12Z",
+  "scanned_at": "2026-11-10T11:31:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -150,6 +150,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

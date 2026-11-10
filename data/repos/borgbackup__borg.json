@@ -3,9 +3,9 @@
   "repo": "borgbackup/borg",
   "org": "borgbackup",
   "language": "Python",
-  "stars": 13899,
+  "stars": 13917,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:10:51Z",
+  "scanned_at": "2026-11-10T12:00:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,11 +178,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 10,
+      "ai": 7,
       "automation": 2,
-      "merges": 3,
-      "by_rule": {}
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 7
+      }
     }
   }
 }

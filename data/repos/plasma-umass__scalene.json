@@ -3,9 +3,9 @@
   "repo": "plasma-umass/scalene",
   "org": "plasma-umass",
   "language": "Python",
-  "stars": 13542,
+  "stars": 13555,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:17:39Z",
+  "scanned_at": "2026-11-10T12:03:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
+      "total": 6,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 5
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "actions/runner-images",
   "org": "actions",
   "language": "PowerShell",
-  "stars": 13553,
+  "stars": 13577,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:17:38Z",
+  "scanned_at": "2026-11-10T12:03:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,9 +189,9 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 7,
       "ai": 2,
-      "automation": 2,
+      "automation": 16,
       "merges": 1,
       "by_rule": {
         "copilot_trailer": 2,

@@ -3,17 +3,80 @@
   "repo": "element-hq/element-web",
   "org": "element-hq",
   "language": "TypeScript",
-  "stars": 13633,
+  "stars": 13640,
   "default_branch": "develop",
-  "scanned_at": "2026-11-05T11:16:16Z",
-  "window_start": "2025-10-28",
-  "complete": false,
+  "scanned_at": "2026-11-10T12:03:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-10": {
-      "total": 28,
+    "2025-01": {
+      "total": 159,
       "ai": 0,
-      "automation": 29,
-      "merges": 5,
+      "automation": 67,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 167,
+      "ai": 0,
+      "automation": 55,
+      "merges": 17,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 179,
+      "ai": 0,
+      "automation": 61,
+      "merges": 15,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 128,
+      "ai": 0,
+      "automation": 65,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 128,
+      "ai": 0,
+      "automation": 54,
+      "merges": 40,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 131,
+      "ai": 0,
+      "automation": 40,
+      "merges": 28,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 134,
+      "ai": 0,
+      "automation": 45,
+      "merges": 22,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 122,
+      "ai": 0,
+      "automation": 49,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 146,
+      "ai": 0,
+      "automation": 68,
+      "merges": 20,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 164,
+      "ai": 0,
+      "automation": 72,
+      "merges": 35,
       "by_rule": {}
     },
     "2025-11": {
@@ -113,12 +176,12 @@
       }
     },
     "2026-11": {
-      "total": 29,
-      "ai": 2,
-      "automation": 35,
+      "total": 54,
+      "ai": 3,
+      "automation": 43,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

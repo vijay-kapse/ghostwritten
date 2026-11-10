@@ -3,9 +3,9 @@
   "repo": "palantir/blueprint",
   "org": "palantir",
   "language": "TypeScript",
-  "stars": 22180,
+  "stars": 22193,
   "default_branch": "develop",
-  "scanned_at": "2026-11-03T11:33:05Z",
+  "scanned_at": "2026-11-10T11:28:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 8,
       "ai": 1,
       "automation": 0,
       "merges": 0,

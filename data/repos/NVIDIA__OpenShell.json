@@ -3,9 +3,9 @@
   "repo": "NVIDIA/OpenShell",
   "org": "NVIDIA",
   "language": "Rust",
-  "stars": 20898,
+  "stars": 21304,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:44:20Z",
+  "scanned_at": "2026-11-10T11:34:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -88,7 +88,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 19,
+      "total": 99,
       "ai": 0,
       "automation": 0,
       "merges": 0,

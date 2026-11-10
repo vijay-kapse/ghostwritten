@@ -3,21 +3,30 @@
   "repo": "voyager-crew/voyager",
   "org": "voyager-crew",
   "language": "TypeScript",
-  "stars": 20524,
+  "stars": 20584,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:01:25Z",
-  "window_start": "2025-11-03",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:36:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-10": {
+      "total": 62,
+      "ai": 6,
+      "automation": 21,
+      "merges": 11,
+      "by_rule": {
+        "gemini": 6
+      }
+    },
     "2025-11": {
-      "total": 122,
-      "ai": 28,
-      "automation": 23,
+      "total": 132,
+      "ai": 35,
+      "automation": 26,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 20,
-        "gemini": 11,
-        "claude_generated": 6
+        "claude_trailer": 27,
+        "claude_generated": 13,
+        "gemini": 11
       }
     },
     "2025-12": {
@@ -131,12 +140,13 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 5,
+      "total": 23,
+      "ai": 23,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 23,
+        "codex_trailer": 1
       }
     }
   }

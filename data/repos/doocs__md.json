@@ -3,9 +3,9 @@
   "repo": "doocs/md",
   "org": "doocs",
   "language": "TypeScript",
-  "stars": 13499,
+  "stars": 13517,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:18:29Z",
+  "scanned_at": "2026-11-10T12:04:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,6 +173,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "ansible/awx",
   "org": "ansible",
   "language": "Python",
-  "stars": 15616,
+  "stars": 15623,
   "default_branch": "devel",
-  "scanned_at": "2026-11-04T11:25:52Z",
+  "scanned_at": "2026-11-10T11:46:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,11 +197,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 8,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

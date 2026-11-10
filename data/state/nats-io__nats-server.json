@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "nats-io/nats-server",
-  "head_sha": "9b1b7b6be4e2ff7e60d010d6e9fd467229de4acf",
-  "oldest": "2025-02-24T14:34:09Z",
-  "complete": false,
+  "head_sha": "e27abe80d7b52ab9c4bc877e9a1849ab5d01f42b",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-03T11:43:28Z"
+  "updated_at": "2026-11-10T11:34:28Z"
 }

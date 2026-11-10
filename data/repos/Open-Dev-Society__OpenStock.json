@@ -3,9 +3,9 @@
   "repo": "Open-Dev-Society/OpenStock",
   "org": "Open-Dev-Society",
   "language": "TypeScript",
-  "stars": 21019,
+  "stars": 21380,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:42:50Z",
+  "scanned_at": "2026-11-10T11:34:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -103,6 +103,15 @@
       "by_rule": {
         "claude_trailer": 30,
         "cursor": 4
+      }
+    },
+    "2026-11": {
+      "total": 11,
+      "ai": 11,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 11
       }
     }
   }

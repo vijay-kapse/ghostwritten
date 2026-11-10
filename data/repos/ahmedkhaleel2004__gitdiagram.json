@@ -3,9 +3,9 @@
   "repo": "ahmedkhaleel2004/gitdiagram",
   "org": "ahmedkhaleel2004",
   "language": "TypeScript",
-  "stars": 18674,
+  "stars": 18821,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:18:05Z",
+  "scanned_at": "2026-11-10T11:43:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -115,6 +115,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 94
+      }
+    },
+    "2026-11": {
+      "total": 25,
+      "ai": 25,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 25
       }
     }
   }

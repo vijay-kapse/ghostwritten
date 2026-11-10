@@ -3,9 +3,9 @@
   "repo": "coredns/coredns",
   "org": "coredns",
   "language": "Go",
-  "stars": 14402,
+  "stars": 14419,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:46:33Z",
+  "scanned_at": "2026-11-10T11:54:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,9 +174,9 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 11,
       "ai": 0,
-      "automation": 2,
+      "automation": 11,
       "merges": 0,
       "by_rule": {}
     }

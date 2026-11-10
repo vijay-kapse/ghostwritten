@@ -3,9 +3,9 @@
   "repo": "timescale/timescaledb",
   "org": "timescale",
   "language": "C",
-  "stars": 23784,
+  "stars": 23833,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:17:02Z",
+  "scanned_at": "2026-11-10T11:18:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 39,
       "ai": 0,
       "automation": 0,
       "merges": 0,

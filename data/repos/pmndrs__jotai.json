@@ -3,9 +3,9 @@
   "repo": "pmndrs/jotai",
   "org": "pmndrs",
   "language": "TypeScript",
-  "stars": 21306,
+  "stars": 21308,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:40:52Z",
+  "scanned_at": "2026-11-10T11:32:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,6 +178,13 @@
         "copilot_author": 1,
         "copilot_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

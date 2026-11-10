@@ -3,9 +3,9 @@
   "repo": "jaegertracing/jaeger",
   "org": "jaegertracing",
   "language": "Go",
-  "stars": 23366,
+  "stars": 23389,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:19:29Z",
+  "scanned_at": "2026-11-10T11:19:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -215,14 +215,15 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 17,
-      "automation": 0,
+      "total": 55,
+      "ai": 48,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 16,
-        "claude_generated": 12,
-        "cursor": 5
+        "claude_trailer": 46,
+        "claude_generated": 40,
+        "cursor": 5,
+        "copilot_trailer": 1
       }
     }
   }

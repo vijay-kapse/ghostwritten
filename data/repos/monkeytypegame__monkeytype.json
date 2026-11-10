@@ -3,9 +3,9 @@
   "repo": "monkeytypegame/monkeytype",
   "org": "monkeytypegame",
   "language": "TypeScript",
-  "stars": 20976,
+  "stars": 21012,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:43:42Z",
+  "scanned_at": "2026-11-10T11:34:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,6 +190,16 @@
       "by_rule": {
         "claude_trailer": 70,
         "claude_generated": 14
+      }
+    },
+    "2026-11": {
+      "total": 21,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "claude_generated": 5
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "colmap/colmap",
   "org": "colmap",
   "language": "C++",
-  "stars": 13123,
+  "stars": 13182,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:25:45Z",
+  "scanned_at": "2026-11-10T12:08:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 29,
       "ai": 1,
       "automation": 1,
       "merges": 0,

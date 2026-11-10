@@ -3,9 +3,9 @@
   "repo": "C4illin/ConvertX",
   "org": "C4illin",
   "language": "TypeScript",
-  "stars": 19275,
+  "stars": 19651,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:11:48Z",
+  "scanned_at": "2026-11-10T11:40:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -165,9 +165,9 @@
       }
     },
     "2026-11": {
-      "total": 0,
+      "total": 2,
       "ai": 0,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     }

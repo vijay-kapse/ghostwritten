@@ -3,19 +3,62 @@
   "repo": "lichess-org/lila",
   "org": "lichess-org",
   "language": "Scala",
-  "stars": 18936,
+  "stars": 18961,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:14:05Z",
-  "window_start": "2026-08-03",
+  "scanned_at": "2026-11-10T11:41:32Z",
+  "window_start": "2026-03-30",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 526,
-      "ai": 9,
-      "automation": 30,
-      "merges": 257,
+    "2026-03": {
+      "total": 32,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 407,
+      "ai": 3,
+      "automation": 2,
+      "merges": 121,
       "by_rule": {
-        "claude_trailer": 9,
+        "claude_trailer": 3
+      }
+    },
+    "2026-05": {
+      "total": 356,
+      "ai": 1,
+      "automation": 8,
+      "merges": 112,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 464,
+      "ai": 3,
+      "automation": 2,
+      "merges": 174,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
+    "2026-07": {
+      "total": 707,
+      "ai": 9,
+      "automation": 28,
+      "merges": 254,
+      "by_rule": {
+        "cursor": 9
+      }
+    },
+    "2026-08": {
+      "total": 601,
+      "ai": 11,
+      "automation": 36,
+      "merges": 305,
+      "by_rule": {
+        "claude_trailer": 11,
         "claude_generated": 3
       }
     },
@@ -41,11 +84,13 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 0,
-      "automation": 7,
-      "merges": 38,
-      "by_rule": {}
+      "total": 162,
+      "ai": 4,
+      "automation": 17,
+      "merges": 80,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "wled/WLED",
   "org": "wled",
   "language": "C++",
-  "stars": 18951,
+  "stars": 19005,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:13:44Z",
+  "scanned_at": "2026-11-10T11:41:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -206,7 +206,7 @@
       }
     },
     "2026-11": {
-      "total": 12,
+      "total": 28,
       "ai": 0,
       "automation": 0,
       "merges": 0,

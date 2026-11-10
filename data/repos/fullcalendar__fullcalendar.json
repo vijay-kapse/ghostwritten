@@ -3,9 +3,9 @@
   "repo": "fullcalendar/fullcalendar",
   "org": "fullcalendar",
   "language": "TypeScript",
-  "stars": 20735,
+  "stars": 20758,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:45:49Z",
+  "scanned_at": "2026-11-10T11:35:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -67,6 +67,15 @@
       "merges": 1,
       "by_rule": {
         "claude_trailer": 9
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
       }
     }
   }

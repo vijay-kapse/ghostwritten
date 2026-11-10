@@ -3,9 +3,9 @@
   "repo": "desktop/desktop",
   "org": "desktop",
   "language": "TypeScript",
-  "stars": 22038,
+  "stars": 22069,
   "default_branch": "development",
-  "scanned_at": "2026-11-03T11:35:02Z",
+  "scanned_at": "2026-11-10T11:29:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,21 +187,21 @@
       }
     },
     "2026-10": {
-      "total": 165,
+      "total": 170,
       "ai": 125,
-      "automation": 17,
-      "merges": 129,
+      "automation": 18,
+      "merges": 130,
       "by_rule": {
         "copilot_trailer": 125
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 3,
-      "automation": 0,
-      "merges": 6,
+      "total": 79,
+      "ai": 28,
+      "automation": 2,
+      "merges": 26,
       "by_rule": {
-        "copilot_trailer": 3
+        "copilot_trailer": 28
       }
     }
   }

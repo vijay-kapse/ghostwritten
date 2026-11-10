@@ -3,9 +3,9 @@
   "repo": "dotnet/core",
   "org": "dotnet",
   "language": "PowerShell",
-  "stars": 22063,
+  "stars": 22065,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:34:46Z",
+  "scanned_at": "2026-11-10T11:29:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,12 +205,12 @@
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 1,
-      "automation": 0,
+      "total": 6,
+      "ai": 4,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 1
+        "copilot_trailer": 4
       }
     }
   }

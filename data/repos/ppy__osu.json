@@ -3,17 +3,52 @@
   "repo": "ppy/osu",
   "org": "ppy",
   "language": "C#",
-  "stars": 19358,
+  "stars": 19382,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:10:48Z",
-  "window_start": "2025-06-13",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:39:53Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 150,
+    "2025-01": {
+      "total": 367,
       "ai": 0,
       "automation": 0,
-      "merges": 67,
+      "merges": 125,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 359,
+      "ai": 0,
+      "automation": 0,
+      "merges": 132,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 382,
+      "ai": 0,
+      "automation": 0,
+      "merges": 145,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 401,
+      "ai": 0,
+      "automation": 0,
+      "merges": 137,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 400,
+      "ai": 0,
+      "automation": 0,
+      "merges": 158,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 346,
+      "ai": 0,
+      "automation": 0,
+      "merges": 146,
       "by_rule": {}
     },
     "2025-07": {
@@ -129,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 14,
+      "total": 24,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "lsdefine/GenericAgent",
   "org": "lsdefine",
   "language": "Python",
-  "stars": 14380,
+  "stars": 14399,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:46:46Z",
+  "scanned_at": "2026-11-10T11:54:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,10 +84,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 18,
+      "total": 21,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {}
     }
   }

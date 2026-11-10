@@ -3,9 +3,9 @@
   "repo": "TencentCloud/CubeSandbox",
   "org": "TencentCloud",
   "language": "Go",
-  "stars": 13122,
+  "stars": 13201,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:25:53Z",
+  "scanned_at": "2026-11-10T12:08:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -78,12 +78,13 @@
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 2,
+      "total": 62,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "cursor": 2
+        "cursor": 3,
+        "claude_trailer": 1
       }
     }
   }

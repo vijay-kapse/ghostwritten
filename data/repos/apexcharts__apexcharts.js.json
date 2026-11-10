@@ -3,9 +3,9 @@
   "repo": "apexcharts/apexcharts.js",
   "org": "apexcharts",
   "language": "JavaScript",
-  "stars": 15186,
+  "stars": 15187,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:32:45Z",
+  "scanned_at": "2026-11-10T11:49:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,7 +178,7 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 17,
       "ai": 0,
       "automation": 0,
       "merges": 6,

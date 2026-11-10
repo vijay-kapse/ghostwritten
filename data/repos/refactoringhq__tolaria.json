@@ -3,19 +3,28 @@
   "repo": "refactoringhq/tolaria",
   "org": "refactoringhq",
   "language": "TypeScript",
-  "stars": 20415,
+  "stars": 20483,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:02:44Z",
-  "window_start": "2026-03-28",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:36:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 90,
-      "ai": 57,
+    "2026-02": {
+      "total": 664,
+      "ai": 436,
       "automation": 0,
-      "merges": 0,
+      "merges": 90,
       "by_rule": {
-        "claude_trailer": 57
+        "claude_trailer": 436
+      }
+    },
+    "2026-03": {
+      "total": 622,
+      "ai": 469,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 469
       }
     },
     "2026-04": {
@@ -77,11 +86,13 @@
       }
     },
     "2026-11": {
-      "total": 39,
-      "ai": 0,
+      "total": 81,
+      "ai": 11,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 2,
+      "by_rule": {
+        "cursor": 11
+      }
     }
   }
 }

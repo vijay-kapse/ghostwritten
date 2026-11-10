@@ -3,9 +3,9 @@
   "repo": "QwikDev/partytown",
   "org": "QwikDev",
   "language": "TypeScript",
-  "stars": 13807,
+  "stars": 13817,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:13:07Z",
+  "scanned_at": "2026-11-10T12:02:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -87,6 +87,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

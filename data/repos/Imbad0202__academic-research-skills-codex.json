@@ -3,9 +3,9 @@
   "repo": "Imbad0202/academic-research-skills-codex",
   "org": "Imbad0202",
   "language": "Python",
-  "stars": 13871,
+  "stars": 14248,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:11:19Z",
+  "scanned_at": "2026-11-10T12:00:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -64,6 +64,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
       }
     }
   }

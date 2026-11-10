@@ -3,38 +3,57 @@
   "repo": "SubtitleEdit/subtitleedit",
   "org": "SubtitleEdit",
   "language": "C#",
-  "stars": 14811,
+  "stars": 14934,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:39:20Z",
-  "window_start": "2026-09-06",
+  "scanned_at": "2026-11-10T11:51:40Z",
+  "window_start": "2026-07-29",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 746,
-      "ai": 666,
+    "2026-07": {
+      "total": 117,
+      "ai": 108,
       "automation": 0,
-      "merges": 646,
+      "merges": 87,
       "by_rule": {
-        "claude_trailer": 666
+        "claude_trailer": 108
+      }
+    },
+    "2026-08": {
+      "total": 1156,
+      "ai": 915,
+      "automation": 0,
+      "merges": 912,
+      "by_rule": {
+        "claude_trailer": 913,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 922,
+      "ai": 812,
+      "automation": 0,
+      "merges": 798,
+      "by_rule": {
+        "claude_trailer": 812
       }
     },
     "2026-10": {
-      "total": 1023,
-      "ai": 830,
+      "total": 1030,
+      "ai": 837,
       "automation": 0,
       "merges": 738,
       "by_rule": {
-        "claude_trailer": 829,
+        "claude_trailer": 836,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 73,
-      "ai": 54,
+      "total": 242,
+      "ai": 187,
       "automation": 0,
-      "merges": 62,
+      "merges": 203,
       "by_rule": {
-        "claude_trailer": 54
+        "claude_trailer": 187
       }
     }
   }

@@ -1,26 +1,26 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T12:30:26Z",
+  "generated_at": "2026-11-10T12:08:36Z",
   "universe": {
     "repos": 5034,
     "scanned": 5034,
-    "covering_window": 4933,
-    "ranked": 1438,
+    "covering_window": 4947,
+    "ranked": 1452,
     "selection": "top by stars, plus on-demand lookups"
   },
   "window": "2026-08..2026-10",
-  "ai": 135090,
-  "total": 956448,
-  "ai_share": 0.1412,
-  "median_repo_ai_share": 0.0295,
-  "share_repos_with_ai": 0.7949,
+  "ai": 145421,
+  "total": 996862,
+  "ai_share": 0.1459,
+  "median_repo_ai_share": 0.0297,
+  "share_repos_with_ai": 0.7961,
   "mom_change": {
     "from": "2026-09",
     "to": "2026-10",
-    "from_share": 0.132,
-    "to_share": 0.1532,
-    "change": 0.0212,
-    "repos": 4961
+    "from_share": 0.1389,
+    "to_share": 0.1646,
+    "change": 0.0257,
+    "repos": 4973
   },
   "min_commits": 100
 }

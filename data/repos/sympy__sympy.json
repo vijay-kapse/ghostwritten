@@ -3,17 +3,38 @@
   "repo": "sympy/sympy",
   "org": "sympy",
   "language": "Python",
-  "stars": 15056,
+  "stars": 15082,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:35:25Z",
-  "window_start": "2025-04-05",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:50:18Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-04": {
-      "total": 158,
+    "2025-01": {
+      "total": 109,
+      "ai": 0,
+      "automation": 1,
+      "merges": 34,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 157,
+      "ai": 0,
+      "automation": 1,
+      "merges": 40,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 204,
       "ai": 0,
       "automation": 0,
-      "merges": 67,
+      "merges": 40,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 201,
+      "ai": 0,
+      "automation": 1,
+      "merges": 75,
       "by_rule": {}
     },
     "2025-05": {
@@ -66,10 +87,10 @@
       "by_rule": {}
     },
     "2025-12": {
-      "total": 146,
+      "total": 163,
       "ai": 0,
       "automation": 1,
-      "merges": 56,
+      "merges": 58,
       "by_rule": {}
     },
     "2026-01": {
@@ -157,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 24,
-      "ai": 5,
+      "total": 84,
+      "ai": 8,
       "automation": 0,
-      "merges": 15,
+      "merges": 28,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 8
       }
     }
   }

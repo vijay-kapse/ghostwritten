@@ -3,9 +3,9 @@
   "repo": "sirmalloc/ccstatusline",
   "org": "sirmalloc",
   "language": "TypeScript",
-  "stars": 13489,
+  "stars": 13555,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:18:34Z",
+  "scanned_at": "2026-11-10T12:04:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -123,6 +123,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 19
+      }
+    },
+    "2026-11": {
+      "total": 31,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

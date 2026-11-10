@@ -3,9 +3,9 @@
   "repo": "DarkFlippers/unleashed-firmware",
   "org": "DarkFlippers",
   "language": "C",
-  "stars": 22617,
+  "stars": 22666,
   "default_branch": "dev",
-  "scanned_at": "2026-11-03T11:28:11Z",
+  "scanned_at": "2026-11-10T11:25:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,12 +174,12 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 5,
+      "total": 38,
+      "ai": 7,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 7
       }
     }
   }

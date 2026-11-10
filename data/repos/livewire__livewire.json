@@ -3,9 +3,9 @@
   "repo": "livewire/livewire",
   "org": "livewire",
   "language": "PHP",
-  "stars": 23585,
+  "stars": 23591,
   "default_branch": "4.x",
-  "scanned_at": "2026-11-03T11:17:27Z",
+  "scanned_at": "2026-11-10T11:18:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,6 +184,15 @@
       "merges": 47,
       "by_rule": {
         "claude_trailer": 19
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

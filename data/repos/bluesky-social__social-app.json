@@ -3,14 +3,14 @@
   "repo": "bluesky-social/social-app",
   "org": "bluesky-social",
   "language": "TypeScript",
-  "stars": 18362,
+  "stars": 18385,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:22:49Z",
-  "window_start": "2025-01-22",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:44:34Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 28,
+      "total": 97,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 4,
+      "total": 55,
+      "ai": 18,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 18
       }
     }
   }

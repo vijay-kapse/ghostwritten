@@ -3,9 +3,9 @@
   "repo": "faker-js/faker",
   "org": "faker-js",
   "language": "TypeScript",
-  "stars": 15539,
+  "stars": 15546,
   "default_branch": "next",
-  "scanned_at": "2026-11-04T11:26:34Z",
+  "scanned_at": "2026-11-10T11:46:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,9 +179,9 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 17,
       "ai": 1,
-      "automation": 8,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

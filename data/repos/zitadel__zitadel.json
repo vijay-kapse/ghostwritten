@@ -3,9 +3,9 @@
   "repo": "zitadel/zitadel",
   "org": "zitadel",
   "language": "Go",
-  "stars": 15492,
+  "stars": 15550,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:26:56Z",
+  "scanned_at": "2026-11-10T11:46:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -218,13 +218,14 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 4,
+      "total": 9,
+      "ai": 6,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 4,
-        "claude_trailer": 4
+        "claude_trailer": 6,
+        "claude_generated": 5,
+        "cursor": 1
       }
     }
   }

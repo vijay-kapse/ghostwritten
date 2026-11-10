@@ -3,9 +3,9 @@
   "repo": "czlonkowski/n8n-mcp",
   "org": "czlonkowski",
   "language": "TypeScript",
-  "stars": 23187,
+  "stars": 23230,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:22:15Z",
+  "scanned_at": "2026-11-10T11:21:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 26,
+      "ai": 22,
       "automation": 0,
-      "merges": 1,
+      "merges": 12,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 21,
+        "copilot_trailer": 1
       }
     }
   }

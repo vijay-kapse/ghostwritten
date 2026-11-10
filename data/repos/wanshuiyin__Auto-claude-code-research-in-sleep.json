@@ -3,9 +3,9 @@
   "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
   "org": "wanshuiyin",
   "language": "Python",
-  "stars": 18442,
+  "stars": 18916,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:20:35Z",
+  "scanned_at": "2026-11-10T11:43:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,10 +84,10 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 9,
       "ai": 0,
       "automation": 0,
-      "merges": 4,
+      "merges": 6,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "deviantony/docker-elk",
   "org": "deviantony",
   "language": "Shell",
-  "stars": 18384,
+  "stars": 18379,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:22:11Z",
+  "scanned_at": "2026-11-10T11:44:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

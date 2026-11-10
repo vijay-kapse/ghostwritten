@@ -3,17 +3,52 @@
   "repo": "mouredev/hello-git",
   "org": "mouredev",
   "language": null,
-  "stars": 15187,
+  "stars": 15218,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:32:35Z",
-  "window_start": "2025-06-18",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:49:14Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 41,
+    "2025-01": {
+      "total": 107,
       "ai": 0,
       "automation": 0,
-      "merges": 68,
+      "merges": 177,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 142,
+      "ai": 0,
+      "automation": 0,
+      "merges": 216,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 152,
+      "ai": 0,
+      "automation": 0,
+      "merges": 238,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 115,
+      "ai": 0,
+      "automation": 0,
+      "merges": 182,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 94,
+      "ai": 0,
+      "automation": 0,
+      "merges": 136,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 97,
+      "ai": 0,
+      "automation": 0,
+      "merges": 162,
       "by_rule": {}
     },
     "2025-07": {
@@ -129,10 +164,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
+      "total": 12,
       "ai": 0,
       "automation": 0,
-      "merges": 6,
+      "merges": 12,
       "by_rule": {}
     }
   }

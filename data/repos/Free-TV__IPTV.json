@@ -3,9 +3,9 @@
   "repo": "Free-TV/IPTV",
   "org": "Free-TV",
   "language": "Python",
-  "stars": 21657,
+  "stars": 21836,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:37:56Z",
+  "scanned_at": "2026-11-10T11:31:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,10 +143,10 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 31,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 4,
       "by_rule": {}
     }
   }

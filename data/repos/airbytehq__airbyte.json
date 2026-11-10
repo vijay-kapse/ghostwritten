@@ -3,20 +3,33 @@
   "repo": "airbytehq/airbyte",
   "org": "airbytehq",
   "language": "Python",
-  "stars": 22295,
+  "stars": 22335,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:30:40Z",
-  "window_start": "2026-09-22",
+  "scanned_at": "2026-11-10T11:27:33Z",
+  "window_start": "2026-08-04",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 68,
-      "ai": 56,
-      "automation": 535,
+    "2026-08": {
+      "total": 252,
+      "ai": 229,
+      "automation": 946,
       "merges": 0,
       "by_rule": {
-        "devin": 50,
-        "claude_trailer": 10
+        "devin": 206,
+        "claude_trailer": 33,
+        "copilot_trailer": 1,
+        "cursor": 1
+      }
+    },
+    "2026-09": {
+      "total": 249,
+      "ai": 224,
+      "automation": 1556,
+      "merges": 0,
+      "by_rule": {
+        "devin": 207,
+        "claude_trailer": 32,
+        "cursor": 1
       }
     },
     "2026-10": {
@@ -32,13 +45,14 @@
       }
     },
     "2026-11": {
-      "total": 29,
-      "ai": 26,
-      "automation": 388,
+      "total": 201,
+      "ai": 186,
+      "automation": 765,
       "merges": 0,
       "by_rule": {
-        "devin": 23,
-        "claude_trailer": 4
+        "devin": 173,
+        "claude_trailer": 21,
+        "copilot_trailer": 1
       }
     }
   }

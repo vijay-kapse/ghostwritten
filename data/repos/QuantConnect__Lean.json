@@ -3,9 +3,9 @@
   "repo": "QuantConnect/Lean",
   "org": "QuantConnect",
   "language": "C#",
-  "stars": 22336,
+  "stars": 22463,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:29:57Z",
+  "scanned_at": "2026-11-10T11:26:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 11,
       "ai": 1,
-      "automation": 0,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

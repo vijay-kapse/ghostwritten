@@ -3,20 +3,80 @@
   "repo": "github/docs",
   "org": "github",
   "language": "TypeScript",
-  "stars": 21197,
+  "stars": 21395,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:41:36Z",
-  "window_start": "2026-05-15",
+  "scanned_at": "2026-11-10T11:33:13Z",
+  "window_start": "2025-11-04",
   "complete": false,
   "months": {
-    "2026-05": {
-      "total": 161,
-      "ai": 91,
-      "automation": 8,
-      "merges": 48,
+    "2025-11": {
+      "total": 217,
+      "ai": 46,
+      "automation": 5,
+      "merges": 89,
       "by_rule": {
-        "copilot_trailer": 91,
-        "copilot_author": 8
+        "copilot_trailer": 46,
+        "copilot_author": 4
+      }
+    },
+    "2025-12": {
+      "total": 245,
+      "ai": 61,
+      "automation": 19,
+      "merges": 78,
+      "by_rule": {
+        "copilot_trailer": 61,
+        "copilot_author": 10
+      }
+    },
+    "2026-01": {
+      "total": 349,
+      "ai": 57,
+      "automation": 16,
+      "merges": 125,
+      "by_rule": {
+        "copilot_trailer": 57,
+        "copilot_author": 12
+      }
+    },
+    "2026-02": {
+      "total": 328,
+      "ai": 111,
+      "automation": 14,
+      "merges": 90,
+      "by_rule": {
+        "copilot_trailer": 111,
+        "copilot_author": 20
+      }
+    },
+    "2026-03": {
+      "total": 491,
+      "ai": 250,
+      "automation": 16,
+      "merges": 101,
+      "by_rule": {
+        "copilot_trailer": 250,
+        "copilot_author": 51
+      }
+    },
+    "2026-04": {
+      "total": 357,
+      "ai": 169,
+      "automation": 9,
+      "merges": 115,
+      "by_rule": {
+        "copilot_trailer": 168,
+        "copilot_author": 38
+      }
+    },
+    "2026-05": {
+      "total": 342,
+      "ai": 188,
+      "automation": 12,
+      "merges": 99,
+      "by_rule": {
+        "copilot_trailer": 187,
+        "copilot_author": 26
       }
     },
     "2026-06": {
@@ -74,13 +134,14 @@
       }
     },
     "2026-11": {
-      "total": 20,
-      "ai": 12,
-      "automation": 4,
-      "merges": 6,
+      "total": 92,
+      "ai": 55,
+      "automation": 5,
+      "merges": 27,
       "by_rule": {
-        "copilot_trailer": 12,
-        "copilot_author": 2
+        "copilot_trailer": 51,
+        "copilot_author": 8,
+        "claude_trailer": 4
       }
     }
   }

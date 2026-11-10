@@ -3,17 +3,17 @@
   "repo": "mack-a/v2ray-agent",
   "org": "mack-a",
   "language": "Shell",
-  "stars": 22262,
+  "stars": 22314,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:31:29Z",
+  "scanned_at": "2026-11-10T11:27:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 4,
+      "total": 9,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {}
     }
   }

@@ -3,17 +3,73 @@
   "repo": "sebastianbergmann/phpunit",
   "org": "sebastianbergmann",
   "language": "PHP",
-  "stars": 20077,
+  "stars": 20075,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:05:31Z",
-  "window_start": "2025-09-13",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:38:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-09": {
-      "total": 58,
+    "2025-01": {
+      "total": 74,
       "ai": 0,
       "automation": 0,
-      "merges": 79,
+      "merges": 96,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 61,
+      "ai": 0,
+      "automation": 0,
+      "merges": 80,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 121,
+      "ai": 0,
+      "automation": 0,
+      "merges": 92,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 106,
+      "ai": 0,
+      "automation": 0,
+      "merges": 87,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 101,
+      "ai": 0,
+      "automation": 0,
+      "merges": 46,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 89,
+      "ai": 0,
+      "automation": 0,
+      "merges": 75,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 95,
+      "ai": 0,
+      "automation": 0,
+      "merges": 95,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 240,
+      "ai": 0,
+      "automation": 0,
+      "merges": 180,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 107,
+      "ai": 0,
+      "automation": 0,
+      "merges": 150,
       "by_rule": {}
     },
     "2025-10": {
@@ -108,10 +164,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
+      "total": 26,
       "ai": 0,
-      "automation": 11,
-      "merges": 24,
+      "automation": 23,
+      "merges": 53,
       "by_rule": {}
     }
   }

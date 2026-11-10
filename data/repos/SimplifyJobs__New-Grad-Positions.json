@@ -3,14 +3,21 @@
   "repo": "SimplifyJobs/New-Grad-Positions",
   "org": "SimplifyJobs",
   "language": null,
-  "stars": 18312,
+  "stars": 18340,
   "default_branch": "dev",
-  "scanned_at": "2026-11-04T11:24:17Z",
-  "window_start": "2026-09-22",
+  "scanned_at": "2026-11-10T11:45:39Z",
+  "window_start": "2026-08-21",
   "complete": false,
   "months": {
+    "2026-08": {
+      "total": 861,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-09": {
-      "total": 641,
+      "total": 2280,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -24,7 +31,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 257,
+      "total": 731,
       "ai": 0,
       "automation": 0,
       "merges": 0,

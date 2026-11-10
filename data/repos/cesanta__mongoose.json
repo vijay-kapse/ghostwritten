@@ -3,9 +3,9 @@
   "repo": "cesanta/mongoose",
   "org": "cesanta",
   "language": "C",
-  "stars": 13124,
+  "stars": 13130,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:25:38Z",
+  "scanned_at": "2026-11-10T12:08:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,31 +143,31 @@
       "by_rule": {}
     },
     "2026-08": {
-      "total": 26,
+      "total": 27,
       "ai": 0,
       "automation": 0,
       "merges": 17,
       "by_rule": {}
     },
     "2026-09": {
-      "total": 43,
+      "total": 45,
       "ai": 0,
       "automation": 0,
       "merges": 22,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 53,
+      "total": 56,
       "ai": 0,
       "automation": 0,
       "merges": 26,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 6,
+      "total": 25,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 20,
       "by_rule": {}
     }
   }

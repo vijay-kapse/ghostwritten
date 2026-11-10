@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "mountain-loop/yaak",
   "org": "mountain-loop",
-  "language": "TypeScript",
-  "stars": 19396,
+  "language": "Rust",
+  "stars": 19465,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:10:26Z",
+  "scanned_at": "2026-11-10T11:39:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 1,
+      "total": 24,
+      "ai": 19,
       "automation": 15,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 19
       }
     }
   }

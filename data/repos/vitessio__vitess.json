@@ -3,9 +3,9 @@
   "repo": "vitessio/vitess",
   "org": "vitessio",
   "language": "Go",
-  "stars": 21398,
+  "stars": 21406,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:40:06Z",
+  "scanned_at": "2026-11-10T11:32:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,11 +207,13 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 1,
-      "automation": 1,
+      "total": 41,
+      "ai": 17,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
+        "claude_trailer": 14,
+        "cursor": 2,
         "copilot_trailer": 1
       }
     }

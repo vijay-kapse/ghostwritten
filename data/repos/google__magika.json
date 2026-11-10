@@ -3,9 +3,9 @@
   "repo": "google/magika",
   "org": "google",
   "language": "Rust",
-  "stars": 18756,
+  "stars": 18779,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:17:25Z",
+  "scanned_at": "2026-11-10T11:42:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -107,7 +107,7 @@
       "by_rule": {}
     },
     "2026-04": {
-      "total": 6,
+      "total": 7,
       "ai": 0,
       "automation": 6,
       "merges": 1,
@@ -142,17 +142,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 61,
+      "total": 62,
       "ai": 0,
       "automation": 0,
-      "merges": 38,
+      "merges": 39,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
+      "total": 26,
       "ai": 0,
       "automation": 0,
-      "merges": 8,
+      "merges": 17,
       "by_rule": {}
     }
   }

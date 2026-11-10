@@ -3,9 +3,9 @@
   "repo": "DaoCloud/public-image-mirror",
   "org": "DaoCloud",
   "language": "Shell",
-  "stars": 15309,
+  "stars": 15341,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:29:22Z",
+  "scanned_at": "2026-11-10T11:47:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,11 +173,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 5,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

@@ -3,26 +3,47 @@
   "repo": "nesquena/hermes-webui",
   "org": "nesquena",
   "language": "Python",
-  "stars": 19336,
+  "stars": 19455,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:11:09Z",
-  "window_start": "2026-09-29",
+  "scanned_at": "2026-11-10T11:40:13Z",
+  "window_start": "2026-07-06",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 38,
-      "ai": 2,
+    "2026-07": {
+      "total": 673,
+      "ai": 28,
       "automation": 0,
-      "merges": 18,
+      "merges": 318,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 27,
+        "codex_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 412,
+      "ai": 11,
+      "automation": 2,
+      "merges": 77,
+      "by_rule": {
+        "claude_trailer": 9,
+        "cursor": 2
+      }
+    },
+    "2026-09": {
+      "total": 884,
+      "ai": 23,
+      "automation": 0,
+      "merges": 290,
+      "by_rule": {
+        "claude_trailer": 22,
+        "cursor": 1
       }
     },
     "2026-10": {
-      "total": 1807,
+      "total": 1839,
       "ai": 75,
       "automation": 0,
-      "merges": 1146,
+      "merges": 1150,
       "by_rule": {
         "claude_trailer": 60,
         "codex_trailer": 9,
@@ -30,13 +51,13 @@
       }
     },
     "2026-11": {
-      "total": 111,
-      "ai": 25,
+      "total": 334,
+      "ai": 41,
       "automation": 0,
-      "merges": 73,
+      "merges": 187,
       "by_rule": {
-        "claude_trailer": 24,
-        "cursor": 1
+        "claude_trailer": 38,
+        "cursor": 3
       }
     }
   }

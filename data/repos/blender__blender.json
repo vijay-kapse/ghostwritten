@@ -3,17 +3,31 @@
   "repo": "blender/blender",
   "org": "blender",
   "language": "C++",
-  "stars": 21502,
+  "stars": 21793,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:38:52Z",
-  "window_start": "2026-07-27",
+  "scanned_at": "2026-11-10T11:31:38Z",
+  "window_start": "2026-05-12",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 127,
+    "2026-05": {
+      "total": 614,
       "ai": 0,
       "automation": 0,
       "merges": 0,
+      "by_rule": {}
+    },
+    "2026-06": {
+      "total": 963,
+      "ai": 0,
+      "automation": 0,
+      "merges": 344,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 730,
+      "ai": 0,
+      "automation": 0,
+      "merges": 76,
       "by_rule": {}
     },
     "2026-08": {
@@ -40,10 +54,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 114,
+      "total": 422,
       "ai": 0,
       "automation": 0,
-      "merges": 25,
+      "merges": 52,
       "by_rule": {}
     }
   }

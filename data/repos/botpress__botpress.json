@@ -3,9 +3,9 @@
   "repo": "botpress/botpress",
   "org": "botpress",
   "language": "TypeScript",
-  "stars": 14973,
+  "stars": 14986,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:37:08Z",
+  "scanned_at": "2026-11-10T11:51:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,11 +184,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 15,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

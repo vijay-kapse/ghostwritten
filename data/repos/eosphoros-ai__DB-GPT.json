@@ -3,9 +3,9 @@
   "repo": "eosphoros-ai/DB-GPT",
   "org": "eosphoros-ai",
   "language": "Python",
-  "stars": 20233,
+  "stars": 20277,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:04:32Z",
+  "scanned_at": "2026-11-10T11:37:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,7 +192,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 7,
       "ai": 1,
       "automation": 0,
       "merges": 0,

@@ -3,17 +3,66 @@
   "repo": "rust-lang/rust-clippy",
   "org": "rust-lang",
   "language": "Rust",
-  "stars": 13607,
+  "stars": 13632,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:16:48Z",
-  "window_start": "2025-08-14",
-  "complete": false,
+  "scanned_at": "2026-11-10T12:03:40Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 150,
+    "2025-01": {
+      "total": 168,
       "ai": 0,
       "automation": 0,
-      "merges": 81,
+      "merges": 95,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 180,
+      "ai": 0,
+      "automation": 0,
+      "merges": 117,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 166,
+      "ai": 0,
+      "automation": 0,
+      "merges": 118,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 124,
+      "ai": 0,
+      "automation": 0,
+      "merges": 92,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 183,
+      "ai": 0,
+      "automation": 0,
+      "merges": 118,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 140,
+      "ai": 0,
+      "automation": 0,
+      "merges": 100,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 155,
+      "ai": 0,
+      "automation": 0,
+      "merges": 121,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 224,
+      "ai": 0,
+      "automation": 1,
+      "merges": 139,
       "by_rule": {}
     },
     "2025-09": {
@@ -73,7 +122,7 @@
       "by_rule": {}
     },
     "2026-05": {
-      "total": 86,
+      "total": 87,
       "ai": 0,
       "automation": 0,
       "merges": 60,
@@ -117,10 +166,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 4,
+      "total": 18,
       "ai": 0,
       "automation": 0,
-      "merges": 7,
+      "merges": 17,
       "by_rule": {}
     }
   }

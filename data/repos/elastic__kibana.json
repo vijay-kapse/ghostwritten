@@ -3,22 +3,23 @@
   "repo": "elastic/kibana",
   "org": "elastic",
   "language": "TypeScript",
-  "stars": 21353,
+  "stars": 21369,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:40:45Z",
-  "window_start": "2026-09-30",
+  "scanned_at": "2026-11-10T11:32:39Z",
+  "window_start": "2026-09-01",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 73,
-      "ai": 34,
-      "automation": 1,
+      "total": 2300,
+      "ai": 1008,
+      "automation": 74,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28,
-        "claude_generated": 11,
-        "cursor": 8,
-        "copilot_trailer": 1
+        "claude_trailer": 586,
+        "cursor": 475,
+        "claude_generated": 200,
+        "copilot_trailer": 17,
+        "copilot_author": 4
       }
     },
     "2026-10": {
@@ -35,15 +36,15 @@
       }
     },
     "2026-11": {
-      "total": 178,
-      "ai": 115,
-      "automation": 5,
+      "total": 779,
+      "ai": 450,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 85,
-        "claude_generated": 58,
-        "cursor": 31,
-        "copilot_trailer": 1
+        "claude_trailer": 284,
+        "cursor": 159,
+        "claude_generated": 158,
+        "copilot_trailer": 8
       }
     }
   }

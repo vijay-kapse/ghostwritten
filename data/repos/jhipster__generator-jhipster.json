@@ -3,18 +3,90 @@
   "repo": "jhipster/generator-jhipster",
   "org": "jhipster",
   "language": "TypeScript",
-  "stars": 22463,
+  "stars": 22459,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:29:27Z",
-  "window_start": "2026-02-17",
+  "scanned_at": "2026-11-10T11:26:38Z",
+  "window_start": "2025-04-08",
   "complete": false,
   "months": {
-    "2026-02": {
-      "total": 43,
+    "2025-04": {
+      "total": 23,
       "ai": 0,
-      "automation": 74,
+      "automation": 134,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 67,
+      "ai": 0,
+      "automation": 207,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 59,
+      "ai": 0,
+      "automation": 188,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 76,
+      "ai": 0,
+      "automation": 187,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 107,
+      "ai": 0,
+      "automation": 163,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 79,
+      "ai": 0,
+      "automation": 221,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 57,
+      "ai": 0,
+      "automation": 228,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 82,
+      "ai": 0,
+      "automation": 187,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 90,
+      "ai": 0,
+      "automation": 165,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 91,
+      "ai": 0,
+      "automation": 176,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-02": {
+      "total": 91,
+      "ai": 1,
+      "automation": 209,
+      "merges": 4,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     },
     "2026-03": {
       "total": 137,
@@ -89,9 +161,9 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 123,
       "ai": 0,
-      "automation": 27,
+      "automation": 94,
       "merges": 0,
       "by_rule": {}
     }

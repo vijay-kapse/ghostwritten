@@ -3,9 +3,9 @@
   "repo": "jsdom/jsdom",
   "org": "jsdom",
   "language": "JavaScript",
-  "stars": 21742,
+  "stars": 21751,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:37:32Z",
+  "scanned_at": "2026-11-10T11:30:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 11,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 2
+        "codex_trailer": 8,
+        "claude_trailer": 6
       }
     }
   }

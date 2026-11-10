@@ -3,20 +3,73 @@
   "repo": "dotnet/runtime",
   "org": "dotnet",
   "language": "C#",
-  "stars": 18404,
+  "stars": 18417,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:22:01Z",
-  "window_start": "2026-06-01",
+  "scanned_at": "2026-11-10T11:44:27Z",
+  "window_start": "2026-01-06",
   "complete": false,
   "months": {
+    "2026-01": {
+      "total": 363,
+      "ai": 127,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 120,
+        "copilot_author": 98
+      }
+    },
+    "2026-02": {
+      "total": 508,
+      "ai": 195,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 175,
+        "copilot_author": 115,
+        "claude_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 724,
+      "ai": 319,
+      "automation": 21,
+      "merges": 5,
+      "by_rule": {
+        "copilot_trailer": 303,
+        "copilot_author": 147,
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 642,
+      "ai": 395,
+      "automation": 19,
+      "merges": 3,
+      "by_rule": {
+        "copilot_trailer": 367,
+        "copilot_author": 143
+      }
+    },
+    "2026-05": {
+      "total": 446,
+      "ai": 245,
+      "automation": 19,
+      "merges": 1,
+      "by_rule": {
+        "copilot_trailer": 244,
+        "copilot_author": 80
+      }
+    },
     "2026-06": {
-      "total": 556,
-      "ai": 316,
+      "total": 585,
+      "ai": 338,
       "automation": 23,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 314,
-        "copilot_author": 87,
+        "copilot_trailer": 335,
+        "copilot_author": 95,
         "claude_trailer": 1
       }
     },
@@ -65,15 +118,16 @@
       }
     },
     "2026-11": {
-      "total": 74,
-      "ai": 49,
+      "total": 206,
+      "ai": 135,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 47,
-        "copilot_author": 5,
-        "claude_trailer": 1,
-        "cursor": 1
+        "copilot_trailer": 126,
+        "copilot_author": 12,
+        "cursor": 7,
+        "claude_trailer": 4,
+        "claude_generated": 1
       }
     }
   }

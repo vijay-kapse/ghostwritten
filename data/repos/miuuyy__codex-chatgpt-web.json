@@ -3,9 +3,9 @@
   "repo": "miuuyy/codex-chatgpt-web",
   "org": "miuuyy",
   "language": "TypeScript",
-  "stars": 15387,
+  "stars": 15622,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:27:31Z",
+  "scanned_at": "2026-11-10T11:46:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -31,10 +31,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 64,
+      "total": 66,
       "ai": 0,
       "automation": 0,
       "merges": 14,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

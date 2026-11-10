@@ -3,9 +3,9 @@
   "repo": "onnx/onnx",
   "org": "onnx",
   "language": "Python",
-  "stars": 21634,
+  "stars": 21667,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:38:09Z",
+  "scanned_at": "2026-11-10T11:31:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -225,13 +225,13 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 3,
+      "total": 20,
+      "ai": 8,
       "automation": 15,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2,
-        "copilot_trailer": 2
+        "copilot_trailer": 7,
+        "claude_trailer": 2
       }
     }
   }

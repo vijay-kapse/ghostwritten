@@ -3,9 +3,9 @@
   "repo": "huggingface/speech-to-speech",
   "org": "huggingface",
   "language": "Python",
-  "stars": 13615,
+  "stars": 13664,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:16:24Z",
+  "scanned_at": "2026-11-10T12:03:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -100,10 +100,10 @@
       }
     },
     "2026-11": {
-      "total": 9,
+      "total": 37,
       "ai": 0,
       "automation": 0,
-      "merges": 20,
+      "merges": 27,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "google/ax",
   "org": "google",
   "language": "Go",
-  "stars": 14434,
+  "stars": 14574,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:46:21Z",
+  "scanned_at": "2026-11-10T11:54:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -90,7 +90,7 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 8,
       "ai": 0,
       "automation": 0,
       "merges": 0,

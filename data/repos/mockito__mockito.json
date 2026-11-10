@@ -3,9 +3,9 @@
   "repo": "mockito/mockito",
   "org": "mockito",
   "language": "Java",
-  "stars": 15452,
+  "stars": 15448,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:27:18Z",
+  "scanned_at": "2026-11-10T11:46:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,6 +162,15 @@
       "automation": 4,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 5,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

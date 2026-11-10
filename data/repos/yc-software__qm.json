@@ -3,9 +3,9 @@
   "repo": "yc-software/qm",
   "org": "yc-software",
   "language": "TypeScript",
-  "stars": 15597,
+  "stars": 15660,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:26:04Z",
+  "scanned_at": "2026-11-10T11:46:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -46,10 +46,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 163,
+      "total": 626,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 126,
       "by_rule": {}
     }
   }

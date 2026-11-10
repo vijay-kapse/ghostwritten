@@ -3,9 +3,9 @@
   "repo": "dyad-sh/dyad",
   "org": "dyad-sh",
   "language": "TypeScript",
-  "stars": 22148,
+  "stars": 22238,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:33:47Z",
+  "scanned_at": "2026-11-10T11:28:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,13 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 2,
-      "automation": 0,
+      "total": 21,
+      "ai": 8,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 8,
+        "claude_generated": 1
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "PHPOffice/PhpSpreadsheet",
   "org": "PHPOffice",
   "language": "PHP",
-  "stars": 14004,
+  "stars": 14002,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:06:15Z",
+  "scanned_at": "2026-11-10T11:58:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,10 +170,10 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 14,
       "ai": 0,
       "automation": 1,
-      "merges": 14,
+      "merges": 20,
       "by_rule": {}
     }
   }

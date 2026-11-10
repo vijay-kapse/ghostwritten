@@ -3,9 +3,9 @@
   "repo": "cube-js/cube",
   "org": "cube-js",
   "language": "Rust",
-  "stars": 21140,
+  "stars": 21199,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:42:11Z",
+  "scanned_at": "2026-11-10T11:33:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,13 +191,13 @@
       }
     },
     "2026-11": {
-      "total": 18,
-      "ai": 16,
+      "total": 93,
+      "ai": 72,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14,
-        "claude_generated": 8
+        "claude_trailer": 63,
+        "claude_generated": 36
       }
     }
   }

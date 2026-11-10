@@ -3,9 +3,9 @@
   "repo": "hajimehoshi/ebiten",
   "org": "hajimehoshi",
   "language": "Go",
-  "stars": 13601,
+  "stars": 13615,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:16:56Z",
+  "scanned_at": "2026-11-10T12:03:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 51,
-      "ai": 30,
+      "total": 77,
+      "ai": 47,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 15,
+        "claude_trailer": 32,
         "codex_trailer": 15
       }
     }

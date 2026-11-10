@@ -3,9 +3,9 @@
   "repo": "optuna/optuna",
   "org": "optuna",
   "language": "Python",
-  "stars": 15001,
+  "stars": 15022,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:36:29Z",
+  "scanned_at": "2026-11-10T11:50:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,7 +163,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 48,
+      "total": 54,
       "ai": 2,
       "automation": 6,
       "merges": 40,
@@ -172,11 +172,13 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 0,
+      "total": 5,
+      "ai": 1,
       "automation": 1,
-      "merges": 3,
-      "by_rule": {}
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

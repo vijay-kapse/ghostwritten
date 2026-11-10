@@ -3,9 +3,9 @@
   "repo": "jianchang512/pyvideotrans",
   "org": "jianchang512",
   "language": "Python",
-  "stars": 19611,
+  "stars": 19686,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:09:26Z",
+  "scanned_at": "2026-11-10T11:39:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,11 +171,14 @@
       }
     },
     "2026-11": {
-      "total": 16,
-      "ai": 0,
+      "total": 45,
+      "ai": 2,
       "automation": 0,
-      "merges": 16,
-      "by_rule": {}
+      "merges": 40,
+      "by_rule": {
+        "claude_trailer": 1,
+        "cursor": 1
+      }
     }
   }
 }

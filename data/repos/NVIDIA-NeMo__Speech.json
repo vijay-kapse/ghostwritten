@@ -3,9 +3,9 @@
   "repo": "NVIDIA-NeMo/Speech",
   "org": "NVIDIA-NeMo",
   "language": "Python",
-  "stars": 18674,
+  "stars": 18720,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:18:03Z",
+  "scanned_at": "2026-11-10T11:43:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -211,11 +211,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 17,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 5
+      }
     }
   }
 }

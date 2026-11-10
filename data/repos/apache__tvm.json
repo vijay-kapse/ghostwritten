@@ -3,9 +3,9 @@
   "repo": "apache/tvm",
   "org": "apache",
   "language": "Python",
-  "stars": 13885,
+  "stars": 13893,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:11:07Z",
+  "scanned_at": "2026-11-10T12:00:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,7 +198,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 3,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "darkreader/darkreader",
   "org": "darkreader",
   "language": "TypeScript",
-  "stars": 22545,
+  "stars": 22577,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:28:37Z",
+  "scanned_at": "2026-11-10T11:25:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 46,
       "ai": 0,
       "automation": 0,
       "merges": 0,

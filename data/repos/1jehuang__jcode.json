@@ -3,17 +3,24 @@
   "repo": "1jehuang/jcode",
   "org": "1jehuang",
   "language": "Rust",
-  "stars": 21392,
+  "stars": 21634,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:40:24Z",
-  "window_start": "2026-08-09",
+  "scanned_at": "2026-11-10T11:32:22Z",
+  "window_start": "2026-07-12",
   "complete": false,
   "months": {
+    "2026-07": {
+      "total": 1772,
+      "ai": 0,
+      "automation": 0,
+      "merges": 135,
+      "by_rule": {}
+    },
     "2026-08": {
-      "total": 688,
+      "total": 1448,
       "ai": 0,
       "automation": 38,
-      "merges": 32,
+      "merges": 65,
       "by_rule": {}
     },
     "2026-09": {
@@ -35,10 +42,10 @@
       }
     },
     "2026-11": {
-      "total": 185,
+      "total": 417,
       "ai": 0,
-      "automation": 5,
-      "merges": 2,
+      "automation": 20,
+      "merges": 4,
       "by_rule": {}
     }
   }

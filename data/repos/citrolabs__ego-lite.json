@@ -3,9 +3,9 @@
   "repo": "citrolabs/ego-lite",
   "org": "citrolabs",
   "language": "JavaScript",
-  "stars": 21152,
+  "stars": 22258,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:41:38Z",
+  "scanned_at": "2026-11-10T11:33:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -56,13 +56,20 @@
       }
     },
     "2026-10": {
-      "total": 13,
-      "ai": 10,
+      "total": 72,
+      "ai": 68,
       "automation": 0,
-      "merges": 8,
+      "merges": 42,
       "by_rule": {
-        "claude_trailer": 10
+        "claude_trailer": 68
       }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
     }
   }
 }

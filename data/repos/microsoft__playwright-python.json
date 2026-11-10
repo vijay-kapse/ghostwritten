@@ -3,9 +3,9 @@
   "repo": "microsoft/playwright-python",
   "org": "microsoft",
   "language": "Python",
-  "stars": 15084,
+  "stars": 15092,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:34:39Z",
+  "scanned_at": "2026-11-10T11:50:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,9 +173,9 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 7,
       "ai": 0,
-      "automation": 2,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "go-chi/chi",
   "org": "go-chi",
   "language": "Go",
-  "stars": 23038,
+  "stars": 23065,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:23:44Z",
+  "scanned_at": "2026-11-10T11:22:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -115,6 +115,13 @@
       "by_rule": {
         "claude_trailer": 5
       }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

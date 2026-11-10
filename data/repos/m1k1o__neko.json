@@ -3,9 +3,9 @@
   "repo": "m1k1o/neko",
   "org": "m1k1o",
   "language": "Go",
-  "stars": 22582,
+  "stars": 22623,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:28:15Z",
+  "scanned_at": "2026-11-10T11:25:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,6 +152,13 @@
       "by_rule": {
         "claude_trailer": 4
       }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

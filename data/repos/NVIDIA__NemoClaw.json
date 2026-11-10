@@ -3,20 +3,65 @@
   "repo": "NVIDIA/NemoClaw",
   "org": "NVIDIA",
   "language": "TypeScript",
-  "stars": 22909,
+  "stars": 22994,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:24:53Z",
-  "window_start": "2026-07-13",
+  "scanned_at": "2026-11-10T11:23:47Z",
+  "window_start": "2026-03-18",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 592,
-      "ai": 47,
-      "automation": 3,
+    "2026-03": {
+      "total": 237,
+      "ai": 39,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 39,
-        "claude_generated": 25
+        "claude_generated": 1
+      }
+    },
+    "2026-04": {
+      "total": 637,
+      "ai": 194,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 182,
+        "claude_generated": 110,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 785,
+      "ai": 80,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 50,
+        "claude_generated": 29,
+        "copilot_trailer": 17,
+        "cursor": 10
+      }
+    },
+    "2026-06": {
+      "total": 788,
+      "ai": 75,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 62,
+        "claude_generated": 17,
+        "copilot_trailer": 10
+      }
+    },
+    "2026-07": {
+      "total": 1024,
+      "ai": 106,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 97,
+        "claude_generated": 36,
+        "copilot_trailer": 1
       }
     },
     "2026-08": {
@@ -52,9 +97,9 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 51,
       "ai": 1,
-      "automation": 0,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_generated": 1,

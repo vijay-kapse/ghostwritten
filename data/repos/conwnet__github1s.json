@@ -3,9 +3,9 @@
   "repo": "conwnet/github1s",
   "org": "conwnet",
   "language": "TypeScript",
-  "stars": 23311,
+  "stars": 23312,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:20:36Z",
+  "scanned_at": "2026-11-10T11:20:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,9 +117,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 3,
       "ai": 0,
-      "automation": 10,
+      "automation": 13,
       "merges": 0,
       "by_rule": {}
     }

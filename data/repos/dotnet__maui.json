@@ -3,20 +3,145 @@
   "repo": "dotnet/maui",
   "org": "dotnet",
   "language": "C#",
-  "stars": 23331,
+  "stars": 23320,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:20:10Z",
-  "window_start": "2026-02-13",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:20:23Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-02": {
-      "total": 81,
-      "ai": 42,
-      "automation": 5,
+    "2025-01": {
+      "total": 166,
+      "ai": 1,
+      "automation": 12,
+      "merges": 3,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-02": {
+      "total": 187,
+      "ai": 3,
+      "automation": 36,
       "merges": 10,
       "by_rule": {
-        "copilot_trailer": 40,
+        "copilot_trailer": 3
+      }
+    },
+    "2025-03": {
+      "total": 159,
+      "ai": 6,
+      "automation": 17,
+      "merges": 24,
+      "by_rule": {
+        "copilot_trailer": 6
+      }
+    },
+    "2025-04": {
+      "total": 104,
+      "ai": 4,
+      "automation": 22,
+      "merges": 15,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
+    },
+    "2025-05": {
+      "total": 154,
+      "ai": 6,
+      "automation": 26,
+      "merges": 23,
+      "by_rule": {
+        "copilot_trailer": 6
+      }
+    },
+    "2025-06": {
+      "total": 195,
+      "ai": 22,
+      "automation": 28,
+      "merges": 13,
+      "by_rule": {
+        "copilot_trailer": 21,
+        "copilot_author": 11
+      }
+    },
+    "2025-07": {
+      "total": 143,
+      "ai": 18,
+      "automation": 18,
+      "merges": 23,
+      "by_rule": {
+        "copilot_trailer": 18,
+        "copilot_author": 8
+      }
+    },
+    "2025-08": {
+      "total": 204,
+      "ai": 36,
+      "automation": 14,
+      "merges": 31,
+      "by_rule": {
+        "copilot_author": 28,
+        "copilot_trailer": 17
+      }
+    },
+    "2025-09": {
+      "total": 231,
+      "ai": 28,
+      "automation": 29,
+      "merges": 25,
+      "by_rule": {
+        "copilot_trailer": 25,
+        "copilot_author": 6
+      }
+    },
+    "2025-10": {
+      "total": 85,
+      "ai": 9,
+      "automation": 55,
+      "merges": 10,
+      "by_rule": {
+        "copilot_trailer": 9,
         "copilot_author": 5
+      }
+    },
+    "2025-11": {
+      "total": 190,
+      "ai": 43,
+      "automation": 4,
+      "merges": 29,
+      "by_rule": {
+        "copilot_author": 34,
+        "copilot_trailer": 31
+      }
+    },
+    "2025-12": {
+      "total": 124,
+      "ai": 22,
+      "automation": 1,
+      "merges": 11,
+      "by_rule": {
+        "copilot_trailer": 20,
+        "copilot_author": 13
+      }
+    },
+    "2026-01": {
+      "total": 197,
+      "ai": 32,
+      "automation": 11,
+      "merges": 28,
+      "by_rule": {
+        "copilot_trailer": 31,
+        "copilot_author": 21
+      }
+    },
+    "2026-02": {
+      "total": 272,
+      "ai": 52,
+      "automation": 16,
+      "merges": 21,
+      "by_rule": {
+        "copilot_trailer": 50,
+        "copilot_author": 8
       }
     },
     "2026-03": {
@@ -105,11 +230,13 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 0,
-      "automation": 14,
+      "total": 44,
+      "ai": 16,
+      "automation": 22,
       "merges": 1,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 16
+      }
     }
   }
 }

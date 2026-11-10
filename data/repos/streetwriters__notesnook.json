@@ -3,9 +3,9 @@
   "repo": "streetwriters/notesnook",
   "org": "streetwriters",
   "language": "TypeScript",
-  "stars": 14870,
+  "stars": 14903,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:38:09Z",
+  "scanned_at": "2026-11-10T11:51:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,10 +171,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 7,
+      "total": 11,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

@@ -3,19 +3,72 @@
   "repo": "steipete/CodexBar",
   "org": "steipete",
   "language": "Swift",
-  "stars": 22932,
+  "stars": 23075,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:24:23Z",
-  "window_start": "2026-07-28",
+  "scanned_at": "2026-11-10T11:23:14Z",
+  "window_start": "2026-02-17",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 87,
-      "ai": 4,
+    "2026-02": {
+      "total": 70,
+      "ai": 3,
       "automation": 0,
-      "merges": 65,
+      "merges": 7,
       "by_rule": {
-        "cursor": 4
+        "claude_trailer": 2,
+        "amp_factory": 1
+      }
+    },
+    "2026-03": {
+      "total": 107,
+      "ai": 8,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-04": {
+      "total": 177,
+      "ai": 6,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-05": {
+      "total": 510,
+      "ai": 15,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_trailer": 11,
+        "copilot_trailer": 2,
+        "cursor": 2,
+        "amp_factory": 1
+      }
+    },
+    "2026-06": {
+      "total": 540,
+      "ai": 24,
+      "automation": 0,
+      "merges": 32,
+      "by_rule": {
+        "claude_trailer": 17,
+        "cursor": 7
+      }
+    },
+    "2026-07": {
+      "total": 1092,
+      "ai": 88,
+      "automation": 0,
+      "merges": 404,
+      "by_rule": {
+        "claude_trailer": 52,
+        "cursor": 34,
+        "amp_factory": 1,
+        "devin": 1
       }
     },
     "2026-08": {
@@ -51,6 +104,13 @@
         "claude_trailer": 31,
         "devin": 7
       }
+    },
+    "2026-11": {
+      "total": 107,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

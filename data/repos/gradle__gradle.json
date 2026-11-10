@@ -3,19 +3,48 @@
   "repo": "gradle/gradle",
   "org": "gradle",
   "language": "Groovy",
-  "stars": 18905,
+  "stars": 18923,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:14:51Z",
-  "window_start": "2026-06-11",
+  "scanned_at": "2026-11-10T11:42:10Z",
+  "window_start": "2026-03-05",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 396,
-      "ai": 1,
-      "automation": 7,
-      "merges": 172,
+    "2026-03": {
+      "total": 716,
+      "ai": 35,
+      "automation": 9,
+      "merges": 320,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 35
+      }
+    },
+    "2026-04": {
+      "total": 496,
+      "ai": 7,
+      "automation": 9,
+      "merges": 246,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-05": {
+      "total": 413,
+      "ai": 70,
+      "automation": 12,
+      "merges": 198,
+      "by_rule": {
+        "claude_trailer": 70,
+        "claude_generated": 2
+      }
+    },
+    "2026-06": {
+      "total": 664,
+      "ai": 10,
+      "automation": 15,
+      "merges": 277,
+      "by_rule": {
+        "claude_trailer": 8,
+        "copilot_author": 2
       }
     },
     "2026-07": {
@@ -40,17 +69,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 424,
+      "total": 440,
       "ai": 0,
       "automation": 15,
-      "merges": 210,
+      "merges": 212,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 38,
+      "total": 100,
       "ai": 0,
       "automation": 2,
-      "merges": 26,
+      "merges": 63,
       "by_rule": {}
     }
   }

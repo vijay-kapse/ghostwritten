@@ -3,9 +3,9 @@
   "repo": "vueuse/vueuse",
   "org": "vueuse",
   "language": "TypeScript",
-  "stars": 22399,
+  "stars": 22395,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:29:50Z",
+  "scanned_at": "2026-11-10T11:26:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,6 +176,16 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 6,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "SBoudrias/Inquirer.js",
   "org": "SBoudrias",
   "language": "TypeScript",
-  "stars": 21638,
+  "stars": 21639,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:37:59Z",
+  "scanned_at": "2026-11-10T11:31:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,9 +164,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 3,
+      "total": 7,
       "ai": 0,
-      "automation": 0,
+      "automation": 5,
       "merges": 0,
       "by_rule": {}
     }

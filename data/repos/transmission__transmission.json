@@ -3,9 +3,9 @@
   "repo": "transmission/transmission",
   "org": "transmission",
   "language": "C++",
-  "stars": 15372,
+  "stars": 15399,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:28:10Z",
+  "scanned_at": "2026-11-10T11:46:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -149,7 +149,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 4,
       "ai": 0,
       "automation": 0,
       "merges": 0,

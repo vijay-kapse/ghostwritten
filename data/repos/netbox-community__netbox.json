@@ -3,9 +3,9 @@
   "repo": "netbox-community/netbox",
   "org": "netbox-community",
   "language": "Python",
-  "stars": 21830,
+  "stars": 21861,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:37:06Z",
+  "scanned_at": "2026-11-10T11:30:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,7 +171,7 @@
       }
     },
     "2026-10": {
-      "total": 102,
+      "total": 109,
       "ai": 5,
       "automation": 21,
       "merges": 14,
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 19,
       "ai": 0,
-      "automation": 2,
-      "merges": 0,
+      "automation": 10,
+      "merges": 5,
       "by_rule": {}
     }
   }

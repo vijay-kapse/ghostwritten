@@ -3,9 +3,9 @@
   "repo": "dotnet/AspNetCore.Docs",
   "org": "dotnet",
   "language": "C#",
-  "stars": 13152,
+  "stars": 13158,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:25:21Z",
+  "scanned_at": "2026-11-10T12:08:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,11 +217,14 @@
       }
     },
     "2026-11": {
-      "total": 11,
-      "ai": 0,
-      "automation": 3,
+      "total": 24,
+      "ai": 3,
+      "automation": 5,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 2,
+        "copilot_author": 1
+      }
     }
   }
 }

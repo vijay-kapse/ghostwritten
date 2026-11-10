@@ -3,9 +3,9 @@
   "repo": "rrweb-io/rrweb",
   "org": "rrweb-io",
   "language": "TypeScript",
-  "stars": 20334,
+  "stars": 20360,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:03:37Z",
+  "scanned_at": "2026-11-10T11:37:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -135,6 +135,15 @@
       "automation": 2,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 1,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

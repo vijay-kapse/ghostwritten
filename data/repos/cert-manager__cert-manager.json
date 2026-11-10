@@ -3,9 +3,9 @@
   "repo": "cert-manager/cert-manager",
   "org": "cert-manager",
   "language": "Go",
-  "stars": 14146,
+  "stars": 14151,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:04:12Z",
+  "scanned_at": "2026-11-10T11:57:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,12 +185,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 1,
-      "automation": 6,
-      "merges": 13,
+      "total": 6,
+      "ai": 3,
+      "automation": 15,
+      "merges": 24,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "microg/GmsCore",
   "org": "microg",
   "language": "Java",
-  "stars": 15155,
+  "stars": 15247,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:33:48Z",
+  "scanned_at": "2026-11-10T11:49:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -131,7 +131,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 32,
+      "total": 33,
       "ai": 0,
       "automation": 0,
       "merges": 0,

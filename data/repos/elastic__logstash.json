@@ -3,9 +3,9 @@
   "repo": "elastic/logstash",
   "org": "elastic",
   "language": "Java",
-  "stars": 14972,
+  "stars": 14975,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:37:13Z",
+  "scanned_at": "2026-11-10T11:51:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,11 +185,14 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 0,
-      "automation": 1,
+      "total": 9,
+      "ai": 3,
+      "automation": 2,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "getpelican/pelican",
   "org": "getpelican",
   "language": "Python",
-  "stars": 13363,
+  "stars": 13369,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:19:55Z",
+  "scanned_at": "2026-11-10T12:05:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -99,6 +99,15 @@
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 11,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

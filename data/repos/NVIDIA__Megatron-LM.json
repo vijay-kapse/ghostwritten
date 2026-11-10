@@ -3,17 +3,73 @@
   "repo": "NVIDIA/Megatron-LM",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 18310,
+  "stars": 18355,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:25:08Z",
-  "window_start": "2025-09-05",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:45:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-09": {
-      "total": 96,
+    "2025-01": {
+      "total": 68,
       "ai": 0,
       "automation": 0,
-      "merges": 27,
+      "merges": 68,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 100,
+      "ai": 0,
+      "automation": 0,
+      "merges": 100,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 120,
+      "ai": 0,
+      "automation": 0,
+      "merges": 119,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 171,
+      "ai": 0,
+      "automation": 0,
+      "merges": 157,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 81,
+      "ai": 0,
+      "automation": 0,
+      "merges": 74,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 89,
+      "ai": 0,
+      "automation": 0,
+      "merges": 81,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 117,
+      "ai": 0,
+      "automation": 0,
+      "merges": 96,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 94,
+      "ai": 0,
+      "automation": 0,
+      "merges": 73,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 127,
+      "ai": 0,
+      "automation": 0,
+      "merges": 45,
       "by_rule": {}
     },
     "2025-10": {
@@ -133,12 +189,13 @@
       }
     },
     "2026-11": {
-      "total": 21,
-      "ai": 2,
-      "automation": 1,
-      "merges": 0,
+      "total": 101,
+      "ai": 23,
+      "automation": 3,
+      "merges": 1,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 23,
+        "codex_trailer": 1
       }
     }
   }

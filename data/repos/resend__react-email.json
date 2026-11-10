@@ -3,9 +3,9 @@
   "repo": "resend/react-email",
   "org": "resend",
   "language": "TypeScript",
-  "stars": 19901,
+  "stars": 19923,
   "default_branch": "canary",
-  "scanned_at": "2026-11-04T11:06:45Z",
+  "scanned_at": "2026-11-10T11:38:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,6 +183,16 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 10
+      }
+    },
+    "2026-11": {
+      "total": 22,
+      "ai": 3,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2,
+        "cursor": 1
       }
     }
   }

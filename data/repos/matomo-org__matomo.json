@@ -3,9 +3,9 @@
   "repo": "matomo-org/matomo",
   "org": "matomo-org",
   "language": "PHP",
-  "stars": 21994,
+  "stars": 22015,
   "default_branch": "6.x-dev",
-  "scanned_at": "2026-11-03T11:35:43Z",
+  "scanned_at": "2026-11-10T11:29:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,9 +178,9 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 40,
       "ai": 0,
-      "automation": 1,
+      "automation": 5,
       "merges": 0,
       "by_rule": {}
     }

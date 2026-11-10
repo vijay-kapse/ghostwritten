@@ -3,9 +3,9 @@
   "repo": "stefan-jansen/machine-learning-for-trading",
   "org": "stefan-jansen",
   "language": "Jupyter Notebook",
-  "stars": 21667,
+  "stars": 21764,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:37:53Z",
+  "scanned_at": "2026-11-10T11:31:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -51,6 +51,13 @@
         "claude_trailer": 11,
         "cursor": 1
       }
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

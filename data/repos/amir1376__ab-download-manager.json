@@ -3,9 +3,9 @@
   "repo": "amir1376/ab-download-manager",
   "org": "amir1376",
   "language": "Kotlin",
-  "stars": 18898,
+  "stars": 19121,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:14:53Z",
+  "scanned_at": "2026-11-10T11:42:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -150,7 +150,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 9,
+      "total": 10,
       "ai": 0,
       "automation": 0,
       "merges": 0,

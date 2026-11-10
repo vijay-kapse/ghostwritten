@@ -2,20 +2,30 @@
   "schema": 1,
   "repo": "OrchestratorInc/agent-orchestrator",
   "org": "OrchestratorInc",
-  "language": "Go",
-  "stars": 13995,
+  "language": "TypeScript",
+  "stars": 14324,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:06:55Z",
-  "window_start": "2026-03-30",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:58:34Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 59,
-      "ai": 30,
+    "2026-02": {
+      "total": 126,
+      "ai": 124,
       "automation": 0,
-      "merges": 12,
+      "merges": 5,
       "by_rule": {
-        "claude_trailer": 30
+        "claude_trailer": 124
+      }
+    },
+    "2026-03": {
+      "total": 398,
+      "ai": 201,
+      "automation": 3,
+      "merges": 59,
+      "by_rule": {
+        "claude_trailer": 200,
+        "copilot_author": 1
       }
     },
     "2026-04": {
@@ -96,12 +106,12 @@
       }
     },
     "2026-11": {
-      "total": 109,
-      "ai": 61,
+      "total": 275,
+      "ai": 173,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 61
+        "claude_trailer": 173
       }
     }
   }

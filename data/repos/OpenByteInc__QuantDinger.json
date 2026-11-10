@@ -3,9 +3,9 @@
   "repo": "OpenByteInc/QuantDinger",
   "org": "OpenByteInc",
   "language": "Python",
-  "stars": 13388,
+  "stars": 13648,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:19:39Z",
+  "scanned_at": "2026-11-10T12:05:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,7 +95,7 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 11,
       "ai": 0,
       "automation": 0,
       "merges": 0,

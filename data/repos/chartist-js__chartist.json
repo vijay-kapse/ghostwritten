@@ -3,9 +3,9 @@
   "repo": "chartist-js/chartist",
   "org": "chartist-js",
   "language": "TypeScript",
-  "stars": 13453,
+  "stars": 13460,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:18:39Z",
+  "scanned_at": "2026-11-10T12:04:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -42,6 +42,13 @@
       "ai": 0,
       "automation": 6,
       "merges": 23,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

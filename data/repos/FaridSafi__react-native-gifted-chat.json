@@ -3,9 +3,9 @@
   "repo": "FaridSafi/react-native-gifted-chat",
   "org": "FaridSafi",
   "language": "TypeScript",
-  "stars": 14446,
+  "stars": 14449,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:46:15Z",
+  "scanned_at": "2026-11-10T11:54:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -123,6 +123,13 @@
       "ai": 0,
       "automation": 8,
       "merges": 2,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 0,
+      "automation": 3,
+      "merges": 0,
       "by_rule": {}
     }
   }

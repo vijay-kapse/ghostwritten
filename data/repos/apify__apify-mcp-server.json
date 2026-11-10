@@ -3,9 +3,9 @@
   "repo": "apify/apify-mcp-server",
   "org": "apify",
   "language": "TypeScript",
-  "stars": 14241,
+  "stars": 15368,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:02:04Z",
+  "scanned_at": "2026-11-10T11:55:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -206,13 +206,13 @@
       }
     },
     "2026-11": {
-      "total": 33,
-      "ai": 14,
+      "total": 62,
+      "ai": 27,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14,
-        "claude_generated": 13,
+        "claude_trailer": 27,
+        "claude_generated": 25,
         "copilot_trailer": 1
       }
     }

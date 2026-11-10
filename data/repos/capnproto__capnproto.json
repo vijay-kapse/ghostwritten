@@ -3,9 +3,9 @@
   "repo": "capnproto/capnproto",
   "org": "capnproto",
   "language": "C++",
-  "stars": 13234,
+  "stars": 13243,
   "default_branch": "v2",
-  "scanned_at": "2026-11-05T11:23:39Z",
+  "scanned_at": "2026-11-10T12:07:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,12 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 2,
+      "total": 11,
+      "ai": 8,
       "automation": 0,
-      "merges": 3,
+      "merges": 6,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 8
       }
     }
   }

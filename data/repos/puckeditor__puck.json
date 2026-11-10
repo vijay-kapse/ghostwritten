@@ -3,9 +3,9 @@
   "repo": "puckeditor/puck",
   "org": "puckeditor",
   "language": "TypeScript",
-  "stars": 13588,
+  "stars": 13659,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:17:14Z",
+  "scanned_at": "2026-11-10T12:03:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,11 +159,13 @@
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 0,
-      "automation": 0,
+      "total": 12,
+      "ai": 11,
+      "automation": 2,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 11
+      }
     }
   }
 }

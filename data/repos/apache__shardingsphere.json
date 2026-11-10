@@ -3,17 +3,73 @@
   "repo": "apache/shardingsphere",
   "org": "apache",
   "language": "Java",
-  "stars": 20816,
+  "stars": 20822,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:45:16Z",
-  "window_start": "2025-09-23",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:35:00Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-09": {
-      "total": 72,
+    "2025-01": {
+      "total": 270,
       "ai": 0,
       "automation": 0,
       "merges": 1,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 247,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 253,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 132,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 222,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 255,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 244,
+      "ai": 0,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 272,
+      "ai": 0,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 281,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
       "by_rule": {}
     },
     "2025-10": {
@@ -120,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 46,
       "ai": 0,
       "automation": 0,
       "merges": 0,

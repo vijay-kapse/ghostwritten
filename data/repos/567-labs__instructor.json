@@ -3,9 +3,9 @@
   "repo": "567-labs/instructor",
   "org": "567-labs",
   "language": "Python",
-  "stars": 14088,
+  "stars": 14102,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:05:37Z",
+  "scanned_at": "2026-11-10T11:58:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,7 +197,7 @@
       }
     },
     "2026-09": {
-      "total": 31,
+      "total": 32,
       "ai": 1,
       "automation": 0,
       "merges": 7,
@@ -215,10 +215,10 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 125,
       "ai": 0,
-      "automation": 0,
-      "merges": 0,
+      "automation": 1,
+      "merges": 68,
       "by_rule": {}
     }
   }

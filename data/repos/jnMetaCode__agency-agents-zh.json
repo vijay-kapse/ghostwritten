@@ -3,9 +3,9 @@
   "repo": "jnMetaCode/agency-agents-zh",
   "org": "jnMetaCode",
   "language": "Shell",
-  "stars": 21768,
+  "stars": 21975,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:37:13Z",
+  "scanned_at": "2026-11-10T11:30:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -80,6 +80,13 @@
       "by_rule": {
         "claude_trailer": 35
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

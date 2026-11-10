@@ -3,9 +3,9 @@
   "repo": "tabler/tabler-icons",
   "org": "tabler",
   "language": "JavaScript",
-  "stars": 22520,
+  "stars": 22590,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:28:38Z",
+  "scanned_at": "2026-11-10T11:25:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -128,6 +128,13 @@
         "claude_trailer": 2,
         "copilot_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 18,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

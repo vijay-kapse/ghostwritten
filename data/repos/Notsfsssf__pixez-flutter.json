@@ -3,9 +3,9 @@
   "repo": "Notsfsssf/pixez-flutter",
   "org": "Notsfsssf",
   "language": "Dart",
-  "stars": 13247,
+  "stars": 13309,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:23:29Z",
+  "scanned_at": "2026-11-10T12:07:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,10 +163,10 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 36,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

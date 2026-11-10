@@ -3,9 +3,9 @@
   "repo": "bokeh/bokeh",
   "org": "bokeh",
   "language": "TypeScript",
-  "stars": 20469,
+  "stars": 20472,
   "default_branch": "branch-4.0",
-  "scanned_at": "2026-11-04T11:02:19Z",
+  "scanned_at": "2026-11-10T11:36:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,11 +181,13 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 0,
+      "total": 17,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 5
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "open-ani/animeko",
   "org": "open-ani",
   "language": "Kotlin",
-  "stars": 21406,
+  "stars": 21630,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:39:54Z",
+  "scanned_at": "2026-11-10T11:32:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 10,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
+        "claude_trailer": 9,
         "copilot_trailer": 1
       }
     }

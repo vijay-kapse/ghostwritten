@@ -3,17 +3,52 @@
   "repo": "oracle/graal",
   "org": "oracle",
   "language": "Java",
-  "stars": 21749,
+  "stars": 21747,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:37:30Z",
-  "window_start": "2026-05-13",
+  "scanned_at": "2026-11-10T11:30:56Z",
+  "window_start": "2025-12-05",
   "complete": false,
   "months": {
-    "2026-05": {
-      "total": 215,
+    "2025-12": {
+      "total": 218,
       "ai": 0,
       "automation": 0,
-      "merges": 106,
+      "merges": 76,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 396,
+      "ai": 0,
+      "automation": 0,
+      "merges": 116,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 414,
+      "ai": 0,
+      "automation": 5,
+      "merges": 142,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 356,
+      "ai": 0,
+      "automation": 1,
+      "merges": 149,
+      "by_rule": {}
+    },
+    "2026-04": {
+      "total": 425,
+      "ai": 0,
+      "automation": 0,
+      "merges": 164,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 375,
+      "ai": 0,
+      "automation": 1,
+      "merges": 183,
       "by_rule": {}
     },
     "2026-06": {
@@ -40,7 +75,7 @@
       }
     },
     "2026-09": {
-      "total": 398,
+      "total": 400,
       "ai": 1,
       "automation": 0,
       "merges": 177,
@@ -49,7 +84,7 @@
       }
     },
     "2026-10": {
-      "total": 342,
+      "total": 359,
       "ai": 1,
       "automation": 0,
       "merges": 173,
@@ -58,10 +93,10 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 197,
       "ai": 0,
       "automation": 0,
-      "merges": 12,
+      "merges": 86,
       "by_rule": {}
     }
   }

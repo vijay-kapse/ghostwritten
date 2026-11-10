@@ -3,9 +3,9 @@
   "repo": "gogf/gf",
   "org": "gogf",
   "language": "Go",
-  "stars": 13291,
+  "stars": 13301,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:21:20Z",
+  "scanned_at": "2026-11-10T12:05:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,13 +174,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 4,
-      "ai": 2,
+      "total": 11,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
-        "copilot_trailer": 1
+        "claude_trailer": 2,
+        "copilot_trailer": 2
       }
     }
   }

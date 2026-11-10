@@ -3,9 +3,9 @@
   "repo": "teambit/bit",
   "org": "teambit",
   "language": "TypeScript",
-  "stars": 18500,
+  "stars": 18507,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:19:50Z",
+  "scanned_at": "2026-11-10T11:43:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,7 +186,7 @@
       }
     },
     "2026-11": {
-      "total": 24,
+      "total": 42,
       "ai": 1,
       "automation": 0,
       "merges": 0,

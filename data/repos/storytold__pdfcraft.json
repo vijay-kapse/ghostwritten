@@ -3,34 +3,41 @@
   "repo": "storytold/pdfcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 19064,
+  "stars": 20098,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:12:57Z",
-  "window_start": "2026-10-13",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:40:59Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2026-09": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-10": {
-      "total": 2243,
-      "ai": 893,
+      "total": 3401,
+      "ai": 1689,
       "automation": 2,
-      "merges": 807,
+      "merges": 963,
       "by_rule": {
-        "claude_trailer": 861,
-        "codex_trailer": 32,
+        "claude_trailer": 1616,
+        "codex_trailer": 100,
+        "copilot_trailer": 6,
         "claude_generated": 4,
-        "copilot_trailer": 4,
-        "cursor": 1,
+        "cursor": 2,
         "devin": 1
       }
     },
     "2026-11": {
-      "total": 192,
-      "ai": 136,
+      "total": 1165,
+      "ai": 712,
       "automation": 0,
-      "merges": 41,
+      "merges": 669,
       "by_rule": {
-        "claude_trailer": 95,
-        "codex_trailer": 41
+        "claude_trailer": 670,
+        "codex_trailer": 42
       }
     }
   }

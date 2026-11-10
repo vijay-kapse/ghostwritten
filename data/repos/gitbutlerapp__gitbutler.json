@@ -3,19 +3,39 @@
   "repo": "gitbutlerapp/gitbutler",
   "org": "gitbutlerapp",
   "language": "Rust",
-  "stars": 21903,
+  "stars": 21949,
   "default_branch": "master",
-  "scanned_at": "2026-11-03T11:36:28Z",
-  "window_start": "2026-09-15",
+  "scanned_at": "2026-11-10T11:30:03Z",
+  "window_start": "2026-07-23",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 332,
-      "ai": 23,
-      "automation": 3,
-      "merges": 134,
+    "2026-07": {
+      "total": 392,
+      "ai": 16,
+      "automation": 11,
+      "merges": 164,
       "by_rule": {
-        "claude_trailer": 23
+        "codex_trailer": 13,
+        "copilot_author": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 729,
+      "ai": 2,
+      "automation": 18,
+      "merges": 405,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-09": {
+      "total": 789,
+      "ai": 101,
+      "automation": 3,
+      "merges": 358,
+      "by_rule": {
+        "claude_trailer": 101
       }
     },
     "2026-10": {
@@ -28,10 +48,10 @@
       }
     },
     "2026-11": {
-      "total": 124,
+      "total": 443,
       "ai": 13,
       "automation": 0,
-      "merges": 74,
+      "merges": 274,
       "by_rule": {
         "claude_trailer": 13
       }

@@ -3,31 +3,42 @@
   "repo": "storytold/lightcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 15243,
+  "stars": 15736,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:31:22Z",
-  "window_start": "2026-10-10",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:48:31Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-10": {
-      "total": 1878,
-      "ai": 857,
+    "2026-09": {
+      "total": 17,
+      "ai": 17,
       "automation": 0,
-      "merges": 1323,
+      "merges": 3,
       "by_rule": {
-        "claude_trailer": 797,
-        "codex_trailer": 45,
+        "claude_trailer": 17
+      }
+    },
+    "2026-10": {
+      "total": 3026,
+      "ai": 1843,
+      "automation": 0,
+      "merges": 1856,
+      "by_rule": {
+        "claude_trailer": 1747,
+        "codex_trailer": 87,
         "cursor": 10,
-        "copilot_trailer": 5
+        "copilot_trailer": 6
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 14,
+      "total": 151,
+      "ai": 85,
       "automation": 0,
-      "merges": 11,
+      "merges": 95,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 83,
+        "codex_trailer": 3,
+        "copilot_trailer": 1
       }
     }
   }

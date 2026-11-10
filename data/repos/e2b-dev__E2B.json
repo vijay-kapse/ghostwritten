@@ -3,9 +3,9 @@
   "repo": "e2b-dev/E2B",
   "org": "e2b-dev",
   "language": "Python",
-  "stars": 14652,
+  "stars": 14779,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:42:57Z",
+  "scanned_at": "2026-11-10T11:53:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,12 +209,12 @@
       }
     },
     "2026-11": {
-      "total": 11,
-      "ai": 10,
-      "automation": 3,
+      "total": 18,
+      "ai": 17,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
-        "devin": 10
+        "devin": 17
       }
     }
   }

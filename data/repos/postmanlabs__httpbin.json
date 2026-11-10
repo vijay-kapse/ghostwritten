@@ -3,10 +3,20 @@
   "repo": "postmanlabs/httpbin",
   "org": "postmanlabs",
   "language": "Python",
-  "stars": 13641,
+  "stars": 13637,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:15:44Z",
+  "scanned_at": "2026-11-10T12:02:59Z",
   "window_start": "2025-01-01",
   "complete": true,
-  "months": {}
+  "months": {
+    "2026-11": {
+      "total": 20,
+      "ai": 20,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 20
+      }
+    }
+  }
 }

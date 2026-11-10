@@ -3,9 +3,9 @@
   "repo": "logto-io/logto",
   "org": "logto-io",
   "language": "TypeScript",
-  "stars": 14830,
+  "stars": 14876,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:38:33Z",
+  "scanned_at": "2026-11-10T11:51:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,12 +209,13 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 3,
+      "total": 43,
+      "ai": 10,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 3
+        "amp_factory": 6,
+        "claude_trailer": 4
       }
     }
   }

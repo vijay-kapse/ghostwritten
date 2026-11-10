@@ -3,9 +3,9 @@
   "repo": "jackc/pgx",
   "org": "jackc",
   "language": "Go",
-  "stars": 14373,
+  "stars": 14390,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:46:55Z",
+  "scanned_at": "2026-11-10T11:54:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,6 +179,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "amir20/dozzle",
   "org": "amir20",
   "language": "Go",
-  "stars": 14778,
+  "stars": 14873,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:40:04Z",
+  "scanned_at": "2026-11-10T11:52:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,12 +182,12 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 12,
-      "automation": 4,
+      "total": 40,
+      "ai": 31,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12
+        "claude_trailer": 31
       }
     }
   }

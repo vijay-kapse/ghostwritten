@@ -3,40 +3,49 @@
   "repo": "peach-mitao/peach",
   "org": "peach-mitao",
   "language": "Python",
-  "stars": 14004,
+  "stars": 14722,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:06:28Z",
-  "window_start": "2026-09-22",
+  "scanned_at": "2026-11-10T11:58:27Z",
+  "window_start": "2026-08-29",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 412,
-      "ai": 409,
+    "2026-08": {
+      "total": 166,
+      "ai": 43,
       "automation": 0,
-      "merges": 311,
+      "merges": 113,
       "by_rule": {
-        "claude_trailer": 385,
-        "codex_trailer": 24
+        "claude_trailer": 43
+      }
+    },
+    "2026-09": {
+      "total": 1755,
+      "ai": 1420,
+      "automation": 6,
+      "merges": 1083,
+      "by_rule": {
+        "claude_trailer": 1319,
+        "codex_trailer": 104
       }
     },
     "2026-10": {
-      "total": 1425,
-      "ai": 1401,
+      "total": 1428,
+      "ai": 1404,
       "automation": 0,
       "merges": 640,
       "by_rule": {
-        "codex_trailer": 849,
+        "codex_trailer": 852,
         "claude_trailer": 558
       }
     },
     "2026-11": {
-      "total": 340,
-      "ai": 331,
+      "total": 711,
+      "ai": 640,
       "automation": 0,
-      "merges": 123,
+      "merges": 256,
       "by_rule": {
-        "claude_trailer": 328,
-        "codex_trailer": 3
+        "claude_trailer": 521,
+        "codex_trailer": 119
       }
     }
   }

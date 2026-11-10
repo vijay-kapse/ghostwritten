@@ -3,17 +3,24 @@
   "repo": "emcie-co/parlant",
   "org": "emcie-co",
   "language": "Python",
-  "stars": 18314,
+  "stars": 18327,
   "default_branch": "develop",
-  "scanned_at": "2026-11-04T11:23:57Z",
-  "window_start": "2025-02-18",
-  "complete": false,
+  "scanned_at": "2026-11-10T11:45:20Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-02": {
-      "total": 83,
+    "2025-01": {
+      "total": 211,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 11,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 314,
+      "ai": 0,
+      "automation": 0,
+      "merges": 16,
       "by_rule": {}
     },
     "2025-03": {
@@ -153,12 +160,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 28,
-      "ai": 18,
+      "total": 59,
+      "ai": 46,
       "automation": 0,
-      "merges": 29,
+      "merges": 43,
       "by_rule": {
-        "claude_trailer": 18
+        "claude_trailer": 30,
+        "codex_trailer": 16
       }
     }
   }

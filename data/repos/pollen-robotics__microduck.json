@@ -3,9 +3,9 @@
   "repo": "pollen-robotics/microduck",
   "org": "pollen-robotics",
   "language": "Rust",
-  "stars": 13282,
+  "stars": 13605,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:21:52Z",
+  "scanned_at": "2026-11-10T12:06:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -35,7 +35,7 @@
       }
     },
     "2026-10": {
-      "total": 206,
+      "total": 207,
       "ai": 113,
       "automation": 3,
       "merges": 107,
@@ -44,12 +44,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 9,
+      "total": 61,
+      "ai": 25,
       "automation": 0,
-      "merges": 12,
+      "merges": 35,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 25
       }
     }
   }

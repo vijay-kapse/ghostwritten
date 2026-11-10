@@ -3,9 +3,9 @@
   "repo": "danielmiessler/LifeOS",
   "org": "danielmiessler",
   "language": "TypeScript",
-  "stars": 19666,
+  "stars": 19773,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:08:17Z",
+  "scanned_at": "2026-11-10T11:38:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,6 +117,13 @@
     },
     "2026-10": {
       "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

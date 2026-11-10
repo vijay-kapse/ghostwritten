@@ -3,9 +3,9 @@
   "repo": "bitwarden/server",
   "org": "bitwarden",
   "language": "C#",
-  "stars": 20550,
+  "stars": 20607,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:01:04Z",
+  "scanned_at": "2026-11-10T11:36:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,11 +194,13 @@
       }
     },
     "2026-11": {
-      "total": 18,
-      "ai": 0,
-      "automation": 0,
+      "total": 47,
+      "ai": 2,
+      "automation": 5,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

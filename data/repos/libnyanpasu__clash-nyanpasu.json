@@ -3,16 +3,58 @@
   "repo": "libnyanpasu/clash-nyanpasu",
   "org": "libnyanpasu",
   "language": "Rust",
-  "stars": 13272,
+  "stars": 13293,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:22:38Z",
-  "window_start": "2025-07-18",
-  "complete": false,
+  "scanned_at": "2026-11-10T12:06:48Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-07": {
-      "total": 5,
+    "2025-01": {
+      "total": 34,
       "ai": 0,
-      "automation": 67,
+      "automation": 147,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 130,
+      "ai": 0,
+      "automation": 198,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 45,
+      "ai": 0,
+      "automation": 151,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 1,
+      "ai": 0,
+      "automation": 90,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 20,
+      "ai": 0,
+      "automation": 151,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 3,
+      "ai": 0,
+      "automation": 134,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 11,
+      "ai": 0,
+      "automation": 145,
       "merges": 0,
       "by_rule": {}
     },
@@ -129,12 +171,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 1,
-      "automation": 51,
+      "total": 46,
+      "ai": 4,
+      "automation": 98,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 4
       }
     }
   }

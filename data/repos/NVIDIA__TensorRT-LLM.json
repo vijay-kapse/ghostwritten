@@ -3,19 +3,75 @@
   "repo": "NVIDIA/TensorRT-LLM",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 14986,
+  "stars": 15044,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:36:55Z",
-  "window_start": "2026-07-07",
+  "scanned_at": "2026-11-10T11:50:58Z",
+  "window_start": "2026-01-29",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 618,
+    "2026-01": {
+      "total": 35,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 410,
       "ai": 15,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 15
+        "claude_trailer": 10,
+        "cursor": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 472,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "cursor": 1
+      }
+    },
+    "2026-04": {
+      "total": 530,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
+      }
+    },
+    "2026-05": {
+      "total": 641,
+      "ai": 14,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 566,
+      "ai": 7,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-07": {
+      "total": 764,
+      "ai": 16,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 16
       }
     },
     "2026-08": {
@@ -46,12 +102,12 @@
       }
     },
     "2026-11": {
-      "total": 121,
-      "ai": 4,
+      "total": 292,
+      "ai": 8,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 8
       }
     }
   }

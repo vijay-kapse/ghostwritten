@@ -3,9 +3,9 @@
   "repo": "rocketride-org/rocketride-server",
   "org": "rocketride-org",
   "language": "Python",
-  "stars": 19515,
+  "stars": 20052,
   "default_branch": "develop",
-  "scanned_at": "2026-11-04T11:09:38Z",
+  "scanned_at": "2026-11-10T11:39:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,12 +97,12 @@
       }
     },
     "2026-11": {
-      "total": 17,
-      "ai": 9,
+      "total": 66,
+      "ai": 25,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 8,
+        "claude_trailer": 24,
         "codex_trailer": 1
       }
     }

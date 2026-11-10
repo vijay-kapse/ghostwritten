@@ -3,29 +3,29 @@
   "repo": "elizaOS/eliza",
   "org": "elizaOS",
   "language": "TypeScript",
-  "stars": 19750,
+  "stars": 19793,
   "default_branch": "develop",
-  "scanned_at": "2026-11-04T11:08:07Z",
-  "window_start": "2026-10-15",
+  "scanned_at": "2026-11-10T11:38:52Z",
+  "window_start": "2026-10-11",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 2122,
-      "ai": 922,
-      "automation": 32,
-      "merges": 947,
+      "total": 3307,
+      "ai": 1509,
+      "automation": 43,
+      "merges": 1453,
       "by_rule": {
-        "claude_trailer": 920,
-        "cursor": 2
+        "claude_trailer": 1505,
+        "cursor": 4
       }
     },
     "2026-11": {
-      "total": 87,
-      "ai": 27,
+      "total": 999,
+      "ai": 337,
       "automation": 0,
-      "merges": 21,
+      "merges": 361,
       "by_rule": {
-        "claude_trailer": 27
+        "claude_trailer": 337
       }
     }
   }

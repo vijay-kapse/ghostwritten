@@ -3,9 +3,9 @@
   "repo": "eclipse-vertx/vert.x",
   "org": "eclipse-vertx",
   "language": "Java",
-  "stars": 14682,
+  "stars": 14681,
   "default_branch": "master",
-  "scanned_at": "2026-11-04T11:42:01Z",
+  "scanned_at": "2026-11-10T11:53:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,12 +168,13 @@
       }
     },
     "2026-11": {
-      "total": 11,
-      "ai": 2,
+      "total": 41,
+      "ai": 7,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {
-        "copilot_trailer": 2
+        "claude_trailer": 4,
+        "copilot_trailer": 3
       }
     }
   }

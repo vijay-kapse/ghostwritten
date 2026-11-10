@@ -3,9 +3,9 @@
   "repo": "Huanshere/VideoLingo",
   "org": "Huanshere",
   "language": "Python",
-  "stars": 19024,
+  "stars": 19126,
   "default_branch": "main",
-  "scanned_at": "2026-11-04T11:12:59Z",
+  "scanned_at": "2026-11-10T11:41:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -99,6 +99,13 @@
         "claude_trailer": 63,
         "cursor": 3
       }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

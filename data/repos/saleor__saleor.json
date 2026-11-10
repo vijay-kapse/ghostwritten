@@ -3,9 +3,9 @@
   "repo": "saleor/saleor",
   "org": "saleor",
   "language": "Python",
-  "stars": 23495,
+  "stars": 23515,
   "default_branch": "main",
-  "scanned_at": "2026-11-03T11:17:45Z",
+  "scanned_at": "2026-11-10T11:18:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
-      "automation": 0,
+      "total": 5,
+      "ai": 2,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     }
   }

@@ -3,14 +3,14 @@
   "repo": "commaai/openpilot",
   "org": "commaai",
   "language": "Python",
-  "stars": 64041,
+  "stars": 64094,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:20:35Z",
-  "window_start": "2025-01-25",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:50:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 27,
+      "total": 129,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -186,7 +186,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 36,
+      "total": 54,
       "ai": 0,
       "automation": 0,
       "merges": 0,

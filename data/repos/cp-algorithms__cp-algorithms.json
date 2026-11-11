@@ -3,9 +3,9 @@
   "repo": "cp-algorithms/cp-algorithms",
   "org": "cp-algorithms",
   "language": "C++",
-  "stars": 11487,
+  "stars": 11506,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:22Z",
+  "scanned_at": "2026-11-11T11:38:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,6 +172,15 @@
       "merges": 8,
       "by_rule": {
         "codex_trailer": 7
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
       }
     }
   }

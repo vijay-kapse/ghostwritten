@@ -3,9 +3,9 @@
   "repo": "redcanaryco/atomic-red-team",
   "org": "redcanaryco",
   "language": "C",
-  "stars": 12750,
+  "stars": 12803,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:35:17Z",
+  "scanned_at": "2026-11-11T11:09:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 22,
       "ai": 0,
       "automation": 2,
       "merges": 0,

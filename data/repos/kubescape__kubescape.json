@@ -3,9 +3,9 @@
   "repo": "kubescape/kubescape",
   "org": "kubescape",
   "language": "Go",
-  "stars": 11837,
+  "stars": 11853,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:19:15Z",
+  "scanned_at": "2026-11-11T11:35:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,13 +189,13 @@
       }
     },
     "2026-11": {
-      "total": 82,
-      "ai": 2,
-      "automation": 13,
+      "total": 162,
+      "ai": 22,
+      "automation": 22,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
-        "copilot_trailer": 1
+        "claude_trailer": 17,
+        "copilot_trailer": 5
       }
     }
   }

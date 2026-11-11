@@ -3,18 +3,64 @@
   "repo": "vercel/next.js",
   "org": "vercel",
   "language": "JavaScript",
-  "stars": 143460,
+  "stars": 143432,
   "default_branch": "canary",
-  "scanned_at": "2026-11-06T11:41:03Z",
-  "window_start": "2025-08-28",
+  "scanned_at": "2026-11-11T11:49:21Z",
+  "window_start": "2025-02-27",
   "complete": false,
   "months": {
-    "2025-08": {
-      "total": 60,
+    "2025-02": {
+      "total": 52,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2025-03": {
+      "total": 349,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 529,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 494,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 545,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "devin": 2
+      }
+    },
+    "2025-07": {
+      "total": 536,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 455,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "devin": 1
+      }
     },
     "2025-09": {
       "total": 480,
@@ -158,13 +204,13 @@
       }
     },
     "2026-11": {
-      "total": 105,
-      "ai": 14,
-      "automation": 7,
+      "total": 174,
+      "ai": 17,
+      "automation": 12,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12,
-        "claude_generated": 2
+        "claude_trailer": 14,
+        "claude_generated": 5
       }
     }
   }

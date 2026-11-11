@@ -3,19 +3,37 @@
   "repo": "tensorflow/tensorflow",
   "org": "tensorflow",
   "language": "C++",
-  "stars": 201256,
+  "stars": 201408,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:38:15Z",
-  "window_start": "2026-07-23",
+  "scanned_at": "2026-11-11T11:46:55Z",
+  "window_start": "2026-05-19",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 436,
+    "2026-05": {
+      "total": 494,
       "ai": 1,
-      "automation": 4,
-      "merges": 32,
+      "automation": 3,
+      "merges": 3,
       "by_rule": {
-        "gemini": 1
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 1196,
+      "ai": 21,
+      "automation": 6,
+      "merges": 47,
+      "by_rule": {
+        "gemini": 21
+      }
+    },
+    "2026-07": {
+      "total": 1202,
+      "ai": 3,
+      "automation": 9,
+      "merges": 113,
+      "by_rule": {
+        "gemini": 3
       }
     },
     "2026-08": {
@@ -29,19 +47,19 @@
       }
     },
     "2026-09": {
-      "total": 1207,
+      "total": 1217,
       "ai": 3,
       "automation": 8,
-      "merges": 176,
+      "merges": 177,
       "by_rule": {
         "gemini": 3
       }
     },
     "2026-10": {
-      "total": 2350,
+      "total": 2379,
       "ai": 21,
-      "automation": 17,
-      "merges": 236,
+      "automation": 18,
+      "merges": 238,
       "by_rule": {
         "gemini": 9,
         "cursor": 8,
@@ -49,11 +67,13 @@
       }
     },
     "2026-11": {
-      "total": 321,
-      "ai": 0,
+      "total": 623,
+      "ai": 3,
       "automation": 1,
-      "merges": 52,
-      "by_rule": {}
+      "merges": 91,
+      "by_rule": {
+        "gemini": 3
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "topjohnwu/Magisk",
   "org": "topjohnwu",
   "language": "Kotlin",
-  "stars": 63680,
+  "stars": 63889,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:20:39Z",
+  "scanned_at": "2026-11-11T11:51:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -153,6 +153,13 @@
     },
     "2026-10": {
       "total": 123,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

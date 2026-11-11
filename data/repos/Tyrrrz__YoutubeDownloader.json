@@ -3,9 +3,9 @@
   "repo": "Tyrrrz/YoutubeDownloader",
   "org": "Tyrrrz",
   "language": "C#",
-  "stars": 16597,
+  "stars": 16674,
   "default_branch": "prime",
-  "scanned_at": "2026-11-05T11:47:40Z",
+  "scanned_at": "2026-11-11T11:20:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 1,
+      "total": 7,
+      "ai": 2,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "copilot_author": 1
+        "copilot_author": 2
       }
     }
   }

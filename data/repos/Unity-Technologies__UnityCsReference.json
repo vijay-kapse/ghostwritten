@@ -3,9 +3,9 @@
   "repo": "Unity-Technologies/UnityCsReference",
   "org": "Unity-Technologies",
   "language": "C#",
-  "stars": 13052,
+  "stars": 13054,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:27:39Z",
+  "scanned_at": "2026-11-11T11:05:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -130,6 +130,13 @@
     },
     "2026-10": {
       "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "flet-dev/flet",
   "org": "flet-dev",
   "language": "Python",
-  "stars": 17489,
+  "stars": 17526,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:41:38Z",
+  "scanned_at": "2026-11-11T11:14:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,11 +186,22 @@
       }
     },
     "2026-10": {
-      "total": 18,
-      "ai": 0,
+      "total": 78,
+      "ai": 2,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 23,
+      "ai": 1,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

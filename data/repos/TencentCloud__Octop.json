@@ -3,9 +3,9 @@
   "repo": "TencentCloud/Octop",
   "org": "TencentCloud",
   "language": "Python",
-  "stars": 11419,
+  "stars": 11804,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:59Z",
+  "scanned_at": "2026-11-11T11:39:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -50,12 +50,13 @@
       }
     },
     "2026-11": {
-      "total": 42,
-      "ai": 21,
+      "total": 62,
+      "ai": 26,
       "automation": 0,
-      "merges": 8,
+      "merges": 14,
       "by_rule": {
-        "cursor": 21
+        "cursor": 25,
+        "claude_trailer": 1
       }
     }
   }

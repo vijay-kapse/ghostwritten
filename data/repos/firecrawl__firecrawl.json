@@ -3,9 +3,9 @@
   "repo": "firecrawl/firecrawl",
   "org": "firecrawl",
   "language": "TypeScript",
-  "stars": 197648,
+  "stars": 199960,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:38:22Z",
+  "scanned_at": "2026-11-11T11:46:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -228,13 +228,13 @@
       }
     },
     "2026-11": {
-      "total": 44,
-      "ai": 11,
+      "total": 86,
+      "ai": 14,
       "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10,
-        "cursor": 1,
+        "claude_trailer": 11,
+        "cursor": 3,
         "other_bot_agent": 1
       }
     }

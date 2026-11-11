@@ -3,9 +3,9 @@
   "repo": "jason5ng32/MyIP",
   "org": "jason5ng32",
   "language": "JavaScript",
-  "stars": 12279,
+  "stars": 12332,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:10:28Z",
+  "scanned_at": "2026-11-11T11:29:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,13 +162,23 @@
       }
     },
     "2026-10": {
-      "total": 161,
-      "ai": 113,
+      "total": 185,
+      "ai": 127,
       "automation": 0,
-      "merges": 27,
+      "merges": 29,
       "by_rule": {
-        "claude_trailer": 112,
+        "claude_trailer": 126,
         "codex_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 39,
+      "ai": 30,
+      "automation": 0,
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 29,
+        "cursor": 1
       }
     }
   }

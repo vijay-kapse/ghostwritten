@@ -3,9 +3,9 @@
   "repo": "alam00000/bentopdf",
   "org": "alam00000",
   "language": "JavaScript",
-  "stars": 16225,
+  "stars": 16316,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:00:18Z",
+  "scanned_at": "2026-11-11T11:22:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -105,10 +105,10 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 8,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {}
     }
   }

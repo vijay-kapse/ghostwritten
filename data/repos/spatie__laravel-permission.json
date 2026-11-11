@@ -3,9 +3,9 @@
   "repo": "spatie/laravel-permission",
   "org": "spatie",
   "language": "PHP",
-  "stars": 12979,
+  "stars": 12982,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:28:40Z",
+  "scanned_at": "2026-11-11T11:05:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,10 +167,10 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 8,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 4,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "gravitl/netmaker",
   "org": "gravitl",
   "language": "Go",
-  "stars": 11853,
+  "stars": 11860,
   "default_branch": "develop",
-  "scanned_at": "2026-11-06T11:18:46Z",
+  "scanned_at": "2026-11-11T11:35:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 0,

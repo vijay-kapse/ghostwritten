@@ -3,9 +3,9 @@
   "repo": "marktext/marktext",
   "org": "marktext",
   "language": "TypeScript",
-  "stars": 63446,
+  "stars": 63775,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:20:53Z",
+  "scanned_at": "2026-11-11T11:51:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -72,7 +72,7 @@
       }
     },
     "2026-11": {
-      "total": 28,
+      "total": 29,
       "ai": 0,
       "automation": 2,
       "merges": 0,

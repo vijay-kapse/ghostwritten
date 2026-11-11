@@ -3,9 +3,9 @@
   "repo": "scrapy/scrapy",
   "org": "scrapy",
   "language": "Python",
-  "stars": 65158,
+  "stars": 65287,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:41:35Z",
+  "scanned_at": "2026-11-11T11:49:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,9 +172,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 11,
+      "total": 27,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

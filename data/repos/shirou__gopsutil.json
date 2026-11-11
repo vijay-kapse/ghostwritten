@@ -3,9 +3,9 @@
   "repo": "shirou/gopsutil",
   "org": "shirou",
   "language": "Go",
-  "stars": 11940,
+  "stars": 11938,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:17:52Z",
+  "scanned_at": "2026-11-11T11:34:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,7 +163,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 13,
+      "total": 21,
       "ai": 2,
       "automation": 4,
       "merges": 8,
@@ -175,7 +175,7 @@
       "total": 0,
       "ai": 0,
       "automation": 0,
-      "merges": 3,
+      "merges": 11,
       "by_rule": {}
     }
   }

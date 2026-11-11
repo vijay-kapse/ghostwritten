@@ -3,18 +3,21 @@
   "repo": "Homebrew/homebrew-core",
   "org": "Homebrew",
   "language": "Ruby",
-  "stars": 15651,
+  "stars": 15659,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:04:20Z",
-  "window_start": "2026-11-02",
+  "scanned_at": "2026-11-11T11:25:54Z",
+  "window_start": "2026-11-06",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 2046,
-      "ai": 0,
-      "automation": 3,
-      "merges": 851,
-      "by_rule": {}
+      "total": 1986,
+      "ai": 4,
+      "automation": 2,
+      "merges": 912,
+      "by_rule": {
+        "claude_trailer": 3,
+        "aider": 1
+      }
     }
   }
 }

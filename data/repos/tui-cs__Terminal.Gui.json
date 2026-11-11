@@ -3,9 +3,9 @@
   "repo": "tui-cs/Terminal.Gui",
   "org": "tui-cs",
   "language": "C#",
-  "stars": 11299,
+  "stars": 11306,
   "default_branch": "develop",
-  "scanned_at": "2026-11-06T11:30:25Z",
+  "scanned_at": "2026-11-11T11:41:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -218,7 +218,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 10,
       "ai": 1,
       "automation": 0,
       "merges": 0,

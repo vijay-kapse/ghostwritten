@@ -3,9 +3,9 @@
   "repo": "dataelement/dsh-desktop",
   "org": "dataelement",
   "language": "JavaScript",
-  "stars": 17046,
+  "stars": 17641,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:44:03Z",
+  "scanned_at": "2026-11-11T11:16:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -39,10 +39,10 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 14,
       "ai": 2,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {
         "cursor": 2
       }

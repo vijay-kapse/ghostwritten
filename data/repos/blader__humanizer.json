@@ -3,9 +3,9 @@
   "repo": "blader/humanizer",
   "org": "blader",
   "language": "Python",
-  "stars": 63374,
+  "stars": 66872,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:20:53Z",
+  "scanned_at": "2026-11-11T11:51:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -86,12 +86,22 @@
       }
     },
     "2026-10": {
-      "total": 5,
-      "ai": 1,
+      "total": 8,
+      "ai": 3,
       "automation": 0,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 7,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 6,
+        "codex_trailer": 1
       }
     }
   }

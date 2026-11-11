@@ -3,9 +3,9 @@
   "repo": "reactjs/react.dev",
   "org": "reactjs",
   "language": "JavaScript",
-  "stars": 11828,
+  "stars": 11834,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:19:31Z",
+  "scanned_at": "2026-11-11T11:35:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 22,
+      "total": 45,
       "ai": 2,
       "automation": 0,
       "merges": 0,

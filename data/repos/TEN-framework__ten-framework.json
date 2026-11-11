@@ -3,9 +3,9 @@
   "repo": "TEN-framework/ten-framework",
   "org": "TEN-framework",
   "language": "Python",
-  "stars": 11216,
+  "stars": 11224,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:32:47Z",
+  "scanned_at": "2026-11-11T11:42:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,7 +184,7 @@
       }
     },
     "2026-11": {
-      "total": 10,
+      "total": 13,
       "ai": 0,
       "automation": 0,
       "merges": 0,

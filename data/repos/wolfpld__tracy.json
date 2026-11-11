@@ -3,9 +3,9 @@
   "repo": "wolfpld/tracy",
   "org": "wolfpld",
   "language": "C++",
-  "stars": 17058,
+  "stars": 17090,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:44:03Z",
+  "scanned_at": "2026-11-11T11:16:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,11 +174,13 @@
       }
     },
     "2026-11": {
-      "total": 18,
-      "ai": 0,
+      "total": 36,
+      "ai": 1,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

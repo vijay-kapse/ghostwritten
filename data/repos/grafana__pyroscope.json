@@ -3,9 +3,9 @@
   "repo": "grafana/pyroscope",
   "org": "grafana",
   "language": "Go",
-  "stars": 11711,
+  "stars": 11715,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:22:59Z",
+  "scanned_at": "2026-11-11T11:37:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,9 +196,9 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 20,
       "ai": 1,
-      "automation": 17,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

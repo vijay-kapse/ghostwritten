@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "suitenumerique/docs",
   "org": "suitenumerique",
-  "language": "Python",
-  "stars": 16960,
+  "language": "TypeScript",
+  "stars": 16982,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:45:24Z",
+  "scanned_at": "2026-11-11T11:18:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 44,
       "ai": 0,
       "automation": 0,
       "merges": 0,

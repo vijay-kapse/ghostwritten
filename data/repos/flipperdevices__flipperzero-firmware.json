@@ -3,9 +3,9 @@
   "repo": "flipperdevices/flipperzero-firmware",
   "org": "flipperdevices",
   "language": "C",
-  "stars": 16817,
+  "stars": 16858,
   "default_branch": "dev",
-  "scanned_at": "2026-11-05T11:46:50Z",
+  "scanned_at": "2026-11-11T11:19:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -108,6 +108,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

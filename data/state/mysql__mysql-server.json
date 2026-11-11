@@ -2,8 +2,8 @@
   "schema": 1,
   "repo": "mysql/mysql-server",
   "head_sha": "06bcb0eb0ad281e08dd2b4d81b99ad25491433e7",
-  "oldest": "2025-08-01T15:15:53Z",
-  "complete": false,
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "trunk",
-  "updated_at": "2026-11-06T11:06:28Z"
+  "updated_at": "2026-11-11T11:27:25Z"
 }

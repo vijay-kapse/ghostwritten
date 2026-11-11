@@ -3,9 +3,9 @@
   "repo": "iptv-org/iptv",
   "org": "iptv-org",
   "language": "TypeScript",
-  "stars": 142996,
+  "stars": 143639,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:41:09Z",
+  "scanned_at": "2026-11-11T11:49:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,11 +176,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
-      "automation": 12,
-      "merges": 4,
-      "by_rule": {}
+      "total": 17,
+      "ai": 2,
+      "automation": 23,
+      "merges": 18,
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

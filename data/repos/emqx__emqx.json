@@ -3,17 +3,59 @@
   "repo": "emqx/emqx",
   "org": "emqx",
   "language": "Erlang",
-  "stars": 16873,
+  "stars": 16890,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:46:38Z",
-  "window_start": "2026-03-30",
+  "scanned_at": "2026-11-11T11:19:39Z",
+  "window_start": "2025-09-16",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 7,
+    "2025-09": {
+      "total": 200,
+      "ai": 0,
+      "automation": 1,
+      "merges": 119,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 174,
+      "ai": 0,
+      "automation": 2,
+      "merges": 93,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 263,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 94,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 162,
+      "ai": 0,
+      "automation": 1,
+      "merges": 85,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 315,
+      "ai": 0,
+      "automation": 0,
+      "merges": 123,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 526,
+      "ai": 0,
+      "automation": 1,
+      "merges": 152,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 335,
+      "ai": 0,
+      "automation": 1,
+      "merges": 165,
       "by_rule": {}
     },
     "2026-04": {
@@ -61,17 +103,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 798,
+      "total": 808,
       "ai": 0,
       "automation": 6,
       "merges": 372,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 25,
+      "total": 110,
       "ai": 0,
       "automation": 0,
-      "merges": 33,
+      "merges": 77,
       "by_rule": {}
     }
   }

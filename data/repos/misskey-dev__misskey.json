@@ -3,9 +3,9 @@
   "repo": "misskey-dev/misskey",
   "org": "misskey-dev",
   "language": "TypeScript",
-  "stars": 11368,
+  "stars": 11362,
   "default_branch": "develop",
-  "scanned_at": "2026-11-06T11:28:12Z",
+  "scanned_at": "2026-11-11T11:39:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -201,11 +201,14 @@
       }
     },
     "2026-11": {
-      "total": 14,
-      "ai": 0,
-      "automation": 1,
+      "total": 35,
+      "ai": 5,
+      "automation": 5,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 4,
+        "copilot_trailer": 1
+      }
     }
   }
 }

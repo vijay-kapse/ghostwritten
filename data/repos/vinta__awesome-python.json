@@ -3,9 +3,9 @@
   "repo": "vinta/awesome-python",
   "org": "vinta",
   "language": "Python",
-  "stars": 331775,
+  "stars": 333534,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:36:40Z",
+  "scanned_at": "2026-11-11T11:44:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-10": {
-      "total": 334,
+      "total": 335,
       "ai": 319,
       "automation": 1,
       "merges": 48,
@@ -176,12 +176,12 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 4,
+      "total": 60,
+      "ai": 58,
       "automation": 0,
-      "merges": 2,
+      "merges": 12,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 58
       }
     }
   }

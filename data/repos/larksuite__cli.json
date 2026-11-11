@@ -3,9 +3,9 @@
   "repo": "larksuite/cli",
   "org": "larksuite",
   "language": "Go",
-  "stars": 17911,
+  "stars": 18027,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:40:13Z",
+  "scanned_at": "2026-11-11T11:12:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -85,9 +85,9 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 11,
       "ai": 1,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

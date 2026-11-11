@@ -3,9 +3,9 @@
   "repo": "vrtmrz/obsidian-livesync",
   "org": "vrtmrz",
   "language": "TypeScript",
-  "stars": 12862,
+  "stars": 12936,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:33:20Z",
+  "scanned_at": "2026-11-11T11:08:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,10 +178,10 @@
       }
     },
     "2026-11": {
-      "total": 53,
+      "total": 87,
       "ai": 0,
-      "automation": 0,
-      "merges": 26,
+      "automation": 3,
+      "merges": 44,
       "by_rule": {}
     }
   }

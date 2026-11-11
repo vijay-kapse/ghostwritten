@@ -3,9 +3,9 @@
   "repo": "organicmaps/organicmaps",
   "org": "organicmaps",
   "language": "C++",
-  "stars": 15845,
+  "stars": 15916,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:02:08Z",
+  "scanned_at": "2026-11-11T11:24:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 46,
+      "total": 83,
       "ai": 0,
       "automation": 0,
       "merges": 0,

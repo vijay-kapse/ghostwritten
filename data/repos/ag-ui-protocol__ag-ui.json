@@ -3,9 +3,9 @@
   "repo": "ag-ui-protocol/ag-ui",
   "org": "ag-ui-protocol",
   "language": "TypeScript",
-  "stars": 16962,
+  "stars": 17074,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:45:08Z",
+  "scanned_at": "2026-11-11T11:17:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -145,30 +145,30 @@
       }
     },
     "2026-07": {
-      "total": 198,
+      "total": 292,
       "ai": 23,
       "automation": 10,
-      "merges": 152,
+      "merges": 153,
       "by_rule": {
         "claude_trailer": 22,
         "copilot_trailer": 1
       }
     },
     "2026-08": {
-      "total": 517,
+      "total": 518,
       "ai": 150,
       "automation": 14,
-      "merges": 291,
+      "merges": 293,
       "by_rule": {
         "claude_trailer": 129,
         "copilot_trailer": 21
       }
     },
     "2026-09": {
-      "total": 340,
+      "total": 344,
       "ai": 23,
       "automation": 15,
-      "merges": 186,
+      "merges": 190,
       "by_rule": {
         "claude_trailer": 23
       }
@@ -184,12 +184,13 @@
       }
     },
     "2026-11": {
-      "total": 30,
-      "ai": 13,
+      "total": 67,
+      "ai": 14,
       "automation": 0,
-      "merges": 38,
+      "merges": 50,
       "by_rule": {
-        "claude_trailer": 13
+        "claude_trailer": 13,
+        "copilot_trailer": 1
       }
     }
   }

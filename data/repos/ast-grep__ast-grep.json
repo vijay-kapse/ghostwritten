@@ -3,9 +3,9 @@
   "repo": "ast-grep/ast-grep",
   "org": "ast-grep",
   "language": "Rust",
-  "stars": 16407,
+  "stars": 16511,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:48:34Z",
+  "scanned_at": "2026-11-11T11:21:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,14 +178,14 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 2,
-      "automation": 4,
+      "total": 13,
+      "ai": 3,
+      "automation": 16,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
-        "copilot_author": 1,
-        "copilot_trailer": 1
+        "copilot_author": 2,
+        "copilot_trailer": 2,
+        "claude_trailer": 1
       }
     }
   }

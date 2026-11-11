@@ -3,9 +3,9 @@
   "repo": "avelino/awesome-go",
   "org": "avelino",
   "language": "Go",
-  "stars": 191512,
+  "stars": 192910,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:38:24Z",
+  "scanned_at": "2026-11-11T11:47:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,11 +186,13 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 0,
+      "total": 7,
+      "ai": 1,
       "automation": 1,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

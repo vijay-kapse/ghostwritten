@@ -3,19 +3,73 @@
   "repo": "ghostty-org/ghostty",
   "org": "ghostty-org",
   "language": "Zig",
-  "stars": 63167,
+  "stars": 63913,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:21:11Z",
-  "window_start": "2026-03-14",
+  "scanned_at": "2026-11-11T11:51:36Z",
+  "window_start": "2025-09-23",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 282,
-      "ai": 18,
-      "automation": 43,
-      "merges": 127,
+    "2025-09": {
+      "total": 80,
+      "ai": 0,
+      "automation": 2,
+      "merges": 33,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 278,
+      "ai": 0,
+      "automation": 16,
+      "merges": 73,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 291,
+      "ai": 1,
+      "automation": 7,
+      "merges": 117,
       "by_rule": {
-        "claude_trailer": 18
+        "amp_factory": 1
+      }
+    },
+    "2025-12": {
+      "total": 349,
+      "ai": 1,
+      "automation": 7,
+      "merges": 143,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 370,
+      "ai": 2,
+      "automation": 5,
+      "merges": 114,
+      "by_rule": {
+        "amp_factory": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 380,
+      "ai": 2,
+      "automation": 88,
+      "merges": 189,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-03": {
+      "total": 502,
+      "ai": 33,
+      "automation": 81,
+      "merges": 227,
+      "by_rule": {
+        "claude_trailer": 29,
+        "amp_factory": 3,
+        "codex_trailer": 1
       }
     },
     "2026-04": {
@@ -84,10 +138,10 @@
       }
     },
     "2026-11": {
-      "total": 123,
+      "total": 167,
       "ai": 0,
-      "automation": 10,
-      "merges": 58,
+      "automation": 17,
+      "merges": 83,
       "by_rule": {}
     }
   }

@@ -3,20 +3,29 @@
   "repo": "opf/openproject",
   "org": "opf",
   "language": "Ruby",
-  "stars": 16903,
+  "stars": 17164,
   "default_branch": "dev",
-  "scanned_at": "2026-11-05T11:46:17Z",
-  "window_start": "2026-08-25",
+  "scanned_at": "2026-11-11T11:19:13Z",
+  "window_start": "2026-07-13",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 305,
-      "ai": 6,
-      "automation": 17,
-      "merges": 67,
+    "2026-07": {
+      "total": 783,
+      "ai": 9,
+      "automation": 44,
+      "merges": 249,
       "by_rule": {
-        "claude_trailer": 5,
-        "copilot_trailer": 1
+        "claude_trailer": 9
+      }
+    },
+    "2026-08": {
+      "total": 1072,
+      "ai": 16,
+      "automation": 56,
+      "merges": 285,
+      "by_rule": {
+        "claude_trailer": 13,
+        "copilot_trailer": 4
       }
     },
     "2026-09": {
@@ -30,22 +39,23 @@
       }
     },
     "2026-10": {
-      "total": 1892,
+      "total": 1913,
       "ai": 66,
       "automation": 97,
-      "merges": 516,
+      "merges": 519,
       "by_rule": {
         "claude_trailer": 65,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 200,
-      "ai": 1,
-      "automation": 13,
-      "merges": 49,
+      "total": 854,
+      "ai": 34,
+      "automation": 21,
+      "merges": 246,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 33,
+        "copilot_trailer": 1
       }
     }
   }

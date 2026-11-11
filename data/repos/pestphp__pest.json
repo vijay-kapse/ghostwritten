@@ -3,9 +3,9 @@
   "repo": "pestphp/pest",
   "org": "pestphp",
   "language": "PHP",
-  "stars": 11753,
+  "stars": 11760,
   "default_branch": "5.x",
-  "scanned_at": "2026-11-06T11:21:35Z",
+  "scanned_at": "2026-11-11T11:36:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 15,
       "ai": 0,
       "automation": 0,
       "merges": 0,

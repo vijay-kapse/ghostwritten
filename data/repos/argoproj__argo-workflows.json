@@ -3,9 +3,9 @@
   "repo": "argoproj/argo-workflows",
   "org": "argoproj",
   "language": "Go",
-  "stars": 17076,
+  "stars": 17085,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:44:01Z",
+  "scanned_at": "2026-11-11T11:16:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,12 +203,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 6,
-      "automation": 12,
+      "total": 32,
+      "ai": 14,
+      "automation": 15,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 14
       }
     }
   }

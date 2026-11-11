@@ -3,9 +3,9 @@
   "repo": "Canner/WrenAI",
   "org": "Canner",
   "language": "Python",
-  "stars": 18031,
+  "stars": 18113,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:39:43Z",
+  "scanned_at": "2026-11-11T11:12:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
-      "automation": 0,
+      "total": 11,
+      "ai": 8,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 8
       }
     }
   }

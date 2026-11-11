@@ -3,16 +3,16 @@
   "repo": "withastro/astro",
   "org": "withastro",
   "language": "TypeScript",
-  "stars": 63649,
+  "stars": 63836,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:20:50Z",
-  "window_start": "2025-01-13",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:51:03Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 84,
+      "total": 159,
       "ai": 0,
-      "automation": 16,
+      "automation": 25,
       "merges": 0,
       "by_rule": {}
     },
@@ -195,9 +195,9 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 36,
       "ai": 2,
-      "automation": 17,
+      "automation": 27,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

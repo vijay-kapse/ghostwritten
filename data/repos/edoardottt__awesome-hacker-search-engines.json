@@ -3,9 +3,9 @@
   "repo": "edoardottt/awesome-hacker-search-engines",
   "org": "edoardottt",
   "language": "Shell",
-  "stars": 11449,
+  "stars": 11483,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:28Z",
+  "scanned_at": "2026-11-11T11:39:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -160,10 +160,10 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 5,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 3,
       "by_rule": {}
     }
   }

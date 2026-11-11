@@ -3,9 +3,9 @@
   "repo": "codexu/note-gen",
   "org": "codexu",
   "language": "TypeScript",
-  "stars": 12966,
+  "stars": 12994,
   "default_branch": "dev",
-  "scanned_at": "2026-11-05T11:29:13Z",
+  "scanned_at": "2026-11-11T11:05:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 14,
+      "total": 17,
       "ai": 0,
       "automation": 0,
       "merges": 0,

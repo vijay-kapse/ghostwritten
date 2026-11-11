@@ -3,9 +3,9 @@
   "repo": "davatorium/rofi",
   "org": "davatorium",
   "language": "C",
-  "stars": 16511,
+  "stars": 16521,
   "default_branch": "next",
-  "scanned_at": "2026-11-05T11:48:11Z",
+  "scanned_at": "2026-11-11T11:21:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -115,17 +115,17 @@
       "by_rule": {}
     },
     "2026-05": {
-      "total": 6,
+      "total": 7,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
     },
     "2026-06": {
-      "total": 13,
+      "total": 14,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {}
     },
     "2026-07": {
@@ -143,17 +143,24 @@
       "by_rule": {}
     },
     "2026-09": {
-      "total": 8,
+      "total": 10,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 9,
+      "total": 10,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

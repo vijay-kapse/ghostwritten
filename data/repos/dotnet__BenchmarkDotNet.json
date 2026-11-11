@@ -3,9 +3,9 @@
   "repo": "dotnet/BenchmarkDotNet",
   "org": "dotnet",
   "language": "C#",
-  "stars": 11526,
+  "stars": 11527,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:25:33Z",
+  "scanned_at": "2026-11-11T11:38:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,13 @@
       }
     },
     "2026-11": {
-      "total": 8,
-      "ai": 4,
+      "total": 14,
+      "ai": 8,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 8,
+        "copilot_trailer": 1
       }
     }
   }

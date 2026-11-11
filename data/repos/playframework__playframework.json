@@ -3,9 +3,9 @@
   "repo": "playframework/playframework",
   "org": "playframework",
   "language": "Scala",
-  "stars": 12620,
+  "stars": 12621,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:39:07Z",
+  "scanned_at": "2026-11-11T11:11:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 11,
       "ai": 0,
       "automation": 0,
-      "merges": 9,
+      "merges": 13,
       "by_rule": {}
     }
   }

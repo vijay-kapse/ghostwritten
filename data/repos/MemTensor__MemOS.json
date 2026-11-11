@@ -3,9 +3,9 @@
   "repo": "MemTensor/MemOS",
   "org": "MemTensor",
   "language": "TypeScript",
-  "stars": 12220,
+  "stars": 12333,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:11:52Z",
+  "scanned_at": "2026-11-11T11:30:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,26 +124,28 @@
       }
     },
     "2026-09": {
-      "total": 21,
-      "ai": 0,
+      "total": 23,
+      "ai": 2,
       "automation": 0,
       "merges": 15,
-      "by_rule": {}
+      "by_rule": {
+        "cursor": 2
+      }
     },
     "2026-10": {
-      "total": 11,
-      "ai": 1,
+      "total": 23,
+      "ai": 4,
       "automation": 0,
-      "merges": 3,
+      "merges": 18,
       "by_rule": {
-        "cursor": 1
+        "cursor": 4
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 4,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "GoogleCloudPlatform/generative-ai",
   "org": "GoogleCloudPlatform",
   "language": "Jupyter Notebook",
-  "stars": 17836,
+  "stars": 17856,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:40:32Z",
+  "scanned_at": "2026-11-11T11:13:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 7,
       "ai": 0,
       "automation": 0,
       "merges": 0,

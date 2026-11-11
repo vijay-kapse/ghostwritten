@@ -3,9 +3,9 @@
   "repo": "apple/pkl",
   "org": "apple",
   "language": "Java",
-  "stars": 11555,
+  "stars": 11568,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:25:20Z",
+  "scanned_at": "2026-11-11T11:38:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 19,
+      "total": 22,
       "ai": 0,
       "automation": 0,
       "merges": 0,

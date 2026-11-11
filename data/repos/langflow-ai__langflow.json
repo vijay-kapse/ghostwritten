@@ -3,9 +3,9 @@
   "repo": "langflow-ai/langflow",
   "org": "langflow-ai",
   "language": "Python",
-  "stars": 156223,
+  "stars": 156463,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:40:16Z",
+  "scanned_at": "2026-11-11T11:48:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -225,11 +225,13 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 0,
+      "total": 71,
+      "ai": 4,
       "automation": 0,
-      "merges": 1,
-      "by_rule": {}
+      "merges": 9,
+      "by_rule": {
+        "copilot_trailer": 4
+      }
     }
   }
 }

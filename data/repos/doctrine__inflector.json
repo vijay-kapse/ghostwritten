@@ -3,9 +3,9 @@
   "repo": "doctrine/inflector",
   "org": "doctrine",
   "language": "PHP",
-  "stars": 11331,
+  "stars": 11330,
   "default_branch": "2.1.x",
-  "scanned_at": "2026-11-06T11:29:30Z",
+  "scanned_at": "2026-11-11T11:40:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,8 +124,8 @@
     "2026-11": {
       "total": 1,
       "ai": 0,
-      "automation": 0,
-      "merges": 1,
+      "automation": 1,
+      "merges": 2,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "jasmine/jasmine",
   "org": "jasmine",
   "language": "JavaScript",
-  "stars": 15811,
+  "stars": 15806,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:02:44Z",
+  "scanned_at": "2026-11-11T11:25:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,10 +159,10 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {}
     }
   }

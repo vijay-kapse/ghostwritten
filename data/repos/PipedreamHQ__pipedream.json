@@ -3,18 +3,35 @@
   "repo": "PipedreamHQ/pipedream",
   "org": "PipedreamHQ",
   "language": "JavaScript",
-  "stars": 11767,
+  "stars": 11780,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:21:10Z",
-  "window_start": "2025-03-10",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:36:31Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-03": {
-      "total": 128,
+    "2025-01": {
+      "total": 163,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 0,
       "by_rule": {}
+    },
+    "2025-02": {
+      "total": 180,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 166,
+      "ai": 4,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {
+        "claude_generated": 4,
+        "claude_trailer": 4
+      }
     },
     "2025-04": {
       "total": 212,
@@ -193,13 +210,13 @@
       }
     },
     "2026-11": {
-      "total": 12,
-      "ai": 6,
+      "total": 23,
+      "ai": 12,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5,
-        "cursor": 1
+        "claude_trailer": 10,
+        "cursor": 2
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "getmaxun/maxun",
   "org": "getmaxun",
   "language": "TypeScript",
-  "stars": 18128,
+  "stars": 18184,
   "default_branch": "develop",
-  "scanned_at": "2026-11-05T11:39:37Z",
+  "scanned_at": "2026-11-11T11:12:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,6 +170,13 @@
       "by_rule": {
         "claude_trailer": 12
       }
+    },
+    "2026-11": {
+      "total": 9,
+      "ai": 0,
+      "automation": 1,
+      "merges": 3,
+      "by_rule": {}
     }
   }
 }

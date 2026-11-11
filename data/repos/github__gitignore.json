@@ -3,9 +3,9 @@
   "repo": "github/gitignore",
   "org": "github",
   "language": null,
-  "stars": 176132,
+  "stars": 176213,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:38:56Z",
+  "scanned_at": "2026-11-11T11:47:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,7 +117,7 @@
       "by_rule": {}
     },
     "2026-04": {
-      "total": 27,
+      "total": 28,
       "ai": 2,
       "automation": 0,
       "merges": 43,
@@ -126,54 +126,56 @@
       }
     },
     "2026-05": {
-      "total": 6,
+      "total": 7,
       "ai": 0,
       "automation": 0,
       "merges": 8,
       "by_rule": {}
     },
     "2026-06": {
-      "total": 9,
+      "total": 10,
       "ai": 0,
       "automation": 0,
       "merges": 1,
       "by_rule": {}
     },
     "2026-07": {
-      "total": 1,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 1,
       "by_rule": {}
     },
     "2026-08": {
-      "total": 2,
-      "ai": 1,
+      "total": 5,
+      "ai": 2,
       "automation": 0,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     },
     "2026-09": {
-      "total": 14,
-      "ai": 0,
+      "total": 20,
+      "ai": 2,
       "automation": 0,
       "merges": 19,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 2
+      }
     },
     "2026-10": {
-      "total": 10,
+      "total": 11,
       "ai": 0,
       "automation": 0,
       "merges": 19,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 5,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 19,
       "by_rule": {}
     }
   }

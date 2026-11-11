@@ -3,9 +3,9 @@
   "repo": "invertase/react-native-firebase",
   "org": "invertase",
   "language": "TypeScript",
-  "stars": 12325,
+  "stars": 12329,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:09:04Z",
+  "scanned_at": "2026-11-11T11:29:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 36,
       "ai": 0,
       "automation": 0,
       "merges": 0,

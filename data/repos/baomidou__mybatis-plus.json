@@ -3,9 +3,9 @@
   "repo": "baomidou/mybatis-plus",
   "org": "baomidou",
   "language": "Java",
-  "stars": 17477,
+  "stars": 17487,
   "default_branch": "3.0",
-  "scanned_at": "2026-11-05T11:41:39Z",
+  "scanned_at": "2026-11-11T11:14:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,11 +151,14 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 0,
+      "total": 13,
+      "ai": 4,
       "automation": 8,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 3,
+      "by_rule": {
+        "copilot_trailer": 3,
+        "copilot_author": 1
+      }
     }
   }
 }

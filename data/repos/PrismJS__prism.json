@@ -3,9 +3,9 @@
   "repo": "PrismJS/prism",
   "org": "PrismJS",
   "language": "JavaScript",
-  "stars": 13062,
+  "stars": 13067,
   "default_branch": "v2",
-  "scanned_at": "2026-11-05T11:27:20Z",
+  "scanned_at": "2026-11-11T11:05:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -112,6 +112,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 18
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
       }
     }
   }

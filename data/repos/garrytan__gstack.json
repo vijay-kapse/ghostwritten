@@ -3,9 +3,9 @@
   "repo": "garrytan/gstack",
   "org": "garrytan",
   "language": "TypeScript",
-  "stars": 138578,
+  "stars": 140878,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:20:37Z",
+  "scanned_at": "2026-11-11T11:50:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -88,7 +88,7 @@
       }
     },
     "2026-11": {
-      "total": 318,
+      "total": 407,
       "ai": 1,
       "automation": 0,
       "merges": 0,

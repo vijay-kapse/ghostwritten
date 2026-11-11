@@ -3,9 +3,9 @@
   "repo": "axolotl-ai-cloud/axolotl",
   "org": "axolotl-ai-cloud",
   "language": "Python",
-  "stars": 12653,
+  "stars": 12674,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:37:08Z",
+  "scanned_at": "2026-11-11T11:10:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,19 +172,19 @@
       }
     },
     "2026-10": {
-      "total": 107,
+      "total": 103,
       "ai": 1,
       "automation": 7,
-      "merges": 2,
+      "merges": 0,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 43,
       "ai": 0,
-      "automation": 5,
-      "merges": 2,
+      "automation": 6,
+      "merges": 0,
       "by_rule": {}
     }
   }

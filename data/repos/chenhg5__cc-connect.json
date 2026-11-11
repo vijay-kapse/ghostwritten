@@ -3,9 +3,9 @@
   "repo": "chenhg5/cc-connect",
   "org": "chenhg5",
   "language": "Go",
-  "stars": 16193,
+  "stars": 16297,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:00:23Z",
+  "scanned_at": "2026-11-11T11:23:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -62,7 +62,7 @@
       }
     },
     "2026-07": {
-      "total": 40,
+      "total": 43,
       "ai": 21,
       "automation": 0,
       "merges": 0,
@@ -73,10 +73,10 @@
       }
     },
     "2026-08": {
-      "total": 54,
+      "total": 57,
       "ai": 21,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {
         "claude_trailer": 19,
         "claude_generated": 2,
@@ -85,30 +85,31 @@
       }
     },
     "2026-09": {
-      "total": 69,
-      "ai": 16,
+      "total": 79,
+      "ai": 20,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 16
+        "claude_trailer": 20
       }
     },
     "2026-10": {
-      "total": 67,
-      "ai": 9,
+      "total": 96,
+      "ai": 12,
       "automation": 0,
       "merges": 69,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 12
       }
     },
     "2026-11": {
-      "total": 9,
-      "ai": 9,
+      "total": 30,
+      "ai": 23,
       "automation": 0,
-      "merges": 4,
+      "merges": 41,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 20,
+        "cursor": 3
       }
     }
   }

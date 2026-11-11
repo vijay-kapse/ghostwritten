@@ -3,9 +3,9 @@
   "repo": "CyC2018/CS-Notes",
   "org": "CyC2018",
   "language": "JavaScript",
-  "stars": 186409,
+  "stars": 186468,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:38:33Z",
+  "scanned_at": "2026-11-11T11:47:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -19,10 +19,10 @@
       }
     },
     "2026-11": {
-      "total": 142,
+      "total": 318,
       "ai": 0,
       "automation": 0,
-      "merges": 33,
+      "merges": 42,
       "by_rule": {}
     }
   }

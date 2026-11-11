@@ -3,17 +3,66 @@
   "repo": "rust-lang/rust-analyzer",
   "org": "rust-lang",
   "language": "Rust",
-  "stars": 16961,
+  "stars": 16976,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:45:23Z",
-  "window_start": "2025-08-09",
+  "scanned_at": "2026-11-11T11:18:13Z",
+  "window_start": "2025-01-10",
   "complete": false,
   "months": {
-    "2025-08": {
-      "total": 101,
+    "2025-01": {
+      "total": 151,
+      "ai": 0,
+      "automation": 0,
+      "merges": 145,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 157,
       "ai": 0,
       "automation": 1,
-      "merges": 76,
+      "merges": 229,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 174,
+      "ai": 0,
+      "automation": 0,
+      "merges": 291,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 169,
+      "ai": 0,
+      "automation": 1,
+      "merges": 253,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 106,
+      "ai": 0,
+      "automation": 1,
+      "merges": 175,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 163,
+      "ai": 0,
+      "automation": 2,
+      "merges": 245,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 150,
+      "ai": 0,
+      "automation": 1,
+      "merges": 289,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 131,
+      "ai": 0,
+      "automation": 2,
+      "merges": 142,
       "by_rule": {}
     },
     "2025-09": {
@@ -116,7 +165,7 @@
       }
     },
     "2026-10": {
-      "total": 94,
+      "total": 101,
       "ai": 1,
       "automation": 3,
       "merges": 180,
@@ -125,10 +174,10 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 56,
       "ai": 0,
-      "automation": 0,
-      "merges": 27,
+      "automation": 1,
+      "merges": 50,
       "by_rule": {}
     }
   }

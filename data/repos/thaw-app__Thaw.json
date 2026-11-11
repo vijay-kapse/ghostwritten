@@ -3,9 +3,9 @@
   "repo": "thaw-app/Thaw",
   "org": "thaw-app",
   "language": "Swift",
-  "stars": 12475,
+  "stars": 12633,
   "default_branch": "development",
-  "scanned_at": "2026-11-06T11:06:55Z",
+  "scanned_at": "2026-11-11T11:27:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -137,9 +137,9 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 32,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

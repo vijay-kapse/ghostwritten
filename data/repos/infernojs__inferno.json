@@ -3,9 +3,9 @@
   "repo": "infernojs/inferno",
   "org": "infernojs",
   "language": "JavaScript",
-  "stars": 16459,
+  "stars": 16460,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:48:16Z",
+  "scanned_at": "2026-11-11T11:21:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -115,6 +115,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

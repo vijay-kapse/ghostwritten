@@ -3,9 +3,9 @@
   "repo": "Graphify-Labs/graphify",
   "org": "Graphify-Labs",
   "language": "Python",
-  "stars": 140471,
+  "stars": 144747,
   "default_branch": "v8",
-  "scanned_at": "2026-11-06T11:41:30Z",
+  "scanned_at": "2026-11-11T11:49:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -79,13 +79,13 @@
       }
     },
     "2026-11": {
-      "total": 169,
-      "ai": 71,
+      "total": 289,
+      "ai": 126,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 56,
-        "codex_trailer": 16,
+        "claude_trailer": 102,
+        "codex_trailer": 25,
         "devin": 1
       }
     }

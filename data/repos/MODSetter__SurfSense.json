@@ -3,18 +3,44 @@
   "repo": "MODSetter/SurfSense",
   "org": "MODSetter",
   "language": "Python",
-  "stars": 16709,
+  "stars": 16810,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:47:13Z",
-  "window_start": "2026-05-20",
+  "scanned_at": "2026-11-11T11:20:19Z",
+  "window_start": "2026-02-09",
   "complete": false,
   "months": {
-    "2026-05": {
-      "total": 246,
+    "2026-02": {
+      "total": 425,
       "ai": 0,
       "automation": 0,
-      "merges": 43,
+      "merges": 76,
       "by_rule": {}
+    },
+    "2026-03": {
+      "total": 744,
+      "ai": 1,
+      "automation": 0,
+      "merges": 154,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 824,
+      "ai": 0,
+      "automation": 0,
+      "merges": 189,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 763,
+      "ai": 3,
+      "automation": 0,
+      "merges": 114,
+      "by_rule": {
+        "cursor": 2,
+        "claude_trailer": 1
+      }
     },
     "2026-06": {
       "total": 840,

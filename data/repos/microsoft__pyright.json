@@ -3,9 +3,9 @@
   "repo": "microsoft/pyright",
   "org": "microsoft",
   "language": "Python",
-  "stars": 15722,
+  "stars": 15736,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:03:20Z",
+  "scanned_at": "2026-11-11T11:25:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 7,
-      "ai": 4,
+      "total": 17,
+      "ai": 12,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 4
+        "copilot_trailer": 12
       }
     }
   }

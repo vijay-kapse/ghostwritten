@@ -3,9 +3,9 @@
   "repo": "BigBodyCobain/Shadowbroker",
   "org": "BigBodyCobain",
   "language": "Python",
-  "stars": 11428,
+  "stars": 11511,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:45Z",
+  "scanned_at": "2026-11-11T11:39:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -81,12 +81,12 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 13,
+      "total": 14,
+      "ai": 14,
       "automation": 21,
-      "merges": 37,
+      "merges": 38,
       "by_rule": {
-        "claude_trailer": 13
+        "claude_trailer": 14
       }
     }
   }

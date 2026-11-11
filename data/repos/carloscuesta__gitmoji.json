@@ -3,9 +3,9 @@
   "repo": "carloscuesta/gitmoji",
   "org": "carloscuesta",
   "language": "TypeScript",
-  "stars": 16805,
+  "stars": 16804,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:46:51Z",
+  "scanned_at": "2026-11-11T11:19:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -145,7 +145,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     }

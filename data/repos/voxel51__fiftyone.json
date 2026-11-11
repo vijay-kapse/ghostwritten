@@ -3,19 +3,37 @@
   "repo": "voxel51/fiftyone",
   "org": "voxel51",
   "language": "TypeScript",
-  "stars": 11257,
+  "stars": 11284,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:31:38Z",
-  "window_start": "2026-07-29",
+  "scanned_at": "2026-11-11T11:41:52Z",
+  "window_start": "2026-05-15",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 89,
-      "ai": 1,
-      "automation": 0,
-      "merges": 33,
+    "2026-05": {
+      "total": 386,
+      "ai": 10,
+      "automation": 5,
+      "merges": 123,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 10
+      }
+    },
+    "2026-06": {
+      "total": 890,
+      "ai": 52,
+      "automation": 11,
+      "merges": 281,
+      "by_rule": {
+        "claude_trailer": 52
+      }
+    },
+    "2026-07": {
+      "total": 1061,
+      "ai": 38,
+      "automation": 0,
+      "merges": 265,
+      "by_rule": {
+        "claude_trailer": 38
       }
     },
     "2026-08": {
@@ -38,7 +56,7 @@
       }
     },
     "2026-10": {
-      "total": 395,
+      "total": 399,
       "ai": 9,
       "automation": 0,
       "merges": 103,
@@ -47,10 +65,10 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 16,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 5,
       "by_rule": {}
     }
   }

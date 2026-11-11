@@ -3,9 +3,9 @@
   "repo": "OpenRA/OpenRA",
   "org": "OpenRA",
   "language": "C#",
-  "stars": 17708,
+  "stars": 17757,
   "default_branch": "bleed",
-  "scanned_at": "2026-11-05T11:40:43Z",
+  "scanned_at": "2026-11-11T11:13:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,6 +164,13 @@
       "by_rule": {
         "claude_trailer": 3
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "k2-fsa/sherpa-onnx",
   "org": "k2-fsa",
   "language": "C++",
-  "stars": 15664,
+  "stars": 15840,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:03:51Z",
+  "scanned_at": "2026-11-11T11:25:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 9,
+      "total": 14,
       "ai": 0,
       "automation": 0,
       "merges": 0,

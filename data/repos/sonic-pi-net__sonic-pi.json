@@ -3,9 +3,9 @@
   "repo": "sonic-pi-net/sonic-pi",
   "org": "sonic-pi-net",
   "language": "C++",
-  "stars": 12243,
+  "stars": 12255,
   "default_branch": "dev",
-  "scanned_at": "2026-11-06T11:10:59Z",
+  "scanned_at": "2026-11-11T11:29:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -157,7 +157,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 4,
+      "total": 29,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "krahets/hello-algo",
   "org": "krahets",
-  "language": "Swift",
-  "stars": 131850,
+  "language": "Python",
+  "stars": 132061,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:22:50Z",
+  "scanned_at": "2026-11-11T11:53:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -129,11 +129,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 10,
-      "ai": 0,
+      "total": 14,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 3
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "unixorn/awesome-zsh-plugins",
   "org": "unixorn",
   "language": "Shell",
-  "stars": 18102,
+  "stars": 18127,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:39:40Z",
+  "scanned_at": "2026-11-11T11:12:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,10 +170,10 @@
       }
     },
     "2026-11": {
-      "total": 12,
+      "total": 20,
       "ai": 0,
       "automation": 0,
-      "merges": 11,
+      "merges": 19,
       "by_rule": {}
     }
   }

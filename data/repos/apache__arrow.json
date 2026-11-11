@@ -3,9 +3,9 @@
   "repo": "apache/arrow",
   "org": "apache",
   "language": "C++",
-  "stars": 17268,
+  "stars": 17278,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:42:46Z",
+  "scanned_at": "2026-11-11T11:15:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,9 +186,9 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 55,
       "ai": 1,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 1

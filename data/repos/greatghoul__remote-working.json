@@ -3,9 +3,9 @@
   "repo": "greatghoul/remote-working",
   "org": "greatghoul",
   "language": "Ruby",
-  "stars": 11806,
+  "stars": 11815,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:20:00Z",
+  "scanned_at": "2026-11-11T11:35:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,12 +143,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
+      "total": 3,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 1
+        "copilot_trailer": 2
       }
     }
   }

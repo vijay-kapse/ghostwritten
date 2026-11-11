@@ -3,19 +3,116 @@
   "repo": "Arize-ai/phoenix",
   "org": "Arize-ai",
   "language": "Python",
-  "stars": 12095,
+  "stars": 12211,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:14:45Z",
-  "window_start": "2026-02-11",
+  "scanned_at": "2026-11-11T11:33:16Z",
+  "window_start": "2025-02-21",
   "complete": false,
   "months": {
+    "2025-02": {
+      "total": 55,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 205,
+      "ai": 0,
+      "automation": 11,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 157,
+      "ai": 0,
+      "automation": 22,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 364,
+      "ai": 1,
+      "automation": 16,
+      "merges": 7,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-06": {
+      "total": 203,
+      "ai": 0,
+      "automation": 24,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 301,
+      "ai": 14,
+      "automation": 36,
+      "merges": 6,
+      "by_rule": {
+        "cursor": 14
+      }
+    },
+    "2025-08": {
+      "total": 236,
+      "ai": 4,
+      "automation": 21,
+      "merges": 4,
+      "by_rule": {
+        "cursor": 4
+      }
+    },
+    "2025-09": {
+      "total": 218,
+      "ai": 2,
+      "automation": 24,
+      "merges": 10,
+      "by_rule": {
+        "cursor": 2
+      }
+    },
+    "2025-10": {
+      "total": 194,
+      "ai": 0,
+      "automation": 35,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 162,
+      "ai": 0,
+      "automation": 31,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 124,
+      "ai": 4,
+      "automation": 32,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 4
+      }
+    },
+    "2026-01": {
+      "total": 136,
+      "ai": 18,
+      "automation": 22,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 15,
+        "cursor": 3
+      }
+    },
     "2026-02": {
-      "total": 358,
-      "ai": 52,
-      "automation": 17,
+      "total": 557,
+      "ai": 56,
+      "automation": 28,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 42,
+        "claude_trailer": 46,
         "cursor": 9,
         "codex_trailer": 1
       }
@@ -103,12 +200,12 @@
       }
     },
     "2026-11": {
-      "total": 63,
-      "ai": 29,
-      "automation": 23,
+      "total": 86,
+      "ai": 39,
+      "automation": 35,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28,
+        "claude_trailer": 38,
         "amp_factory": 2
       }
     }

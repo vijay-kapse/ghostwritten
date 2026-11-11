@@ -3,9 +3,9 @@
   "repo": "v2rayA/v2rayA",
   "org": "v2rayA",
   "language": "Go",
-  "stars": 15784,
+  "stars": 15831,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:03:03Z",
+  "scanned_at": "2026-11-11T11:25:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -148,7 +148,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 10,
+      "total": 12,
       "ai": 2,
       "automation": 3,
       "merges": 9,

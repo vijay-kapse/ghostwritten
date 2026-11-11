@@ -3,9 +3,9 @@
   "repo": "electric-sql/pglite",
   "org": "electric-sql",
   "language": "TypeScript",
-  "stars": 16220,
+  "stars": 16250,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:00:19Z",
+  "scanned_at": "2026-11-11T11:22:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -156,12 +156,12 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 1,
-      "automation": 1,
+      "total": 15,
+      "ai": 5,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 5
       }
     }
   }

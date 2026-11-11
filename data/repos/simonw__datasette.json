@@ -3,9 +3,9 @@
   "repo": "simonw/datasette",
   "org": "simonw",
   "language": "Python",
-  "stars": 11534,
+  "stars": 11551,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:25:30Z",
+  "scanned_at": "2026-11-11T11:38:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,19 +167,21 @@
       }
     },
     "2026-10": {
-      "total": 7,
-      "ai": 0,
+      "total": 10,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 3
+      }
     },
     "2026-11": {
-      "total": 21,
-      "ai": 20,
-      "automation": 0,
-      "merges": 2,
+      "total": 91,
+      "ai": 67,
+      "automation": 2,
+      "merges": 13,
       "by_rule": {
-        "claude_trailer": 20
+        "claude_trailer": 67
       }
     }
   }

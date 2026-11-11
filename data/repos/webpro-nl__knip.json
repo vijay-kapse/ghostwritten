@@ -3,9 +3,9 @@
   "repo": "webpro-nl/knip",
   "org": "webpro-nl",
   "language": "TypeScript",
-  "stars": 12563,
+  "stars": 12625,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:05:16Z",
+  "scanned_at": "2026-11-11T11:26:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,7 +178,7 @@
       }
     },
     "2026-11": {
-      "total": 28,
+      "total": 123,
       "ai": 2,
       "automation": 0,
       "merges": 0,

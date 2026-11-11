@@ -3,21 +3,70 @@
   "repo": "Automattic/wp-calypso",
   "org": "Automattic",
   "language": "TypeScript",
-  "stars": 12649,
+  "stars": 12652,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-05T11:37:58Z",
-  "window_start": "2026-06-29",
+  "scanned_at": "2026-11-11T11:11:21Z",
+  "window_start": "2026-02-02",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 47,
-      "ai": 20,
+    "2026-02": {
+      "total": 401,
+      "ai": 44,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 19,
-        "codex_trailer": 2,
-        "copilot_trailer": 1
+        "claude_trailer": 33,
+        "copilot_trailer": 6,
+        "cursor": 5,
+        "copilot_author": 3
+      }
+    },
+    "2026-03": {
+      "total": 585,
+      "ai": 127,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 120,
+        "copilot_trailer": 8,
+        "copilot_author": 5,
+        "cursor": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-04": {
+      "total": 418,
+      "ai": 116,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 114,
+        "copilot_trailer": 5,
+        "cursor": 1
+      }
+    },
+    "2026-05": {
+      "total": 671,
+      "ai": 174,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 157,
+        "cursor": 12,
+        "copilot_trailer": 10,
+        "copilot_author": 1
+      }
+    },
+    "2026-06": {
+      "total": 646,
+      "ai": 243,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 238,
+        "copilot_trailer": 12,
+        "codex_trailer": 3,
+        "cursor": 1
       }
     },
     "2026-07": {
@@ -65,12 +114,13 @@
       }
     },
     "2026-11": {
-      "total": 189,
-      "ai": 52,
+      "total": 407,
+      "ai": 107,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 52
+        "claude_trailer": 106,
+        "copilot_trailer": 2
       }
     }
   }

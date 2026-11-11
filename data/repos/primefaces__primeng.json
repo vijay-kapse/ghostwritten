@@ -3,17 +3,24 @@
   "repo": "primefaces/primeng",
   "org": "primefaces",
   "language": "TypeScript",
-  "stars": 12480,
+  "stars": 12479,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:06:44Z",
-  "window_start": "2025-02-25",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:27:29Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-02": {
-      "total": 22,
+    "2025-01": {
+      "total": 81,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 98,
+      "ai": 0,
+      "automation": 0,
+      "merges": 12,
       "by_rule": {}
     },
     "2025-03": {

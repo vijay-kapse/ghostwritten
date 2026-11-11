@@ -3,9 +3,9 @@
   "repo": "makeplane/plane",
   "org": "makeplane",
   "language": "TypeScript",
-  "stars": 61818,
+  "stars": 62195,
   "default_branch": "preview",
-  "scanned_at": "2026-11-07T10:22:34Z",
+  "scanned_at": "2026-11-11T11:52:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,11 +195,13 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 0,
+      "total": 11,
+      "ai": 6,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 6
+      }
     }
   }
 }

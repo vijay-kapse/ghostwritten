@@ -3,9 +3,9 @@
   "repo": "jo-inc/camofox-browser",
   "org": "jo-inc",
   "language": "JavaScript",
-  "stars": 12098,
+  "stars": 12213,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:14:25Z",
+  "scanned_at": "2026-11-11T11:32:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -72,11 +72,23 @@
       }
     },
     "2026-10": {
-      "total": 8,
-      "ai": 0,
+      "total": 56,
+      "ai": 3,
       "automation": 0,
       "merges": 2,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 26,
+      "ai": 4,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

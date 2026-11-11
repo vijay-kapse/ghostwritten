@@ -3,9 +3,9 @@
   "repo": "Comfy-Org/ComfyUI-Manager",
   "org": "Comfy-Org",
   "language": "Python",
-  "stars": 16687,
+  "stars": 16779,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:47:18Z",
+  "scanned_at": "2026-11-11T11:20:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,11 +198,13 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 0,
+      "total": 17,
+      "ai": 1,
       "automation": 0,
-      "merges": 5,
-      "by_rule": {}
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

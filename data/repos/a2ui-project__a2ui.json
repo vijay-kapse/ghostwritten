@@ -3,9 +3,9 @@
   "repo": "a2ui-project/a2ui",
   "org": "a2ui-project",
   "language": "TypeScript",
-  "stars": 16925,
+  "stars": 17023,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:45:56Z",
+  "scanned_at": "2026-11-11T11:18:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -130,7 +130,7 @@
       }
     },
     "2026-11": {
-      "total": 89,
+      "total": 201,
       "ai": 0,
       "automation": 0,
       "merges": 0,

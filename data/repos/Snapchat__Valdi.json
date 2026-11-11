@@ -3,9 +3,9 @@
   "repo": "Snapchat/Valdi",
   "org": "Snapchat",
   "language": "C++",
-  "stars": 16383,
+  "stars": 16381,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:48:48Z",
+  "scanned_at": "2026-11-11T11:21:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -96,7 +96,7 @@
       }
     },
     "2026-11": {
-      "total": 38,
+      "total": 76,
       "ai": 0,
       "automation": 0,
       "merges": 0,

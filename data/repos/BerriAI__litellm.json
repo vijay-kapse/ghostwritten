@@ -3,20 +3,20 @@
   "repo": "BerriAI/litellm",
   "org": "BerriAI",
   "language": "Python",
-  "stars": 62498,
+  "stars": 62962,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:21:52Z",
-  "window_start": "2026-09-21",
+  "scanned_at": "2026-11-11T11:52:16Z",
+  "window_start": "2026-09-15",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 678,
-      "ai": 542,
-      "automation": 66,
-      "merges": 92,
+      "total": 2459,
+      "ai": 1641,
+      "automation": 132,
+      "merges": 945,
       "by_rule": {
-        "devin": 534,
-        "claude_trailer": 22,
+        "devin": 1616,
+        "claude_trailer": 39,
         "cursor": 1
       }
     },
@@ -36,13 +36,13 @@
       }
     },
     "2026-11": {
-      "total": 343,
-      "ai": 163,
+      "total": 550,
+      "ai": 273,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "devin": 149,
-        "claude_trailer": 20
+        "devin": 249,
+        "claude_trailer": 32
       }
     }
   }

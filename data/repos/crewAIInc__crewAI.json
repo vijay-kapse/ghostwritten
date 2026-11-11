@@ -3,9 +3,9 @@
   "repo": "crewAIInc/crewAI",
   "org": "crewAIInc",
   "language": "Python",
-  "stars": 60389,
+  "stars": 60683,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:23:45Z",
+  "scanned_at": "2026-11-11T11:53:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,12 +217,13 @@
       }
     },
     "2026-11": {
-      "total": 39,
-      "ai": 24,
+      "total": 67,
+      "ai": 44,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 24
+        "claude_trailer": 42,
+        "amp_factory": 2
       }
     }
   }

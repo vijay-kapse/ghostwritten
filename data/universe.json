@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T11:18:39Z",
+  "generated_at": "2026-11-11T11:04:34Z",
   "top_refreshed_at": "2026-11-09T11:43:42Z",
   "selection": "top 5000 by stars (search stars:>1000, non-fork), plus on-demand lookups",
   "repos": [
@@ -45055,6 +45055,7 @@
     "comet-ml/opik",
     "cube-js/cube",
     "cursor/plugins",
+    "cypress-io/cypress",
     "czlonkowski/n8n-mcp",
     "daijro/camoufox",
     "datahub-project/datahub",

@@ -3,9 +3,9 @@
   "repo": "github/copilot-cli",
   "org": "github",
   "language": "Python",
-  "stars": 11319,
+  "stars": 11386,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:29:45Z",
+  "scanned_at": "2026-11-11T11:40:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,7 +124,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 1,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

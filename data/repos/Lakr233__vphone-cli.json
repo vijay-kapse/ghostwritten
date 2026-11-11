@@ -3,9 +3,9 @@
   "repo": "Lakr233/vphone-cli",
   "org": "Lakr233",
   "language": "Swift",
-  "stars": 16347,
+  "stars": 16589,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T10:59:23Z",
+  "scanned_at": "2026-11-11T11:21:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -87,12 +87,12 @@
       }
     },
     "2026-11": {
-      "total": 75,
-      "ai": 54,
+      "total": 161,
+      "ai": 69,
       "automation": 0,
-      "merges": 38,
+      "merges": 91,
       "by_rule": {
-        "claude_trailer": 54
+        "claude_trailer": 69
       }
     }
   }

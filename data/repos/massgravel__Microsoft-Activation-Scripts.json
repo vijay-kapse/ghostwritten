@@ -3,9 +3,9 @@
   "repo": "massgravel/Microsoft-Activation-Scripts",
   "org": "massgravel",
   "language": "Batchfile",
-  "stars": 197227,
+  "stars": 198225,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:38:22Z",
+  "scanned_at": "2026-11-11T11:46:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -133,6 +133,27 @@
       "ai": 0,
       "automation": 0,
       "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

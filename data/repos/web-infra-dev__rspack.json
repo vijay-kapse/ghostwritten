@@ -3,21 +3,76 @@
   "repo": "web-infra-dev/rspack",
   "org": "web-infra-dev",
   "language": "Rust",
-  "stars": 12966,
+  "stars": 12971,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:29:36Z",
-  "window_start": "2025-08-21",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:05:52Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 63,
-      "ai": 8,
-      "automation": 3,
+    "2025-01": {
+      "total": 115,
+      "ai": 0,
+      "automation": 15,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 211,
+      "ai": 0,
+      "automation": 57,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 193,
+      "ai": 0,
+      "automation": 35,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 234,
+      "ai": 1,
+      "automation": 48,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 7,
-        "claude_generated": 2,
-        "claude_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2025-05": {
+      "total": 171,
+      "ai": 0,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 177,
+      "ai": 0,
+      "automation": 36,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 239,
+      "ai": 6,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 5,
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-08": {
+      "total": 180,
+      "ai": 19,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 15,
+        "claude_generated": 5,
+        "claude_trailer": 5,
         "copilot_author": 2
       }
     },
@@ -173,12 +228,12 @@
       }
     },
     "2026-11": {
-      "total": 52,
-      "ai": 7,
-      "automation": 8,
+      "total": 110,
+      "ai": 8,
+      "automation": 17,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5,
+        "claude_trailer": 6,
         "copilot_trailer": 2,
         "codex_trailer": 1
       }

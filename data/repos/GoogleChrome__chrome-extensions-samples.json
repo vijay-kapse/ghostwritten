@@ -3,9 +3,9 @@
   "repo": "GoogleChrome/chrome-extensions-samples",
   "org": "GoogleChrome",
   "language": "JavaScript",
-  "stars": 17835,
+  "stars": 17847,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:40:33Z",
+  "scanned_at": "2026-11-11T11:13:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -110,7 +110,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "briannesbitt/Carbon",
   "org": "briannesbitt",
   "language": "PHP",
-  "stars": 16585,
+  "stars": 16584,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:47:41Z",
+  "scanned_at": "2026-11-11T11:20:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,8 +170,8 @@
     "2026-11": {
       "total": 3,
       "ai": 0,
-      "automation": 0,
-      "merges": 4,
+      "automation": 1,
+      "merges": 5,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "dyang886/Game-Cheats-Manager",
   "org": "dyang886",
   "language": "C++",
-  "stars": 15888,
+  "stars": 16055,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:01:56Z",
+  "scanned_at": "2026-11-11T11:24:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -158,6 +158,13 @@
     },
     "2026-10": {
       "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,40 +3,62 @@
   "repo": "bilawalsidhu/gods-eye-view",
   "org": "bilawalsidhu",
   "language": "JavaScript",
-  "stars": 62025,
+  "stars": 63740,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:22:05Z",
-  "window_start": "2026-09-12",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:52:21Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-09": {
-      "total": 333,
-      "ai": 54,
+    "2026-06": {
+      "total": 1,
+      "ai": 0,
       "automation": 0,
-      "merges": 156,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-09": {
+      "total": 433,
+      "ai": 61,
+      "automation": 0,
+      "merges": 194,
       "by_rule": {
-        "claude_trailer": 53,
+        "claude_trailer": 59,
+        "copilot_trailer": 1,
         "cursor": 1
       }
     },
     "2026-10": {
-      "total": 1224,
-      "ai": 434,
+      "total": 1233,
+      "ai": 435,
       "automation": 2,
-      "merges": 795,
+      "merges": 808,
       "by_rule": {
-        "claude_trailer": 424,
+        "claude_trailer": 425,
         "cursor": 8,
         "codex_trailer": 2
       }
     },
     "2026-11": {
-      "total": 307,
-      "ai": 13,
+      "total": 583,
+      "ai": 48,
       "automation": 0,
-      "merges": 232,
+      "merges": 377,
       "by_rule": {
-        "claude_trailer": 13
+        "claude_trailer": 48
       }
     }
   }

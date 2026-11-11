@@ -3,9 +3,9 @@
   "repo": "stylelint/stylelint",
   "org": "stylelint",
   "language": "JavaScript",
-  "stars": 11542,
+  "stars": 11545,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:25:26Z",
+  "scanned_at": "2026-11-11T11:38:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,9 +166,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
+      "total": 9,
       "ai": 0,
-      "automation": 5,
+      "automation": 8,
       "merges": 0,
       "by_rule": {}
     }

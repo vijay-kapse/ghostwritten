@@ -3,9 +3,9 @@
   "repo": "huggingface/transformers.js",
   "org": "huggingface",
   "language": "JavaScript",
-  "stars": 16395,
+  "stars": 16407,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:48:35Z",
+  "scanned_at": "2026-11-11T11:21:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,6 +167,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

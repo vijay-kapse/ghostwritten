@@ -3,9 +3,9 @@
   "repo": "run-llama/liteparse",
   "org": "run-llama",
   "language": "Rust",
-  "stars": 12968,
+  "stars": 13024,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:29:03Z",
+  "scanned_at": "2026-11-11T11:05:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -88,12 +88,12 @@
       }
     },
     "2026-11": {
-      "total": 7,
-      "ai": 1,
-      "automation": 1,
-      "merges": 8,
+      "total": 36,
+      "ai": 10,
+      "automation": 2,
+      "merges": 19,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 10
       }
     }
   }

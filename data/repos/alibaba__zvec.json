@@ -3,9 +3,9 @@
   "repo": "alibaba/zvec",
   "org": "alibaba",
   "language": "C++",
-  "stars": 16169,
+  "stars": 16218,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:00:26Z",
+  "scanned_at": "2026-11-11T11:23:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,12 +97,12 @@
       }
     },
     "2026-11": {
-      "total": 17,
-      "ai": 1,
-      "automation": 1,
+      "total": 18,
+      "ai": 2,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     }
   }

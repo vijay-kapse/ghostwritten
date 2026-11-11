@@ -3,9 +3,9 @@
   "repo": "coleifer/peewee",
   "org": "coleifer",
   "language": "Python",
-  "stars": 12003,
+  "stars": 12005,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:16:28Z",
+  "scanned_at": "2026-11-11T11:33:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,7 +143,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 8,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "pi-hole/docker-pi-hole",
   "org": "pi-hole",
   "language": "Shell",
-  "stars": 11734,
+  "stars": 11755,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:21:53Z",
+  "scanned_at": "2026-11-11T11:37:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,6 +166,15 @@
       "merges": 9,
       "by_rule": {
         "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

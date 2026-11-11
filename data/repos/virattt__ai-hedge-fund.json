@@ -3,9 +3,9 @@
   "repo": "virattt/ai-hedge-fund",
   "org": "virattt",
   "language": "Python",
-  "stars": 64417,
+  "stars": 64589,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:41:46Z",
+  "scanned_at": "2026-11-11T11:49:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,12 +172,12 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 2,
+      "total": 14,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "cursor": 2
+        "cursor": 4
       }
     }
   }

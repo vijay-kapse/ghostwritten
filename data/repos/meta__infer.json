@@ -3,9 +3,9 @@
   "repo": "meta/infer",
   "org": "meta",
   "language": "OCaml",
-  "stars": 15740,
+  "stars": 15746,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:03:09Z",
+  "scanned_at": "2026-11-11T11:25:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 8,
+      "total": 10,
       "ai": 0,
       "automation": 5,
       "merges": 0,

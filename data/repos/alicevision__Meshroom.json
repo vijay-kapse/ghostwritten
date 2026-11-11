@@ -3,9 +3,9 @@
   "repo": "alicevision/Meshroom",
   "org": "alicevision",
   "language": "Python",
-  "stars": 13058,
+  "stars": 13075,
   "default_branch": "develop",
-  "scanned_at": "2026-11-05T11:27:34Z",
+  "scanned_at": "2026-11-11T11:05:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,12 +185,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 4,
+      "total": 17,
+      "ai": 7,
       "automation": 0,
-      "merges": 2,
+      "merges": 7,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 7
       }
     }
   }

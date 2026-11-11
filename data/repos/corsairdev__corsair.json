@@ -3,9 +3,9 @@
   "repo": "corsairdev/corsair",
   "org": "corsairdev",
   "language": "TypeScript",
-  "stars": 15710,
+  "stars": 15683,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:03:24Z",
+  "scanned_at": "2026-11-11T11:25:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -110,9 +110,9 @@
       }
     },
     "2026-11": {
-      "total": 356,
+      "total": 415,
       "ai": 16,
-      "automation": 0,
+      "automation": 41,
       "merges": 65,
       "by_rule": {
         "claude_trailer": 16

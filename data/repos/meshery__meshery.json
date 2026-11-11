@@ -2,26 +2,49 @@
   "schema": 1,
   "repo": "meshery/meshery",
   "org": "meshery",
-  "language": "TypeScript",
-  "stars": 12103,
+  "language": "Go",
+  "stars": 12154,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:14:08Z",
-  "window_start": "2026-07-02",
+  "scanned_at": "2026-11-11T11:32:26Z",
+  "window_start": "2026-05-14",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 569,
-      "ai": 15,
-      "automation": 16,
-      "merges": 300,
+    "2026-05": {
+      "total": 584,
+      "ai": 66,
+      "automation": 3,
+      "merges": 292,
       "by_rule": {
+        "copilot_trailer": 33,
+        "gemini": 21,
+        "copilot_author": 13
+      }
+    },
+    "2026-06": {
+      "total": 673,
+      "ai": 77,
+      "automation": 18,
+      "merges": 542,
+      "by_rule": {
+        "gemini": 32,
+        "copilot_trailer": 30,
+        "copilot_author": 14,
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 622,
+      "ai": 21,
+      "automation": 23,
+      "merges": 328,
+      "by_rule": {
+        "copilot_trailer": 11,
         "copilot_author": 5,
-        "copilot_trailer": 5,
         "gemini": 5
       }
     },
     "2026-08": {
-      "total": 601,
+      "total": 602,
       "ai": 19,
       "automation": 10,
       "merges": 357,
@@ -50,12 +73,13 @@
       }
     },
     "2026-11": {
-      "total": 163,
-      "ai": 1,
+      "total": 511,
+      "ai": 4,
       "automation": 0,
-      "merges": 97,
+      "merges": 449,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3,
+        "copilot_author": 1
       }
     }
   }

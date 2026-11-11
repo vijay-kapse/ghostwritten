@@ -3,9 +3,9 @@
   "repo": "spencermountain/compromise",
   "org": "spencermountain",
   "language": "JavaScript",
-  "stars": 12169,
+  "stars": 12171,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:12:51Z",
+  "scanned_at": "2026-11-11T11:31:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,11 +117,22 @@
       }
     },
     "2026-10": {
-      "total": 134,
-      "ai": 0,
+      "total": 156,
+      "ai": 7,
       "automation": 0,
-      "merges": 24,
-      "by_rule": {}
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-11": {
+      "total": 62,
+      "ai": 8,
+      "automation": 0,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 8
+      }
     }
   }
 }

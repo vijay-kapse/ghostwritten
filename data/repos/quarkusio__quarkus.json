@@ -3,17 +3,56 @@
   "repo": "quarkusio/quarkus",
   "org": "quarkusio",
   "language": "Java",
-  "stars": 15973,
+  "stars": 15978,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:01:32Z",
-  "window_start": "2026-03-02",
+  "scanned_at": "2026-11-11T11:24:18Z",
+  "window_start": "2025-10-08",
   "complete": false,
   "months": {
+    "2025-10": {
+      "total": 188,
+      "ai": 1,
+      "automation": 26,
+      "merges": 144,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2025-11": {
+      "total": 238,
+      "ai": 0,
+      "automation": 46,
+      "merges": 226,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 269,
+      "ai": 1,
+      "automation": 41,
+      "merges": 247,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 323,
+      "ai": 0,
+      "automation": 59,
+      "merges": 309,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 285,
+      "ai": 0,
+      "automation": 39,
+      "merges": 245,
+      "by_rule": {}
+    },
     "2026-03": {
-      "total": 243,
+      "total": 248,
       "ai": 13,
-      "automation": 17,
-      "merges": 215,
+      "automation": 18,
+      "merges": 224,
       "by_rule": {
         "claude_trailer": 13
       }
@@ -69,7 +108,7 @@
       }
     },
     "2026-09": {
-      "total": 435,
+      "total": 436,
       "ai": 11,
       "automation": 40,
       "merges": 349,
@@ -78,7 +117,7 @@
       }
     },
     "2026-10": {
-      "total": 458,
+      "total": 472,
       "ai": 11,
       "automation": 61,
       "merges": 361,
@@ -87,12 +126,12 @@
       }
     },
     "2026-11": {
-      "total": 83,
-      "ai": 1,
-      "automation": 3,
-      "merges": 87,
+      "total": 178,
+      "ai": 3,
+      "automation": 16,
+      "merges": 170,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

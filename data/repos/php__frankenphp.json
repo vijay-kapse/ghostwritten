@@ -3,9 +3,9 @@
   "repo": "php/frankenphp",
   "org": "php",
   "language": "Go",
-  "stars": 11506,
+  "stars": 11520,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:10Z",
+  "scanned_at": "2026-11-11T11:38:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,7 +187,7 @@
       }
     },
     "2026-11": {
-      "total": 36,
+      "total": 42,
       "ai": 1,
       "automation": 2,
       "merges": 0,

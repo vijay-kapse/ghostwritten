@@ -3,9 +3,9 @@
   "repo": "daijro/camoufox",
   "org": "daijro",
   "language": "Python",
-  "stars": 12967,
+  "stars": 13139,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:29:06Z",
+  "scanned_at": "2026-11-11T11:05:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,12 +151,12 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 5,
+      "total": 30,
+      "ai": 26,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 26
       }
     }
   }

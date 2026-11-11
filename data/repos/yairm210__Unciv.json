@@ -3,9 +3,9 @@
   "repo": "yairm210/Unciv",
   "org": "yairm210",
   "language": "Kotlin",
-  "stars": 11518,
+  "stars": 11549,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:26:01Z",
+  "scanned_at": "2026-11-11T11:38:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 39,
+      "total": 76,
       "ai": 0,
       "automation": 0,
       "merges": 0,

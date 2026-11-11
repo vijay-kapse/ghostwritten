@@ -3,9 +3,9 @@
   "repo": "codecentric/spring-boot-admin",
   "org": "codecentric",
   "language": "Java",
-  "stars": 12853,
+  "stars": 12852,
   "default_branch": "master",
-  "scanned_at": "2026-11-05T11:33:50Z",
+  "scanned_at": "2026-11-11T11:08:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,11 +177,13 @@
       }
     },
     "2026-11": {
-      "total": 0,
-      "ai": 0,
-      "automation": 11,
+      "total": 6,
+      "ai": 1,
+      "automation": 37,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

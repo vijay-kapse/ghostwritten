@@ -3,9 +3,9 @@
   "repo": "lostindark/DriverStoreExplorer",
   "org": "lostindark",
   "language": "C#",
-  "stars": 12059,
+  "stars": 12113,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:15:56Z",
+  "scanned_at": "2026-11-11T11:33:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -149,7 +149,7 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 28,
       "ai": 9,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "ohmyzsh/ohmyzsh",
   "org": "ohmyzsh",
   "language": "Shell",
-  "stars": 190285,
+  "stars": 190381,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:38:24Z",
+  "scanned_at": "2026-11-11T11:47:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,9 +178,9 @@
       }
     },
     "2026-11": {
-      "total": 0,
+      "total": 5,
       "ai": 0,
-      "automation": 2,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     }

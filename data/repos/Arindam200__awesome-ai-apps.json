@@ -3,9 +3,9 @@
   "repo": "Arindam200/awesome-ai-apps",
   "org": "Arindam200",
   "language": "Python",
-  "stars": 16655,
+  "stars": 16732,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:47:34Z",
+  "scanned_at": "2026-11-11T11:20:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,6 +167,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -3,18 +3,30 @@
   "repo": "f/prompts.chat",
   "org": "f",
   "language": "MDX",
-  "stars": 175518,
+  "stars": 176657,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:39:11Z",
-  "window_start": "2026-01-28",
+  "scanned_at": "2026-11-11T11:47:57Z",
+  "window_start": "2025-12-13",
   "complete": false,
   "months": {
-    "2026-01": {
-      "total": 71,
-      "ai": 0,
+    "2025-12": {
+      "total": 1967,
+      "ai": 3,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 5,
+      "by_rule": {
+        "copilot_author": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 782,
+      "ai": 23,
+      "automation": 0,
+      "merges": 17,
+      "by_rule": {
+        "copilot_author": 23
+      }
     },
     "2026-02": {
       "total": 411,
@@ -93,12 +105,12 @@
       }
     },
     "2026-11": {
-      "total": 261,
-      "ai": 23,
+      "total": 473,
+      "ai": 37,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "cursor": 23
+        "cursor": 37
       }
     }
   }

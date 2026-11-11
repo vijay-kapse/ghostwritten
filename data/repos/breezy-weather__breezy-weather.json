@@ -3,9 +3,9 @@
   "repo": "breezy-weather/breezy-weather",
   "org": "breezy-weather",
   "language": "Kotlin",
-  "stars": 11860,
+  "stars": 11925,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:18:29Z",
+  "scanned_at": "2026-11-11T11:35:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,9 +166,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 6,
       "ai": 0,
-      "automation": 0,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

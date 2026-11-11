@@ -3,14 +3,14 @@
   "repo": "freeCodeCamp/freeCodeCamp",
   "org": "freeCodeCamp",
   "language": "TypeScript",
-  "stars": 458366,
+  "stars": 458793,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:36:13Z",
-  "window_start": "2025-01-16",
-  "complete": false,
+  "scanned_at": "2026-11-11T11:44:11Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 141,
+      "total": 287,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -200,9 +200,9 @@
       }
     },
     "2026-11": {
-      "total": 53,
+      "total": 68,
       "ai": 0,
-      "automation": 0,
+      "automation": 7,
       "merges": 0,
       "by_rule": {}
     }

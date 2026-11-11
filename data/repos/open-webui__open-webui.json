@@ -2,18 +2,58 @@
   "schema": 1,
   "repo": "open-webui/open-webui",
   "org": "open-webui",
-  "language": "Python",
-  "stars": 157475,
+  "language": "Svelte",
+  "stars": 158181,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:40:03Z",
-  "window_start": "2025-11-03",
+  "scanned_at": "2026-11-11T11:48:50Z",
+  "window_start": "2025-06-16",
   "complete": false,
   "months": {
+    "2025-06": {
+      "total": 167,
+      "ai": 0,
+      "automation": 0,
+      "merges": 65,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 496,
+      "ai": 1,
+      "automation": 4,
+      "merges": 109,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-08": {
+      "total": 486,
+      "ai": 0,
+      "automation": 5,
+      "merges": 137,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 586,
+      "ai": 9,
+      "automation": 17,
+      "merges": 155,
+      "by_rule": {
+        "gemini": 9
+      }
+    },
+    "2025-10": {
+      "total": 256,
+      "ai": 0,
+      "automation": 5,
+      "merges": 96,
+      "by_rule": {}
+    },
     "2025-11": {
-      "total": 396,
+      "total": 407,
       "ai": 7,
       "automation": 0,
-      "merges": 35,
+      "merges": 40,
       "by_rule": {
         "claude_trailer": 5,
         "gemini": 3
@@ -120,10 +160,10 @@
       }
     },
     "2026-11": {
-      "total": 130,
+      "total": 444,
       "ai": 1,
       "automation": 0,
-      "merges": 1,
+      "merges": 4,
       "by_rule": {
         "claude_trailer": 1
       }

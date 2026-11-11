@@ -3,9 +3,9 @@
   "repo": "playcanvas/engine",
   "org": "playcanvas",
   "language": "JavaScript",
-  "stars": 17173,
+  "stars": 17246,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:43:54Z",
+  "scanned_at": "2026-11-11T11:16:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,12 +200,12 @@
       }
     },
     "2026-11": {
-      "total": 55,
-      "ai": 9,
-      "automation": 2,
+      "total": 102,
+      "ai": 10,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 10
       }
     }
   }

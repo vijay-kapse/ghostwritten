@@ -3,9 +3,9 @@
   "repo": "triggerdotdev/trigger.dev",
   "org": "triggerdotdev",
   "language": "TypeScript",
-  "stars": 16677,
+  "stars": 16734,
   "default_branch": "main",
-  "scanned_at": "2026-11-05T11:47:26Z",
+  "scanned_at": "2026-11-11T11:20:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -208,6 +208,15 @@
       "merges": 0,
       "by_rule": {
         "claude_generated": 1,
+        "other_bot_agent": 1
+      }
+    },
+    "2026-11": {
+      "total": 112,
+      "ai": 1,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
         "other_bot_agent": 1
       }
     }

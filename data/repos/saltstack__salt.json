@@ -3,9 +3,9 @@
   "repo": "saltstack/salt",
   "org": "saltstack",
   "language": "Python",
-  "stars": 15728,
+  "stars": 15750,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:03:18Z",
+  "scanned_at": "2026-11-11T11:25:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,11 +176,13 @@
       }
     },
     "2026-11": {
-      "total": 34,
-      "ai": 0,
+      "total": 41,
+      "ai": 1,
       "automation": 0,
       "merges": 4,
-      "by_rule": {}
+      "by_rule": {
+        "cursor": 1
+      }
     }
   }
 }

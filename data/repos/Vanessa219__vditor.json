@@ -3,9 +3,9 @@
   "repo": "Vanessa219/vditor",
   "org": "Vanessa219",
   "language": "TypeScript",
-  "stars": 11424,
+  "stars": 11442,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:26:47Z",
+  "scanned_at": "2026-11-11T11:39:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -81,6 +81,13 @@
     },
     "2026-10": {
       "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 5,
       "ai": 0,
       "automation": 0,
       "merges": 0,

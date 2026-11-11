@@ -3,9 +3,9 @@
   "repo": "TwiN/gatus",
   "org": "TwiN",
   "language": "Go",
-  "stars": 12469,
+  "stars": 12665,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:06:57Z",
+  "scanned_at": "2026-11-11T11:27:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,9 +183,9 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 3,
       "ai": 0,
-      "automation": 2,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "beetbox/beets",
   "org": "beetbox",
   "language": "Python",
-  "stars": 15881,
+  "stars": 15913,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:02:01Z",
+  "scanned_at": "2026-11-11T11:24:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,10 +183,10 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 23,
       "ai": 3,
       "automation": 0,
-      "merges": 24,
+      "merges": 30,
       "by_rule": {
         "cursor": 2,
         "claude_trailer": 1

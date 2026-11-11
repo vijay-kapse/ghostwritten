@@ -3,9 +3,9 @@
   "repo": "upstash/context7",
   "org": "upstash",
   "language": "TypeScript",
-  "stars": 64046,
+  "stars": 64406,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:20:04Z",
+  "scanned_at": "2026-11-11T11:50:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,9 +176,9 @@
       }
     },
     "2026-11": {
-      "total": 32,
+      "total": 44,
       "ai": 0,
-      "automation": 14,
+      "automation": 15,
       "merges": 0,
       "by_rule": {}
     }

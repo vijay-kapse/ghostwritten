@@ -3,9 +3,9 @@
   "repo": "Termix-SSH/Termix",
   "org": "Termix-SSH",
   "language": "TypeScript",
-  "stars": 15771,
+  "stars": 15898,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:03:04Z",
+  "scanned_at": "2026-11-11T11:25:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,11 +152,14 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 0,
+      "total": 9,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
     }
   }
 }

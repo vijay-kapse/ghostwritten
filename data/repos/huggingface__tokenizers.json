@@ -3,9 +3,9 @@
   "repo": "huggingface/tokenizers",
   "org": "huggingface",
   "language": "Rust",
-  "stars": 11217,
+  "stars": 11230,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:32:38Z",
+  "scanned_at": "2026-11-11T11:42:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,12 @@
       }
     },
     "2026-11": {
-      "total": 14,
-      "ai": 2,
-      "automation": 0,
+      "total": 21,
+      "ai": 3,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

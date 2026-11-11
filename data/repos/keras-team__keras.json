@@ -3,9 +3,9 @@
   "repo": "keras-team/keras",
   "org": "keras-team",
   "language": "Python",
-  "stars": 64411,
+  "stars": 64417,
   "default_branch": "master",
-  "scanned_at": "2026-11-06T11:41:55Z",
+  "scanned_at": "2026-11-11T11:49:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,12 +195,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 1,
-      "automation": 1,
+      "total": 64,
+      "ai": 4,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "gemini": 1
+        "gemini": 4
       }
     }
   }

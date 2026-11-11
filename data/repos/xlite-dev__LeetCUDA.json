@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "xlite-dev/LeetCUDA",
   "org": "xlite-dev",
-  "language": "Cuda",
-  "stars": 12145,
+  "language": "TeX",
+  "stars": 12162,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:13:15Z",
+  "scanned_at": "2026-11-11T11:31:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 17,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {}
     }
   }

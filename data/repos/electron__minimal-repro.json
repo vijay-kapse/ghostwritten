@@ -3,9 +3,9 @@
   "repo": "electron/minimal-repro",
   "org": "electron",
   "language": "JavaScript",
-  "stars": 11430,
+  "stars": 11429,
   "default_branch": "main",
-  "scanned_at": "2026-11-06T11:26:42Z",
+  "scanned_at": "2026-11-11T11:39:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

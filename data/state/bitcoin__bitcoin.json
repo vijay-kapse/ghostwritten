@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "bitcoin/bitcoin",
-  "head_sha": "49c3c7fe09ac311ea9ce37599a0df3e4065657f9",
-  "oldest": "2025-06-25T21:08:49Z",
-  "complete": false,
+  "head_sha": "a06515e9fdf81a762804471733b1f43a13e1f10b",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-08T10:46:40Z"
+  "updated_at": "2026-11-12T11:57:14Z"
 }

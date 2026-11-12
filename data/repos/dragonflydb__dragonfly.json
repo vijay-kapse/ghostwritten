@@ -3,9 +3,9 @@
   "repo": "dragonflydb/dragonfly",
   "org": "dragonflydb",
   "language": "C++",
-  "stars": 31839,
+  "stars": 31851,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:02:14Z",
+  "scanned_at": "2026-11-12T12:07:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,7 +205,7 @@
       }
     },
     "2026-11": {
-      "total": 40,
+      "total": 61,
       "ai": 0,
       "automation": 0,
       "merges": 0,

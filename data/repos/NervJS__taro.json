@@ -3,9 +3,9 @@
   "repo": "NervJS/taro",
   "org": "NervJS",
   "language": "TypeScript",
-  "stars": 37744,
+  "stars": 37742,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:39:32Z",
+  "scanned_at": "2026-11-12T11:52:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 36,
       "ai": 0,
       "automation": 0,
       "merges": 0,

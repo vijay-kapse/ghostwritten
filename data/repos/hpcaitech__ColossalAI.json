@@ -3,9 +3,9 @@
   "repo": "hpcaitech/ColossalAI",
   "org": "hpcaitech",
   "language": "Python",
-  "stars": 41433,
+  "stars": 41431,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:51:55Z",
+  "scanned_at": "2026-11-12T11:43:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -103,10 +103,10 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 30,
       "ai": 0,
       "automation": 0,
-      "merges": 4,
+      "merges": 9,
       "by_rule": {}
     }
   }

@@ -3,19 +3,33 @@
   "repo": "codewhale-hq/Codewhale",
   "org": "codewhale-hq",
   "language": "Rust",
-  "stars": 41164,
+  "stars": 41160,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:53:18Z",
-  "window_start": "2026-09-25",
+  "scanned_at": "2026-11-12T11:44:47Z",
+  "window_start": "2026-08-27",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 911,
-      "ai": 566,
-      "automation": 19,
-      "merges": 373,
+    "2026-08": {
+      "total": 213,
+      "ai": 12,
+      "automation": 4,
+      "merges": 99,
       "by_rule": {
-        "claude_trailer": 566
+        "claude_trailer": 7,
+        "claude_generated": 5
+      }
+    },
+    "2026-09": {
+      "total": 2602,
+      "ai": 1263,
+      "automation": 45,
+      "merges": 840,
+      "by_rule": {
+        "claude_trailer": 1190,
+        "devin": 50,
+        "claude_generated": 16,
+        "cursor": 6,
+        "copilot_trailer": 4
       }
     },
     "2026-10": {
@@ -30,12 +44,12 @@
       }
     },
     "2026-11": {
-      "total": 286,
-      "ai": 66,
+      "total": 696,
+      "ai": 350,
       "automation": 17,
-      "merges": 132,
+      "merges": 137,
       "by_rule": {
-        "claude_trailer": 56,
+        "claude_trailer": 340,
         "copilot_trailer": 10
       }
     }

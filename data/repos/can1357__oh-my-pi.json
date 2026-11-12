@@ -3,27 +3,30 @@
   "repo": "can1357/oh-my-pi",
   "org": "can1357",
   "language": "TypeScript",
-  "stars": 37424,
+  "stars": 38355,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:41:01Z",
-  "window_start": "2026-10-26",
+  "scanned_at": "2026-11-12T11:53:49Z",
+  "window_start": "2026-10-18",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 1257,
-      "ai": 13,
+      "total": 2250,
+      "ai": 19,
       "automation": 0,
-      "merges": 470,
+      "merges": 881,
       "by_rule": {
-        "claude_trailer": 13
+        "claude_trailer": 19
       }
     },
     "2026-11": {
-      "total": 1309,
-      "ai": 0,
+      "total": 2461,
+      "ai": 4,
       "automation": 0,
-      "merges": 417,
-      "by_rule": {}
+      "merges": 730,
+      "by_rule": {
+        "claude_trailer": 3,
+        "cursor": 1
+      }
     }
   }
 }

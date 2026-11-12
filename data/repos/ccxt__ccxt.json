@@ -3,20 +3,51 @@
   "repo": "ccxt/ccxt",
   "org": "ccxt",
   "language": "Python",
-  "stars": 44666,
+  "stars": 44831,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:47:52Z",
-  "window_start": "2026-08-05",
+  "scanned_at": "2026-11-12T11:40:30Z",
+  "window_start": "2026-05-22",
   "complete": false,
   "months": {
+    "2026-05": {
+      "total": 51,
+      "ai": 5,
+      "automation": 135,
+      "merges": 13,
+      "by_rule": {
+        "copilot_trailer": 5,
+        "copilot_author": 1
+      }
+    },
+    "2026-06": {
+      "total": 327,
+      "ai": 11,
+      "automation": 716,
+      "merges": 72,
+      "by_rule": {
+        "copilot_trailer": 9,
+        "claude_trailer": 2
+      }
+    },
+    "2026-07": {
+      "total": 349,
+      "ai": 12,
+      "automation": 647,
+      "merges": 17,
+      "by_rule": {
+        "copilot_trailer": 10,
+        "claude_trailer": 3,
+        "copilot_author": 3
+      }
+    },
     "2026-08": {
-      "total": 383,
-      "ai": 28,
-      "automation": 1082,
+      "total": 536,
+      "ai": 39,
+      "automation": 1402,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 20,
-        "copilot_trailer": 7,
+        "claude_trailer": 28,
+        "copilot_trailer": 10,
         "cursor": 1
       }
     },
@@ -41,12 +72,13 @@
       }
     },
     "2026-11": {
-      "total": 20,
-      "ai": 2,
-      "automation": 58,
+      "total": 47,
+      "ai": 10,
+      "automation": 146,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 9,
+        "copilot_trailer": 1
       }
     }
   }

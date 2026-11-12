@@ -3,9 +3,9 @@
   "repo": "lfnovo/open-notebook",
   "org": "lfnovo",
   "language": "TypeScript",
-  "stars": 41289,
+  "stars": 41787,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:52:13Z",
+  "scanned_at": "2026-11-12T11:43:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,12 +170,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
-      "automation": 0,
+      "total": 20,
+      "ai": 12,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 12
       }
     }
   }

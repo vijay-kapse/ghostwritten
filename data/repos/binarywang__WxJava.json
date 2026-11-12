@@ -3,9 +3,9 @@
   "repo": "binarywang/WxJava",
   "org": "binarywang",
   "language": "Java",
-  "stars": 33174,
+  "stars": 33192,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:55:45Z",
+  "scanned_at": "2026-11-12T12:03:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 1,
+      "total": 7,
+      "ai": 3,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "devin": 1
+        "devin": 3
       }
     }
   }

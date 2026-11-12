@@ -3,9 +3,9 @@
   "repo": "AlexsJones/llmfit",
   "org": "AlexsJones",
   "language": "Rust",
-  "stars": 38544,
+  "stars": 38817,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:36:52Z",
+  "scanned_at": "2026-11-12T11:50:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,12 +97,12 @@
       }
     },
     "2026-11": {
-      "total": 49,
-      "ai": 12,
-      "automation": 2,
+      "total": 54,
+      "ai": 15,
+      "automation": 4,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 12
+        "claude_trailer": 15
       }
     }
   }

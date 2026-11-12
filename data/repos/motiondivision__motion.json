@@ -3,9 +3,9 @@
   "repo": "motiondivision/motion",
   "org": "motiondivision",
   "language": "TypeScript",
-  "stars": 34775,
+  "stars": 35013,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:49:55Z",
+  "scanned_at": "2026-11-12T11:59:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 82,
-      "ai": 70,
+      "total": 130,
+      "ai": 108,
       "automation": 1,
-      "merges": 49,
+      "merges": 56,
       "by_rule": {
-        "claude_trailer": 70
+        "claude_trailer": 108
       }
     }
   }

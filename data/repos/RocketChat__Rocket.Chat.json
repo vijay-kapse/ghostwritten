@@ -3,17 +3,45 @@
   "repo": "RocketChat/Rocket.Chat",
   "org": "RocketChat",
   "language": "TypeScript",
-  "stars": 46358,
+  "stars": 46381,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:43:18Z",
-  "window_start": "2025-05-05",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:37:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 127,
-      "ai": 1,
+    "2025-01": {
+      "total": 112,
+      "ai": 0,
+      "automation": 7,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 143,
+      "ai": 0,
+      "automation": 14,
+      "merges": 5,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 154,
+      "ai": 0,
       "automation": 5,
-      "merges": 11,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 162,
+      "ai": 0,
+      "automation": 4,
+      "merges": 7,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 133,
+      "ai": 1,
+      "automation": 6,
+      "merges": 12,
       "by_rule": {
         "copilot_trailer": 1
       }
@@ -175,12 +203,12 @@
       }
     },
     "2026-11": {
-      "total": 71,
-      "ai": 7,
-      "automation": 0,
-      "merges": 1,
+      "total": 136,
+      "ai": 15,
+      "automation": 5,
+      "merges": 4,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 15
       }
     }
   }

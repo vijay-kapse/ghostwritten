@@ -3,17 +3,66 @@
   "repo": "Dokploy/dokploy",
   "org": "Dokploy",
   "language": "TypeScript",
-  "stars": 38174,
+  "stars": 38309,
   "default_branch": "canary",
-  "scanned_at": "2026-11-08T10:38:50Z",
-  "window_start": "2025-08-10",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:52:03Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-08": {
-      "total": 72,
+    "2025-01": {
+      "total": 214,
       "ai": 0,
-      "automation": 10,
-      "merges": 38,
+      "automation": 0,
+      "merges": 111,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 171,
+      "ai": 0,
+      "automation": 0,
+      "merges": 57,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 288,
+      "ai": 0,
+      "automation": 2,
+      "merges": 120,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 95,
+      "ai": 0,
+      "automation": 13,
+      "merges": 59,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 143,
+      "ai": 0,
+      "automation": 4,
+      "merges": 53,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 102,
+      "ai": 0,
+      "automation": 8,
+      "merges": 48,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 136,
+      "ai": 0,
+      "automation": 9,
+      "merges": 73,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 124,
+      "ai": 0,
+      "automation": 11,
+      "merges": 75,
       "by_rule": {}
     },
     "2025-09": {
@@ -143,11 +192,14 @@
       }
     },
     "2026-11": {
-      "total": 30,
-      "ai": 0,
-      "automation": 2,
-      "merges": 21,
-      "by_rule": {}
+      "total": 91,
+      "ai": 2,
+      "automation": 5,
+      "merges": 65,
+      "by_rule": {
+        "claude_trailer": 1,
+        "devin": 1
+      }
     }
   }
 }

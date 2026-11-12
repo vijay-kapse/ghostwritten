@@ -3,9 +3,9 @@
   "repo": "Leonxlnx/taste-skill",
   "org": "Leonxlnx",
   "language": "JavaScript",
-  "stars": 107655,
+  "stars": 112276,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:43:58Z",
+  "scanned_at": "2026-11-12T11:37:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -85,12 +85,12 @@
       }
     },
     "2026-11": {
-      "total": 15,
-      "ai": 14,
+      "total": 16,
+      "ai": 15,
       "automation": 0,
-      "merges": 9,
+      "merges": 10,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 15
       }
     }
   }

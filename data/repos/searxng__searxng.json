@@ -3,9 +3,9 @@
   "repo": "searxng/searxng",
   "org": "searxng",
   "language": "Python",
-  "stars": 39086,
+  "stars": 39370,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:34:57Z",
+  "scanned_at": "2026-11-12T11:49:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,9 +164,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 9,
+      "total": 22,
       "ai": 0,
-      "automation": 3,
+      "automation": 5,
       "merges": 0,
       "by_rule": {}
     }

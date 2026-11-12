@@ -3,9 +3,9 @@
   "repo": "Crosstalk-Solutions/project-nomad",
   "org": "Crosstalk-Solutions",
   "language": "TypeScript",
-  "stars": 41602,
+  "stars": 42922,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:51:52Z",
+  "scanned_at": "2026-11-12T11:43:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -149,6 +149,13 @@
       "by_rule": {
         "claude_trailer": 3
       }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

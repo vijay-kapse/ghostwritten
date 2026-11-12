@@ -3,9 +3,9 @@
   "repo": "dbeaver/dbeaver",
   "org": "dbeaver",
   "language": "Java",
-  "stars": 52262,
+  "stars": 52365,
   "default_branch": "devel",
-  "scanned_at": "2026-11-07T10:32:31Z",
+  "scanned_at": "2026-11-12T11:29:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,7 +199,7 @@
       }
     },
     "2026-11": {
-      "total": 88,
+      "total": 125,
       "ai": 2,
       "automation": 0,
       "merges": 2,

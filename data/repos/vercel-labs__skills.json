@@ -3,9 +3,9 @@
   "repo": "vercel-labs/skills",
   "org": "vercel-labs",
   "language": "TypeScript",
-  "stars": 37579,
+  "stars": 38686,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:40:20Z",
+  "scanned_at": "2026-11-12T11:53:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,12 +97,12 @@
       }
     },
     "2026-11": {
-      "total": 29,
-      "ai": 4,
+      "total": 56,
+      "ai": 5,
       "automation": 0,
       "merges": 5,
       "by_rule": {
-        "claude_trailer": 2,
+        "claude_trailer": 3,
         "cursor": 2,
         "codex_trailer": 1
       }

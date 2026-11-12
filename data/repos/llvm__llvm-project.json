@@ -3,35 +3,37 @@
   "repo": "llvm/llvm-project",
   "org": "llvm",
   "language": "LLVM",
-  "stars": 41289,
+  "stars": 41375,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:52:35Z",
-  "window_start": "2026-10-20",
+  "scanned_at": "2026-11-12T11:44:02Z",
+  "window_start": "2026-10-09",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 2108,
-      "ai": 189,
-      "automation": 25,
+      "total": 3994,
+      "ai": 347,
+      "automation": 39,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 169,
-        "cursor": 16,
-        "claude_generated": 4,
+        "claude_trailer": 317,
+        "cursor": 23,
+        "claude_generated": 10,
+        "amp_factory": 1,
         "codex_trailer": 1,
+        "copilot_trailer": 1,
         "devin": 1
       }
     },
     "2026-11": {
-      "total": 1388,
-      "ai": 140,
-      "automation": 16,
+      "total": 2422,
+      "ai": 234,
+      "automation": 23,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 127,
-        "copilot_trailer": 9,
-        "claude_generated": 5,
-        "cursor": 3
+        "claude_trailer": 215,
+        "copilot_trailer": 12,
+        "cursor": 6,
+        "claude_generated": 5
       }
     }
   }

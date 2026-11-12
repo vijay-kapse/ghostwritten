@@ -3,9 +3,9 @@
   "repo": "nvm-sh/nvm",
   "org": "nvm-sh",
   "language": "Shell",
-  "stars": 95737,
+  "stars": 95772,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:32:38Z",
+  "scanned_at": "2026-11-12T11:47:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -69,7 +69,7 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 21,
       "ai": 0,
       "automation": 0,
       "merges": 0,

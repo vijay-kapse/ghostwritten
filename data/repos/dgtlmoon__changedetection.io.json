@@ -3,9 +3,9 @@
   "repo": "dgtlmoon/changedetection.io",
   "org": "dgtlmoon",
   "language": "Python",
-  "stars": 35433,
+  "stars": 35666,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:47:47Z",
+  "scanned_at": "2026-11-12T11:58:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,12 +163,12 @@
       }
     },
     "2026-11": {
-      "total": 52,
-      "ai": 35,
-      "automation": 5,
+      "total": 62,
+      "ai": 39,
+      "automation": 12,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 33,
+        "claude_trailer": 37,
         "copilot_trailer": 4
       }
     }

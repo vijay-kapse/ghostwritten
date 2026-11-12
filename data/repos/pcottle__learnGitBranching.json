@@ -3,9 +3,9 @@
   "repo": "pcottle/learnGitBranching",
   "org": "pcottle",
   "language": "JavaScript",
-  "stars": 34178,
+  "stars": 34192,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:51:45Z",
+  "scanned_at": "2026-11-12T12:00:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,12 +172,12 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 3,
-      "automation": 1,
-      "merges": 5,
+      "total": 14,
+      "ai": 4,
+      "automation": 6,
+      "merges": 11,
       "by_rule": {
-        "copilot_author": 2,
+        "copilot_author": 3,
         "claude_trailer": 1
       }
     }

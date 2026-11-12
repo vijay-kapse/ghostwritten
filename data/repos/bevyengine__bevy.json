@@ -3,16 +3,51 @@
   "repo": "bevyengine/bevy",
   "org": "bevyengine",
   "language": "Rust",
-  "stars": 49442,
+  "stars": 49640,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:38:08Z",
-  "window_start": "2025-06-13",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:33:15Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 134,
+    "2025-01": {
+      "total": 270,
       "ai": 0,
-      "automation": 7,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 210,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 278,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 82,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 181,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 210,
+      "ai": 0,
+      "automation": 8,
       "merges": 0,
       "by_rule": {}
     },
@@ -131,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 29,
+      "total": 59,
       "ai": 1,
       "automation": 4,
       "merges": 0,

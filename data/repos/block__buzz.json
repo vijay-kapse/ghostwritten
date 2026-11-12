@@ -3,9 +3,9 @@
   "repo": "block/buzz",
   "org": "block",
   "language": "Rust",
-  "stars": 36656,
+  "stars": 36819,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:44:28Z",
+  "scanned_at": "2026-11-12T11:55:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,14 +97,14 @@
       }
     },
     "2026-11": {
-      "total": 220,
-      "ai": 159,
+      "total": 286,
+      "ai": 205,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 147,
-        "claude_trailer": 141,
-        "codex_trailer": 1
+        "claude_generated": 188,
+        "claude_trailer": 181,
+        "codex_trailer": 3
       }
     }
   }

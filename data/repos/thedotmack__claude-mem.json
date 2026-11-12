@@ -3,9 +3,9 @@
   "repo": "thedotmack/claude-mem",
   "org": "thedotmack",
   "language": "TypeScript",
-  "stars": 109032,
+  "stars": 115155,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:41:48Z",
+  "scanned_at": "2026-11-12T11:36:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,13 +163,14 @@
       }
     },
     "2026-11": {
-      "total": 214,
-      "ai": 109,
+      "total": 791,
+      "ai": 331,
       "automation": 0,
       "merges": 6,
       "by_rule": {
-        "claude_trailer": 107,
-        "cursor": 3
+        "claude_trailer": 329,
+        "cursor": 3,
+        "codex_trailer": 1
       }
     }
   }

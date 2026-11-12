@@ -3,9 +3,9 @@
   "repo": "odysseus-dev/odysseus",
   "org": "odysseus-dev",
   "language": "Python",
-  "stars": 94880,
+  "stars": 95490,
   "default_branch": "dev",
-  "scanned_at": "2026-11-08T10:34:05Z",
+  "scanned_at": "2026-11-12T11:48:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -63,7 +63,7 @@
       }
     },
     "2026-11": {
-      "total": 42,
+      "total": 45,
       "ai": 11,
       "automation": 0,
       "merges": 0,

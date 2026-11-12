@@ -3,9 +3,9 @@
   "repo": "conductor-oss/conductor",
   "org": "conductor-oss",
   "language": "Java",
-  "stars": 32399,
+  "stars": 32448,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:59:14Z",
+  "scanned_at": "2026-11-12T12:06:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 14,
-      "ai": 2,
+      "total": 18,
+      "ai": 4,
       "automation": 0,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 4
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "vorssaint/vorssaint-utils",
   "org": "vorssaint",
   "language": "Swift",
-  "stars": 32291,
+  "stars": 33773,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:59:57Z",
+  "scanned_at": "2026-11-12T12:06:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -51,13 +51,13 @@
       }
     },
     "2026-11": {
-      "total": 29,
-      "ai": 4,
+      "total": 71,
+      "ai": 13,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 3,
-        "cursor": 1
+        "claude_trailer": 11,
+        "cursor": 2
       }
     }
   }

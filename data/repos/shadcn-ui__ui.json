@@ -3,9 +3,9 @@
   "repo": "shadcn-ui/ui",
   "org": "shadcn-ui",
   "language": "TypeScript",
-  "stars": 127115,
+  "stars": 127691,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:24:31Z",
+  "scanned_at": "2026-11-12T11:23:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,9 +194,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
+      "total": 6,
       "ai": 0,
-      "automation": 8,
+      "automation": 9,
       "merges": 0,
       "by_rule": {}
     }

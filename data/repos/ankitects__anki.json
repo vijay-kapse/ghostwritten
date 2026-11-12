@@ -3,9 +3,9 @@
   "repo": "ankitects/anki",
   "org": "ankitects",
   "language": "Rust",
-  "stars": 32458,
+  "stars": 32688,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:58:45Z",
+  "scanned_at": "2026-11-12T12:05:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,9 +170,9 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 23,
       "ai": 0,
-      "automation": 0,
+      "automation": 17,
       "merges": 0,
       "by_rule": {}
     }

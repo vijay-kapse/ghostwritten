@@ -3,9 +3,9 @@
   "repo": "k3s-io/k3s",
   "org": "k3s-io",
   "language": "Go",
-  "stars": 34310,
+  "stars": 34363,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:51:06Z",
+  "scanned_at": "2026-11-12T12:00:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 5,
       "ai": 0,
       "automation": 5,
       "merges": 0,

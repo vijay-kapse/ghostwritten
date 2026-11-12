@@ -3,19 +3,75 @@
   "repo": "logseq/logseq",
   "org": "logseq",
   "language": "Clojure",
-  "stars": 45445,
+  "stars": 45530,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:46:20Z",
-  "window_start": "2025-12-25",
+  "scanned_at": "2026-11-12T11:39:10Z",
+  "window_start": "2025-04-14",
   "complete": false,
   "months": {
+    "2025-04": {
+      "total": 257,
+      "ai": 0,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 527,
+      "ai": 0,
+      "automation": 0,
+      "merges": 36,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 380,
+      "ai": 0,
+      "automation": 0,
+      "merges": 19,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 282,
+      "ai": 0,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 281,
+      "ai": 0,
+      "automation": 0,
+      "merges": 20,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 289,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 164,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 314,
+      "ai": 0,
+      "automation": 0,
+      "merges": 6,
+      "by_rule": {}
+    },
     "2025-12": {
-      "total": 105,
-      "ai": 2,
+      "total": 361,
+      "ai": 4,
       "automation": 0,
       "merges": 5,
       "by_rule": {
-        "copilot_trailer": 2
+        "copilot_trailer": 4
       }
     },
     "2026-01": {
@@ -116,13 +172,13 @@
       }
     },
     "2026-11": {
-      "total": 9,
-      "ai": 5,
+      "total": 44,
+      "ai": 19,
       "automation": 0,
-      "merges": 2,
+      "merges": 6,
       "by_rule": {
-        "cursor": 5,
-        "devin": 2
+        "cursor": 19,
+        "devin": 3
       }
     }
   }

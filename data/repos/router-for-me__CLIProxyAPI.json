@@ -3,22 +3,73 @@
   "repo": "router-for-me/CLIProxyAPI",
   "org": "router-for-me",
   "language": "Go",
-  "stars": 57203,
+  "stars": 58029,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:26:27Z",
-  "window_start": "2026-01-05",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:24:37Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-01": {
-      "total": 220,
-      "ai": 12,
+    "2025-07": {
+      "total": 37,
+      "ai": 0,
       "automation": 0,
-      "merges": 72,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-08": {
+      "total": 36,
+      "ai": 0,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 246,
+      "ai": 0,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 170,
+      "ai": 0,
+      "automation": 0,
+      "merges": 34,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 174,
+      "ai": 3,
+      "automation": 0,
+      "merges": 33,
       "by_rule": {
+        "copilot_trailer": 2,
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-12": {
+      "total": 338,
+      "ai": 11,
+      "automation": 0,
+      "merges": 109,
+      "by_rule": {
+        "amp_factory": 6,
+        "gemini": 3,
+        "claude_generated": 2,
+        "claude_trailer": 2
+      }
+    },
+    "2026-01": {
+      "total": 252,
+      "ai": 16,
+      "automation": 0,
+      "merges": 80,
+      "by_rule": {
+        "claude_trailer": 6,
+        "gemini": 6,
         "amp_factory": 4,
-        "claude_trailer": 4,
-        "gemini": 4,
-        "claude_generated": 1
+        "claude_generated": 3
       }
     },
     "2026-02": {
@@ -111,10 +162,10 @@
       }
     },
     "2026-11": {
-      "total": 96,
+      "total": 169,
       "ai": 1,
       "automation": 0,
-      "merges": 22,
+      "merges": 37,
       "by_rule": {
         "claude_trailer": 1
       }

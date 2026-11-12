@@ -3,9 +3,9 @@
   "repo": "usebruno/bruno",
   "org": "usebruno",
   "language": "JavaScript",
-  "stars": 47979,
+  "stars": 48300,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:40:10Z",
+  "scanned_at": "2026-11-12T11:34:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 44,
-      "ai": 1,
+      "total": 55,
+      "ai": 2,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {
-        "cursor": 1
+        "cursor": 2
       }
     }
   }

@@ -3,19 +3,28 @@
   "repo": "paperclipai/paperclip",
   "org": "paperclipai",
   "language": "TypeScript",
-  "stars": 109870,
+  "stars": 112480,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:40:49Z",
-  "window_start": "2026-03-07",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:35:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 911,
-      "ai": 157,
-      "automation": 4,
-      "merges": 245,
+    "2026-02": {
+      "total": 231,
+      "ai": 228,
+      "automation": 0,
+      "merges": 0,
       "by_rule": {
-        "claude_trailer": 157
+        "claude_trailer": 228
+      }
+    },
+    "2026-03": {
+      "total": 1252,
+      "ai": 306,
+      "automation": 4,
+      "merges": 278,
+      "by_rule": {
+        "claude_trailer": 306
       }
     },
     "2026-04": {
@@ -97,13 +106,13 @@
       }
     },
     "2026-11": {
-      "total": 774,
-      "ai": 321,
-      "automation": 16,
+      "total": 1551,
+      "ai": 962,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 311,
-        "claude_generated": 289,
+        "claude_trailer": 949,
+        "claude_generated": 921,
         "codex_trailer": 7
       }
     }

@@ -3,21 +3,34 @@
   "repo": "zeroclaw-labs/zeroclaw",
   "org": "zeroclaw-labs",
   "language": "Rust",
-  "stars": 33091,
+  "stars": 33292,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:56:41Z",
-  "window_start": "2026-03-25",
-  "complete": false,
+  "scanned_at": "2026-11-12T12:04:14Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 294,
-      "ai": 144,
-      "automation": 3,
-      "merges": 38,
+    "2026-02": {
+      "total": 1198,
+      "ai": 308,
+      "automation": 30,
+      "merges": 148,
       "by_rule": {
-        "claude_trailer": 142,
-        "copilot_trailer": 2,
+        "claude_trailer": 234,
+        "copilot_trailer": 70,
+        "cursor": 2,
+        "devin": 2,
         "claude_generated": 1
+      }
+    },
+    "2026-03": {
+      "total": 1147,
+      "ai": 414,
+      "automation": 11,
+      "merges": 196,
+      "by_rule": {
+        "claude_trailer": 410,
+        "claude_generated": 11,
+        "copilot_trailer": 4
       }
     },
     "2026-04": {
@@ -83,12 +96,12 @@
       }
     },
     "2026-11": {
-      "total": 53,
-      "ai": 2,
-      "automation": 1,
+      "total": 90,
+      "ai": 3,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
+        "claude_trailer": 2,
         "cursor": 1
       }
     }

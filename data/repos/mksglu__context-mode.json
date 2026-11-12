@@ -2,20 +2,40 @@
   "schema": 1,
   "repo": "mksglu/context-mode",
   "org": "mksglu",
-  "language": "TypeScript",
-  "stars": 33143,
+  "language": "JavaScript",
+  "stars": 33732,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:56:24Z",
-  "window_start": "2026-04-25",
-  "complete": false,
+  "scanned_at": "2026-11-12T12:03:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-04": {
-      "total": 58,
-      "ai": 34,
-      "automation": 21,
-      "merges": 15,
+    "2026-02": {
+      "total": 81,
+      "ai": 55,
+      "automation": 14,
+      "merges": 0,
       "by_rule": {
-        "claude_trailer": 34
+        "claude_trailer": 55
+      }
+    },
+    "2026-03": {
+      "total": 390,
+      "ai": 303,
+      "automation": 110,
+      "merges": 46,
+      "by_rule": {
+        "claude_trailer": 293,
+        "copilot_author": 10
+      }
+    },
+    "2026-04": {
+      "total": 295,
+      "ai": 189,
+      "automation": 92,
+      "merges": 25,
+      "by_rule": {
+        "claude_trailer": 187,
+        "codex_trailer": 2
       }
     },
     "2026-05": {
@@ -70,12 +90,12 @@
       }
     },
     "2026-11": {
-      "total": 149,
-      "ai": 113,
-      "automation": 29,
-      "merges": 1,
+      "total": 248,
+      "ai": 202,
+      "automation": 36,
+      "merges": 2,
       "by_rule": {
-        "claude_trailer": 113
+        "claude_trailer": 202
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "honojs/hono",
   "org": "honojs",
   "language": "TypeScript",
-  "stars": 32772,
+  "stars": 32875,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:57:46Z",
+  "scanned_at": "2026-11-12T12:05:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,7 +184,7 @@
       }
     },
     "2026-11": {
-      "total": 26,
+      "total": 32,
       "ai": 1,
       "automation": 0,
       "merges": 0,

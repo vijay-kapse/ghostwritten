@@ -3,9 +3,9 @@
   "repo": "vuetifyjs/vuetify",
   "org": "vuetifyjs",
   "language": "TypeScript",
-  "stars": 41032,
+  "stars": 41034,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:54:03Z",
+  "scanned_at": "2026-11-12T11:45:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,7 +167,7 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 47,
       "ai": 0,
       "automation": 0,
       "merges": 0,

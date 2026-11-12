@@ -3,9 +3,9 @@
   "repo": "swc-project/swc",
   "org": "swc-project",
   "language": "Rust",
-  "stars": 34208,
+  "stars": 34211,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:51:43Z",
+  "scanned_at": "2026-11-12T12:00:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,13 +209,13 @@
       }
     },
     "2026-11": {
-      "total": 26,
-      "ai": 14,
-      "automation": 8,
+      "total": 49,
+      "ai": 32,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14,
-        "claude_generated": 11
+        "claude_trailer": 32,
+        "claude_generated": 17
       }
     }
   }

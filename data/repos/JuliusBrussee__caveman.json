@@ -3,9 +3,9 @@
   "repo": "JuliusBrussee/caveman",
   "org": "JuliusBrussee",
   "language": "Go",
-  "stars": 116667,
+  "stars": 118495,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:35:37Z",
+  "scanned_at": "2026-11-12T11:31:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -75,12 +75,12 @@
       }
     },
     "2026-11": {
-      "total": 88,
-      "ai": 66,
+      "total": 91,
+      "ai": 67,
       "automation": 5,
-      "merges": 19,
+      "merges": 21,
       "by_rule": {
-        "claude_trailer": 64,
+        "claude_trailer": 65,
         "copilot_trailer": 1,
         "cursor": 1
       }

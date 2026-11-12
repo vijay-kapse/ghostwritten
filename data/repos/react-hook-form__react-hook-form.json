@@ -3,9 +3,9 @@
   "repo": "react-hook-form/react-hook-form",
   "org": "react-hook-form",
   "language": "TypeScript",
-  "stars": 44898,
+  "stars": 44912,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:47:27Z",
+  "scanned_at": "2026-11-12T11:40:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,11 +188,13 @@
       }
     },
     "2026-11": {
-      "total": 16,
-      "ai": 0,
+      "total": 26,
+      "ai": 1,
       "automation": 3,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

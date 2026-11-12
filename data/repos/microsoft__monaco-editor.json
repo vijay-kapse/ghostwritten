@@ -3,9 +3,9 @@
   "repo": "microsoft/monaco-editor",
   "org": "microsoft",
   "language": "JavaScript",
-  "stars": 46934,
+  "stars": 46958,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:41:50Z",
+  "scanned_at": "2026-11-12T11:36:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -137,10 +137,10 @@
       "by_rule": {}
     },
     "2026-09": {
-      "total": 6,
+      "total": 7,
       "ai": 5,
       "automation": 16,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {
         "copilot_trailer": 5
       }
@@ -149,7 +149,7 @@
       "total": 3,
       "ai": 3,
       "automation": 22,
-      "merges": 5,
+      "merges": 6,
       "by_rule": {
         "copilot_trailer": 3
       }
@@ -158,7 +158,7 @@
       "total": 9,
       "ai": 9,
       "automation": 6,
-      "merges": 3,
+      "merges": 6,
       "by_rule": {
         "copilot_trailer": 9
       }

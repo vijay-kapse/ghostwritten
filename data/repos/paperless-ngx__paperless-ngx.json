@@ -3,9 +3,9 @@
   "repo": "paperless-ngx/paperless-ngx",
   "org": "paperless-ngx",
   "language": "Python",
-  "stars": 47522,
+  "stars": 47932,
   "default_branch": "dev",
-  "scanned_at": "2026-11-07T10:41:10Z",
+  "scanned_at": "2026-11-12T11:35:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,9 +180,9 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 43,
       "ai": 3,
-      "automation": 26,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
         "codex_trailer": 3,

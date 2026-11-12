@@ -3,9 +3,9 @@
   "repo": "cjpais/Handy",
   "org": "cjpais",
   "language": "Rust",
-  "stars": 36412,
+  "stars": 38117,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:45:05Z",
+  "scanned_at": "2026-11-12T11:55:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,12 +166,12 @@
       }
     },
     "2026-11": {
-      "total": 27,
-      "ai": 2,
+      "total": 46,
+      "ai": 8,
       "automation": 0,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 1,
+        "claude_trailer": 7,
         "copilot_trailer": 1
       }
     }

@@ -3,9 +3,9 @@
   "repo": "tirth8205/code-review-graph",
   "org": "tirth8205",
   "language": "Python",
-  "stars": 32540,
+  "stars": 32656,
   "default_branch": "staging",
-  "scanned_at": "2026-11-08T10:58:17Z",
+  "scanned_at": "2026-11-12T12:05:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -68,7 +68,7 @@
       }
     },
     "2026-08": {
-      "total": 60,
+      "total": 74,
       "ai": 25,
       "automation": 1,
       "merges": 51,
@@ -78,31 +78,31 @@
       }
     },
     "2026-09": {
-      "total": 187,
-      "ai": 96,
-      "automation": 0,
-      "merges": 127,
+      "total": 195,
+      "ai": 99,
+      "automation": 1,
+      "merges": 135,
       "by_rule": {
-        "claude_trailer": 95,
+        "claude_trailer": 98,
         "copilot_trailer": 1
       }
     },
     "2026-10": {
-      "total": 125,
+      "total": 126,
       "ai": 44,
       "automation": 1,
-      "merges": 44,
+      "merges": 45,
       "by_rule": {
         "claude_trailer": 44
       }
     },
     "2026-11": {
-      "total": 78,
-      "ai": 71,
+      "total": 270,
+      "ai": 239,
       "automation": 0,
-      "merges": 92,
+      "merges": 171,
       "by_rule": {
-        "claude_trailer": 71
+        "claude_trailer": 239
       }
     }
   }

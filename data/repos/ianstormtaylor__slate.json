@@ -3,9 +3,9 @@
   "repo": "ianstormtaylor/slate",
   "org": "ianstormtaylor",
   "language": "TypeScript",
-  "stars": 31746,
+  "stars": 31745,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:02:21Z",
+  "scanned_at": "2026-11-12T12:07:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,9 +175,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 3,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

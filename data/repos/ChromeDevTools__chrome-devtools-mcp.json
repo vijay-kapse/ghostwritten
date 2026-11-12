@@ -3,9 +3,9 @@
   "repo": "ChromeDevTools/chrome-devtools-mcp",
   "org": "ChromeDevTools",
   "language": "TypeScript",
-  "stars": 54617,
+  "stars": 55008,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:29:43Z",
+  "scanned_at": "2026-11-12T11:27:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -125,9 +125,9 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 42,
       "ai": 1,
-      "automation": 6,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
         "claude_generated": 1

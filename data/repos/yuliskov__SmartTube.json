@@ -3,9 +3,9 @@
   "repo": "yuliskov/SmartTube",
   "org": "yuliskov",
   "language": "Java",
-  "stars": 35819,
+  "stars": 36129,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:46:19Z",
+  "scanned_at": "2026-11-12T11:56:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -68,19 +68,19 @@
       }
     },
     "2026-10": {
-      "total": 92,
-      "ai": 2,
+      "total": 93,
+      "ai": 3,
       "automation": 0,
       "merges": 18,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     },
     "2026-11": {
-      "total": 20,
+      "total": 32,
       "ai": 1,
       "automation": 0,
-      "merges": 6,
+      "merges": 14,
       "by_rule": {
         "claude_trailer": 1
       }

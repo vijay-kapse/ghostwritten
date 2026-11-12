@@ -3,9 +3,9 @@
   "repo": "localsend/localsend",
   "org": "localsend",
   "language": "Dart",
-  "stars": 96944,
+  "stars": 98030,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:29:45Z",
+  "scanned_at": "2026-11-12T11:45:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -129,7 +129,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 10,
+      "total": 11,
       "ai": 0,
       "automation": 0,
       "merges": 0,

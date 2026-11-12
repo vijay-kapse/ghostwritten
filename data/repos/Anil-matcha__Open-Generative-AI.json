@@ -3,9 +3,9 @@
   "repo": "Anil-matcha/Open-Generative-AI",
   "org": "Anil-matcha",
   "language": "JavaScript",
-  "stars": 32013,
+  "stars": 33532,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:01:26Z",
+  "scanned_at": "2026-11-12T12:07:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -85,10 +85,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 7,
+      "total": 13,
       "ai": 1,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
         "claude_trailer": 1
       }

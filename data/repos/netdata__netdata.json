@@ -3,9 +3,9 @@
   "repo": "netdata/netdata",
   "org": "netdata",
   "language": "Go",
-  "stars": 81241,
+  "stars": 81322,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:57:58Z",
+  "scanned_at": "2026-11-12T12:05:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -227,11 +227,13 @@
       }
     },
     "2026-11": {
-      "total": 89,
-      "ai": 0,
-      "automation": 8,
+      "total": 130,
+      "ai": 1,
+      "automation": 21,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

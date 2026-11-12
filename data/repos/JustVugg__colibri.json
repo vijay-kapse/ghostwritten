@@ -3,19 +3,29 @@
   "repo": "JustVugg/colibri",
   "org": "JustVugg",
   "language": "C",
-  "stars": 45724,
+  "stars": 49232,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:44:24Z",
-  "window_start": "2026-08-18",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:37:47Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-08": {
-      "total": 307,
-      "ai": 49,
+    "2026-07": {
+      "total": 690,
+      "ai": 249,
       "automation": 0,
-      "merges": 173,
+      "merges": 318,
       "by_rule": {
-        "claude_trailer": 49
+        "claude_trailer": 248,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 640,
+      "ai": 175,
+      "automation": 0,
+      "merges": 382,
+      "by_rule": {
+        "claude_trailer": 175
       }
     },
     "2026-09": {

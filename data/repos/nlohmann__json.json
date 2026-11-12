@@ -3,9 +3,9 @@
   "repo": "nlohmann/json",
   "org": "nlohmann",
   "language": "C++",
-  "stars": 50829,
+  "stars": 50853,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:34:35Z",
+  "scanned_at": "2026-11-12T11:29:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,12 +172,12 @@
       }
     },
     "2026-11": {
-      "total": 45,
-      "ai": 11,
-      "automation": 4,
+      "total": 78,
+      "ai": 14,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11
+        "claude_trailer": 14
       }
     }
   }

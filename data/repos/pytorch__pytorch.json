@@ -3,22 +3,45 @@
   "repo": "pytorch/pytorch",
   "org": "pytorch",
   "language": "Python",
-  "stars": 105062,
+  "stars": 105279,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:46:43Z",
-  "window_start": "2026-07-17",
+  "scanned_at": "2026-11-12T11:39:23Z",
+  "window_start": "2026-05-24",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 770,
-      "ai": 58,
+    "2026-05": {
+      "total": 301,
+      "ai": 1,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 1465,
+      "ai": 61,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 46,
-        "cursor": 6,
-        "claude_generated": 4,
-        "copilot_trailer": 2
+        "claude_trailer": 40,
+        "copilot_trailer": 10,
+        "cursor": 9,
+        "claude_generated": 5,
+        "copilot_author": 1
+      }
+    },
+    "2026-07": {
+      "total": 1698,
+      "ai": 116,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 91,
+        "copilot_trailer": 11,
+        "claude_generated": 8,
+        "cursor": 7,
+        "copilot_author": 1
       }
     },
     "2026-08": {
@@ -60,15 +83,15 @@
       }
     },
     "2026-11": {
-      "total": 410,
-      "ai": 46,
+      "total": 663,
+      "ai": 68,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 39,
-        "claude_generated": 11,
-        "copilot_trailer": 3,
-        "cursor": 2
+        "claude_trailer": 56,
+        "claude_generated": 15,
+        "cursor": 5,
+        "copilot_trailer": 3
       }
     }
   }

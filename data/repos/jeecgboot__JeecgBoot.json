@@ -3,9 +3,9 @@
   "repo": "jeecgboot/JeecgBoot",
   "org": "jeecgboot",
   "language": "Java",
-  "stars": 48362,
+  "stars": 48408,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:39:15Z",
+  "scanned_at": "2026-11-12T11:34:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,12 +172,12 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 14,
+      "total": 20,
+      "ai": 15,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 15
       }
     }
   }

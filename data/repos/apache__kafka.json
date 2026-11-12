@@ -3,14 +3,21 @@
   "repo": "apache/kafka",
   "org": "apache",
   "language": "Java",
-  "stars": 34109,
+  "stars": 34194,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-08T10:52:07Z",
-  "window_start": "2025-02-26",
-  "complete": false,
+  "scanned_at": "2026-11-12T12:00:49Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 344,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-02": {
-      "total": 19,
+      "total": 236,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -198,13 +205,14 @@
       }
     },
     "2026-11": {
-      "total": 53,
-      "ai": 9,
+      "total": 97,
+      "ai": 14,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 7,
-        "codex_trailer": 2
+        "claude_trailer": 12,
+        "codex_trailer": 2,
+        "claude_generated": 1
       }
     }
   }

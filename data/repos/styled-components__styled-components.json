@@ -3,9 +3,9 @@
   "repo": "styled-components/styled-components",
   "org": "styled-components",
   "language": "TypeScript",
-  "stars": 41058,
+  "stars": 41048,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:53:42Z",
+  "scanned_at": "2026-11-12T11:44:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,7 +143,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 21,
+      "total": 23,
       "ai": 2,
       "automation": 0,
       "merges": 0,

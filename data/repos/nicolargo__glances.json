@@ -3,9 +3,9 @@
   "repo": "nicolargo/glances",
   "org": "nicolargo",
   "language": "Python",
-  "stars": 33889,
+  "stars": 33921,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:53:27Z",
+  "scanned_at": "2026-11-12T12:01:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,10 +184,10 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 14,
       "ai": 2,
       "automation": 0,
-      "merges": 5,
+      "merges": 6,
       "by_rule": {
         "claude_trailer": 2
       }

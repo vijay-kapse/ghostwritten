@@ -3,19 +3,29 @@
   "repo": "HKUDS/DeepTutor",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 53588,
+  "stars": 57379,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:30:32Z",
-  "window_start": "2026-01-11",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:27:52Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-01": {
-      "total": 55,
-      "ai": 3,
-      "automation": 32,
-      "merges": 24,
+    "2025-12": {
+      "total": 48,
+      "ai": 1,
+      "automation": 0,
+      "merges": 7,
       "by_rule": {
-        "copilot_trailer": 3
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 148,
+      "ai": 4,
+      "automation": 54,
+      "merges": 65,
+      "by_rule": {
+        "copilot_trailer": 4
       }
     },
     "2026-02": {

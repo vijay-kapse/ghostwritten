@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "mastodon/mastodon",
-  "head_sha": "4dff13d48694e302d1a161b3d0795284a512b482",
-  "oldest": "2025-09-18T12:46:31Z",
-  "complete": false,
+  "head_sha": "c14e615c35b6ce76f29736e26681fa7312d7508e",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-07T10:35:14Z"
+  "updated_at": "2026-11-12T11:30:32Z"
 }

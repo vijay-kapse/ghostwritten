@@ -3,9 +3,9 @@
   "repo": "huggingface/diffusers",
   "org": "huggingface",
   "language": "Python",
-  "stars": 34844,
+  "stars": 34889,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:49:34Z",
+  "scanned_at": "2026-11-12T11:59:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 17,
-      "ai": 8,
+      "total": 34,
+      "ai": 12,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 7,
+        "claude_trailer": 11,
         "copilot_trailer": 1
       }
     }

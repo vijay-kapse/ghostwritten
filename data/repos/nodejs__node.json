@@ -3,16 +3,16 @@
   "repo": "nodejs/node",
   "org": "nodejs",
   "language": "JavaScript",
-  "stars": 123183,
+  "stars": 123435,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:27:15Z",
-  "window_start": "2025-01-13",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:24:46Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 161,
+      "total": 233,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     },
@@ -179,7 +179,7 @@
       }
     },
     "2026-11": {
-      "total": 77,
+      "total": 143,
       "ai": 1,
       "automation": 4,
       "merges": 0,

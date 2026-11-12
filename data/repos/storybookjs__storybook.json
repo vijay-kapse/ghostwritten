@@ -3,20 +3,45 @@
   "repo": "storybookjs/storybook",
   "org": "storybookjs",
   "language": "TypeScript",
-  "stars": 91421,
+  "stars": 91500,
   "default_branch": "next",
-  "scanned_at": "2026-11-08T10:44:13Z",
-  "window_start": "2026-07-13",
+  "scanned_at": "2026-11-12T11:55:25Z",
+  "window_start": "2026-05-19",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 317,
-      "ai": 36,
+    "2026-05": {
+      "total": 443,
+      "ai": 121,
       "automation": 1,
-      "merges": 150,
+      "merges": 168,
       "by_rule": {
-        "cursor": 20,
-        "claude_trailer": 16
+        "claude_trailer": 63,
+        "copilot_author": 44,
+        "cursor": 9,
+        "copilot_trailer": 5
+      }
+    },
+    "2026-06": {
+      "total": 909,
+      "ai": 243,
+      "automation": 2,
+      "merges": 417,
+      "by_rule": {
+        "cursor": 164,
+        "claude_trailer": 63,
+        "copilot_author": 12,
+        "copilot_trailer": 4
+      }
+    },
+    "2026-07": {
+      "total": 726,
+      "ai": 87,
+      "automation": 2,
+      "merges": 300,
+      "by_rule": {
+        "claude_trailer": 46,
+        "cursor": 39,
+        "copilot_trailer": 2
       }
     },
     "2026-08": {
@@ -41,23 +66,23 @@
       }
     },
     "2026-10": {
-      "total": 1668,
-      "ai": 941,
+      "total": 1706,
+      "ai": 974,
       "automation": 0,
-      "merges": 713,
+      "merges": 717,
       "by_rule": {
-        "claude_trailer": 927,
+        "claude_trailer": 960,
         "cursor": 13,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 176,
-      "ai": 133,
-      "automation": 0,
-      "merges": 84,
+      "total": 540,
+      "ai": 467,
+      "automation": 3,
+      "merges": 169,
       "by_rule": {
-        "claude_trailer": 131,
+        "claude_trailer": 465,
         "copilot_author": 1,
         "cursor": 1
       }

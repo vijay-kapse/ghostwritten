@@ -3,17 +3,61 @@
   "repo": "nextcloud/server",
   "org": "nextcloud",
   "language": "PHP",
-  "stars": 37386,
+  "stars": 37455,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:41:20Z",
-  "window_start": "2026-07-04",
+  "scanned_at": "2026-11-12T11:54:09Z",
+  "window_start": "2026-02-12",
   "complete": false,
   "months": {
+    "2026-02": {
+      "total": 173,
+      "ai": 0,
+      "automation": 39,
+      "merges": 111,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 268,
+      "ai": 6,
+      "automation": 32,
+      "merges": 152,
+      "by_rule": {
+        "copilot_author": 6
+      }
+    },
+    "2026-04": {
+      "total": 399,
+      "ai": 2,
+      "automation": 28,
+      "merges": 184,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 374,
+      "ai": 6,
+      "automation": 62,
+      "merges": 204,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-06": {
+      "total": 481,
+      "ai": 2,
+      "automation": 40,
+      "merges": 281,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
     "2026-07": {
-      "total": 384,
+      "total": 430,
       "ai": 10,
-      "automation": 37,
-      "merges": 215,
+      "automation": 39,
+      "merges": 239,
       "by_rule": {
         "claude_trailer": 9,
         "copilot_trailer": 1
@@ -29,7 +73,7 @@
       }
     },
     "2026-09": {
-      "total": 572,
+      "total": 574,
       "ai": 1,
       "automation": 52,
       "merges": 293,
@@ -38,7 +82,7 @@
       }
     },
     "2026-10": {
-      "total": 427,
+      "total": 429,
       "ai": 6,
       "automation": 90,
       "merges": 286,
@@ -47,12 +91,12 @@
       }
     },
     "2026-11": {
-      "total": 179,
-      "ai": 1,
+      "total": 225,
+      "ai": 5,
       "automation": 9,
-      "merges": 88,
+      "merges": 111,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 5
       }
     }
   }

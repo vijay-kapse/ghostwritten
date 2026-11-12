@@ -3,9 +3,9 @@
   "repo": "getzep/graphiti",
   "org": "getzep",
   "language": "Python",
-  "stars": 32412,
+  "stars": 32671,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:59:02Z",
+  "scanned_at": "2026-11-12T12:06:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -213,7 +213,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 5,
+      "automation": 7,
       "merges": 0,
       "by_rule": {}
     }

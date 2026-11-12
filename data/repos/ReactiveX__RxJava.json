@@ -3,9 +3,9 @@
   "repo": "ReactiveX/RxJava",
   "org": "ReactiveX",
   "language": "Java",
-  "stars": 48157,
+  "stars": 48153,
   "default_branch": "4.x",
-  "scanned_at": "2026-11-07T10:39:43Z",
+  "scanned_at": "2026-11-12T11:34:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,7 +169,7 @@
     "2026-11": {
       "total": 1,
       "ai": 0,
-      "automation": 4,
+      "automation": 7,
       "merges": 0,
       "by_rule": {}
     }

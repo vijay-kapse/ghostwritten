@@ -3,9 +3,9 @@
   "repo": "ant-design/ant-design",
   "org": "ant-design",
   "language": "TypeScript",
-  "stars": 100028,
+  "stars": 100121,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:50:55Z",
+  "scanned_at": "2026-11-12T11:42:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -237,13 +237,13 @@
       }
     },
     "2026-11": {
-      "total": 25,
-      "ai": 3,
-      "automation": 7,
+      "total": 48,
+      "ai": 4,
+      "automation": 11,
       "merges": 2,
       "by_rule": {
-        "copilot_trailer": 2,
-        "claude_trailer": 1
+        "claude_trailer": 2,
+        "copilot_trailer": 2
       }
     }
   }

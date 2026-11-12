@@ -3,9 +3,9 @@
   "repo": "veggiemonk/awesome-docker",
   "org": "veggiemonk",
   "language": null,
-  "stars": 37148,
+  "stars": 37198,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:42:00Z",
+  "scanned_at": "2026-11-12T11:54:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,7 +171,7 @@
     "2026-11": {
       "total": 6,
       "ai": 0,
-      "automation": 3,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "1Panel-dev/1Panel",
   "org": "1Panel-dev",
   "language": "Go",
-  "stars": 37334,
+  "stars": 37412,
   "default_branch": "dev-v2",
-  "scanned_at": "2026-11-08T10:41:46Z",
+  "scanned_at": "2026-11-12T11:54:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 47,
+      "total": 98,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 5,
       "by_rule": {}
     }
   }

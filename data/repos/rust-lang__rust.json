@@ -3,33 +3,44 @@
   "repo": "rust-lang/rust",
   "org": "rust-lang",
   "language": "Rust",
-  "stars": 120961,
+  "stars": 121666,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:28:40Z",
-  "window_start": "2026-09-08",
+  "scanned_at": "2026-11-12T11:26:34Z",
+  "window_start": "2026-08-19",
   "complete": false,
   "months": {
+    "2026-08": {
+      "total": 918,
+      "ai": 1,
+      "automation": 0,
+      "merges": 532,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
     "2026-09": {
-      "total": 1533,
-      "ai": 0,
-      "automation": 3,
-      "merges": 870,
-      "by_rule": {}
+      "total": 2065,
+      "ai": 1,
+      "automation": 4,
+      "merges": 1189,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     },
     "2026-10": {
-      "total": 2056,
+      "total": 2101,
       "ai": 1,
       "automation": 11,
-      "merges": 1238,
+      "merges": 1241,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 263,
+      "total": 604,
       "ai": 0,
-      "automation": 0,
-      "merges": 217,
+      "automation": 3,
+      "merges": 459,
       "by_rule": {}
     }
   }

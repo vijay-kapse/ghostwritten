@@ -3,9 +3,9 @@
   "repo": "justjavac/wechat-miniapp-radar",
   "org": "justjavac",
   "language": "TypeScript",
-  "stars": 51178,
+  "stars": 51173,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:33:37Z",
+  "scanned_at": "2026-11-12T11:29:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -53,6 +53,13 @@
     },
     "2026-10": {
       "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 3,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "remix-run/react-router",
   "org": "remix-run",
   "language": "TypeScript",
-  "stars": 56628,
+  "stars": 56634,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:27:37Z",
+  "scanned_at": "2026-11-12T11:25:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 12,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

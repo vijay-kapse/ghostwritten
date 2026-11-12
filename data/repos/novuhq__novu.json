@@ -3,14 +3,42 @@
   "repo": "novuhq/novu",
   "org": "novuhq",
   "language": "TypeScript",
-  "stars": 40247,
+  "stars": 40307,
   "default_branch": "next",
-  "scanned_at": "2026-11-08T10:31:32Z",
-  "window_start": "2025-05-05",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:47:15Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 171,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 151,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 197,
+      "ai": 0,
+      "automation": 3,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 181,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-05": {
-      "total": 139,
+      "total": 143,
       "ai": 26,
       "automation": 1,
       "merges": 0,
@@ -186,13 +214,13 @@
       }
     },
     "2026-11": {
-      "total": 62,
-      "ai": 26,
+      "total": 93,
+      "ai": 56,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "cursor": 19,
-        "claude_trailer": 9
+        "cursor": 36,
+        "claude_trailer": 24
       }
     }
   }

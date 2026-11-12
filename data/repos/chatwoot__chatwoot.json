@@ -3,9 +3,9 @@
   "repo": "chatwoot/chatwoot",
   "org": "chatwoot",
   "language": "Ruby",
-  "stars": 38711,
+  "stars": 39423,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:36:10Z",
+  "scanned_at": "2026-11-12T11:49:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,12 +217,12 @@
       }
     },
     "2026-11": {
-      "total": 75,
-      "ai": 3,
+      "total": 105,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2,
+        "claude_trailer": 3,
         "amp_factory": 1,
         "claude_generated": 1
       }

@@ -3,18 +3,19 @@
   "repo": "sickn33/agentic-awesome-skills",
   "org": "sickn33",
   "language": "Python",
-  "stars": 48983,
+  "stars": 49392,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:39:11Z",
-  "window_start": "2026-01-19",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:34:00Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-01": {
-      "total": 258,
-      "ai": 1,
+      "total": 289,
+      "ai": 2,
       "automation": 35,
-      "merges": 23,
+      "merges": 25,
       "by_rule": {
+        "amp_factory": 1,
         "claude_trailer": 1
       }
     },
@@ -109,7 +110,7 @@
       }
     },
     "2026-11": {
-      "total": 58,
+      "total": 79,
       "ai": 0,
       "automation": 0,
       "merges": 0,

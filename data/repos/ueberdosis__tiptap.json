@@ -3,9 +3,9 @@
   "repo": "ueberdosis/tiptap",
   "org": "ueberdosis",
   "language": "TypeScript",
-  "stars": 38927,
+  "stars": 39000,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:35:27Z",
+  "scanned_at": "2026-11-12T11:49:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,21 +207,21 @@
       }
     },
     "2026-10": {
-      "total": 71,
-      "ai": 6,
+      "total": 92,
+      "ai": 20,
       "automation": 0,
-      "merges": 34,
+      "merges": 35,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 20
       }
     },
     "2026-11": {
-      "total": 22,
-      "ai": 1,
+      "total": 37,
+      "ai": 3,
       "automation": 0,
-      "merges": 6,
+      "merges": 16,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

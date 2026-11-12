@@ -3,9 +3,9 @@
   "repo": "NandhaKishorM/laya",
   "org": "NandhaKishorM",
   "language": "Python",
-  "stars": 34810,
+  "stars": 35268,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:49:46Z",
+  "scanned_at": "2026-11-12T11:59:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -31,12 +31,12 @@
       }
     },
     "2026-11": {
-      "total": 58,
-      "ai": 34,
-      "automation": 2,
-      "merges": 29,
+      "total": 78,
+      "ai": 38,
+      "automation": 7,
+      "merges": 46,
       "by_rule": {
-        "claude_trailer": 27,
+        "claude_trailer": 31,
         "codex_trailer": 7
       }
     }

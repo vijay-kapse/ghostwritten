@@ -3,9 +3,9 @@
   "repo": "78/xiaozhi-esp32",
   "org": "78",
   "language": "C++",
-  "stars": 32401,
+  "stars": 32933,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:59:05Z",
+  "scanned_at": "2026-11-12T12:06:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,21 +185,21 @@
       }
     },
     "2026-10": {
-      "total": 110,
-      "ai": 16,
+      "total": 114,
+      "ai": 18,
       "automation": 0,
       "merges": 29,
       "by_rule": {
-        "claude_trailer": 14,
+        "claude_trailer": 16,
         "copilot_trailer": 1,
         "cursor": 1
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 15,
       "ai": 0,
       "automation": 0,
-      "merges": 4,
+      "merges": 12,
       "by_rule": {}
     }
   }

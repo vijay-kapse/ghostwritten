@@ -3,9 +3,9 @@
   "repo": "bmad-code-org/BMAD-METHOD",
   "org": "bmad-code-org",
   "language": "Python",
-  "stars": 54860,
+  "stars": 55156,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:29:09Z",
+  "scanned_at": "2026-11-12T11:27:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 10,
       "ai": 2,
       "automation": 0,
       "merges": 0,

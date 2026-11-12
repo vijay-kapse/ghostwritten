@@ -3,9 +3,9 @@
   "repo": "mermaid-js/mermaid",
   "org": "mermaid-js",
   "language": "TypeScript",
-  "stars": 90965,
+  "stars": 91049,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:45:43Z",
+  "scanned_at": "2026-11-12T11:56:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,22 +190,22 @@
       }
     },
     "2026-10": {
-      "total": 228,
+      "total": 257,
       "ai": 28,
-      "automation": 7,
-      "merges": 103,
+      "automation": 8,
+      "merges": 104,
       "by_rule": {
         "claude_trailer": 27,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 1,
+      "total": 53,
+      "ai": 3,
       "automation": 3,
-      "merges": 11,
+      "merges": 24,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

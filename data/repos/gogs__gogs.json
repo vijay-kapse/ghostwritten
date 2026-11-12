@@ -3,9 +3,9 @@
   "repo": "gogs/gogs",
   "org": "gogs",
   "language": "Go",
-  "stars": 47910,
+  "stars": 47925,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:40:20Z",
+  "scanned_at": "2026-11-12T11:34:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,9 +180,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 27,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

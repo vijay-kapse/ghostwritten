@@ -3,9 +3,9 @@
   "repo": "rtk-ai/rtk",
   "org": "rtk-ai",
   "language": "Rust",
-  "stars": 85219,
+  "stars": 85971,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:50:34Z",
+  "scanned_at": "2026-11-12T12:00:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,7 +76,7 @@
       }
     },
     "2026-08": {
-      "total": 167,
+      "total": 169,
       "ai": 48,
       "automation": 3,
       "merges": 45,
@@ -95,21 +95,22 @@
       }
     },
     "2026-10": {
-      "total": 243,
+      "total": 246,
       "ai": 106,
       "automation": 14,
-      "merges": 177,
+      "merges": 179,
       "by_rule": {
         "claude_trailer": 106
       }
     },
     "2026-11": {
-      "total": 28,
-      "ai": 21,
-      "automation": 0,
-      "merges": 26,
+      "total": 48,
+      "ai": 34,
+      "automation": 8,
+      "merges": 43,
       "by_rule": {
-        "claude_trailer": 21
+        "claude_trailer": 31,
+        "copilot_author": 3
       }
     }
   }

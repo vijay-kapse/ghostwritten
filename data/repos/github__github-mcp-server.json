@@ -3,9 +3,9 @@
   "repo": "github/github-mcp-server",
   "org": "github",
   "language": "Go",
-  "stars": 34139,
+  "stars": 34345,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:51:50Z",
+  "scanned_at": "2026-11-12T12:00:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,12 +209,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 3,
+      "total": 5,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 3
+        "copilot_trailer": 4
       }
     }
   }

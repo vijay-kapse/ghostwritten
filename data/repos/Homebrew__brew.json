@@ -3,20 +3,79 @@
   "repo": "Homebrew/brew",
   "org": "Homebrew",
   "language": "Ruby",
-  "stars": 50180,
+  "stars": 50377,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:36:06Z",
-  "window_start": "2026-06-10",
+  "scanned_at": "2026-11-12T11:31:31Z",
+  "window_start": "2025-12-03",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 222,
-      "ai": 14,
-      "automation": 11,
-      "merges": 176,
+    "2025-12": {
+      "total": 219,
+      "ai": 4,
+      "automation": 9,
+      "merges": 129,
       "by_rule": {
-        "copilot_trailer": 12,
-        "claude_trailer": 2
+        "copilot_trailer": 4
+      }
+    },
+    "2026-01": {
+      "total": 140,
+      "ai": 3,
+      "automation": 10,
+      "merges": 96,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "codex_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 166,
+      "ai": 16,
+      "automation": 9,
+      "merges": 98,
+      "by_rule": {
+        "claude_trailer": 9,
+        "copilot_trailer": 7
+      }
+    },
+    "2026-03": {
+      "total": 275,
+      "ai": 22,
+      "automation": 17,
+      "merges": 186,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 8
+      }
+    },
+    "2026-04": {
+      "total": 286,
+      "ai": 14,
+      "automation": 15,
+      "merges": 188,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 4
+      }
+    },
+    "2026-05": {
+      "total": 371,
+      "ai": 8,
+      "automation": 12,
+      "merges": 285,
+      "by_rule": {
+        "copilot_trailer": 5,
+        "claude_trailer": 3
+      }
+    },
+    "2026-06": {
+      "total": 393,
+      "ai": 27,
+      "automation": 12,
+      "merges": 293,
+      "by_rule": {
+        "copilot_trailer": 16,
+        "claude_trailer": 11
       }
     },
     "2026-07": {
@@ -60,11 +119,13 @@
       }
     },
     "2026-11": {
-      "total": 134,
-      "ai": 0,
-      "automation": 5,
-      "merges": 83,
-      "by_rule": {}
+      "total": 217,
+      "ai": 1,
+      "automation": 6,
+      "merges": 127,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "apache/kafka",
-  "head_sha": "094fbfde19ab30df418edfde624dc679cd6665c8",
-  "oldest": "2025-02-26T01:09:19Z",
-  "complete": false,
+  "head_sha": "1ef5a0ac25a92f5c2d93ca81ee98598e4f0e1243",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "trunk",
-  "updated_at": "2026-11-08T10:52:07Z"
+  "updated_at": "2026-11-12T12:00:49Z"
 }

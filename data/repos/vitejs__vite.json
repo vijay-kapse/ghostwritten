@@ -3,9 +3,9 @@
   "repo": "vitejs/vite",
   "org": "vitejs",
   "language": "TypeScript",
-  "stars": 83653,
+  "stars": 83882,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:53:49Z",
+  "scanned_at": "2026-11-12T12:02:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,9 +212,9 @@
       }
     },
     "2026-11": {
-      "total": 10,
+      "total": 56,
       "ai": 1,
-      "automation": 6,
+      "automation": 12,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

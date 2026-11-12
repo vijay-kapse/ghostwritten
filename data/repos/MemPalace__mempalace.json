@@ -3,9 +3,9 @@
   "repo": "MemPalace/mempalace",
   "org": "MemPalace",
   "language": "Python",
-  "stars": 60224,
+  "stars": 60481,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:24:29Z",
+  "scanned_at": "2026-11-12T11:23:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -64,7 +64,7 @@
       }
     },
     "2026-09": {
-      "total": 101,
+      "total": 102,
       "ai": 4,
       "automation": 6,
       "merges": 12,
@@ -74,20 +74,20 @@
       }
     },
     "2026-10": {
-      "total": 294,
+      "total": 299,
       "ai": 37,
-      "automation": 1,
-      "merges": 180,
+      "automation": 3,
+      "merges": 181,
       "by_rule": {
         "cursor": 31,
         "claude_trailer": 6
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 36,
       "ai": 1,
-      "automation": 0,
-      "merges": 0,
+      "automation": 1,
+      "merges": 37,
       "by_rule": {
         "claude_trailer": 1
       }

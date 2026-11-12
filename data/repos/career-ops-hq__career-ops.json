@@ -3,9 +3,9 @@
   "repo": "career-ops-hq/career-ops",
   "org": "career-ops-hq",
   "language": "JavaScript",
-  "stars": 79242,
+  "stars": 81325,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:00:25Z",
+  "scanned_at": "2026-11-12T12:06:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -81,12 +81,12 @@
       }
     },
     "2026-11": {
-      "total": 277,
-      "ai": 103,
-      "automation": 4,
+      "total": 489,
+      "ai": 177,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 101,
+        "claude_trailer": 175,
         "cursor": 2
       }
     }

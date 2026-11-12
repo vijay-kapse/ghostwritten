@@ -3,9 +3,9 @@
   "repo": "preactjs/preact",
   "org": "preactjs",
   "language": "JavaScript",
-  "stars": 38970,
+  "stars": 38992,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:35:02Z",
+  "scanned_at": "2026-11-12T11:49:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -157,7 +157,7 @@
       }
     },
     "2026-10": {
-      "total": 63,
+      "total": 65,
       "ai": 5,
       "automation": 0,
       "merges": 36,
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 9,
       "ai": 1,
       "automation": 0,
-      "merges": 9,
+      "merges": 12,
       "by_rule": {
         "claude_trailer": 1
       }

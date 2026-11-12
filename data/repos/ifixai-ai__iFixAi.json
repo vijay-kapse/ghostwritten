@@ -3,9 +3,9 @@
   "repo": "ifixai-ai/iFixAi",
   "org": "ifixai-ai",
   "language": "Python",
-  "stars": 42400,
+  "stars": 44246,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:51:17Z",
+  "scanned_at": "2026-11-12T11:42:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -69,11 +69,13 @@
       }
     },
     "2026-11": {
-      "total": 17,
-      "ai": 0,
-      "automation": 0,
+      "total": 39,
+      "ai": 14,
+      "automation": 1,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 14
+      }
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "pingcap/tidb",
-  "head_sha": "b98174386ec52467f1fd23eeb6b09e10fe8e77d5",
-  "oldest": "2025-01-09T07:31:19Z",
-  "complete": false,
+  "head_sha": "f01fb0ab6d425597fa5711c1088a64a4bbeff28b",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-08T10:29:26Z"
+  "updated_at": "2026-11-12T11:45:51Z"
 }

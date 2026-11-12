@@ -3,26 +3,44 @@
   "repo": "TriliumNext/Trilium",
   "org": "TriliumNext",
   "language": "TypeScript",
-  "stars": 38647,
+  "stars": 38759,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:36:27Z",
-  "window_start": "2026-10-06",
+  "scanned_at": "2026-11-12T11:50:11Z",
+  "window_start": "2026-08-31",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 2477,
-      "ai": 1064,
-      "automation": 242,
-      "merges": 423,
+    "2026-08": {
+      "total": 64,
+      "ai": 27,
+      "automation": 0,
+      "merges": 13,
       "by_rule": {
-        "claude_trailer": 1064
+        "claude_trailer": 27
+      }
+    },
+    "2026-09": {
+      "total": 1312,
+      "ai": 636,
+      "automation": 220,
+      "merges": 436,
+      "by_rule": {
+        "claude_trailer": 636
+      }
+    },
+    "2026-10": {
+      "total": 2948,
+      "ai": 1410,
+      "automation": 307,
+      "merges": 543,
+      "by_rule": {
+        "claude_trailer": 1410
       }
     },
     "2026-11": {
-      "total": 189,
+      "total": 382,
       "ai": 0,
-      "automation": 68,
-      "merges": 83,
+      "automation": 94,
+      "merges": 116,
       "by_rule": {}
     }
   }

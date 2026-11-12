@@ -3,9 +3,9 @@
   "repo": "anthropics/knowledge-work-plugins",
   "org": "anthropics",
   "language": "Python",
-  "stars": 34343,
+  "stars": 35250,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:51:02Z",
+  "scanned_at": "2026-11-12T12:00:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,12 +94,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 4,
+      "ai": 3,
       "automation": 5,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

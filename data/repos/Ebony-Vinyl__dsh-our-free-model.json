@@ -3,9 +3,9 @@
   "repo": "Ebony-Vinyl/dsh-our-free-model",
   "org": "Ebony-Vinyl",
   "language": "JavaScript",
-  "stars": 55692,
+  "stars": 66918,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:28:06Z",
+  "scanned_at": "2026-11-12T11:25:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -26,10 +26,10 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 64,
       "ai": 0,
-      "automation": 3,
-      "merges": 8,
+      "automation": 4,
+      "merges": 12,
       "by_rule": {}
     }
   }

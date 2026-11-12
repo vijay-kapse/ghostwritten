@@ -3,9 +3,9 @@
   "repo": "pbakaus/impeccable",
   "org": "pbakaus",
   "language": "Rust",
-  "stars": 99199,
+  "stars": 106523,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:51:47Z",
+  "scanned_at": "2026-11-12T11:43:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -107,7 +107,7 @@
       }
     },
     "2026-10": {
-      "total": 325,
+      "total": 326,
       "ai": 312,
       "automation": 69,
       "merges": 132,
@@ -117,12 +117,13 @@
       }
     },
     "2026-11": {
-      "total": 35,
-      "ai": 24,
-      "automation": 16,
-      "merges": 6,
+      "total": 161,
+      "ai": 115,
+      "automation": 31,
+      "merges": 58,
       "by_rule": {
-        "claude_trailer": 24
+        "claude_trailer": 114,
+        "copilot_trailer": 1
       }
     }
   }

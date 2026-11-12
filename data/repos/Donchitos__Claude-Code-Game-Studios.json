@@ -3,9 +3,9 @@
   "repo": "Donchitos/Claude-Code-Game-Studios",
   "org": "Donchitos",
   "language": "Shell",
-  "stars": 32095,
+  "stars": 37245,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:00:57Z",
+  "scanned_at": "2026-11-12T12:06:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -61,6 +61,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

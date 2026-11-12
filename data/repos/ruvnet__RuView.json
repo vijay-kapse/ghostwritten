@@ -3,9 +3,9 @@
   "repo": "ruvnet/RuView",
   "org": "ruvnet",
   "language": "Rust",
-  "stars": 101976,
+  "stars": 103132,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:49:22Z",
+  "scanned_at": "2026-11-12T11:41:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -102,11 +102,13 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 0,
+      "total": 43,
+      "ai": 1,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 12,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

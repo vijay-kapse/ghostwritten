@@ -3,19 +3,43 @@
   "repo": "HKUDS/nanobot",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 49729,
+  "stars": 49961,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:37:31Z",
-  "window_start": "2026-04-07",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:32:51Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-04": {
-      "total": 433,
-      "ai": 7,
+    "2026-02": {
+      "total": 551,
+      "ai": 28,
       "automation": 0,
-      "merges": 40,
+      "merges": 332,
       "by_rule": {
-        "claude_trailer": 5,
+        "claude_trailer": 14,
+        "copilot_author": 8,
+        "cursor": 5,
+        "amp_factory": 1
+      }
+    },
+    "2026-03": {
+      "total": 464,
+      "ai": 28,
+      "automation": 0,
+      "merges": 203,
+      "by_rule": {
+        "claude_trailer": 24,
+        "amp_factory": 2,
+        "claude_generated": 1,
+        "gemini": 1
+      }
+    },
+    "2026-04": {
+      "total": 621,
+      "ai": 10,
+      "automation": 0,
+      "merges": 73,
+      "by_rule": {
+        "claude_trailer": 8,
         "amp_factory": 1,
         "copilot_trailer": 1
       }
@@ -80,7 +104,7 @@
       }
     },
     "2026-11": {
-      "total": 61,
+      "total": 107,
       "ai": 0,
       "automation": 0,
       "merges": 0,

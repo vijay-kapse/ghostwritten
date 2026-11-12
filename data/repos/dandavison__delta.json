@@ -3,9 +3,9 @@
   "repo": "dandavison/delta",
   "org": "dandavison",
   "language": "Rust",
-  "stars": 32622,
+  "stars": 32695,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:57:59Z",
+  "scanned_at": "2026-11-12T12:05:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -98,6 +98,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
       }
     }
   }

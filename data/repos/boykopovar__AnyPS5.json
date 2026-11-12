@@ -3,21 +3,21 @@
   "repo": "boykopovar/AnyPS5",
   "org": "boykopovar",
   "language": "C++",
-  "stars": 50408,
+  "stars": 52460,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:35:23Z",
-  "window_start": "2026-11-03",
+  "scanned_at": "2026-11-12T11:30:44Z",
+  "window_start": "2026-11-07",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 1276,
-      "ai": 269,
+      "total": 1289,
+      "ai": 320,
       "automation": 0,
-      "merges": 1624,
+      "merges": 1611,
       "by_rule": {
-        "claude_trailer": 257,
-        "devin": 8,
-        "copilot_trailer": 4
+        "claude_trailer": 309,
+        "devin": 10,
+        "cursor": 1
       }
     }
   }

@@ -3,20 +3,70 @@
   "repo": "Wei-Shaw/sub2api",
   "org": "Wei-Shaw",
   "language": "Go",
-  "stars": 45239,
+  "stars": 45711,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:46:58Z",
-  "window_start": "2026-07-09",
+  "scanned_at": "2026-11-12T11:39:41Z",
+  "window_start": "2026-02-11",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 621,
-      "ai": 54,
-      "automation": 21,
-      "merges": 385,
+    "2026-02": {
+      "total": 205,
+      "ai": 22,
+      "automation": 0,
+      "merges": 65,
       "by_rule": {
-        "claude_trailer": 43,
-        "cursor": 7,
+        "claude_trailer": 21,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 488,
+      "ai": 85,
+      "automation": 3,
+      "merges": 222,
+      "by_rule": {
+        "claude_trailer": 83,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 622,
+      "ai": 15,
+      "automation": 15,
+      "merges": 106,
+      "by_rule": {
+        "claude_trailer": 15
+      }
+    },
+    "2026-05": {
+      "total": 297,
+      "ai": 33,
+      "automation": 12,
+      "merges": 138,
+      "by_rule": {
+        "claude_trailer": 28,
+        "cursor": 5,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 250,
+      "ai": 37,
+      "automation": 8,
+      "merges": 159,
+      "by_rule": {
+        "claude_trailer": 35,
+        "cursor": 2
+      }
+    },
+    "2026-07": {
+      "total": 810,
+      "ai": 59,
+      "automation": 26,
+      "merges": 501,
+      "by_rule": {
+        "claude_trailer": 47,
+        "cursor": 8,
         "codex_trailer": 4
       }
     },
@@ -41,21 +91,21 @@
       }
     },
     "2026-10": {
-      "total": 267,
-      "ai": 32,
+      "total": 280,
+      "ai": 33,
       "automation": 8,
-      "merges": 165,
+      "merges": 166,
       "by_rule": {
-        "claude_trailer": 32
+        "claude_trailer": 33
       }
     },
     "2026-11": {
-      "total": 39,
-      "ai": 14,
-      "automation": 1,
-      "merges": 37,
+      "total": 70,
+      "ai": 15,
+      "automation": 2,
+      "merges": 74,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 15
       }
     }
   }

@@ -3,20 +3,69 @@
   "repo": "topoteretes/cognee",
   "org": "topoteretes",
   "language": "Python",
-  "stars": 32982,
+  "stars": 33165,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:57:06Z",
-  "window_start": "2026-07-18",
+  "scanned_at": "2026-11-12T12:04:38Z",
+  "window_start": "2026-02-26",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 319,
-      "ai": 194,
+    "2026-02": {
+      "total": 17,
+      "ai": 2,
       "automation": 0,
-      "merges": 160,
+      "merges": 17,
       "by_rule": {
-        "claude_trailer": 183,
-        "claude_generated": 11
+        "claude_trailer": 2
+      }
+    },
+    "2026-03": {
+      "total": 387,
+      "ai": 109,
+      "automation": 0,
+      "merges": 166,
+      "by_rule": {
+        "claude_trailer": 109,
+        "claude_generated": 1
+      }
+    },
+    "2026-04": {
+      "total": 525,
+      "ai": 171,
+      "automation": 1,
+      "merges": 196,
+      "by_rule": {
+        "claude_trailer": 171
+      }
+    },
+    "2026-05": {
+      "total": 409,
+      "ai": 56,
+      "automation": 0,
+      "merges": 209,
+      "by_rule": {
+        "claude_trailer": 55,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 453,
+      "ai": 153,
+      "automation": 0,
+      "merges": 230,
+      "by_rule": {
+        "claude_trailer": 152,
+        "copilot_author": 1
+      }
+    },
+    "2026-07": {
+      "total": 587,
+      "ai": 296,
+      "automation": 0,
+      "merges": 282,
+      "by_rule": {
+        "claude_trailer": 284,
+        "claude_generated": 11,
+        "copilot_trailer": 1
       }
     },
     "2026-08": {

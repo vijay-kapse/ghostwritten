@@ -3,9 +3,9 @@
   "repo": "heroui-inc/heroui",
   "org": "heroui-inc",
   "language": "TypeScript",
-  "stars": 31082,
+  "stars": 31160,
   "default_branch": "v3",
-  "scanned_at": "2026-11-08T11:04:25Z",
+  "scanned_at": "2026-11-12T12:09:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 1,
       "automation": 0,
       "merges": 0,

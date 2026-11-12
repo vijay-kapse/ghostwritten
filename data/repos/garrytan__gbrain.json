@@ -3,26 +3,26 @@
   "repo": "garrytan/gbrain",
   "org": "garrytan",
   "language": "TypeScript",
-  "stars": 31426,
+  "stars": 31844,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T11:03:03Z",
-  "window_start": "2026-10-24",
+  "scanned_at": "2026-11-12T12:08:11Z",
+  "window_start": "2026-10-19",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 1262,
+      "total": 2331,
       "ai": 3,
       "automation": 0,
-      "merges": 468,
+      "merges": 1099,
       "by_rule": {
         "claude_trailer": 3
       }
     },
     "2026-11": {
-      "total": 965,
+      "total": 1829,
       "ai": 1,
       "automation": 0,
-      "merges": 301,
+      "merges": 681,
       "by_rule": {
         "claude_trailer": 1
       }

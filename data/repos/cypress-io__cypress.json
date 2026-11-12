@@ -3,9 +3,9 @@
   "repo": "cypress-io/cypress",
   "org": "cypress-io",
   "language": "TypeScript",
-  "stars": 51019,
+  "stars": 51023,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:34:05Z",
+  "scanned_at": "2026-11-12T11:29:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,13 +197,13 @@
       }
     },
     "2026-11": {
-      "total": 47,
-      "ai": 44,
+      "total": 107,
+      "ai": 102,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 43,
-        "cursor": 1
+        "claude_trailer": 100,
+        "cursor": 2
       }
     }
   }

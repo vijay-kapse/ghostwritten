@@ -3,9 +3,9 @@
   "repo": "mitmproxy/mitmproxy",
   "org": "mitmproxy",
   "language": "Python",
-  "stars": 46538,
+  "stars": 46750,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:42:57Z",
+  "scanned_at": "2026-11-12T11:36:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 3,
       "ai": 0,
       "automation": 6,
       "merges": 0,

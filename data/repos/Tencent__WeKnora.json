@@ -3,17 +3,45 @@
   "repo": "Tencent/WeKnora",
   "org": "Tencent",
   "language": "Go",
-  "stars": 36179,
+  "stars": 36961,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:45:35Z",
-  "window_start": "2025-12-22",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:56:22Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-12": {
-      "total": 86,
-      "ai": 4,
+    "2025-08": {
+      "total": 48,
+      "ai": 0,
       "automation": 0,
       "merges": 3,
+      "by_rule": {}
+    },
+    "2025-09": {
+      "total": 106,
+      "ai": 0,
+      "automation": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 10,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-11": {
+      "total": 159,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 171,
+      "ai": 4,
+      "automation": 0,
+      "merges": 15,
       "by_rule": {
         "claude_generated": 4,
         "claude_trailer": 4
@@ -115,7 +143,7 @@
       }
     },
     "2026-11": {
-      "total": 83,
+      "total": 161,
       "ai": 6,
       "automation": 1,
       "merges": 0,

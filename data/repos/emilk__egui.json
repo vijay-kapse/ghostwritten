@@ -3,9 +3,9 @@
   "repo": "emilk/egui",
   "org": "emilk",
   "language": "Rust",
-  "stars": 31907,
+  "stars": 32153,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:01:35Z",
+  "scanned_at": "2026-11-12T12:07:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,12 +191,13 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 1,
+      "total": 17,
+      "ai": 11,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_generated": 10,
+        "claude_trailer": 3
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "Imbad0202/academic-research-skills",
   "org": "Imbad0202",
   "language": "Python",
-  "stars": 54868,
+  "stars": 56072,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:29:01Z",
+  "scanned_at": "2026-11-12T11:26:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,12 +95,12 @@
       }
     },
     "2026-11": {
-      "total": 13,
-      "ai": 12,
+      "total": 18,
+      "ai": 17,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12
+        "claude_trailer": 17
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "ocrmypdf/OCRmyPDF",
   "org": "ocrmypdf",
   "language": "Python",
-  "stars": 35204,
+  "stars": 35274,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:48:34Z",
+  "scanned_at": "2026-11-12T11:58:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 41,
+      "total": 46,
       "ai": 1,
       "automation": 0,
       "merges": 8,

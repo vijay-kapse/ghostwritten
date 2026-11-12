@@ -3,9 +3,9 @@
   "repo": "h5bp/html5-boilerplate",
   "org": "h5bp",
   "language": "JavaScript",
-  "stars": 57655,
+  "stars": 57665,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:26:15Z",
+  "scanned_at": "2026-11-12T11:24:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -112,6 +112,16 @@
       "automation": 5,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_author": 1,
+        "copilot_trailer": 1
+      }
     }
   }
 }

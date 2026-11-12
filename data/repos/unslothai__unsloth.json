@@ -3,19 +3,76 @@
   "repo": "unslothai/unsloth",
   "org": "unslothai",
   "language": "Python",
-  "stars": 78921,
+  "stars": 79230,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T11:01:25Z",
-  "window_start": "2026-08-17",
+  "scanned_at": "2026-11-12T12:07:17Z",
+  "window_start": "2026-03-25",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 562,
-      "ai": 4,
-      "automation": 2,
+    "2026-03": {
+      "total": 94,
+      "ai": 2,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1,
+        "gemini": 1
+      }
+    },
+    "2026-04": {
+      "total": 194,
+      "ai": 3,
+      "automation": 7,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 2,
+        "claude_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 342,
+      "ai": 7,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3,
+        "gemini": 2,
+        "claude_generated": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 531,
+      "ai": 21,
+      "automation": 6,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 16,
+        "gemini": 4,
+        "cursor": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 536,
+      "ai": 18,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "gemini": 3,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 1435,
+      "ai": 8,
+      "automation": 4,
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 1,
+        "codex_trailer": 1,
         "cursor": 1
       }
     },
@@ -42,12 +99,13 @@
       }
     },
     "2026-11": {
-      "total": 662,
-      "ai": 4,
-      "automation": 4,
+      "total": 1039,
+      "ai": 9,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 9,
+        "claude_generated": 2
       }
     }
   }

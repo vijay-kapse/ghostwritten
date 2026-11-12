@@ -3,19 +3,69 @@
   "repo": "onyx-dot-app/onyx",
   "org": "onyx-dot-app",
   "language": "Python",
-  "stars": 33148,
+  "stars": 33295,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:56:13Z",
-  "window_start": "2026-05-21",
+  "scanned_at": "2026-11-12T12:03:50Z",
+  "window_start": "2025-12-18",
   "complete": false,
   "months": {
-    "2026-05": {
-      "total": 169,
-      "ai": 68,
-      "automation": 6,
+    "2025-12": {
+      "total": 233,
+      "ai": 6,
+      "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 68,
+        "cursor": 4,
+        "claude_trailer": 1,
+        "devin": 1
+      }
+    },
+    "2026-01": {
+      "total": 506,
+      "ai": 24,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 22,
+        "devin": 3
+      }
+    },
+    "2026-02": {
+      "total": 543,
+      "ai": 35,
+      "automation": 24,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 34,
+        "cursor": 1
+      }
+    },
+    "2026-03": {
+      "total": 501,
+      "ai": 27,
+      "automation": 58,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 27
+      }
+    },
+    "2026-04": {
+      "total": 501,
+      "ai": 13,
+      "automation": 55,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 13
+      }
+    },
+    "2026-05": {
+      "total": 487,
+      "ai": 154,
+      "automation": 27,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 153,
+        "codex_trailer": 1,
         "cursor": 1
       }
     },
@@ -79,14 +129,15 @@
       }
     },
     "2026-11": {
-      "total": 139,
-      "ai": 46,
-      "automation": 5,
+      "total": 246,
+      "ai": 127,
+      "automation": 10,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 34,
-        "claude_trailer": 26,
-        "devin": 10
+        "claude_generated": 112,
+        "claude_trailer": 64,
+        "devin": 13,
+        "other_bot_agent": 1
       }
     }
   }

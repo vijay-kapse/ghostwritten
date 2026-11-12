@@ -3,9 +3,9 @@
   "repo": "microsoft/playwright",
   "org": "microsoft",
   "language": "TypeScript",
-  "stars": 99050,
+  "stars": 99659,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:52:23Z",
+  "scanned_at": "2026-11-12T11:43:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,9 +209,9 @@
       }
     },
     "2026-11": {
-      "total": 38,
+      "total": 56,
       "ai": 0,
-      "automation": 35,
+      "automation": 52,
       "merges": 0,
       "by_rule": {}
     }

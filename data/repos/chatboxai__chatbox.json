@@ -3,9 +3,9 @@
   "repo": "chatboxai/chatbox",
   "org": "chatboxai",
   "language": "TypeScript",
-  "stars": 42223,
+  "stars": 42282,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:51:24Z",
+  "scanned_at": "2026-11-12T11:43:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,6 +178,15 @@
       "by_rule": {
         "claude_trailer": 76,
         "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 62,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
       }
     }
   }

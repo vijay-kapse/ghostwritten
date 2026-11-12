@@ -3,19 +3,49 @@
   "repo": "calcom/cal.diy",
   "org": "calcom",
   "language": "TypeScript",
-  "stars": 49617,
+  "stars": 49829,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:37:47Z",
-  "window_start": "2025-05-22",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:33:03Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 63,
-      "ai": 5,
+    "2025-01": {
+      "total": 301,
+      "ai": 0,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 294,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 387,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 282,
+      "ai": 20,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "devin": 5
+        "devin": 20
+      }
+    },
+    "2025-05": {
+      "total": 284,
+      "ai": 33,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "devin": 33
       }
     },
     "2025-06": {
@@ -178,7 +208,7 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 8,
       "ai": 0,
       "automation": 0,
       "merges": 0,

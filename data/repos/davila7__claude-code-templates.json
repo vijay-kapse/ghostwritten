@@ -3,9 +3,9 @@
   "repo": "davila7/claude-code-templates",
   "org": "davila7",
   "language": "Python",
-  "stars": 33040,
+  "stars": 33225,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:56:49Z",
+  "scanned_at": "2026-11-12T12:04:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,12 +164,12 @@
       }
     },
     "2026-11": {
-      "total": 90,
-      "ai": 64,
-      "automation": 34,
+      "total": 118,
+      "ai": 80,
+      "automation": 48,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 63,
+        "claude_trailer": 79,
         "copilot_trailer": 1
       }
     }

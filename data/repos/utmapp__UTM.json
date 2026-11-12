@@ -3,9 +3,9 @@
   "repo": "utmapp/UTM",
   "org": "utmapp",
   "language": "Swift",
-  "stars": 36634,
+  "stars": 36798,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:44:29Z",
+  "scanned_at": "2026-11-12T11:55:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,17 +143,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 22,
+      "total": 26,
       "ai": 0,
       "automation": 0,
       "merges": 14,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 58,
+      "total": 99,
       "ai": 0,
       "automation": 0,
-      "merges": 39,
+      "merges": 66,
       "by_rule": {}
     }
   }

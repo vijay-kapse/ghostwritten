@@ -3,16 +3,44 @@
   "repo": "laravel/framework",
   "org": "laravel",
   "language": "PHP",
-  "stars": 34989,
+  "stars": 34995,
   "default_branch": "13.x",
-  "scanned_at": "2026-11-08T10:49:26Z",
-  "window_start": "2025-05-07",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:59:19Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 112,
+    "2025-01": {
+      "total": 174,
+      "ai": 0,
+      "automation": 1,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 192,
       "ai": 0,
       "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 165,
+      "ai": 0,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 201,
+      "ai": 0,
+      "automation": 2,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 139,
+      "ai": 0,
+      "automation": 1,
       "merges": 3,
       "by_rule": {}
     },
@@ -150,23 +178,24 @@
       }
     },
     "2026-10": {
-      "total": 256,
-      "ai": 10,
+      "total": 265,
+      "ai": 11,
       "automation": 4,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 8,
+        "claude_trailer": 9,
         "amp_factory": 1,
         "copilot_author": 1,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 46,
-      "ai": 2,
+      "total": 74,
+      "ai": 5,
       "automation": 1,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
+        "amp_factory": 3,
         "claude_trailer": 2
       }
     }

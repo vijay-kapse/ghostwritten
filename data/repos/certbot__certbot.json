@@ -3,9 +3,9 @@
   "repo": "certbot/certbot",
   "org": "certbot",
   "language": "Python",
-  "stars": 33307,
+  "stars": 33314,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:55:04Z",
+  "scanned_at": "2026-11-12T12:03:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,6 +163,13 @@
       "ai": 0,
       "automation": 0,
       "merges": 4,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
       "by_rule": {}
     }
   }

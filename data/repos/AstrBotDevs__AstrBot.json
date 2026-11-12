@@ -3,19 +3,40 @@
   "repo": "AstrBotDevs/AstrBot",
   "org": "AstrBotDevs",
   "language": "Python",
-  "stars": 45501,
+  "stars": 46504,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:46:10Z",
-  "window_start": "2025-04-20",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:38:55Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-04": {
-      "total": 51,
-      "ai": 1,
+    "2025-01": {
+      "total": 136,
+      "ai": 0,
       "automation": 0,
-      "merges": 13,
+      "merges": 12,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 288,
+      "ai": 0,
+      "automation": 0,
+      "merges": 35,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 306,
+      "ai": 0,
+      "automation": 30,
+      "merges": 70,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 230,
+      "ai": 3,
+      "automation": 0,
+      "merges": 63,
       "by_rule": {
-        "copilot_trailer": 1
+        "copilot_trailer": 3
       }
     },
     "2025-05": {
@@ -201,12 +222,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 24,
-      "ai": 2,
-      "automation": 0,
+      "total": 39,
+      "ai": 3,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
+        "claude_trailer": 2,
         "cursor": 1
       }
     }

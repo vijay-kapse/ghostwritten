@@ -3,36 +3,49 @@
   "repo": "pingdotgg/t3code",
   "org": "pingdotgg",
   "language": "TypeScript",
-  "stars": 37547,
+  "stars": 53228,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:40:38Z",
-  "window_start": "2026-10-18",
+  "scanned_at": "2026-11-12T11:53:31Z",
+  "window_start": "2026-09-17",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 2496,
-      "ai": 1529,
-      "automation": 10,
+    "2026-09": {
+      "total": 416,
+      "ai": 172,
+      "automation": 15,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1445,
-        "codex_trailer": 113,
+        "claude_trailer": 165,
         "cursor": 4,
-        "amp_factory": 2,
-        "devin": 2,
+        "devin": 3,
+        "codex_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 4154,
+      "ai": 2569,
+      "automation": 21,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2471,
+        "codex_trailer": 126,
+        "cursor": 9,
+        "amp_factory": 3,
+        "devin": 3,
         "claude_generated": 1,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 1016,
-      "ai": 673,
-      "automation": 5,
+      "total": 1894,
+      "ai": 1078,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 659,
-        "codex_trailer": 23,
-        "cursor": 4
+        "claude_trailer": 1055,
+        "codex_trailer": 36,
+        "cursor": 8,
+        "devin": 1
       }
     }
   }

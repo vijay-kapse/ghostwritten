@@ -3,9 +3,9 @@
   "repo": "charmbracelet/bubbletea",
   "org": "charmbracelet",
   "language": "Go",
-  "stars": 45581,
+  "stars": 45653,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:45:36Z",
+  "scanned_at": "2026-11-12T11:38:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,6 +161,13 @@
     },
     "2026-10": {
       "total": 6,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

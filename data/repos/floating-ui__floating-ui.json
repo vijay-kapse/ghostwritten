@@ -3,9 +3,9 @@
   "repo": "floating-ui/floating-ui",
   "org": "floating-ui",
   "language": "TypeScript",
-  "stars": 32787,
+  "stars": 32797,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:57:44Z",
+  "scanned_at": "2026-11-12T12:05:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -138,7 +138,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,

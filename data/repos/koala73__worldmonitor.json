@@ -3,19 +3,46 @@
   "repo": "koala73/worldmonitor",
   "org": "koala73",
   "language": "TypeScript",
-  "stars": 89944,
+  "stars": 90406,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:48:25Z",
-  "window_start": "2026-04-11",
+  "scanned_at": "2026-11-12T11:58:45Z",
+  "window_start": "2026-01-25",
   "complete": false,
   "months": {
+    "2026-01": {
+      "total": 216,
+      "ai": 0,
+      "automation": 0,
+      "merges": 4,
+      "by_rule": {}
+    },
+    "2026-02": {
+      "total": 696,
+      "ai": 65,
+      "automation": 0,
+      "merges": 65,
+      "by_rule": {
+        "claude_trailer": 63,
+        "cursor": 2
+      }
+    },
+    "2026-03": {
+      "total": 1472,
+      "ai": 75,
+      "automation": 2,
+      "merges": 10,
+      "by_rule": {
+        "claude_trailer": 73,
+        "copilot_trailer": 3
+      }
+    },
     "2026-04": {
-      "total": 430,
-      "ai": 28,
+      "total": 765,
+      "ai": 42,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28,
+        "claude_trailer": 42,
         "claude_generated": 7
       }
     },
@@ -80,13 +107,13 @@
       }
     },
     "2026-11": {
-      "total": 333,
-      "ai": 28,
-      "automation": 17,
-      "merges": 0,
+      "total": 509,
+      "ai": 40,
+      "automation": 18,
+      "merges": 2,
       "by_rule": {
-        "claude_trailer": 25,
-        "cursor": 3
+        "claude_trailer": 31,
+        "cursor": 9
       }
     }
   }

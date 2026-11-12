@@ -3,9 +3,9 @@
   "repo": "gethomepage/homepage",
   "org": "gethomepage",
   "language": "JavaScript",
-  "stars": 33478,
+  "stars": 33576,
   "default_branch": "dev",
-  "scanned_at": "2026-11-08T10:54:40Z",
+  "scanned_at": "2026-11-12T12:02:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -165,22 +165,23 @@
       }
     },
     "2026-10": {
-      "total": 26,
+      "total": 28,
       "ai": 2,
       "automation": 34,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
         "claude_trailer": 1,
         "codex_trailer": 1
       }
     },
     "2026-11": {
-      "total": 9,
-      "ai": 2,
-      "automation": 8,
-      "merges": 0,
+      "total": 18,
+      "ai": 3,
+      "automation": 9,
+      "merges": 1,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 2,
+        "codex_trailer": 1
       }
     }
   }

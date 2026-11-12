@@ -3,9 +3,9 @@
   "repo": "storytold/artcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 38164,
+  "stars": 40106,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:38:51Z",
+  "scanned_at": "2026-11-12T11:52:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -27,7 +27,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 27,
       "ai": 0,
       "automation": 1,
       "merges": 0,

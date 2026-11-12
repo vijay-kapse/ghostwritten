@@ -3,9 +3,9 @@
   "repo": "maboloshi/github-chinese",
   "org": "maboloshi",
   "language": "JavaScript",
-  "stars": 37401,
+  "stars": 38103,
   "default_branch": "gh-pages",
-  "scanned_at": "2026-11-08T10:41:02Z",
+  "scanned_at": "2026-11-12T11:53:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,9 +168,9 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 29,
       "ai": 0,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {}
     }

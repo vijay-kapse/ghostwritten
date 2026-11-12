@@ -3,38 +3,14 @@
   "repo": "cheaper-inference/OmniRoute",
   "org": "cheaper-inference",
   "language": "TypeScript",
-  "stars": 83585,
-  "default_branch": "release/v3.8.53",
-  "scanned_at": "2026-11-08T10:54:32Z",
-  "window_start": "2026-08-06",
+  "stars": 85829,
+  "default_branch": "release/v3.8.54",
+  "scanned_at": "2026-11-12T12:02:50Z",
+  "window_start": "2026-10-02",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 1858,
-      "ai": 25,
-      "automation": 26,
-      "merges": 87,
-      "by_rule": {
-        "cursor": 15,
-        "claude_trailer": 4,
-        "codex_trailer": 3,
-        "openhands": 2,
-        "copilot_trailer": 1
-      }
-    },
-    "2026-09": {
-      "total": 1541,
-      "ai": 13,
-      "automation": 27,
-      "merges": 4,
-      "by_rule": {
-        "claude_trailer": 9,
-        "cursor": 3,
-        "codex_trailer": 1
-      }
-    },
     "2026-10": {
-      "total": 2202,
+      "total": 2151,
       "ai": 1,
       "automation": 27,
       "merges": 114,
@@ -43,10 +19,10 @@
       }
     },
     "2026-11": {
-      "total": 307,
+      "total": 694,
       "ai": 0,
-      "automation": 1,
-      "merges": 1,
+      "automation": 10,
+      "merges": 4,
       "by_rule": {}
     }
   }

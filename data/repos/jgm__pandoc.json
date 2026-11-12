@@ -3,9 +3,9 @@
   "repo": "jgm/pandoc",
   "org": "jgm",
   "language": "Haskell",
-  "stars": 46778,
+  "stars": 46864,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:41:58Z",
+  "scanned_at": "2026-11-12T11:36:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,12 +181,13 @@
       }
     },
     "2026-11": {
-      "total": 45,
-      "ai": 1,
+      "total": 92,
+      "ai": 8,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 7,
+        "copilot_trailer": 1
       }
     }
   }

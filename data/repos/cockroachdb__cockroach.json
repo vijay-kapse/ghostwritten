@@ -3,21 +3,53 @@
   "repo": "cockroachdb/cockroach",
   "org": "cockroachdb",
   "language": "Go",
-  "stars": 32600,
+  "stars": 32612,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:58:13Z",
-  "window_start": "2026-03-11",
+  "scanned_at": "2026-11-12T12:05:43Z",
+  "window_start": "2025-12-18",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 649,
-      "ai": 81,
+    "2025-12": {
+      "total": 152,
+      "ai": 3,
       "automation": 0,
-      "merges": 459,
+      "merges": 94,
       "by_rule": {
-        "claude_trailer": 81,
-        "claude_generated": 13,
-        "cursor": 1
+        "claude_generated": 3,
+        "claude_trailer": 2
+      }
+    },
+    "2026-01": {
+      "total": 656,
+      "ai": 23,
+      "automation": 0,
+      "merges": 358,
+      "by_rule": {
+        "claude_trailer": 22,
+        "claude_generated": 5
+      }
+    },
+    "2026-02": {
+      "total": 655,
+      "ai": 115,
+      "automation": 1,
+      "merges": 491,
+      "by_rule": {
+        "claude_trailer": 74,
+        "cursor": 41,
+        "claude_generated": 4
+      }
+    },
+    "2026-03": {
+      "total": 1002,
+      "ai": 120,
+      "automation": 0,
+      "merges": 699,
+      "by_rule": {
+        "claude_trailer": 114,
+        "claude_generated": 14,
+        "cursor": 6,
+        "copilot_trailer": 1
       }
     },
     "2026-04": {

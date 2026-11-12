@@ -3,9 +3,9 @@
   "repo": "NginxProxyManager/nginx-proxy-manager",
   "org": "NginxProxyManager",
   "language": "TypeScript",
-  "stars": 34603,
+  "stars": 34661,
   "default_branch": "develop",
-  "scanned_at": "2026-11-08T10:50:18Z",
+  "scanned_at": "2026-11-12T11:59:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -155,7 +155,7 @@
       "total": 20,
       "ai": 2,
       "automation": 13,
-      "merges": 31,
+      "merges": 32,
       "by_rule": {
         "claude_trailer": 1,
         "cursor": 1
@@ -171,10 +171,10 @@
       }
     },
     "2026-11": {
-      "total": 26,
+      "total": 42,
       "ai": 11,
       "automation": 1,
-      "merges": 29,
+      "merges": 31,
       "by_rule": {
         "claude_trailer": 11
       }

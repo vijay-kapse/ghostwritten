@@ -3,26 +3,44 @@
   "repo": "frappe/erpnext",
   "org": "frappe",
   "language": "Python",
-  "stars": 40830,
+  "stars": 41115,
   "default_branch": "develop",
-  "scanned_at": "2026-11-07T10:54:18Z",
-  "window_start": "2026-10-14",
+  "scanned_at": "2026-11-12T11:45:26Z",
+  "window_start": "2026-08-10",
   "complete": false,
   "months": {
-    "2026-10": {
-      "total": 2064,
-      "ai": 3,
-      "automation": 3,
-      "merges": 630,
+    "2026-08": {
+      "total": 267,
+      "ai": 5,
+      "automation": 0,
+      "merges": 53,
       "by_rule": {
-        "claude_trailer": 3
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 403,
+      "ai": 5,
+      "automation": 3,
+      "merges": 57,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-10": {
+      "total": 3432,
+      "ai": 7,
+      "automation": 5,
+      "merges": 886,
+      "by_rule": {
+        "claude_trailer": 7
       }
     },
     "2026-11": {
-      "total": 526,
+      "total": 907,
       "ai": 4,
-      "automation": 5,
-      "merges": 197,
+      "automation": 7,
+      "merges": 317,
       "by_rule": {
         "claude_trailer": 4
       }

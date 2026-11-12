@@ -3,9 +3,9 @@
   "repo": "ahujasid/mcp-for-blender",
   "org": "ahujasid",
   "language": "Python",
-  "stars": 32992,
+  "stars": 33731,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:56:50Z",
+  "scanned_at": "2026-11-12T12:04:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -119,12 +119,12 @@
       }
     },
     "2026-11": {
-      "total": 7,
-      "ai": 2,
+      "total": 10,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

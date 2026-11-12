@@ -3,9 +3,9 @@
   "repo": "CloakHQ/CloakBrowser",
   "org": "CloakHQ",
   "language": "Python",
-  "stars": 32677,
+  "stars": 32791,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:57:51Z",
+  "scanned_at": "2026-11-12T12:05:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,9 +73,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 10,
+      "total": 13,
       "ai": 0,
-      "automation": 2,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

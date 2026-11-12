@@ -3,18 +3,75 @@
   "repo": "FreeCAD/FreeCAD",
   "org": "FreeCAD",
   "language": "C++",
-  "stars": 35024,
+  "stars": 35285,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:49:07Z",
-  "window_start": "2026-03-28",
+  "scanned_at": "2026-11-12T11:59:10Z",
+  "window_start": "2025-08-27",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 91,
+    "2025-08": {
+      "total": 82,
       "ai": 0,
-      "automation": 5,
-      "merges": 16,
+      "automation": 2,
+      "merges": 10,
       "by_rule": {}
+    },
+    "2025-09": {
+      "total": 523,
+      "ai": 0,
+      "automation": 15,
+      "merges": 71,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 218,
+      "ai": 1,
+      "automation": 12,
+      "merges": 42,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-11": {
+      "total": 362,
+      "ai": 0,
+      "automation": 31,
+      "merges": 68,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 252,
+      "ai": 0,
+      "automation": 9,
+      "merges": 43,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 306,
+      "ai": 1,
+      "automation": 9,
+      "merges": 44,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 284,
+      "ai": 11,
+      "automation": 14,
+      "merges": 43,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-03": {
+      "total": 473,
+      "ai": 4,
+      "automation": 23,
+      "merges": 76,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     },
     "2026-04": {
       "total": 444,
@@ -71,7 +128,7 @@
       }
     },
     "2026-10": {
-      "total": 299,
+      "total": 301,
       "ai": 20,
       "automation": 18,
       "merges": 29,
@@ -80,12 +137,12 @@
       }
     },
     "2026-11": {
-      "total": 73,
-      "ai": 2,
-      "automation": 3,
-      "merges": 11,
+      "total": 113,
+      "ai": 3,
+      "automation": 7,
+      "merges": 15,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

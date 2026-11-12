@@ -3,14 +3,87 @@
   "repo": "ray-project/ray",
   "org": "ray-project",
   "language": "Python",
-  "stars": 44174,
+  "stars": 44242,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:49:04Z",
-  "window_start": "2026-02-03",
+  "scanned_at": "2026-11-12T11:41:31Z",
+  "window_start": "2025-07-25",
   "complete": false,
   "months": {
+    "2025-07": {
+      "total": 91,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 3
+      }
+    },
+    "2025-08": {
+      "total": 525,
+      "ai": 22,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 22,
+        "copilot_trailer": 1
+      }
+    },
+    "2025-09": {
+      "total": 499,
+      "ai": 40,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 33,
+        "copilot_trailer": 18
+      }
+    },
+    "2025-10": {
+      "total": 571,
+      "ai": 27,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 27,
+        "claude_generated": 1,
+        "claude_trailer": 1
+      }
+    },
+    "2025-11": {
+      "total": 356,
+      "ai": 18,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 17,
+        "cursor": 1
+      }
+    },
+    "2025-12": {
+      "total": 384,
+      "ai": 20,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 18,
+        "claude_trailer": 2,
+        "claude_generated": 1
+      }
+    },
+    "2026-01": {
+      "total": 439,
+      "ai": 35,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 25,
+        "claude_trailer": 10,
+        "claude_generated": 4,
+        "copilot_trailer": 1
+      }
+    },
     "2026-02": {
-      "total": 331,
+      "total": 366,
       "ai": 37,
       "automation": 0,
       "merges": 0,
@@ -124,15 +197,16 @@
       }
     },
     "2026-11": {
-      "total": 145,
-      "ai": 97,
+      "total": 204,
+      "ai": 126,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 88,
-        "claude_generated": 78,
-        "copilot_trailer": 5,
-        "gemini": 3
+        "claude_trailer": 111,
+        "claude_generated": 101,
+        "copilot_trailer": 9,
+        "gemini": 3,
+        "cursor": 1
       }
     }
   }

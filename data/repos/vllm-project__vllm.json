@@ -3,22 +3,60 @@
   "repo": "vllm-project/vllm",
   "org": "vllm-project",
   "language": "Python",
-  "stars": 96066,
+  "stars": 96592,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:32:19Z",
-  "window_start": "2026-07-14",
+  "scanned_at": "2026-11-12T11:47:45Z",
+  "window_start": "2026-04-27",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 714,
-      "ai": 187,
+    "2026-04": {
+      "total": 127,
+      "ai": 20,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 97,
-        "codex_trailer": 85,
-        "cursor": 12,
-        "copilot_trailer": 4,
+        "claude_trailer": 14,
+        "codex_trailer": 3,
+        "copilot_trailer": 3,
+        "gemini": 3
+      }
+    },
+    "2026-05": {
+      "total": 892,
+      "ai": 125,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 68,
+        "gemini": 31,
+        "cursor": 15,
+        "codex_trailer": 8,
+        "copilot_trailer": 5
+      }
+    },
+    "2026-06": {
+      "total": 1153,
+      "ai": 138,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 104,
+        "codex_trailer": 19,
+        "cursor": 14,
+        "gemini": 4,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-07": {
+      "total": 1139,
+      "ai": 260,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 160,
+        "codex_trailer": 91,
+        "cursor": 18,
+        "copilot_trailer": 5,
         "gemini": 2
       }
     },
@@ -63,15 +101,15 @@
       }
     },
     "2026-11": {
-      "total": 589,
-      "ai": 340,
+      "total": 923,
+      "ai": 572,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 295,
-        "codex_trailer": 58,
-        "cursor": 15,
-        "copilot_trailer": 3,
+        "claude_trailer": 504,
+        "codex_trailer": 75,
+        "cursor": 30,
+        "copilot_trailer": 6,
         "devin": 1
       }
     }

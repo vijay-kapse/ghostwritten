@@ -3,22 +3,166 @@
   "repo": "jdx/mise",
   "org": "jdx",
   "language": "Rust",
-  "stars": 35621,
+  "stars": 35963,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:46:59Z",
-  "window_start": "2026-06-12",
+  "scanned_at": "2026-11-12T11:57:41Z",
+  "window_start": "2025-06-27",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 181,
-      "ai": 41,
-      "automation": 28,
+    "2025-06": {
+      "total": 9,
+      "ai": 0,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 234,
+      "ai": 31,
+      "automation": 16,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 39,
-        "claude_generated": 1,
+        "claude_trailer": 15,
+        "claude_generated": 11,
+        "cursor": 10,
+        "copilot_trailer": 9
+      }
+    },
+    "2025-08": {
+      "total": 153,
+      "ai": 17,
+      "automation": 8,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 14,
+        "claude_generated": 11,
+        "copilot_trailer": 3,
+        "cursor": 1
+      }
+    },
+    "2025-09": {
+      "total": 207,
+      "ai": 78,
+      "automation": 15,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 70,
+        "claude_generated": 68,
+        "copilot_trailer": 4,
+        "copilot_author": 1
+      }
+    },
+    "2025-10": {
+      "total": 159,
+      "ai": 65,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 57,
+        "claude_generated": 51,
+        "copilot_trailer": 7,
+        "copilot_author": 1
+      }
+    },
+    "2025-11": {
+      "total": 170,
+      "ai": 76,
+      "automation": 10,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 68,
+        "claude_trailer": 57,
+        "copilot_trailer": 5
+      }
+    },
+    "2025-12": {
+      "total": 219,
+      "ai": 144,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 141,
+        "claude_trailer": 134,
+        "copilot_trailer": 5,
+        "copilot_author": 1
+      }
+    },
+    "2026-01": {
+      "total": 226,
+      "ai": 133,
+      "automation": 27,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 127,
+        "claude_generated": 111,
+        "copilot_trailer": 5
+      }
+    },
+    "2026-02": {
+      "total": 244,
+      "ai": 145,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 137,
+        "claude_generated": 126,
+        "gemini": 6,
         "copilot_trailer": 1,
-        "devin": 1
+        "cursor": 1
+      }
+    },
+    "2026-03": {
+      "total": 211,
+      "ai": 113,
+      "automation": 13,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 110,
+        "claude_generated": 96,
+        "copilot_trailer": 3,
+        "gemini": 2,
+        "cursor": 1
+      }
+    },
+    "2026-04": {
+      "total": 336,
+      "ai": 148,
+      "automation": 98,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 130,
+        "claude_generated": 108,
+        "gemini": 7,
+        "copilot_trailer": 6,
+        "codex_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 348,
+      "ai": 79,
+      "automation": 64,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 68,
+        "claude_generated": 44,
+        "gemini": 3,
+        "codex_trailer": 2,
+        "copilot_trailer": 2,
+        "cursor": 1
+      }
+    },
+    "2026-06": {
+      "total": 266,
+      "ai": 53,
+      "automation": 41,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 49,
+        "claude_generated": 1,
+        "codex_trailer": 1,
+        "copilot_trailer": 1,
+        "devin": 1,
+        "gemini": 1
       }
     },
     "2026-07": {
@@ -69,13 +213,13 @@
       }
     },
     "2026-11": {
-      "total": 121,
-      "ai": 108,
-      "automation": 18,
+      "total": 189,
+      "ai": 173,
+      "automation": 32,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 108,
-        "claude_generated": 106
+        "claude_trailer": 173,
+        "claude_generated": 170
       }
     }
   }

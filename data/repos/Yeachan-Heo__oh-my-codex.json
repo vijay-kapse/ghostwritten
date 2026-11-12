@@ -3,19 +3,29 @@
   "repo": "Yeachan-Heo/oh-my-codex",
   "org": "Yeachan-Heo",
   "language": "TypeScript",
-  "stars": 33693,
+  "stars": 33751,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:54:06Z",
-  "window_start": "2026-03-16",
-  "complete": false,
+  "scanned_at": "2026-11-12T12:02:17Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-03": {
-      "total": 184,
-      "ai": 7,
-      "automation": 11,
-      "merges": 54,
+    "2026-02": {
+      "total": 321,
+      "ai": 129,
+      "automation": 0,
+      "merges": 118,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 129
+      }
+    },
+    "2026-03": {
+      "total": 539,
+      "ai": 27,
+      "automation": 11,
+      "merges": 191,
+      "by_rule": {
+        "claude_trailer": 26,
+        "codex_trailer": 1
       }
     },
     "2026-04": {
@@ -86,11 +96,12 @@
       }
     },
     "2026-11": {
-      "total": 46,
-      "ai": 1,
-      "automation": 2,
-      "merges": 15,
+      "total": 69,
+      "ai": 3,
+      "automation": 3,
+      "merges": 28,
       "by_rule": {
+        "codex_trailer": 2,
         "claude_trailer": 1
       }
     }

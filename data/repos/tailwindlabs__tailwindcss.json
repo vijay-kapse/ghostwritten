@@ -3,9 +3,9 @@
   "repo": "tailwindlabs/tailwindcss",
   "org": "tailwindlabs",
   "language": "TypeScript",
-  "stars": 98278,
+  "stars": 98655,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:53:19Z",
+  "scanned_at": "2026-11-12T11:44:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 17,
+      "total": 27,
       "ai": 4,
-      "automation": 11,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3,

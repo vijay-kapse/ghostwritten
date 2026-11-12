@@ -3,9 +3,9 @@
   "repo": "modelcontextprotocol/servers",
   "org": "modelcontextprotocol",
   "language": "TypeScript",
-  "stars": 91735,
+  "stars": 91885,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:40:50Z",
+  "scanned_at": "2026-11-12T11:53:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,12 +212,12 @@
       }
     },
     "2026-11": {
-      "total": 6,
-      "ai": 6,
-      "automation": 3,
-      "merges": 8,
+      "total": 57,
+      "ai": 57,
+      "automation": 5,
+      "merges": 43,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 57
       }
     }
   }

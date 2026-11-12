@@ -3,9 +3,9 @@
   "repo": "binwiederhier/ntfy",
   "org": "binwiederhier",
   "language": "Go",
-  "stars": 35217,
+  "stars": 35406,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:48:32Z",
+  "scanned_at": "2026-11-12T11:58:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -165,10 +165,10 @@
       }
     },
     "2026-11": {
-      "total": 78,
+      "total": 79,
       "ai": 1,
       "automation": 0,
-      "merges": 27,
+      "merges": 28,
       "by_rule": {
         "claude_trailer": 1
       }

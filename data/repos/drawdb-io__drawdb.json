@@ -3,9 +3,9 @@
   "repo": "drawdb-io/drawdb",
   "org": "drawdb-io",
   "language": "JavaScript",
-  "stars": 40216,
+  "stars": 40288,
   "default_branch": "main",
-  "scanned_at": "2026-11-08T10:32:06Z",
+  "scanned_at": "2026-11-12T11:47:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 1,
+      "total": 5,
       "ai": 1,
       "automation": 1,
       "merges": 0,

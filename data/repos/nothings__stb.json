@@ -3,14 +3,14 @@
   "repo": "nothings/stb",
   "org": "nothings",
   "language": "C",
-  "stars": 34925,
+  "stars": 34976,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:49:26Z",
+  "scanned_at": "2026-11-12T11:59:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2025-02": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -30,6 +30,13 @@
       "merges": 0,
       "by_rule": {}
     },
+    "2025-06": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-07": {
       "total": 1,
       "ai": 0,
@@ -38,7 +45,7 @@
       "by_rule": {}
     },
     "2025-09": {
-      "total": 0,
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 1,
@@ -52,7 +59,7 @@
       "by_rule": {}
     },
     "2026-03": {
-      "total": 12,
+      "total": 17,
       "ai": 0,
       "automation": 0,
       "merges": 1,
@@ -65,25 +72,39 @@
       "merges": 0,
       "by_rule": {}
     },
+    "2026-06": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-08": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 1,
       "by_rule": {}
     },
-    "2026-10": {
+    "2026-09": {
       "total": 4,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 127,
+      "ai": 0,
+      "automation": 0,
+      "merges": 48,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
+      "total": 79,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 9,
       "by_rule": {}
     }
   }

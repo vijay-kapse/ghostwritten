@@ -3,27 +3,27 @@
   "repo": "duckdb/duckdb",
   "org": "duckdb",
   "language": "C++",
-  "stars": 42732,
+  "stars": 42933,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:50:44Z",
-  "window_start": "2026-10-20",
+  "scanned_at": "2026-11-12T11:42:43Z",
+  "window_start": "2026-10-07",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 1725,
-      "ai": 19,
+      "total": 3209,
+      "ai": 30,
       "automation": 0,
-      "merges": 461,
+      "merges": 1285,
       "by_rule": {
-        "claude_trailer": 18,
+        "claude_trailer": 29,
         "cursor": 1
       }
     },
     "2026-11": {
-      "total": 512,
+      "total": 955,
       "ai": 6,
       "automation": 0,
-      "merges": 318,
+      "merges": 501,
       "by_rule": {
         "claude_trailer": 6
       }

@@ -3,16 +3,16 @@
   "repo": "DefinitelyTyped/DefinitelyTyped",
   "org": "DefinitelyTyped",
   "language": "TypeScript",
-  "stars": 51465,
+  "stars": 51470,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:32:53Z",
-  "window_start": "2025-01-14",
-  "complete": false,
+  "scanned_at": "2026-11-12T11:29:29Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 157,
+      "total": 271,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     },
@@ -199,11 +199,13 @@
       }
     },
     "2026-11": {
-      "total": 18,
-      "ai": 0,
-      "automation": 2,
+      "total": 25,
+      "ai": 1,
+      "automation": 3,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

@@ -3,17 +3,24 @@
   "repo": "siyuan-note/siyuan",
   "org": "siyuan-note",
   "language": "TypeScript",
-  "stars": 47032,
+  "stars": 47143,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:41:44Z",
-  "window_start": "2026-08-30",
+  "scanned_at": "2026-11-12T11:36:00Z",
+  "window_start": "2026-07-15",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 34,
+    "2026-07": {
+      "total": 855,
       "ai": 0,
       "automation": 0,
-      "merges": 2,
+      "merges": 72,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 1341,
+      "ai": 0,
+      "automation": 0,
+      "merges": 68,
       "by_rule": {}
     },
     "2026-09": {
@@ -24,13 +31,20 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1550,
+      "total": 1687,
       "ai": 6,
-      "automation": 16,
-      "merges": 100,
+      "automation": 17,
+      "merges": 111,
       "by_rule": {
         "claude_trailer": 6
       }
+    },
+    "2026-11": {
+      "total": 513,
+      "ai": 0,
+      "automation": 10,
+      "merges": 21,
+      "by_rule": {}
     }
   }
 }

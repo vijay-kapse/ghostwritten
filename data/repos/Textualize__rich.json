@@ -3,9 +3,9 @@
   "repo": "Textualize/rich",
   "org": "Textualize",
   "language": "Python",
-  "stars": 57697,
+  "stars": 57763,
   "default_branch": "main",
-  "scanned_at": "2026-11-07T10:26:00Z",
+  "scanned_at": "2026-11-12T11:24:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -113,6 +113,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 7,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {}
     }
   }
 }

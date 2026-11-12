@@ -3,9 +3,9 @@
   "repo": "istio/istio",
   "org": "istio",
   "language": "Go",
-  "stars": 38481,
+  "stars": 38494,
   "default_branch": "master",
-  "scanned_at": "2026-11-08T10:37:20Z",
+  "scanned_at": "2026-11-12T11:50:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,11 +186,13 @@
       }
     },
     "2026-11": {
-      "total": 39,
-      "ai": 0,
+      "total": 52,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

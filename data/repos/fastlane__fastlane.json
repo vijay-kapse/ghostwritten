@@ -3,9 +3,9 @@
   "repo": "fastlane/fastlane",
   "org": "fastlane",
   "language": "Ruby",
-  "stars": 42334,
+  "stars": 42371,
   "default_branch": "master",
-  "scanned_at": "2026-11-07T10:51:20Z",
+  "scanned_at": "2026-11-12T11:43:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,9 +169,9 @@
       }
     },
     "2026-11": {
-      "total": 30,
+      "total": 63,
       "ai": 3,
-      "automation": 1,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

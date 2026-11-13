@@ -5,7 +5,7 @@
   "language": "Objective-C",
   "stars": 13713,
   "default_branch": "master",
-  "scanned_at": "2026-11-10T12:02:55Z",
+  "scanned_at": "2026-11-13T11:51:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,12 +152,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 381,
-      "ai": 38,
-      "automation": 0,
-      "merges": 105,
+      "total": 796,
+      "ai": 73,
+      "automation": 1,
+      "merges": 260,
       "by_rule": {
-        "claude_trailer": 36,
+        "claude_trailer": 71,
         "copilot_author": 2
       }
     }

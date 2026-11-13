@@ -5,15 +5,24 @@
   "language": "Dart",
   "stars": 30006,
   "default_branch": "main",
-  "scanned_at": "2026-11-09T11:59:06Z",
-  "window_start": "2026-09-14",
+  "scanned_at": "2026-11-13T11:12:26Z",
+  "window_start": "2026-08-04",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 767,
+    "2026-08": {
+      "total": 1316,
       "ai": 1,
-      "automation": 17,
-      "merges": 287,
+      "automation": 26,
+      "merges": 474,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 1568,
+      "ai": 1,
+      "automation": 37,
+      "merges": 550,
       "by_rule": {
         "claude_trailer": 1
       }
@@ -29,12 +38,13 @@
       }
     },
     "2026-11": {
-      "total": 156,
-      "ai": 1,
-      "automation": 11,
+      "total": 211,
+      "ai": 3,
+      "automation": 17,
       "merges": 7,
       "by_rule": {
-        "cursor": 1
+        "cursor": 2,
+        "claude_trailer": 1
       }
     }
   }

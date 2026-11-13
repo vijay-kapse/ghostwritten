@@ -5,17 +5,17 @@
   "language": "Swift",
   "stars": 28738,
   "default_branch": "main",
-  "scanned_at": "2026-11-09T12:07:55Z",
-  "window_start": "2026-09-25",
+  "scanned_at": "2026-11-13T11:16:53Z",
+  "window_start": "2026-09-16",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 1372,
-      "ai": 1011,
+      "total": 3772,
+      "ai": 1666,
       "automation": 0,
-      "merges": 104,
+      "merges": 604,
       "by_rule": {
-        "claude_trailer": 1008,
+        "claude_trailer": 1663,
         "codex_trailer": 4,
         "copilot_trailer": 1
       }
@@ -33,13 +33,13 @@
       }
     },
     "2026-11": {
-      "total": 183,
-      "ai": 113,
+      "total": 274,
+      "ai": 150,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 100,
-        "codex_trailer": 13,
+        "claude_trailer": 136,
+        "codex_trailer": 14,
         "claude_generated": 1
       }
     }

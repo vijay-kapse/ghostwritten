@@ -5,15 +5,47 @@
   "language": "C++",
   "stars": 24449,
   "default_branch": "dev-v2",
-  "scanned_at": "2026-11-09T12:28:55Z",
-  "window_start": "2025-05-18",
-  "complete": false,
+  "scanned_at": "2026-11-13T11:28:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 102,
+    "2025-01": {
+      "total": 212,
       "ai": 0,
-      "automation": 14,
-      "merges": 8,
+      "automation": 42,
+      "merges": 10,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 315,
+      "ai": 0,
+      "automation": 52,
+      "merges": 16,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 125,
+      "ai": 1,
+      "automation": 36,
+      "merges": 5,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-04": {
+      "total": 253,
+      "ai": 1,
+      "automation": 47,
+      "merges": 10,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-05": {
+      "total": 289,
+      "ai": 0,
+      "automation": 40,
+      "merges": 15,
       "by_rule": {}
     },
     "2025-06": {
@@ -181,10 +213,10 @@
       }
     },
     "2026-11": {
-      "total": 125,
+      "total": 135,
       "ai": 1,
-      "automation": 29,
-      "merges": 15,
+      "automation": 32,
+      "merges": 16,
       "by_rule": {
         "claude_trailer": 1
       }

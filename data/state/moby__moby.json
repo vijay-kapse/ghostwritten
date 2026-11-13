@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "moby/moby",
-  "head_sha": "402d0a16f131d93ee89f1b06cb5fc8c98e766dfc",
-  "oldest": "2025-07-16T02:06:43Z",
-  "complete": false,
+  "head_sha": "a7df059f210527817ae97cbee19dd2a9b382128e",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-09T11:50:38Z"
+  "updated_at": "2026-11-13T11:07:01Z"
 }

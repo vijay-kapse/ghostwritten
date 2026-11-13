@@ -5,7 +5,7 @@
   "language": "Haskell",
   "stars": 19667,
   "default_branch": "stable",
-  "scanned_at": "2026-11-10T11:39:00Z",
+  "scanned_at": "2026-11-13T11:38:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -144,7 +144,7 @@
       }
     },
     "2026-07": {
-      "total": 112,
+      "total": 115,
       "ai": 4,
       "automation": 0,
       "merges": 1,
@@ -153,24 +153,31 @@
       }
     },
     "2026-08": {
-      "total": 25,
+      "total": 81,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 16,
       "by_rule": {}
     },
     "2026-09": {
-      "total": 14,
+      "total": 131,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 15,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 7,
+      "total": 190,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 8,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 77,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
       "by_rule": {}
     }
   }

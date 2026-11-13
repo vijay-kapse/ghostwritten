@@ -5,15 +5,24 @@
   "language": "TypeScript",
   "stars": 24459,
   "default_branch": "dev",
-  "scanned_at": "2026-11-09T12:27:29Z",
-  "window_start": "2026-02-02",
-  "complete": false,
+  "scanned_at": "2026-11-13T11:27:13Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-02": {
-      "total": 668,
+    "2026-01": {
+      "total": 441,
       "ai": 1,
-      "automation": 4,
-      "merges": 29,
+      "automation": 5,
+      "merges": 55,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 724,
+      "ai": 1,
+      "automation": 9,
+      "merges": 32,
       "by_rule": {
         "copilot_trailer": 1
       }
@@ -97,13 +106,13 @@
       }
     },
     "2026-11": {
-      "total": 243,
-      "ai": 2,
-      "automation": 4,
+      "total": 403,
+      "ai": 3,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
-        "cursor": 1
+        "cursor": 2,
+        "claude_trailer": 1
       }
     }
   }

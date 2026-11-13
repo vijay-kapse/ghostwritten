@@ -5,7 +5,7 @@
   "language": "Shell",
   "stars": 21561,
   "default_branch": "main",
-  "scanned_at": "2026-11-10T11:31:09Z",
+  "scanned_at": "2026-11-13T11:34:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,12 +174,13 @@
       }
     },
     "2026-11": {
-      "total": 15,
-      "ai": 2,
+      "total": 19,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "cursor": 2
+        "cursor": 2,
+        "claude_trailer": 1
       }
     }
   }

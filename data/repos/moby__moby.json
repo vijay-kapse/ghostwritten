@@ -5,15 +5,57 @@
   "language": "Go",
   "stars": 72361,
   "default_branch": "master",
-  "scanned_at": "2026-11-09T11:50:38Z",
-  "window_start": "2025-07-16",
-  "complete": false,
+  "scanned_at": "2026-11-13T11:07:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-07": {
-      "total": 270,
+    "2025-01": {
+      "total": 331,
       "ai": 0,
       "automation": 0,
-      "merges": 111,
+      "merges": 156,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 203,
+      "ai": 0,
+      "automation": 0,
+      "merges": 87,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 237,
+      "ai": 0,
+      "automation": 0,
+      "merges": 85,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 196,
+      "ai": 0,
+      "automation": 0,
+      "merges": 96,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 334,
+      "ai": 0,
+      "automation": 0,
+      "merges": 123,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 168,
+      "ai": 0,
+      "automation": 0,
+      "merges": 81,
+      "by_rule": {}
+    },
+    "2025-07": {
+      "total": 404,
+      "ai": 0,
+      "automation": 0,
+      "merges": 187,
       "by_rule": {}
     },
     "2025-08": {
@@ -125,24 +167,24 @@
       }
     },
     "2026-09": {
-      "total": 290,
+      "total": 292,
       "ai": 0,
       "automation": 30,
       "merges": 182,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 181,
+      "total": 188,
       "ai": 0,
       "automation": 31,
       "merges": 143,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 52,
+      "total": 91,
       "ai": 0,
-      "automation": 9,
-      "merges": 49,
+      "automation": 15,
+      "merges": 84,
       "by_rule": {}
     }
   }

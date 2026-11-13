@@ -5,17 +5,84 @@
   "language": "Java",
   "stars": 30175,
   "default_branch": "develop",
-  "scanned_at": "2026-11-09T11:56:29Z",
-  "window_start": "2026-04-20",
+  "scanned_at": "2026-11-13T11:10:40Z",
+  "window_start": "2025-08-14",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 85,
-      "ai": 2,
-      "automation": 33,
+    "2025-08": {
+      "total": 113,
+      "ai": 1,
+      "automation": 15,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 2
+        "copilot_trailer": 1
+      }
+    },
+    "2025-09": {
+      "total": 256,
+      "ai": 0,
+      "automation": 49,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-10": {
+      "total": 376,
+      "ai": 1,
+      "automation": 53,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2025-11": {
+      "total": 259,
+      "ai": 0,
+      "automation": 44,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-12": {
+      "total": 291,
+      "ai": 1,
+      "automation": 50,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 292,
+      "ai": 1,
+      "automation": 44,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
+    },
+    "2026-02": {
+      "total": 295,
+      "ai": 0,
+      "automation": 67,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 259,
+      "ai": 2,
+      "automation": 98,
+      "merges": 4,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 262,
+      "ai": 3,
+      "automation": 88,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 2,
+        "claude_trailer": 1
       }
     },
     "2026-05": {
@@ -79,12 +146,12 @@
       }
     },
     "2026-11": {
-      "total": 189,
-      "ai": 24,
-      "automation": 23,
+      "total": 324,
+      "ai": 40,
+      "automation": 28,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 21,
+        "claude_trailer": 37,
         "copilot_trailer": 3
       }
     }

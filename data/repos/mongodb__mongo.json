@@ -5,12 +5,42 @@
   "language": "C++",
   "stars": 28678,
   "default_branch": "master",
-  "scanned_at": "2026-11-09T12:07:31Z",
-  "window_start": "2026-07-01",
+  "scanned_at": "2026-11-13T11:16:32Z",
+  "window_start": "2026-04-14",
   "complete": false,
   "months": {
+    "2026-04": {
+      "total": 580,
+      "ai": 3,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 3
+      }
+    },
+    "2026-05": {
+      "total": 813,
+      "ai": 46,
+      "automation": 61,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 44,
+        "cursor": 2
+      }
+    },
+    "2026-06": {
+      "total": 1129,
+      "ai": 78,
+      "automation": 89,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 69,
+        "claude_trailer": 5,
+        "cursor": 4
+      }
+    },
     "2026-07": {
-      "total": 1277,
+      "total": 1279,
       "ai": 95,
       "automation": 89,
       "merges": 0,
@@ -54,12 +84,14 @@
       }
     },
     "2026-11": {
-      "total": 102,
-      "ai": 7,
-      "automation": 7,
+      "total": 372,
+      "ai": 22,
+      "automation": 25,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 7
+        "copilot_trailer": 16,
+        "claude_trailer": 3,
+        "cursor": 3
       }
     }
   }

@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 13076,
   "default_branch": "gh-pages",
-  "scanned_at": "2026-11-11T11:05:00Z",
+  "scanned_at": "2026-11-13T11:54:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
     "2026-11": {
       "total": 3,
       "ai": 0,
-      "automation": 0,
+      "automation": 2,
       "merges": 1,
       "by_rule": {}
     }

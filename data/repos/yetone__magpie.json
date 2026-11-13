@@ -5,27 +5,28 @@
   "language": "Go",
   "stars": 32873,
   "default_branch": "main",
-  "scanned_at": "2026-11-09T12:14:23Z",
-  "window_start": "2026-10-14",
+  "scanned_at": "2026-11-13T11:20:27Z",
+  "window_start": "2026-10-04",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 2272,
-      "ai": 3,
+      "total": 4172,
+      "ai": 49,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 2,
-        "amp_factory": 1
+        "amp_factory": 25,
+        "claude_trailer": 24,
+        "devin": 1
       }
     },
     "2026-11": {
-      "total": 1234,
-      "ai": 1,
+      "total": 2261,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

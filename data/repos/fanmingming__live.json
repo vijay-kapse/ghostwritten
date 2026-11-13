@@ -5,14 +5,56 @@
   "language": "JavaScript",
   "stars": 28794,
   "default_branch": "main",
-  "scanned_at": "2026-11-09T12:06:47Z",
-  "window_start": "2025-07-08",
-  "complete": false,
+  "scanned_at": "2026-11-13T11:16:06Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
+    "2025-01": {
+      "total": 6,
+      "ai": 0,
+      "automation": 375,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 337,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 3,
+      "ai": 0,
+      "automation": 374,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 3,
+      "ai": 0,
+      "automation": 364,
+      "merges": 3,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 1,
+      "ai": 0,
+      "automation": 373,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 1,
+      "ai": 0,
+      "automation": 359,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2025-07": {
       "total": 2,
       "ai": 0,
-      "automation": 287,
+      "automation": 373,
       "merges": 1,
       "by_rule": {}
     },
@@ -124,7 +166,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 44,
+      "automation": 67,
       "merges": 0,
       "by_rule": {}
     }

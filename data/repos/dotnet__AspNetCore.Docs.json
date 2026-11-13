@@ -5,7 +5,7 @@
   "language": "C#",
   "stars": 13158,
   "default_branch": "main",
-  "scanned_at": "2026-11-10T12:08:02Z",
+  "scanned_at": "2026-11-13T11:53:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,13 +217,13 @@
       }
     },
     "2026-11": {
-      "total": 24,
-      "ai": 3,
-      "automation": 5,
+      "total": 43,
+      "ai": 13,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 2,
-        "copilot_author": 1
+        "copilot_trailer": 12,
+        "copilot_author": 7
       }
     }
   }

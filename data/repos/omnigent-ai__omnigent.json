@@ -5,15 +5,15 @@
   "language": "Python",
   "stars": 11296,
   "default_branch": "main",
-  "scanned_at": "2026-11-11T11:43:53Z",
-  "window_start": "2026-06-14",
-  "complete": false,
+  "scanned_at": "2026-11-14T10:50:43Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-06": {
-      "total": 960,
+      "total": 981,
       "ai": 45,
       "automation": 2,
-      "merges": 11,
+      "merges": 23,
       "by_rule": {
         "claude_trailer": 43,
         "copilot_trailer": 2,
@@ -68,13 +68,14 @@
       }
     },
     "2026-11": {
-      "total": 449,
-      "ai": 15,
-      "automation": 73,
+      "total": 592,
+      "ai": 26,
+      "automation": 105,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 13,
-        "devin": 2
+        "claude_trailer": 21,
+        "codex_trailer": 3,
+        "devin": 3
       }
     }
   }

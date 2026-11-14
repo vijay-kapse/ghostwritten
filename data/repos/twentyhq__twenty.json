@@ -5,18 +5,72 @@
   "language": "TypeScript",
   "stars": 60676,
   "default_branch": "main",
-  "scanned_at": "2026-11-11T11:54:24Z",
-  "window_start": "2026-05-01",
+  "scanned_at": "2026-11-14T10:56:29Z",
+  "window_start": "2025-12-05",
   "complete": false,
   "months": {
-    "2026-05": {
-      "total": 380,
-      "ai": 57,
-      "automation": 142,
+    "2025-12": {
+      "total": 271,
+      "ai": 0,
+      "automation": 80,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-01": {
+      "total": 392,
+      "ai": 7,
+      "automation": 120,
       "merges": 0,
       "by_rule": {
+        "copilot_trailer": 6,
+        "copilot_author": 5,
+        "cursor": 1
+      }
+    },
+    "2026-02": {
+      "total": 399,
+      "ai": 75,
+      "automation": 104,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 42,
         "claude_trailer": 31,
-        "claude_generated": 21,
+        "claude_generated": 11,
+        "copilot_trailer": 10,
+        "copilot_author": 5
+      }
+    },
+    "2026-03": {
+      "total": 462,
+      "ai": 22,
+      "automation": 151,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 14,
+        "copilot_trailer": 7,
+        "claude_generated": 2,
+        "copilot_author": 1
+      }
+    },
+    "2026-04": {
+      "total": 536,
+      "ai": 84,
+      "automation": 182,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 79,
+        "claude_generated": 42,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-05": {
+      "total": 382,
+      "ai": 59,
+      "automation": 143,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 33,
+        "claude_generated": 23,
         "cursor": 21,
         "copilot_trailer": 3
       }
@@ -79,13 +133,13 @@
       }
     },
     "2026-11": {
-      "total": 400,
-      "ai": 62,
-      "automation": 132,
+      "total": 553,
+      "ai": 87,
+      "automation": 186,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 56,
-        "claude_trailer": 7
+        "claude_generated": 80,
+        "claude_trailer": 9
       }
     }
   }

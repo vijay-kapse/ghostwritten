@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "apache/spark",
-  "head_sha": "2b9d75274e8a857aaa4425eda22486d3a4c15462",
-  "oldest": "2025-07-02T02:34:25Z",
-  "complete": false,
+  "head_sha": "d049f2a96c2b9c6ed87b707996ac84495ad7c39b",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-12T11:40:50Z"
+  "updated_at": "2026-11-14T11:06:09Z"
 }

@@ -5,17 +5,17 @@
   "language": "Ruby",
   "stars": 15659,
   "default_branch": "main",
-  "scanned_at": "2026-11-11T11:25:54Z",
-  "window_start": "2026-11-06",
+  "scanned_at": "2026-11-14T10:42:19Z",
+  "window_start": "2026-11-05",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 1986,
-      "ai": 4,
-      "automation": 2,
-      "merges": 912,
+      "total": 4028,
+      "ai": 5,
+      "automation": 5,
+      "merges": 1821,
       "by_rule": {
-        "claude_trailer": 3,
+        "claude_trailer": 4,
         "aider": 1
       }
     }

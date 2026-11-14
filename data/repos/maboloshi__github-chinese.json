@@ -5,7 +5,7 @@
   "language": "JavaScript",
   "stars": 38103,
   "default_branch": "gh-pages",
-  "scanned_at": "2026-11-12T11:53:50Z",
+  "scanned_at": "2026-11-14T11:14:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,9 +168,9 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 47,
       "ai": 0,
-      "automation": 3,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

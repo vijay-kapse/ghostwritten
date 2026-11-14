@@ -5,7 +5,7 @@
   "language": "TeX",
   "stars": 12162,
   "default_branch": "main",
-  "scanned_at": "2026-11-11T11:31:40Z",
+  "scanned_at": "2026-11-14T10:44:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 22,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 3,
       "by_rule": {}
     }
   }

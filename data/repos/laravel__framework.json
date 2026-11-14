@@ -5,7 +5,7 @@
   "language": "PHP",
   "stars": 34995,
   "default_branch": "13.x",
-  "scanned_at": "2026-11-12T11:59:19Z",
+  "scanned_at": "2026-11-14T11:16:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,12 +190,12 @@
       }
     },
     "2026-11": {
-      "total": 74,
-      "ai": 5,
+      "total": 92,
+      "ai": 7,
       "automation": 1,
       "merges": 1,
       "by_rule": {
-        "amp_factory": 3,
+        "amp_factory": 5,
         "claude_trailer": 2
       }
     }

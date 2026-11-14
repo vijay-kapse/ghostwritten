@@ -5,18 +5,30 @@
   "language": "Rust",
   "stars": 41160,
   "default_branch": "main",
-  "scanned_at": "2026-11-12T11:44:47Z",
-  "window_start": "2026-08-27",
+  "scanned_at": "2026-11-14T11:08:34Z",
+  "window_start": "2026-07-22",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 213,
-      "ai": 12,
-      "automation": 4,
-      "merges": 99,
+    "2026-07": {
+      "total": 670,
+      "ai": 2,
+      "automation": 12,
+      "merges": 106,
       "by_rule": {
-        "claude_trailer": 7,
-        "claude_generated": 5
+        "devin": 2
+      }
+    },
+    "2026-08": {
+      "total": 1940,
+      "ai": 92,
+      "automation": 23,
+      "merges": 365,
+      "by_rule": {
+        "claude_generated": 36,
+        "copilot_author": 27,
+        "claude_trailer": 22,
+        "copilot_trailer": 18,
+        "cursor": 7
       }
     },
     "2026-09": {
@@ -44,12 +56,12 @@
       }
     },
     "2026-11": {
-      "total": 696,
-      "ai": 350,
+      "total": 839,
+      "ai": 448,
       "automation": 17,
-      "merges": 137,
+      "merges": 147,
       "by_rule": {
-        "claude_trailer": 340,
+        "claude_trailer": 438,
         "copilot_trailer": 10
       }
     }

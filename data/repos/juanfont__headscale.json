@@ -5,7 +5,7 @@
   "language": "Go",
   "stars": 45504,
   "default_branch": "main",
-  "scanned_at": "2026-11-12T11:39:24Z",
+  "scanned_at": "2026-11-14T11:05:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,7 +177,7 @@
       }
     },
     "2026-11": {
-      "total": 394,
+      "total": 398,
       "ai": 0,
       "automation": 8,
       "merges": 0,

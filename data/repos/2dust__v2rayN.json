@@ -5,7 +5,7 @@
   "language": "C#",
   "stars": 120246,
   "default_branch": "master",
-  "scanned_at": "2026-11-12T11:27:41Z",
+  "scanned_at": "2026-11-14T10:58:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,9 +174,9 @@
       }
     },
     "2026-11": {
-      "total": 59,
+      "total": 72,
       "ai": 4,
-      "automation": 13,
+      "automation": 17,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 4

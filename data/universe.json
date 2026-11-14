@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T11:06:18Z",
+  "generated_at": "2026-11-14T10:33:13Z",
   "top_refreshed_at": "2026-11-09T11:43:42Z",
   "selection": "top 5000 by stars (search stars:>1000, non-fork), plus on-demand lookups",
   "repos": [
@@ -45059,7 +45059,9 @@
     "cypress-io/cypress",
     "czlonkowski/n8n-mcp",
     "daijro/camoufox",
+    "darrenburns/posting",
     "datahub-project/datahub",
+    "davila7/claude-code-templates",
     "decaporg/decap-cms",
     "desktop/desktop",
     "dotnet/runtime",
@@ -45136,8 +45138,10 @@
     "significant-gravitas/autogpt",
     "skizzophrenic/squachwatch-cyd",
     "square/leakcanary",
+    "srbhr/resume-matcher",
     "stanfordnlp/dspy",
     "storytold/filmcraft",
+    "storytold/lightcraft",
     "storytold/wordcraft",
     "subtitleedit/subtitleedit",
     "supertokens/supertokens-core",

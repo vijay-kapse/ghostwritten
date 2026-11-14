@@ -5,7 +5,7 @@
   "language": "Go",
   "stars": 46933,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-11T11:43:57Z",
+  "scanned_at": "2026-11-14T10:50:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,10 +210,10 @@
       }
     },
     "2026-11": {
-      "total": 36,
+      "total": 38,
       "ai": 8,
-      "automation": 5,
-      "merges": 15,
+      "automation": 9,
+      "merges": 21,
       "by_rule": {
         "copilot_trailer": 5,
         "copilot_author": 3

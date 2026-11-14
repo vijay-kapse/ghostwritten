@@ -5,10 +5,17 @@
   "language": "Nunjucks",
   "stars": 60845,
   "default_branch": "main",
-  "scanned_at": "2026-11-11T11:53:16Z",
+  "scanned_at": "2026-11-14T10:55:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
+    "2026-02": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
     "2026-03": {
       "total": 0,
       "ai": 0,
@@ -24,12 +31,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 3,
+      "ai": 3,
       "automation": 0,
-      "merges": 2,
+      "merges": 3,
       "by_rule": {
-        "copilot_trailer": 2
+        "copilot_trailer": 3
       }
     }
   }

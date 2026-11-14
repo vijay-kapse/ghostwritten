@@ -5,15 +5,43 @@
   "language": "Ruby",
   "stars": 39341,
   "default_branch": "master",
-  "scanned_at": "2026-11-12T11:48:58Z",
-  "window_start": "2025-05-21",
-  "complete": false,
+  "scanned_at": "2026-11-14T11:10:58Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-05": {
-      "total": 128,
+    "2025-01": {
+      "total": 179,
       "ai": 0,
       "automation": 0,
-      "merges": 38,
+      "merges": 43,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 169,
+      "ai": 0,
+      "automation": 0,
+      "merges": 42,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 167,
+      "ai": 0,
+      "automation": 0,
+      "merges": 47,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 283,
+      "ai": 0,
+      "automation": 0,
+      "merges": 83,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 378,
+      "ai": 0,
+      "automation": 0,
+      "merges": 124,
       "by_rule": {}
     },
     "2025-06": {
@@ -153,7 +181,7 @@
       }
     },
     "2026-10": {
-      "total": 232,
+      "total": 237,
       "ai": 6,
       "automation": 0,
       "merges": 73,
@@ -164,10 +192,10 @@
       }
     },
     "2026-11": {
-      "total": 71,
+      "total": 96,
       "ai": 0,
       "automation": 0,
-      "merges": 46,
+      "merges": 57,
       "by_rule": {}
     }
   }

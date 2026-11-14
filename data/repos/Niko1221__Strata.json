@@ -5,17 +5,17 @@
   "language": "C++",
   "stars": 42272,
   "default_branch": "main",
-  "scanned_at": "2026-11-12T11:53:16Z",
-  "window_start": "2026-09-29",
-  "complete": false,
+  "scanned_at": "2026-11-14T11:13:40Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-09": {
-      "total": 180,
-      "ai": 1,
+      "total": 375,
+      "ai": 2,
       "automation": 0,
-      "merges": 11,
+      "merges": 53,
       "by_rule": {
-        "codex_trailer": 1
+        "codex_trailer": 2
       }
     },
     "2026-10": {

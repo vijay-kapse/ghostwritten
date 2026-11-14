@@ -5,12 +5,12 @@
   "language": "C++",
   "stars": 16331,
   "default_branch": "master",
-  "scanned_at": "2026-11-11T11:22:20Z",
-  "window_start": "2025-01-20",
-  "complete": false,
+  "scanned_at": "2026-11-14T10:40:15Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 247,
+      "total": 417,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 278,
-      "ai": 72,
+      "total": 309,
+      "ai": 74,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 71,
+        "claude_trailer": 73,
         "cursor": 1
       }
     }

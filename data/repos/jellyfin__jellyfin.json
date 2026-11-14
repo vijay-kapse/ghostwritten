@@ -5,7 +5,7 @@
   "language": "C#",
   "stars": 59149,
   "default_branch": "master",
-  "scanned_at": "2026-11-12T11:23:27Z",
+  "scanned_at": "2026-11-14T10:56:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,7 +162,7 @@
       "by_rule": {}
     },
     "2026-09": {
-      "total": 171,
+      "total": 172,
       "ai": 3,
       "automation": 1,
       "merges": 32,
@@ -172,17 +172,17 @@
       }
     },
     "2026-10": {
-      "total": 68,
+      "total": 69,
       "ai": 0,
       "automation": 3,
-      "merges": 7,
+      "merges": 8,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 14,
+      "total": 21,
       "ai": 0,
       "automation": 0,
-      "merges": 7,
+      "merges": 10,
       "by_rule": {}
     }
   }

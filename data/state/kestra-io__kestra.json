@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "kestra-io/kestra",
-  "head_sha": "00c6c5f58417de300dd5d0d8910e6420dac65918",
-  "oldest": "2025-08-14T08:18:29Z",
-  "complete": false,
+  "head_sha": "28867c6f0ef22f14610c8230406c24bcb35ec13a",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "develop",
-  "updated_at": "2026-11-13T11:10:40Z"
+  "updated_at": "2026-11-15T11:10:05Z"
 }

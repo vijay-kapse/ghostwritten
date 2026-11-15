@@ -5,7 +5,7 @@
   "language": "Kotlin",
   "stars": 25155,
   "default_branch": "main",
-  "scanned_at": "2026-11-13T11:26:36Z",
+  "scanned_at": "2026-11-15T11:19:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 7,
       "ai": 0,
-      "automation": 17,
+      "automation": 18,
       "merges": 0,
       "by_rule": {}
     }

@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "openjdk/jdk",
-  "head_sha": "c8ca4d5a43209e76df2653595d23e2315339a3f3",
-  "oldest": "2025-01-10T08:59:31Z",
-  "complete": false,
+  "head_sha": "e63fe67b868e5185bcf3bb7cf1a13eb9f99044b5",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-13T11:29:15Z"
+  "updated_at": "2026-11-15T11:20:29Z"
 }

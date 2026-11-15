@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "cilium/cilium",
-  "head_sha": "79585e7afb29696b2d55f614202939f4d69af157",
-  "oldest": "2025-04-03T16:36:31Z",
-  "complete": false,
+  "head_sha": "ba8940f6614d6a6a2943b758d1d6bee0f6ebed99",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-13T11:24:17Z"
+  "updated_at": "2026-11-15T11:17:20Z"
 }

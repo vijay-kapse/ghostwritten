@@ -5,7 +5,7 @@
   "language": "Tree-sitter Query",
   "stars": 14520,
   "default_branch": "main",
-  "scanned_at": "2026-11-13T11:46:55Z",
+  "scanned_at": "2026-11-15T11:33:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,7 +152,7 @@
     "2026-11": {
       "total": 4,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

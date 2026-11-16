@@ -5,14 +5,28 @@
   "language": "Rust",
   "stars": 66945,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:09:12Z",
-  "window_start": "2026-08-14",
+  "scanned_at": "2026-11-16T12:10:29Z",
+  "window_start": "2026-06-11",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 1277,
+    "2026-06": {
+      "total": 495,
+      "ai": 0,
+      "automation": 5,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 1802,
       "ai": 0,
       "automation": 3,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 1770,
+      "ai": 0,
+      "automation": 5,
       "merges": 0,
       "by_rule": {}
     },
@@ -33,7 +47,7 @@
       }
     },
     "2026-11": {
-      "total": 2534,
+      "total": 2692,
       "ai": 0,
       "automation": 0,
       "merges": 0,

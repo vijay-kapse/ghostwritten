@@ -5,21 +5,21 @@
   "language": "TypeScript",
   "stars": 31844,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:05:11Z",
-  "window_start": "2026-10-16",
+  "scanned_at": "2026-11-16T12:05:50Z",
+  "window_start": "2026-10-08",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 3753,
+      "total": 5830,
       "ai": 3,
       "automation": 0,
-      "merges": 1617,
+      "merges": 2440,
       "by_rule": {
         "claude_trailer": 3
       }
     },
     "2026-11": {
-      "total": 2538,
+      "total": 2569,
       "ai": 1,
       "automation": 0,
       "merges": 974,

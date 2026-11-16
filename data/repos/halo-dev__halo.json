@@ -5,7 +5,7 @@
   "language": "Java",
   "stars": 40189,
   "default_branch": "main",
-  "scanned_at": "2026-11-14T11:10:13Z",
+  "scanned_at": "2026-11-16T11:55:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
       }
     },
     "2026-11": {
-      "total": 44,
+      "total": 48,
       "ai": 1,
       "automation": 3,
       "merges": 2,

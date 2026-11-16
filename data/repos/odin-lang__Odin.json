@@ -5,7 +5,7 @@
   "language": "Odin",
   "stars": 12292,
   "default_branch": "master",
-  "scanned_at": "2026-11-14T10:44:01Z",
+  "scanned_at": "2026-11-16T11:31:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 295,
+      "total": 325,
       "ai": 4,
       "automation": 0,
-      "merges": 182,
+      "merges": 189,
       "by_rule": {
         "claude_trailer": 4
       }

@@ -5,18 +5,65 @@
   "language": "TypeScript",
   "stars": 53228,
   "default_branch": "main",
-  "scanned_at": "2026-11-14T11:13:57Z",
-  "window_start": "2026-06-20",
-  "complete": false,
+  "scanned_at": "2026-11-16T11:58:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-06": {
-      "total": 90,
-      "ai": 72,
+    "2026-02": {
+      "total": 516,
+      "ai": 82,
       "automation": 1,
+      "merges": 15,
+      "by_rule": {
+        "codex_trailer": 41,
+        "claude_trailer": 31,
+        "cursor": 11
+      }
+    },
+    "2026-03": {
+      "total": 600,
+      "ai": 108,
+      "automation": 28,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 70,
-        "cursor": 2
+        "codex_trailer": 65,
+        "claude_trailer": 34,
+        "cursor": 12,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 224,
+      "ai": 85,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 63,
+        "cursor": 26,
+        "claude_trailer": 14,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 90,
+      "ai": 36,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "cursor": 21,
+        "codex_trailer": 18,
+        "claude_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 407,
+      "ai": 279,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 264,
+        "claude_trailer": 16,
+        "cursor": 9
       }
     },
     "2026-07": {
@@ -70,16 +117,17 @@
       }
     },
     "2026-11": {
-      "total": 2562,
-      "ai": 1140,
-      "automation": 10,
+      "total": 3241,
+      "ai": 1214,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1116,
-        "codex_trailer": 37,
+        "claude_trailer": 1187,
+        "codex_trailer": 41,
         "cursor": 8,
-        "amp_factory": 1,
-        "devin": 1
+        "copilot_trailer": 2,
+        "devin": 2,
+        "amp_factory": 1
       }
     }
   }

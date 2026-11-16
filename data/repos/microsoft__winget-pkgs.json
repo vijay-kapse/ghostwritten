@@ -5,20 +5,20 @@
   "language": null,
   "stars": 11301,
   "default_branch": "master",
-  "scanned_at": "2026-11-14T10:49:47Z",
-  "window_start": "2026-11-07",
+  "scanned_at": "2026-11-16T11:36:35Z",
+  "window_start": "2026-11-04",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 5775,
-      "ai": 382,
-      "automation": 32,
+      "total": 8748,
+      "ai": 898,
+      "automation": 39,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 340,
-        "claude_trailer": 37,
-        "cursor": 3,
-        "codex_trailer": 2
+        "copilot_trailer": 836,
+        "claude_trailer": 55,
+        "codex_trailer": 4,
+        "cursor": 3
       }
     }
   }

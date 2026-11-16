@@ -5,15 +5,22 @@
   "language": "Zig",
   "stars": 63913,
   "default_branch": "main",
-  "scanned_at": "2026-11-14T10:54:49Z",
-  "window_start": "2025-02-14",
-  "complete": false,
+  "scanned_at": "2026-11-16T11:41:05Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-02": {
-      "total": 168,
+    "2025-01": {
+      "total": 348,
       "ai": 0,
       "automation": 0,
-      "merges": 62,
+      "merges": 223,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 249,
+      "ai": 0,
+      "automation": 0,
+      "merges": 123,
       "by_rule": {}
     },
     "2025-03": {
@@ -187,10 +194,10 @@
       }
     },
     "2026-11": {
-      "total": 186,
+      "total": 192,
       "ai": 0,
-      "automation": 21,
-      "merges": 95,
+      "automation": 23,
+      "merges": 100,
       "by_rule": {}
     }
   }

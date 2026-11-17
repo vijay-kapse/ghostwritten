@@ -3,9 +3,9 @@
   "repo": "Unstructured-IO/unstructured",
   "org": "Unstructured-IO",
   "language": "HTML",
-  "stars": 15703,
+  "stars": 15755,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:45:37Z",
+  "scanned_at": "2026-11-17T12:34:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,7 +198,7 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 20,
       "ai": 3,
       "automation": 0,
       "merges": 0,

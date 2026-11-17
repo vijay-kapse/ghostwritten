@@ -3,9 +3,9 @@
   "repo": "eclipse-vertx/vert.x",
   "org": "eclipse-vertx",
   "language": "Java",
-  "stars": 14681,
+  "stars": 14685,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:32:56Z",
+  "scanned_at": "2026-11-17T12:19:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 63,
+      "total": 64,
       "ai": 26,
       "automation": 0,
       "merges": 3,

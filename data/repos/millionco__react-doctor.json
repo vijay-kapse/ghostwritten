@@ -3,9 +3,9 @@
   "repo": "millionco/react-doctor",
   "org": "millionco",
   "language": "TypeScript",
-  "stars": 15113,
+  "stars": 15155,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:31:30Z",
+  "scanned_at": "2026-11-17T12:18:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -100,7 +100,7 @@
       }
     },
     "2026-11": {
-      "total": 33,
+      "total": 37,
       "ai": 3,
       "automation": 5,
       "merges": 0,

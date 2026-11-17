@@ -3,9 +3,9 @@
   "repo": "jundot/omlx",
   "org": "jundot",
   "language": "Python",
-  "stars": 23477,
+  "stars": 23684,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:08Z",
+  "scanned_at": "2026-11-17T12:05:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -104,12 +104,12 @@
       }
     },
     "2026-11": {
-      "total": 160,
-      "ai": 12,
+      "total": 181,
+      "ai": 13,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11,
+        "claude_trailer": 12,
         "copilot_trailer": 1
       }
     }

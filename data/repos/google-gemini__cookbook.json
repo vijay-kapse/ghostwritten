@@ -3,9 +3,9 @@
   "repo": "google-gemini/cookbook",
   "org": "google-gemini",
   "language": "Jupyter Notebook",
-  "stars": 17914,
+  "stars": 17952,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:40:49Z",
+  "scanned_at": "2026-11-17T12:28:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 78,
-      "ai": 2,
+      "total": 79,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "gemini": 2
+        "gemini": 3
       }
     }
   }

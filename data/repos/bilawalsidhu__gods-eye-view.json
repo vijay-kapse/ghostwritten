@@ -3,9 +3,9 @@
   "repo": "bilawalsidhu/gods-eye-view",
   "org": "bilawalsidhu",
   "language": "JavaScript",
-  "stars": 63740,
+  "stars": 65370,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:41:37Z",
+  "scanned_at": "2026-11-17T12:44:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -53,10 +53,10 @@
       }
     },
     "2026-11": {
-      "total": 1306,
+      "total": 1376,
       "ai": 57,
       "automation": 0,
-      "merges": 519,
+      "merges": 530,
       "by_rule": {
         "claude_trailer": 57
       }

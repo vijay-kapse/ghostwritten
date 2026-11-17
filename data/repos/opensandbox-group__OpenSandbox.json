@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "opensandbox-group/OpenSandbox",
   "org": "opensandbox-group",
-  "language": "Python",
-  "stars": 16745,
+  "language": "Go",
+  "stars": 17431,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:24Z",
+  "scanned_at": "2026-11-17T12:33:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -127,13 +127,13 @@
       }
     },
     "2026-11": {
-      "total": 442,
-      "ai": 62,
+      "total": 489,
+      "ai": 64,
       "automation": 0,
-      "merges": 270,
+      "merges": 295,
       "by_rule": {
-        "claude_trailer": 37,
-        "cursor": 25
+        "claude_trailer": 38,
+        "cursor": 26
       }
     }
   }

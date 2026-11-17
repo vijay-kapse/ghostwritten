@@ -3,9 +3,9 @@
   "repo": "graphile/crystal",
   "org": "graphile",
   "language": "TypeScript",
-  "stars": 12935,
+  "stars": 12937,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:52Z",
+  "scanned_at": "2026-11-17T12:26:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,10 +168,10 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 11,
       "ai": 0,
       "automation": 4,
-      "merges": 6,
+      "merges": 7,
       "by_rule": {}
     }
   }

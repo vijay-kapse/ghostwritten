@@ -3,9 +3,9 @@
   "repo": "pubkey/rxdb",
   "org": "pubkey",
   "language": "TypeScript",
-  "stars": 23421,
+  "stars": 23439,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:20:31Z",
+  "scanned_at": "2026-11-17T12:05:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,12 +195,12 @@
       }
     },
     "2026-11": {
-      "total": 90,
-      "ai": 90,
-      "automation": 49,
+      "total": 114,
+      "ai": 114,
+      "automation": 51,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 90,
+        "claude_trailer": 114,
         "copilot_trailer": 5
       }
     }

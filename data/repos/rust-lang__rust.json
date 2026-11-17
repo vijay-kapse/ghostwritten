@@ -3,17 +3,26 @@
   "repo": "rust-lang/rust",
   "org": "rust-lang",
   "language": "Rust",
-  "stars": 121666,
+  "stars": 122146,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:44:26Z",
-  "window_start": "2026-07-04",
+  "scanned_at": "2026-11-17T12:46:42Z",
+  "window_start": "2026-06-07",
   "complete": false,
   "months": {
+    "2026-06": {
+      "total": 1380,
+      "ai": 3,
+      "automation": 4,
+      "merges": 846,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    },
     "2026-07": {
-      "total": 2134,
+      "total": 2403,
       "ai": 1,
       "automation": 6,
-      "merges": 1197,
+      "merges": 1298,
       "by_rule": {
         "claude_trailer": 1
       }
@@ -28,7 +37,7 @@
       }
     },
     "2026-09": {
-      "total": 2070,
+      "total": 2075,
       "ai": 1,
       "automation": 4,
       "merges": 1189,
@@ -37,19 +46,19 @@
       }
     },
     "2026-10": {
-      "total": 2118,
+      "total": 2135,
       "ai": 1,
       "automation": 11,
-      "merges": 1247,
+      "merges": 1253,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 761,
+      "total": 970,
       "ai": 0,
-      "automation": 3,
-      "merges": 563,
+      "automation": 4,
+      "merges": 660,
       "by_rule": {}
     }
   }

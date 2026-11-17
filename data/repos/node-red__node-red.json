@@ -3,9 +3,9 @@
   "repo": "node-red/node-red",
   "org": "node-red",
   "language": "JavaScript",
-  "stars": 23825,
+  "stars": 23852,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:20:02Z",
+  "scanned_at": "2026-11-17T12:04:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,10 +168,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 26,
+      "total": 34,
       "ai": 2,
       "automation": 0,
-      "merges": 30,
+      "merges": 32,
       "by_rule": {
         "claude_trailer": 2
       }

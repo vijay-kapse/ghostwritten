@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "espressif/esp-idf",
-  "head_sha": "4109c8923a51a5234801c324b39240d74e4cc379",
-  "oldest": "2025-05-23T02:58:45Z",
-  "complete": false,
+  "head_sha": "ad20ded62a2d67a26e501fdc1905f43ba7ad6c81",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-15T11:27:30Z"
+  "updated_at": "2026-11-17T12:13:57Z"
 }

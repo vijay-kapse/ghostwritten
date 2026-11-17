@@ -3,9 +3,9 @@
   "repo": "apache/rocketmq",
   "org": "apache",
   "language": "Java",
-  "stars": 22655,
+  "stars": 22654,
   "default_branch": "develop",
-  "scanned_at": "2026-11-15T11:21:33Z",
+  "scanned_at": "2026-11-17T12:06:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 0,

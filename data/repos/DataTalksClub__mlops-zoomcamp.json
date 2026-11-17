@@ -3,9 +3,9 @@
   "repo": "DataTalksClub/mlops-zoomcamp",
   "org": "DataTalksClub",
   "language": "Jupyter Notebook",
-  "stars": 15535,
+  "stars": 15568,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:30:29Z",
+  "scanned_at": "2026-11-17T12:17:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -101,6 +101,13 @@
     },
     "2026-09": {
       "total": 53,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 1,
       "ai": 0,
       "automation": 0,
       "merges": 0,

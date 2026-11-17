@@ -3,9 +3,9 @@
   "repo": "rmyndharis/OpenWA",
   "org": "rmyndharis",
   "language": "TypeScript",
-  "stars": 16672,
+  "stars": 16945,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:16Z",
+  "scanned_at": "2026-11-17T12:32:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,12 +84,12 @@
       }
     },
     "2026-11": {
-      "total": 568,
-      "ai": 2,
-      "automation": 9,
-      "merges": 117,
+      "total": 620,
+      "ai": 4,
+      "automation": 13,
+      "merges": 163,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 4
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "chatfire-AI/huobao-drama",
   "org": "chatfire-AI",
   "language": "TypeScript",
-  "stars": 17173,
+  "stars": 17624,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:43:23Z",
+  "scanned_at": "2026-11-17T12:31:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -87,7 +87,7 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 5,
       "ai": 0,
       "automation": 0,
       "merges": 0,

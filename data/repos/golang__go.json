@@ -3,9 +3,9 @@
   "repo": "golang/go",
   "org": "golang",
   "language": "Go",
-  "stars": 139804,
+  "stars": 140006,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:40:50Z",
+  "scanned_at": "2026-11-17T12:43:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 377,
+      "total": 410,
       "ai": 0,
       "automation": 0,
       "merges": 0,

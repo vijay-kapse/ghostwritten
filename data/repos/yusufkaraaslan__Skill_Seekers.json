@@ -3,9 +3,9 @@
   "repo": "yusufkaraaslan/Skill_Seekers",
   "org": "yusufkaraaslan",
   "language": "Python",
-  "stars": 15294,
+  "stars": 15328,
   "default_branch": "development",
-  "scanned_at": "2026-11-15T11:31:04Z",
+  "scanned_at": "2026-11-17T12:17:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -120,6 +120,24 @@
       "merges": 1,
       "by_rule": {
         "claude_trailer": 65
+      }
+    },
+    "2026-10": {
+      "total": 10,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 1,
+      "automation": 0,
+      "merges": 27,
+      "by_rule": {
+        "claude_trailer": 1
       }
     }
   }

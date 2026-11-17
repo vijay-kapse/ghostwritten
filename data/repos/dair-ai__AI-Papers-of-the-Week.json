@@ -3,9 +3,9 @@
   "repo": "dair-ai/AI-Papers-of-the-Week",
   "org": "dair-ai",
   "language": null,
-  "stars": 13327,
+  "stars": 13346,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:37:04Z",
+  "scanned_at": "2026-11-17T12:24:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -122,12 +122,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 3,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

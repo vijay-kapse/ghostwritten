@@ -3,9 +3,9 @@
   "repo": "highcharts/highcharts",
   "org": "highcharts",
   "language": "TypeScript",
-  "stars": 12501,
+  "stars": 12503,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:46:18Z",
+  "scanned_at": "2026-11-17T12:35:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
       }
     },
     "2026-09": {
-      "total": 429,
+      "total": 430,
       "ai": 34,
       "automation": 8,
       "merges": 176,
@@ -197,20 +197,20 @@
       }
     },
     "2026-10": {
-      "total": 421,
+      "total": 423,
       "ai": 17,
       "automation": 12,
-      "merges": 210,
+      "merges": 215,
       "by_rule": {
         "claude_trailer": 14,
         "copilot_trailer": 3
       }
     },
     "2026-11": {
-      "total": 75,
+      "total": 78,
       "ai": 4,
       "automation": 4,
-      "merges": 72,
+      "merges": 75,
       "by_rule": {
         "claude_trailer": 3,
         "copilot_author": 1

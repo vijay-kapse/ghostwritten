@@ -3,9 +3,9 @@
   "repo": "go-playground/validator",
   "org": "go-playground",
   "language": "Go",
-  "stars": 20223,
+  "stars": 20237,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:26:26Z",
+  "scanned_at": "2026-11-17T12:12:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,6 +168,13 @@
         "codex_trailer": 3,
         "claude_generated": 1
       }
+    },
+    "2026-11": {
+      "total": 0,
+      "ai": 0,
+      "automation": 1,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

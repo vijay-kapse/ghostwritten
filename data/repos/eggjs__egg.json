@@ -3,9 +3,9 @@
   "repo": "eggjs/egg",
   "org": "eggjs",
   "language": "TypeScript",
-  "stars": 18988,
+  "stars": 18992,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:59Z",
+  "scanned_at": "2026-11-17T12:14:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,6 +194,13 @@
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

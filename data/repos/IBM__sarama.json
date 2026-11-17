@@ -3,9 +3,9 @@
   "repo": "IBM/sarama",
   "org": "IBM",
   "language": "Go",
-  "stars": 12523,
+  "stars": 12525,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:46:04Z",
+  "scanned_at": "2026-11-17T12:35:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,9 +159,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 6,
+      "total": 22,
       "ai": 0,
-      "automation": 4,
+      "automation": 10,
       "merges": 0,
       "by_rule": {}
     }

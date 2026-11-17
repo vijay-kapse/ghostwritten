@@ -3,23 +3,24 @@
   "repo": "NousResearch/hermes-agent",
   "org": "NousResearch",
   "language": "Python",
-  "stars": 261919,
+  "stars": 264069,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:38:36Z",
-  "window_start": "2026-11-11",
+  "scanned_at": "2026-11-17T12:41:57Z",
+  "window_start": "2026-11-09",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 5584,
-      "ai": 225,
-      "automation": 8,
-      "merges": 229,
+      "total": 8517,
+      "ai": 388,
+      "automation": 17,
+      "merges": 240,
       "by_rule": {
-        "claude_trailer": 210,
-        "cursor": 9,
-        "openhands": 4,
-        "copilot_trailer": 1,
-        "devin": 1
+        "claude_trailer": 351,
+        "cursor": 22,
+        "openhands": 7,
+        "copilot_trailer": 3,
+        "devin": 3,
+        "amp_factory": 2
       }
     }
   }

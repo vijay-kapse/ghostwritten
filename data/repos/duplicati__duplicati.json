@@ -3,9 +3,9 @@
   "repo": "duplicati/duplicati",
   "org": "duplicati",
   "language": "C#",
-  "stars": 15193,
+  "stars": 15212,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:31:16Z",
+  "scanned_at": "2026-11-17T12:18:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,12 +182,12 @@
       }
     },
     "2026-11": {
-      "total": 187,
-      "ai": 127,
+      "total": 225,
+      "ai": 159,
       "automation": 0,
-      "merges": 174,
+      "merges": 208,
       "by_rule": {
-        "claude_trailer": 127
+        "claude_trailer": 159
       }
     }
   }

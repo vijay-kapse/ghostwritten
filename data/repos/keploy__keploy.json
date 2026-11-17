@@ -3,9 +3,9 @@
   "repo": "keploy/keploy",
   "org": "keploy",
   "language": "Go",
-  "stars": 19560,
+  "stars": 19866,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:28:00Z",
+  "scanned_at": "2026-11-17T12:14:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,7 +202,7 @@
       }
     },
     "2026-11": {
-      "total": 197,
+      "total": 205,
       "ai": 0,
       "automation": 0,
       "merges": 0,

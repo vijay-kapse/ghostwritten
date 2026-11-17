@@ -3,9 +3,9 @@
   "repo": "Unleash/unleash",
   "org": "Unleash",
   "language": "TypeScript",
-  "stars": 14280,
+  "stars": 14330,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:55Z",
+  "scanned_at": "2026-11-17T12:21:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,7 +212,7 @@
       }
     },
     "2026-11": {
-      "total": 201,
+      "total": 239,
       "ai": 52,
       "automation": 16,
       "merges": 2,

@@ -3,9 +3,9 @@
   "repo": "langflow-ai/langflow",
   "org": "langflow-ai",
   "language": "Python",
-  "stars": 156463,
+  "stars": 156720,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:13Z",
+  "scanned_at": "2026-11-17T12:43:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -225,7 +225,7 @@
       }
     },
     "2026-11": {
-      "total": 73,
+      "total": 74,
       "ai": 4,
       "automation": 0,
       "merges": 9,

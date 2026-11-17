@@ -3,9 +3,9 @@
   "repo": "langchain-ai/langchainjs",
   "org": "langchain-ai",
   "language": "TypeScript",
-  "stars": 18333,
+  "stars": 18350,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:30:14Z",
+  "scanned_at": "2026-11-17T12:16:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,7 +200,7 @@
     "2026-11": {
       "total": 42,
       "ai": 1,
-      "automation": 19,
+      "automation": 21,
       "merges": 0,
       "by_rule": {
         "claude_generated": 1,

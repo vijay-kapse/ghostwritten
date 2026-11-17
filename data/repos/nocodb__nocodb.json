@@ -3,18 +3,38 @@
   "repo": "nocodb/nocodb",
   "org": "nocodb",
   "language": "TypeScript",
-  "stars": 65455,
+  "stars": 65556,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T11:40:39Z",
-  "window_start": "2025-06-16",
+  "scanned_at": "2026-11-17T12:43:44Z",
+  "window_start": "2025-04-22",
   "complete": false,
   "months": {
+    "2025-04": {
+      "total": 518,
+      "ai": 10,
+      "automation": 1,
+      "merges": 51,
+      "by_rule": {
+        "other_bot_agent": 10
+      }
+    },
+    "2025-05": {
+      "total": 1492,
+      "ai": 10,
+      "automation": 5,
+      "merges": 179,
+      "by_rule": {
+        "other_bot_agent": 10
+      }
+    },
     "2025-06": {
-      "total": 741,
-      "ai": 0,
-      "automation": 0,
-      "merges": 60,
-      "by_rule": {}
+      "total": 1308,
+      "ai": 3,
+      "automation": 3,
+      "merges": 144,
+      "by_rule": {
+        "other_bot_agent": 3
+      }
     },
     "2025-07": {
       "total": 1139,
@@ -156,10 +176,10 @@
       }
     },
     "2026-11": {
-      "total": 117,
+      "total": 156,
       "ai": 7,
-      "automation": 3,
-      "merges": 38,
+      "automation": 4,
+      "merges": 52,
       "by_rule": {
         "claude_trailer": 7
       }

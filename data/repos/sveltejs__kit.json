@@ -3,9 +3,9 @@
   "repo": "sveltejs/kit",
   "org": "sveltejs",
   "language": "JavaScript",
-  "stars": 20904,
+  "stars": 20916,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:25:25Z",
+  "scanned_at": "2026-11-17T12:10:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,9 +210,9 @@
       }
     },
     "2026-11": {
-      "total": 28,
+      "total": 29,
       "ai": 4,
-      "automation": 9,
+      "automation": 11,
       "merges": 4,
       "by_rule": {
         "claude_trailer": 3,

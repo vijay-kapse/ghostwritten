@@ -3,9 +3,9 @@
   "repo": "PrefectHQ/prefect",
   "org": "PrefectHQ",
   "language": "Python",
-  "stars": 24140,
+  "stars": 24167,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:19:54Z",
+  "scanned_at": "2026-11-17T12:04:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -216,13 +216,13 @@
       }
     },
     "2026-11": {
-      "total": 110,
-      "ai": 70,
-      "automation": 19,
+      "total": 120,
+      "ai": 78,
+      "automation": 29,
       "merges": 0,
       "by_rule": {
-        "devin": 58,
-        "claude_trailer": 11,
+        "devin": 62,
+        "claude_trailer": 15,
         "cursor": 1
       }
     }

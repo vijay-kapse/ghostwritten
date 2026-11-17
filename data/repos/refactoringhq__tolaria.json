@@ -3,9 +3,9 @@
   "repo": "refactoringhq/tolaria",
   "org": "refactoringhq",
   "language": "TypeScript",
-  "stars": 20483,
+  "stars": 20570,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:18Z",
+  "scanned_at": "2026-11-17T12:12:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -86,12 +86,13 @@
       }
     },
     "2026-11": {
-      "total": 136,
-      "ai": 11,
+      "total": 163,
+      "ai": 18,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "cursor": 11
+        "cursor": 11,
+        "claude_trailer": 7
       }
     }
   }

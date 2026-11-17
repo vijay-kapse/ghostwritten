@@ -3,9 +3,9 @@
   "repo": "dotnet/efcore",
   "org": "dotnet",
   "language": "C#",
-  "stars": 14813,
+  "stars": 14822,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:32:06Z",
+  "scanned_at": "2026-11-17T12:18:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,14 +205,14 @@
       }
     },
     "2026-11": {
-      "total": 54,
-      "ai": 19,
-      "automation": 14,
-      "merges": 5,
+      "total": 63,
+      "ai": 20,
+      "automation": 29,
+      "merges": 8,
       "by_rule": {
         "copilot_author": 17,
-        "claude_trailer": 1,
-        "copilot_trailer": 1
+        "copilot_trailer": 2,
+        "claude_trailer": 1
       }
     }
   }

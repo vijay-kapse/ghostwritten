@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "daijro/camoufox",
   "org": "daijro",
-  "language": "Python",
-  "stars": 13139,
+  "language": "C",
+  "stars": 13366,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:47Z",
+  "scanned_at": "2026-11-17T12:26:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,7 +151,7 @@
       }
     },
     "2026-11": {
-      "total": 40,
+      "total": 42,
       "ai": 36,
       "automation": 0,
       "merges": 0,

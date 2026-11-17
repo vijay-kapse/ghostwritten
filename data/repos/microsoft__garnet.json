@@ -3,9 +3,9 @@
   "repo": "microsoft/garnet",
   "org": "microsoft",
   "language": "C#",
-  "stars": 12084,
+  "stars": 12092,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:32:21Z",
+  "scanned_at": "2026-11-17T12:36:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,12 +212,12 @@
       }
     },
     "2026-11": {
-      "total": 31,
-      "ai": 12,
+      "total": 36,
+      "ai": 13,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 12
+        "copilot_trailer": 13
       }
     }
   }

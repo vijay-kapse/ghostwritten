@@ -3,9 +3,9 @@
   "repo": "MemPalace/mempalace",
   "org": "MemPalace",
   "language": "Python",
-  "stars": 60481,
+  "stars": 60589,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T11:42:54Z",
+  "scanned_at": "2026-11-17T12:45:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,10 +84,10 @@
       }
     },
     "2026-11": {
-      "total": 39,
+      "total": 44,
       "ai": 1,
       "automation": 1,
-      "merges": 39,
+      "merges": 41,
       "by_rule": {
         "claude_trailer": 1
       }

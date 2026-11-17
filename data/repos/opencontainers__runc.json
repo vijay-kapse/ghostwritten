@@ -3,9 +3,9 @@
   "repo": "opencontainers/runc",
   "org": "opencontainers",
   "language": "Go",
-  "stars": 13540,
+  "stars": 13566,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:36:34Z",
+  "scanned_at": "2026-11-17T12:24:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 25,
       "ai": 2,
-      "automation": 6,
-      "merges": 17,
+      "automation": 8,
+      "merges": 22,
       "by_rule": {
         "claude_trailer": 2
       }

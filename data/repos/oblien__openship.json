@@ -3,9 +3,9 @@
   "repo": "oblien/openship",
   "org": "oblien",
   "language": "TypeScript",
-  "stars": 15241,
+  "stars": 15345,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:31:35Z",
+  "scanned_at": "2026-11-17T12:18:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,10 +76,10 @@
       }
     },
     "2026-11": {
-      "total": 202,
+      "total": 236,
       "ai": 10,
       "automation": 0,
-      "merges": 1,
+      "merges": 5,
       "by_rule": {
         "claude_trailer": 10
       }

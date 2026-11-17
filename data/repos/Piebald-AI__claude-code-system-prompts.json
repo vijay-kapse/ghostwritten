@@ -3,9 +3,9 @@
   "repo": "Piebald-AI/claude-code-system-prompts",
   "org": "Piebald-AI",
   "language": "JavaScript",
-  "stars": 13111,
+  "stars": 13176,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:28Z",
+  "scanned_at": "2026-11-17T12:26:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,7 +94,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 17,
+      "total": 20,
       "ai": 0,
       "automation": 0,
       "merges": 0,

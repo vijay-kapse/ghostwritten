@@ -3,9 +3,9 @@
   "repo": "cursor/plugins",
   "org": "cursor",
   "language": "TypeScript",
-  "stars": 15817,
+  "stars": 16737,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:31:37Z",
+  "scanned_at": "2026-11-17T12:18:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -88,12 +88,12 @@
       }
     },
     "2026-11": {
-      "total": 34,
-      "ai": 15,
+      "total": 42,
+      "ai": 17,
       "automation": 0,
-      "merges": 25,
+      "merges": 33,
       "by_rule": {
-        "cursor": 15
+        "cursor": 17
       }
     }
   }

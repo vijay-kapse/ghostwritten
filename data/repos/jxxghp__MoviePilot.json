@@ -3,9 +3,9 @@
   "repo": "jxxghp/MoviePilot",
   "org": "jxxghp",
   "language": "Python",
-  "stars": 12048,
+  "stars": 12085,
   "default_branch": "v3",
-  "scanned_at": "2026-11-16T11:32:32Z",
+  "scanned_at": "2026-11-17T12:37:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -211,10 +211,10 @@
       }
     },
     "2026-11": {
-      "total": 123,
+      "total": 131,
       "ai": 11,
       "automation": 0,
-      "merges": 37,
+      "merges": 38,
       "by_rule": {
         "claude_trailer": 9,
         "cursor": 2

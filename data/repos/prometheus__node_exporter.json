@@ -3,9 +3,9 @@
   "repo": "prometheus/node_exporter",
   "org": "prometheus",
   "language": "Go",
-  "stars": 13914,
+  "stars": 13936,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:35:09Z",
+  "scanned_at": "2026-11-17T12:22:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,7 +162,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 3,
       "ai": 0,
       "automation": 8,
       "merges": 0,

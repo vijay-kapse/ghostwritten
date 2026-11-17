@@ -3,9 +3,9 @@
   "repo": "convex/convex-backend",
   "org": "convex",
   "language": "TypeScript",
-  "stars": 12778,
+  "stars": 12803,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:26Z",
+  "scanned_at": "2026-11-17T12:27:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,9 +202,9 @@
       }
     },
     "2026-11": {
-      "total": 207,
+      "total": 246,
       "ai": 4,
-      "automation": 11,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
         "devin": 4

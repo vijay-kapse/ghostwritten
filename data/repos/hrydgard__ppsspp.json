@@ -3,9 +3,9 @@
   "repo": "hrydgard/ppsspp",
   "org": "hrydgard",
   "language": "C++",
-  "stars": 14864,
+  "stars": 14929,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:32:22Z",
+  "scanned_at": "2026-11-17T12:18:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 466,
-      "ai": 388,
+      "total": 477,
+      "ai": 398,
       "automation": 1,
-      "merges": 145,
+      "merges": 154,
       "by_rule": {
-        "claude_trailer": 388
+        "claude_trailer": 398
       }
     }
   }

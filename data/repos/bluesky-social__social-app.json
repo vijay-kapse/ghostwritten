@@ -3,9 +3,9 @@
   "repo": "bluesky-social/social-app",
   "org": "bluesky-social",
   "language": "TypeScript",
-  "stars": 18385,
+  "stars": 18395,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:29:50Z",
+  "scanned_at": "2026-11-17T12:16:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 87,
-      "ai": 27,
+      "total": 102,
+      "ai": 30,
       "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 27
+        "claude_trailer": 30
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "projectdiscovery/katana",
   "org": "projectdiscovery",
   "language": "Go",
-  "stars": 17816,
+  "stars": 17862,
   "default_branch": "dev",
-  "scanned_at": "2026-11-15T11:40:54Z",
+  "scanned_at": "2026-11-17T12:28:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,11 +172,13 @@
       }
     },
     "2026-11": {
-      "total": 29,
-      "ai": 0,
+      "total": 41,
+      "ai": 1,
       "automation": 11,
-      "merges": 33,
-      "by_rule": {}
+      "merges": 37,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

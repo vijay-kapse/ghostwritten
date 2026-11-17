@@ -3,9 +3,9 @@
   "repo": "OpenNHP/opennhp",
   "org": "OpenNHP",
   "language": "Go",
-  "stars": 13951,
+  "stars": 13959,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:50Z",
+  "scanned_at": "2026-11-17T12:21:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
     "2026-11": {
       "total": 113,
       "ai": 61,
-      "automation": 12,
+      "automation": 22,
       "merges": 32,
       "by_rule": {
         "claude_trailer": 61

@@ -3,9 +3,9 @@
   "repo": "web-infra-dev/rspack",
   "org": "web-infra-dev",
   "language": "Rust",
-  "stars": 12971,
+  "stars": 12983,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:48Z",
+  "scanned_at": "2026-11-17T12:26:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -228,7 +228,7 @@
       }
     },
     "2026-11": {
-      "total": 139,
+      "total": 185,
       "ai": 9,
       "automation": 25,
       "merges": 0,

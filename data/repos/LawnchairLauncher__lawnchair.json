@@ -3,9 +3,9 @@
   "repo": "LawnchairLauncher/lawnchair",
   "org": "LawnchairLauncher",
   "language": "Java",
-  "stars": 13905,
+  "stars": 13957,
   "default_branch": "16-dev",
-  "scanned_at": "2026-11-15T11:35:31Z",
+  "scanned_at": "2026-11-17T12:22:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 28,
       "ai": 5,
       "automation": 12,
       "merges": 0,

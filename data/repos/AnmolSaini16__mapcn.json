@@ -3,9 +3,9 @@
   "repo": "AnmolSaini16/mapcn",
   "org": "AnmolSaini16",
   "language": "TypeScript",
-  "stars": 12374,
+  "stars": 12397,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:46:34Z",
+  "scanned_at": "2026-11-17T12:35:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,12 +95,12 @@
       }
     },
     "2026-11": {
-      "total": 15,
-      "ai": 14,
+      "total": 16,
+      "ai": 15,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 15
       }
     }
   }

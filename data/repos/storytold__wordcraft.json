@@ -3,9 +3,9 @@
   "repo": "storytold/wordcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 17652,
+  "stars": 18175,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:43:06Z",
+  "scanned_at": "2026-11-17T12:31:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -24,12 +24,12 @@
       }
     },
     "2026-11": {
-      "total": 548,
-      "ai": 324,
+      "total": 642,
+      "ai": 343,
       "automation": 0,
-      "merges": 169,
+      "merges": 182,
       "by_rule": {
-        "claude_trailer": 324,
+        "claude_trailer": 343,
         "codex_trailer": 3
       }
     }

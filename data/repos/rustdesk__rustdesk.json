@@ -3,9 +3,9 @@
   "repo": "rustdesk/rustdesk",
   "org": "rustdesk",
   "language": "Rust",
-  "stars": 128738,
+  "stars": 129828,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:42:22Z",
+  "scanned_at": "2026-11-17T12:44:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,12 +200,13 @@
       }
     },
     "2026-11": {
-      "total": 77,
-      "ai": 22,
+      "total": 81,
+      "ai": 25,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 22
+        "claude_trailer": 25,
+        "copilot_trailer": 1
       }
     }
   }

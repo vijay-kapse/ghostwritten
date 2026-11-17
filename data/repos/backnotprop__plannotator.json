@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "repo": "backnotprop/plannotator",
+  "org": "backnotprop",
+  "language": "TypeScript",
+  "stars": 12883,
+  "default_branch": "main",
+  "scanned_at": "2026-11-17T12:02:43Z",
+  "window_start": "2026-11-08",
+  "complete": false,
+  "months": {
+    "2026-11": {
+      "total": 1683,
+      "ai": 63,
+      "automation": 0,
+      "merges": 1317,
+      "by_rule": {
+        "claude_trailer": 63
+      }
+    }
+  }
+}

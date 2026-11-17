@@ -3,17 +3,17 @@
   "repo": "deepseek-ai/deepseek-harness",
   "org": "deepseek-ai",
   "language": "TypeScript",
-  "stars": 277098,
+  "stars": 282738,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:38:18Z",
-  "window_start": "2026-08-12",
+  "scanned_at": "2026-11-17T12:41:42Z",
+  "window_start": "2026-08-03",
   "complete": false,
   "months": {
     "2026-08": {
-      "total": 2044,
+      "total": 3913,
       "ai": 0,
       "automation": 0,
-      "merges": 863,
+      "merges": 1994,
       "by_rule": {}
     },
     "2026-09": {

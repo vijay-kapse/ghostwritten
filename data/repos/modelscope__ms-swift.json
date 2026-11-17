@@ -3,9 +3,9 @@
   "repo": "modelscope/ms-swift",
   "org": "modelscope",
   "language": "Python",
-  "stars": 16066,
+  "stars": 16116,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:49Z",
+  "scanned_at": "2026-11-17T12:33:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,13 @@
       }
     },
     "2026-11": {
-      "total": 22,
-      "ai": 3,
+      "total": 30,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 3
+        "codex_trailer": 4,
+        "cursor": 1
       }
     }
   }

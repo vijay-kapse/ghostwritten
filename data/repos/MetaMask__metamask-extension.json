@@ -3,9 +3,9 @@
   "repo": "MetaMask/metamask-extension",
   "org": "MetaMask",
   "language": "TypeScript",
-  "stars": 13250,
+  "stars": 13258,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:00Z",
+  "scanned_at": "2026-11-17T12:25:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -248,14 +248,15 @@
       }
     },
     "2026-11": {
-      "total": 246,
-      "ai": 118,
-      "automation": 9,
-      "merges": 7,
+      "total": 282,
+      "ai": 129,
+      "automation": 17,
+      "merges": 12,
       "by_rule": {
-        "cursor": 111,
+        "cursor": 121,
         "claude_trailer": 5,
         "copilot_trailer": 2,
+        "claude_generated": 1,
         "copilot_author": 1
       }
     }

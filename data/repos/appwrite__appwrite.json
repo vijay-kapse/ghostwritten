@@ -3,20 +3,30 @@
   "repo": "appwrite/appwrite",
   "org": "appwrite",
   "language": "TypeScript",
-  "stars": 57903,
+  "stars": 58107,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:43:14Z",
-  "window_start": "2026-08-27",
+  "scanned_at": "2026-11-17T12:45:35Z",
+  "window_start": "2026-07-10",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 273,
-      "ai": 69,
+    "2026-07": {
+      "total": 832,
+      "ai": 167,
       "automation": 0,
-      "merges": 88,
+      "merges": 223,
       "by_rule": {
-        "claude_trailer": 36,
-        "cursor": 33
+        "claude_trailer": 102,
+        "cursor": 65
+      }
+    },
+    "2026-08": {
+      "total": 1556,
+      "ai": 466,
+      "automation": 0,
+      "merges": 450,
+      "by_rule": {
+        "claude_trailer": 292,
+        "cursor": 174
       }
     },
     "2026-09": {
@@ -42,12 +52,12 @@
       }
     },
     "2026-11": {
-      "total": 1720,
-      "ai": 468,
+      "total": 1926,
+      "ai": 538,
       "automation": 3,
-      "merges": 593,
+      "merges": 659,
       "by_rule": {
-        "claude_trailer": 454,
+        "claude_trailer": 524,
         "cursor": 12,
         "copilot_author": 2
       }

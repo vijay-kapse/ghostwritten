@@ -3,9 +3,9 @@
   "repo": "mRemoteNG/mRemoteNG",
   "org": "mRemoteNG",
   "language": "C#",
-  "stars": 11197,
+  "stars": 11227,
   "default_branch": "v1.78.2-dev",
-  "scanned_at": "2026-11-16T11:37:10Z",
+  "scanned_at": "2026-11-17T12:40:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,12 +197,12 @@
       }
     },
     "2026-11": {
-      "total": 70,
-      "ai": 31,
-      "automation": 22,
-      "merges": 97,
+      "total": 73,
+      "ai": 33,
+      "automation": 26,
+      "merges": 103,
       "by_rule": {
-        "claude_trailer": 27,
+        "claude_trailer": 29,
         "copilot_trailer": 4
       }
     }

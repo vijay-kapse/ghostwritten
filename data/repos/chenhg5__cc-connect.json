@@ -3,9 +3,9 @@
   "repo": "chenhg5/cc-connect",
   "org": "chenhg5",
   "language": "Go",
-  "stars": 16297,
+  "stars": 16410,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:37Z",
+  "scanned_at": "2026-11-17T12:33:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,7 +94,7 @@
       }
     },
     "2026-10": {
-      "total": 121,
+      "total": 124,
       "ai": 12,
       "automation": 0,
       "merges": 70,
@@ -103,12 +103,12 @@
       }
     },
     "2026-11": {
-      "total": 54,
-      "ai": 36,
+      "total": 72,
+      "ai": 40,
       "automation": 0,
-      "merges": 64,
+      "merges": 77,
       "by_rule": {
-        "claude_trailer": 29,
+        "claude_trailer": 33,
         "cursor": 7
       }
     }

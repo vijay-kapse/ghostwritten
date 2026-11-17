@@ -3,9 +3,9 @@
   "repo": "openai/codex-security",
   "org": "openai",
   "language": "TypeScript",
-  "stars": 11340,
+  "stars": 13869,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:36:18Z",
+  "scanned_at": "2026-11-17T12:39:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -48,12 +48,12 @@
       }
     },
     "2026-11": {
-      "total": 420,
-      "ai": 44,
-      "automation": 30,
+      "total": 438,
+      "ai": 45,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 36,
+        "codex_trailer": 37,
         "claude_trailer": 5,
         "cursor": 2,
         "copilot_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "dart-lang/sdk",
   "org": "dart-lang",
   "language": "Dart",
-  "stars": 11343,
+  "stars": 11355,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:36:07Z",
+  "scanned_at": "2026-11-17T12:39:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-11": {
-      "total": 255,
+      "total": 287,
       "ai": 0,
       "automation": 0,
       "merges": 0,

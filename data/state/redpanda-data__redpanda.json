@@ -2,8 +2,8 @@
   "schema": 1,
   "repo": "redpanda-data/redpanda",
   "head_sha": "d99448713fc75ac2d5f25021287cc00ffd8e5851",
-  "oldest": "2025-03-15T17:56:37Z",
-  "complete": false,
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "dev",
-  "updated_at": "2026-11-15T11:39:54Z"
+  "updated_at": "2026-11-17T12:27:39Z"
 }

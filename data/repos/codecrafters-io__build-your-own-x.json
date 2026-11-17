@@ -3,9 +3,9 @@
   "repo": "codecrafters-io/build-your-own-x",
   "org": "codecrafters-io",
   "language": "Markdown",
-  "stars": 561213,
+  "stars": 563292,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:37:33Z",
+  "scanned_at": "2026-11-17T12:40:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,11 +94,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 1,
-      "ai": 0,
+      "total": 30,
+      "ai": 1,
       "automation": 0,
       "merges": 1,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

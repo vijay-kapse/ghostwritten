@@ -3,9 +3,9 @@
   "repo": "wanghongenpin/proxypin",
   "org": "wanghongenpin",
   "language": "Dart",
-  "stars": 14380,
+  "stars": 14415,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:54Z",
+  "scanned_at": "2026-11-17T12:20:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 13,
       "ai": 3,
       "automation": 0,
       "merges": 0,

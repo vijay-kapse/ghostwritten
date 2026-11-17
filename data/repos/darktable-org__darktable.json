@@ -3,9 +3,9 @@
   "repo": "darktable-org/darktable",
   "org": "darktable-org",
   "language": "C",
-  "stars": 13425,
+  "stars": 13461,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:37:00Z",
+  "scanned_at": "2026-11-17T12:24:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,10 +175,10 @@
       }
     },
     "2026-11": {
-      "total": 397,
+      "total": 465,
       "ai": 7,
       "automation": 0,
-      "merges": 75,
+      "merges": 85,
       "by_rule": {
         "claude_trailer": 6,
         "copilot_trailer": 1

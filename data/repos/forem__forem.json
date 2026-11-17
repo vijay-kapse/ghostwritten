@@ -3,9 +3,9 @@
   "repo": "forem/forem",
   "org": "forem",
   "language": "Ruby",
-  "stars": 22815,
+  "stars": 22832,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:26Z",
+  "scanned_at": "2026-11-17T12:05:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,7 +197,7 @@
       }
     },
     "2026-11": {
-      "total": 247,
+      "total": 254,
       "ai": 7,
       "automation": 0,
       "merges": 0,

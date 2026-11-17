@@ -3,9 +3,9 @@
   "repo": "itzg/docker-minecraft-server",
   "org": "itzg",
   "language": "Shell",
-  "stars": 14527,
+  "stars": 14554,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:33:30Z",
+  "scanned_at": "2026-11-17T12:19:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,9 +167,9 @@
       }
     },
     "2026-11": {
-      "total": 9,
+      "total": 10,
       "ai": 1,
-      "automation": 6,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 1

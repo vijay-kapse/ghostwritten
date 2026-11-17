@@ -3,9 +3,9 @@
   "repo": "Tracer-Cloud/opensre",
   "org": "Tracer-Cloud",
   "language": "Python",
-  "stars": 12784,
+  "stars": 12835,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:40:14Z",
+  "scanned_at": "2026-11-17T12:27:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -115,7 +115,7 @@
       }
     },
     "2026-11": {
-      "total": 40,
+      "total": 43,
       "ai": 0,
       "automation": 19,
       "merges": 0,

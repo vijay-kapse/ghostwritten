@@ -3,9 +3,9 @@
   "repo": "StarTrail-org/LEANN",
   "org": "StarTrail-org",
   "language": "Python",
-  "stars": 13784,
+  "stars": 13801,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:35:44Z",
+  "scanned_at": "2026-11-17T12:22:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,6 +161,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 9
+      }
+    },
+    "2026-11": {
+      "total": 13,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
       }
     }
   }

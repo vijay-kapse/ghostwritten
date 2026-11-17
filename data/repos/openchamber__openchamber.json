@@ -3,9 +3,9 @@
   "repo": "openchamber/openchamber",
   "org": "openchamber",
   "language": "TypeScript",
-  "stars": 12741,
+  "stars": 13001,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:46:28Z",
+  "scanned_at": "2026-11-17T12:35:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -107,9 +107,9 @@
       }
     },
     "2026-11": {
-      "total": 637,
+      "total": 913,
       "ai": 0,
-      "automation": 8,
+      "automation": 11,
       "merges": 0,
       "by_rule": {}
     }

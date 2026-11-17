@@ -3,31 +3,31 @@
   "repo": "openclaw/openclaw",
   "org": "openclaw",
   "language": "TypeScript",
-  "stars": 394226,
+  "stars": 394624,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:38:01Z",
-  "window_start": "2026-10-23",
+  "scanned_at": "2026-11-17T12:41:18Z",
+  "window_start": "2026-10-19",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 5954,
-      "ai": 40,
-      "automation": 107,
-      "merges": 5,
+      "total": 8504,
+      "ai": 43,
+      "automation": 152,
+      "merges": 10,
       "by_rule": {
-        "claude_trailer": 38,
+        "claude_trailer": 41,
         "copilot_trailer": 1,
         "cursor": 1
       }
     },
     "2026-11": {
-      "total": 5625,
-      "ai": 50,
-      "automation": 184,
+      "total": 5917,
+      "ai": 53,
+      "automation": 194,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 35,
-        "claude_generated": 8,
+        "claude_trailer": 38,
+        "claude_generated": 9,
         "copilot_trailer": 6,
         "codex_trailer": 4,
         "cursor": 4

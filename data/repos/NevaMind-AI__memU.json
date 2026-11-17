@@ -3,9 +3,9 @@
   "repo": "NevaMind-AI/memU",
   "org": "NevaMind-AI",
   "language": "Python",
-  "stars": 14608,
+  "stars": 14625,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:05Z",
+  "scanned_at": "2026-11-17T12:19:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,12 +124,12 @@
       }
     },
     "2026-11": {
-      "total": 14,
-      "ai": 8,
+      "total": 17,
+      "ai": 11,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 8
+        "codex_trailer": 11
       }
     }
   }

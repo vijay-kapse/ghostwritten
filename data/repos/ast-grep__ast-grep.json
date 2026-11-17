@@ -3,9 +3,9 @@
   "repo": "ast-grep/ast-grep",
   "org": "ast-grep",
   "language": "Rust",
-  "stars": 16511,
+  "stars": 16608,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:19Z",
+  "scanned_at": "2026-11-17T12:32:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,9 +178,9 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 21,
       "ai": 3,
-      "automation": 22,
+      "automation": 24,
       "merges": 0,
       "by_rule": {
         "copilot_author": 2,

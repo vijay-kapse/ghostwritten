@@ -3,9 +3,9 @@
   "repo": "meta/flow",
   "org": "meta",
   "language": "Rust",
-  "stars": 22312,
+  "stars": 22318,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:48Z",
+  "scanned_at": "2026-11-17T12:06:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 308,
+      "total": 329,
       "ai": 0,
       "automation": 1,
       "merges": 0,

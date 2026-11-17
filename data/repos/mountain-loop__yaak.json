@@ -3,9 +3,9 @@
   "repo": "mountain-loop/yaak",
   "org": "mountain-loop",
   "language": "Rust",
-  "stars": 19465,
+  "stars": 19503,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:30Z",
+  "scanned_at": "2026-11-17T12:13:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 58,
+      "total": 74,
+      "ai": 63,
       "automation": 15,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 58
+        "claude_trailer": 63
       }
     }
   }

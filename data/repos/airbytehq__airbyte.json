@@ -3,20 +3,42 @@
   "repo": "airbytehq/airbyte",
   "org": "airbytehq",
   "language": "Python",
-  "stars": 22335,
+  "stars": 22403,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:22:05Z",
-  "window_start": "2026-03-17",
+  "scanned_at": "2026-11-17T12:06:55Z",
+  "window_start": "2026-01-14",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 176,
-      "ai": 160,
-      "automation": 410,
+    "2026-01": {
+      "total": 168,
+      "ai": 119,
+      "automation": 605,
       "merges": 0,
       "by_rule": {
-        "devin": 157,
-        "claude_trailer": 6
+        "devin": 113,
+        "claude_trailer": 4,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-02": {
+      "total": 162,
+      "ai": 128,
+      "automation": 976,
+      "merges": 0,
+      "by_rule": {
+        "devin": 119,
+        "claude_trailer": 10,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 281,
+      "ai": 256,
+      "automation": 994,
+      "merges": 0,
+      "by_rule": {
+        "devin": 251,
+        "claude_trailer": 12
       }
     },
     "2026-04": {
@@ -98,13 +120,13 @@
       }
     },
     "2026-11": {
-      "total": 419,
-      "ai": 389,
-      "automation": 765,
+      "total": 462,
+      "ai": 428,
+      "automation": 1105,
       "merges": 0,
       "by_rule": {
-        "devin": 373,
-        "claude_trailer": 31,
+        "devin": 411,
+        "claude_trailer": 37,
         "copilot_trailer": 1,
         "cursor": 1
       }

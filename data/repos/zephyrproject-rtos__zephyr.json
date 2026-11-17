@@ -3,16 +3,25 @@
   "repo": "zephyrproject-rtos/zephyr",
   "org": "zephyrproject-rtos",
   "language": "C",
-  "stars": 17041,
+  "stars": 17105,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:43:02Z",
-  "window_start": "2026-07-07",
+  "scanned_at": "2026-11-17T12:31:21Z",
+  "window_start": "2026-06-10",
   "complete": false,
   "months": {
+    "2026-06": {
+      "total": 1813,
+      "ai": 1,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
     "2026-07": {
-      "total": 2562,
+      "total": 3444,
       "ai": 13,
-      "automation": 4,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 12,
@@ -51,9 +60,9 @@
       }
     },
     "2026-11": {
-      "total": 1997,
+      "total": 2238,
       "ai": 9,
-      "automation": 2,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 8,

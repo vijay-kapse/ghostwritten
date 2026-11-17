@@ -3,9 +3,9 @@
   "repo": "Pumpkin-MC/Pumpkin",
   "org": "Pumpkin-MC",
   "language": "Rust",
-  "stars": 12898,
+  "stars": 13008,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:39:24Z",
+  "scanned_at": "2026-11-17T12:27:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 154,
+      "total": 180,
       "ai": 1,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

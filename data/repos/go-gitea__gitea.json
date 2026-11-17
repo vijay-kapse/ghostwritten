@@ -3,9 +3,9 @@
   "repo": "go-gitea/gitea",
   "org": "go-gitea",
   "language": "Go",
-  "stars": 58979,
+  "stars": 59131,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:43:00Z",
+  "scanned_at": "2026-11-17T12:45:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,13 +210,13 @@
       }
     },
     "2026-11": {
-      "total": 136,
-      "ai": 6,
+      "total": 144,
+      "ai": 7,
       "automation": 0,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 4,
-        "copilot_trailer": 2
+        "copilot_trailer": 3
       }
     }
   }

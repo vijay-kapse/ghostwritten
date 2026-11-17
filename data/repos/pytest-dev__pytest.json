@@ -3,9 +3,9 @@
   "repo": "pytest-dev/pytest",
   "org": "pytest-dev",
   "language": "Python",
-  "stars": 14675,
+  "stars": 14691,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:32:58Z",
+  "scanned_at": "2026-11-17T12:19:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,9 +191,9 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 6,
       "ai": 4,
-      "automation": 5,
+      "automation": 6,
       "merges": 6,
       "by_rule": {
         "claude_trailer": 4

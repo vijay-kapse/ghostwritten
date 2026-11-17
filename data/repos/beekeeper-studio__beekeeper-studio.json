@@ -3,9 +3,9 @@
   "repo": "beekeeper-studio/beekeeper-studio",
   "org": "beekeeper-studio",
   "language": "TypeScript",
-  "stars": 23864,
+  "stars": 23898,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:20:02Z",
+  "scanned_at": "2026-11-17T12:04:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
       }
     },
     "2026-08": {
-      "total": 257,
+      "total": 259,
       "ai": 39,
       "automation": 8,
       "merges": 125,
@@ -207,12 +207,12 @@
       }
     },
     "2026-11": {
-      "total": 82,
-      "ai": 22,
+      "total": 91,
+      "ai": 23,
       "automation": 5,
-      "merges": 40,
+      "merges": 48,
       "by_rule": {
-        "claude_trailer": 22
+        "claude_trailer": 23
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "grokability/snipe-it",
   "org": "grokability",
   "language": "PHP",
-  "stars": 15165,
+  "stars": 15193,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:31:25Z",
+  "scanned_at": "2026-11-17T12:18:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,10 +175,10 @@
       }
     },
     "2026-11": {
-      "total": 211,
+      "total": 227,
       "ai": 0,
       "automation": 0,
-      "merges": 64,
+      "merges": 72,
       "by_rule": {}
     }
   }

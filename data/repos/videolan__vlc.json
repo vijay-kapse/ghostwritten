@@ -3,9 +3,9 @@
   "repo": "videolan/vlc",
   "org": "videolan",
   "language": "C",
-  "stars": 20375,
+  "stars": 20485,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:26:23Z",
+  "scanned_at": "2026-11-17T12:12:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 155,
+      "total": 204,
       "ai": 0,
       "automation": 0,
       "merges": 0,

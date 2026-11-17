@@ -3,9 +3,9 @@
   "repo": "neovim/nvim-lspconfig",
   "org": "neovim",
   "language": "Lua",
-  "stars": 14007,
+  "stars": 14015,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:34:29Z",
+  "scanned_at": "2026-11-17T12:21:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,9 +167,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 7,
+      "total": 10,
       "ai": 0,
-      "automation": 8,
+      "automation": 11,
       "merges": 0,
       "by_rule": {}
     }

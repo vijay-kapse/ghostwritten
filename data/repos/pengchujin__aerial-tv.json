@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "repo": "pengchujin/aerial-tv",
+  "org": "pengchujin",
+  "language": "Kotlin",
+  "stars": 12279,
+  "default_branch": "main",
+  "scanned_at": "2026-11-17T12:02:57Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-10": {
+      "total": 518,
+      "ai": 466,
+      "automation": 0,
+      "merges": 43,
+      "by_rule": {
+        "claude_trailer": 464,
+        "codex_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 389,
+      "ai": 342,
+      "automation": 0,
+      "merges": 9,
+      "by_rule": {
+        "claude_trailer": 342
+      }
+    }
+  }
+}

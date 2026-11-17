@@ -3,9 +3,9 @@
   "repo": "humanlayer/humanlayer",
   "org": "humanlayer",
   "language": "TypeScript",
-  "stars": 12845,
+  "stars": 12901,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:29Z",
+  "scanned_at": "2026-11-17T12:27:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -137,12 +137,12 @@
       }
     },
     "2026-11": {
-      "total": 12,
-      "ai": 7,
+      "total": 13,
+      "ai": 8,
       "automation": 3,
-      "merges": 10,
+      "merges": 11,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 8
       }
     }
   }

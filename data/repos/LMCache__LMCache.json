@@ -3,9 +3,9 @@
   "repo": "LMCache/LMCache",
   "org": "LMCache",
   "language": "Python",
-  "stars": 12311,
+  "stars": 12376,
   "default_branch": "dev",
-  "scanned_at": "2026-11-16T11:31:02Z",
+  "scanned_at": "2026-11-17T12:35:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -208,12 +208,12 @@
       }
     },
     "2026-11": {
-      "total": 181,
-      "ai": 16,
+      "total": 191,
+      "ai": 17,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 13,
+        "claude_trailer": 14,
         "copilot_trailer": 3
       }
     }

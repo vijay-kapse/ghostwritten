@@ -3,9 +3,9 @@
   "repo": "google/oss-fuzz",
   "org": "google",
   "language": "Shell",
-  "stars": 12934,
+  "stars": 12966,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:39:20Z",
+  "scanned_at": "2026-11-17T12:26:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,11 +172,13 @@
       }
     },
     "2026-11": {
-      "total": 49,
-      "ai": 0,
+      "total": 66,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_generated": 2
+      }
     }
   }
 }

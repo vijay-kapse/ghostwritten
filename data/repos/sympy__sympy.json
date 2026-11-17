@@ -3,9 +3,9 @@
   "repo": "sympy/sympy",
   "org": "sympy",
   "language": "Python",
-  "stars": 15082,
+  "stars": 15106,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:31:31Z",
+  "scanned_at": "2026-11-17T12:18:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 200,
-      "ai": 19,
+      "total": 226,
+      "ai": 20,
       "automation": 0,
-      "merges": 68,
+      "merges": 75,
       "by_rule": {
-        "claude_trailer": 19,
+        "claude_trailer": 20,
         "claude_generated": 1
       }
     }

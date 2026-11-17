@@ -3,9 +3,9 @@
   "repo": "thesysdev/openui",
   "org": "thesysdev",
   "language": "TypeScript",
-  "stars": 15002,
+  "stars": 15294,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:03Z",
+  "scanned_at": "2026-11-17T12:19:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,14 +192,14 @@
       }
     },
     "2026-11": {
-      "total": 56,
-      "ai": 32,
-      "automation": 15,
+      "total": 65,
+      "ai": 40,
+      "automation": 17,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 19,
-        "devin": 11,
-        "claude_generated": 3
+        "claude_trailer": 24,
+        "devin": 14,
+        "claude_generated": 4
       }
     }
   }

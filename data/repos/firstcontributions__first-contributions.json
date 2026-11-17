@@ -3,18 +3,28 @@
   "repo": "firstcontributions/first-contributions",
   "org": "firstcontributions",
   "language": null,
-  "stars": 56756,
+  "stars": 56904,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:43:42Z",
-  "window_start": "2026-04-21",
+  "scanned_at": "2026-11-17T12:46:10Z",
+  "window_start": "2026-03-07",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 435,
-      "ai": 1,
+    "2026-03": {
+      "total": 1395,
+      "ai": 2,
       "automation": 0,
-      "merges": 15,
+      "merges": 289,
       "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-04": {
+      "total": 1354,
+      "ai": 14,
+      "automation": 0,
+      "merges": 312,
+      "by_rule": {
+        "claude_trailer": 13,
         "copilot_trailer": 1
       }
     },
@@ -80,12 +90,12 @@
       }
     },
     "2026-11": {
-      "total": 660,
-      "ai": 21,
+      "total": 694,
+      "ai": 23,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 19,
+        "claude_trailer": 21,
         "copilot_trailer": 1,
         "cursor": 1
       }

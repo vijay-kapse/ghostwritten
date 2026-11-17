@@ -3,9 +3,9 @@
   "repo": "microsoft/PowerToys",
   "org": "microsoft",
   "language": "C",
-  "stars": 140759,
+  "stars": 141093,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:43Z",
+  "scanned_at": "2026-11-17T12:43:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -234,12 +234,12 @@
       }
     },
     "2026-11": {
-      "total": 60,
-      "ai": 20,
+      "total": 67,
+      "ai": 21,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 16,
+        "copilot_trailer": 17,
         "claude_trailer": 4,
         "claude_generated": 1,
         "codex_trailer": 1

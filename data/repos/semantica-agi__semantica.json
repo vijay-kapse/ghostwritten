@@ -3,9 +3,9 @@
   "repo": "semantica-agi/semantica",
   "org": "semantica-agi",
   "language": "Python",
-  "stars": 14491,
+  "stars": 14636,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:48Z",
+  "scanned_at": "2026-11-17T12:20:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -145,7 +145,7 @@
       }
     },
     "2026-11": {
-      "total": 43,
+      "total": 49,
       "ai": 3,
       "automation": 0,
       "merges": 2,

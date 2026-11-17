@@ -3,9 +3,9 @@
   "repo": "PipedreamHQ/pipedream",
   "org": "PipedreamHQ",
   "language": "JavaScript",
-  "stars": 11780,
+  "stars": 11789,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:33:47Z",
+  "scanned_at": "2026-11-17T12:37:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,12 +210,12 @@
       }
     },
     "2026-11": {
-      "total": 28,
-      "ai": 14,
+      "total": 35,
+      "ai": 18,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12,
+        "claude_trailer": 16,
         "cursor": 2
       }
     }

@@ -3,9 +3,9 @@
   "repo": "openobserve/openobserve",
   "org": "openobserve",
   "language": "TypeScript",
-  "stars": 22948,
+  "stars": 23087,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:33Z",
+  "scanned_at": "2026-11-17T12:06:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,9 +212,9 @@
       }
     },
     "2026-11": {
-      "total": 437,
+      "total": 481,
       "ai": 13,
-      "automation": 12,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 12,

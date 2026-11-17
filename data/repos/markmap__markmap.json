@@ -3,9 +3,9 @@
   "repo": "markmap/markmap",
   "org": "markmap",
   "language": "TypeScript",
-  "stars": 13229,
+  "stars": 13257,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:38:03Z",
+  "scanned_at": "2026-11-17T12:25:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -52,12 +52,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 58,
-      "ai": 6,
+      "total": 60,
+      "ai": 7,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 7
       }
     }
   }

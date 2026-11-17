@@ -3,9 +3,9 @@
   "repo": "Vincentwei1021/video-shotcraft",
   "org": "Vincentwei1021",
   "language": "TypeScript",
-  "stars": 18064,
+  "stars": 20898,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:45:24Z",
+  "scanned_at": "2026-11-17T12:34:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -46,10 +46,10 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 11,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {}
     }
   }

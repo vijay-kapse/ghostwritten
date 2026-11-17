@@ -3,20 +3,21 @@
   "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
   "org": "awesome-dsh-plugin",
   "language": "JavaScript",
-  "stars": 23958,
+  "stars": 24969,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:23:30Z",
-  "window_start": "2026-09-19",
+  "scanned_at": "2026-11-17T12:08:34Z",
+  "window_start": "2026-09-02",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 558,
-      "ai": 4,
-      "automation": 267,
-      "merges": 1,
+      "total": 1920,
+      "ai": 23,
+      "automation": 350,
+      "merges": 756,
       "by_rule": {
-        "claude_trailer": 3,
-        "cursor": 1
+        "claude_trailer": 14,
+        "cursor": 8,
+        "copilot_trailer": 1
       }
     },
     "2026-10": {
@@ -33,14 +34,15 @@
       }
     },
     "2026-11": {
-      "total": 4054,
-      "ai": 47,
-      "automation": 1028,
+      "total": 4627,
+      "ai": 61,
+      "automation": 1167,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 40,
-        "cursor": 5,
-        "copilot_trailer": 2
+        "claude_trailer": 50,
+        "cursor": 8,
+        "copilot_trailer": 2,
+        "gemini": 1
       }
     }
   }

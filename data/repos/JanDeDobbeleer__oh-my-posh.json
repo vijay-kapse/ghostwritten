@@ -3,9 +3,9 @@
   "repo": "JanDeDobbeleer/oh-my-posh",
   "org": "JanDeDobbeleer",
   "language": "Go",
-  "stars": 23732,
+  "stars": 23768,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:20:21Z",
+  "scanned_at": "2026-11-17T12:04:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -204,9 +204,9 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 10,
       "ai": 1,
-      "automation": 10,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 1

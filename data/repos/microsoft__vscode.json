@@ -3,9 +3,9 @@
   "repo": "microsoft/vscode",
   "org": "microsoft",
   "language": "TypeScript",
-  "stars": 195223,
+  "stars": 195537,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:37:35Z",
+  "scanned_at": "2026-11-17T12:40:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -231,12 +231,12 @@
       }
     },
     "2026-11": {
-      "total": 1525,
-      "ai": 1350,
+      "total": 1625,
+      "ai": 1443,
       "automation": 17,
       "merges": 248,
       "by_rule": {
-        "copilot_trailer": 1341,
+        "copilot_trailer": 1434,
         "copilot_author": 16,
         "claude_trailer": 1
       }

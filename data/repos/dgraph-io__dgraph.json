@@ -3,9 +3,9 @@
   "repo": "dgraph-io/dgraph",
   "org": "dgraph-io",
   "language": "Go",
-  "stars": 21822,
+  "stars": 21835,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:23:34Z",
+  "scanned_at": "2026-11-17T12:08:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,6 +182,16 @@
       "by_rule": {
         "claude_trailer": 7,
         "claude_generated": 4
+      }
+    },
+    "2026-11": {
+      "total": 2,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_generated": 1,
+        "claude_trailer": 1
       }
     }
   }

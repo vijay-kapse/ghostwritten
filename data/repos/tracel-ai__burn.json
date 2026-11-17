@@ -3,9 +3,9 @@
   "repo": "tracel-ai/burn",
   "org": "tracel-ai",
   "language": "Rust",
-  "stars": 16263,
+  "stars": 16295,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:35Z",
+  "scanned_at": "2026-11-17T12:33:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 87,
+      "total": 97,
       "ai": 1,
       "automation": 0,
       "merges": 0,

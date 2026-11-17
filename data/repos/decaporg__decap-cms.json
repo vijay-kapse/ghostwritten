@@ -3,9 +3,9 @@
   "repo": "decaporg/decap-cms",
   "org": "decaporg",
   "language": "JavaScript",
-  "stars": 19466,
+  "stars": 19485,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:15Z",
+  "scanned_at": "2026-11-17T12:13:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,6 +172,15 @@
       "merges": 3,
       "by_rule": {
         "claude_trailer": 57
+      }
+    },
+    "2026-11": {
+      "total": 12,
+      "ai": 10,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10
       }
     }
   }

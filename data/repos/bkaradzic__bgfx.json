@@ -3,9 +3,9 @@
   "repo": "bkaradzic/bgfx",
   "org": "bkaradzic",
   "language": "C++",
-  "stars": 17627,
+  "stars": 17652,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:41:05Z",
+  "scanned_at": "2026-11-17T12:29:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       }
     },
     "2026-11": {
-      "total": 30,
+      "total": 34,
       "ai": 1,
       "automation": 0,
       "merges": 0,

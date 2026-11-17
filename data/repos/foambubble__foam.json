@@ -3,9 +3,9 @@
   "repo": "foambubble/foam",
   "org": "foambubble",
   "language": "TypeScript",
-  "stars": 17473,
+  "stars": 17486,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:41:31Z",
+  "scanned_at": "2026-11-17T12:29:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,12 +175,12 @@
       }
     },
     "2026-11": {
-      "total": 27,
-      "ai": 25,
+      "total": 28,
+      "ai": 26,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 25
+        "claude_trailer": 26
       }
     }
   }

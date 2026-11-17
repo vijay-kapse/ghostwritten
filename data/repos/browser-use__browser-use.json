@@ -3,9 +3,9 @@
   "repo": "browser-use/browser-use",
   "org": "browser-use",
   "language": "Python",
-  "stars": 120400,
+  "stars": 121281,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:44:53Z",
+  "scanned_at": "2026-11-17T12:47:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -220,10 +220,10 @@
       }
     },
     "2026-11": {
-      "total": 521,
+      "total": 525,
       "ai": 516,
       "automation": 0,
-      "merges": 78,
+      "merges": 79,
       "by_rule": {
         "claude_trailer": 516
       }

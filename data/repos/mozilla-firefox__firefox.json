@@ -3,18 +3,21 @@
   "repo": "mozilla-firefox/firefox",
   "org": "mozilla-firefox",
   "language": "JavaScript",
-  "stars": 13772,
+  "stars": 13862,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:36:12Z",
-  "window_start": "2026-09-30",
+  "scanned_at": "2026-11-17T12:23:32Z",
+  "window_start": "2026-09-19",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 237,
-      "ai": 0,
-      "automation": 0,
-      "merges": 3,
-      "by_rule": {}
+      "total": 2818,
+      "ai": 8,
+      "automation": 3,
+      "merges": 19,
+      "by_rule": {
+        "codex_trailer": 6,
+        "claude_trailer": 2
+      }
     },
     "2026-10": {
       "total": 7308,
@@ -28,12 +31,12 @@
       }
     },
     "2026-11": {
-      "total": 4501,
-      "ai": 26,
+      "total": 4861,
+      "ai": 28,
       "automation": 3,
       "merges": 14,
       "by_rule": {
-        "claude_trailer": 14,
+        "claude_trailer": 16,
         "codex_trailer": 12
       }
     }

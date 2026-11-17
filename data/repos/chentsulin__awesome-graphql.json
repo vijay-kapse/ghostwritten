@@ -3,9 +3,9 @@
   "repo": "chentsulin/awesome-graphql",
   "org": "chentsulin",
   "language": null,
-  "stars": 15159,
+  "stars": 15169,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:31:18Z",
+  "scanned_at": "2026-11-17T12:18:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,8 +151,8 @@
     "2026-11": {
       "total": 6,
       "ai": 3,
-      "automation": 2,
-      "merges": 5,
+      "automation": 4,
+      "merges": 7,
       "by_rule": {
         "copilot_trailer": 3
       }

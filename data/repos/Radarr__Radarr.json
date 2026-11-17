@@ -3,9 +3,9 @@
   "repo": "Radarr/Radarr",
   "org": "Radarr",
   "language": "C#",
-  "stars": 14734,
+  "stars": 14804,
   "default_branch": "develop",
-  "scanned_at": "2026-11-15T11:32:54Z",
+  "scanned_at": "2026-11-17T12:19:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -150,7 +150,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 29,
+      "total": 31,
       "ai": 0,
       "automation": 3,
       "merges": 0,

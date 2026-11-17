@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "browseros-ai/BrowserOS",
   "org": "browseros-ai",
-  "language": "TypeScript",
-  "stars": 14289,
+  "language": "Rust",
+  "stars": 14373,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:03Z",
+  "scanned_at": "2026-11-17T12:20:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 160,
+      "total": 196,
       "ai": 2,
       "automation": 5,
       "merges": 0,

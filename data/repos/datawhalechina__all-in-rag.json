@@ -3,9 +3,9 @@
   "repo": "datawhalechina/all-in-rag",
   "org": "datawhalechina",
   "language": "Python",
-  "stars": 12986,
+  "stars": 13193,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:27Z",
+  "scanned_at": "2026-11-17T12:27:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,6 +118,20 @@
     },
     "2026-09": {
       "total": 3,
+      "ai": 0,
+      "automation": 0,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-10": {
+      "total": 2,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 0,
       "ai": 0,
       "automation": 0,
       "merges": 2,

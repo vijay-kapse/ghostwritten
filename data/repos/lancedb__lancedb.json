@@ -3,9 +3,9 @@
   "repo": "lancedb/lancedb",
   "org": "lancedb",
   "language": "Rust",
-  "stars": 11867,
+  "stars": 11913,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:33:38Z",
+  "scanned_at": "2026-11-17T12:37:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -219,7 +219,7 @@
       }
     },
     "2026-11": {
-      "total": 188,
+      "total": 199,
       "ai": 15,
       "automation": 8,
       "merges": 0,

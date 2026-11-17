@@ -3,9 +3,9 @@
   "repo": "meta/hermes",
   "org": "meta",
   "language": "JavaScript",
-  "stars": 11426,
+  "stars": 11442,
   "default_branch": "static_h",
-  "scanned_at": "2026-11-16T11:34:59Z",
+  "scanned_at": "2026-11-17T12:39:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
       }
     },
     "2026-11": {
-      "total": 104,
+      "total": 125,
       "ai": 0,
       "automation": 0,
       "merges": 0,

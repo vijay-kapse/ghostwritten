@@ -3,9 +3,9 @@
   "repo": "anthropics/skills",
   "org": "anthropics",
   "language": "Python",
-  "stars": 190111,
+  "stars": 196398,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:01Z",
+  "scanned_at": "2026-11-17T12:43:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -103,7 +103,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 3,
       "ai": 0,
       "automation": 0,
       "merges": 0,

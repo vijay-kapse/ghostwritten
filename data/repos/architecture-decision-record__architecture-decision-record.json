@@ -3,9 +3,9 @@
   "repo": "architecture-decision-record/architecture-decision-record",
   "org": "architecture-decision-record",
   "language": "CSS",
-  "stars": 17432,
+  "stars": 17477,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:41:35Z",
+  "scanned_at": "2026-11-17T12:29:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -133,12 +133,21 @@
       }
     },
     "2026-10": {
-      "total": 141,
-      "ai": 134,
+      "total": 142,
+      "ai": 135,
       "automation": 0,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 134
+        "claude_trailer": 135
+      }
+    },
+    "2026-11": {
+      "total": 10,
+      "ai": 10,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 10
       }
     }
   }

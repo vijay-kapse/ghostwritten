@@ -3,9 +3,9 @@
   "repo": "flet-dev/flet",
   "org": "flet-dev",
   "language": "Python",
-  "stars": 17526,
+  "stars": 17561,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:41:29Z",
+  "scanned_at": "2026-11-17T12:29:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,7 +195,7 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 35,
       "ai": 2,
       "automation": 0,
       "merges": 3,

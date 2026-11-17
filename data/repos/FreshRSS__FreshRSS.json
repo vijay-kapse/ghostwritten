@@ -3,9 +3,9 @@
   "repo": "FreshRSS/FreshRSS",
   "org": "FreshRSS",
   "language": "PHP",
-  "stars": 16538,
+  "stars": 16610,
   "default_branch": "edge",
-  "scanned_at": "2026-11-15T11:44:13Z",
+  "scanned_at": "2026-11-17T12:32:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,11 +178,13 @@
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 0,
+      "total": 37,
+      "ai": 1,
       "automation": 3,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

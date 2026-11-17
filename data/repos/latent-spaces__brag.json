@@ -3,9 +3,9 @@
   "repo": "latent-spaces/brag",
   "org": "latent-spaces",
   "language": "Python",
-  "stars": 20798,
+  "stars": 21779,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:41Z",
+  "scanned_at": "2026-11-17T12:12:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -45,6 +45,15 @@
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 26,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

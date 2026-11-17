@@ -3,9 +3,9 @@
   "repo": "nasa/fprime",
   "org": "nasa",
   "language": "C++",
-  "stars": 11858,
+  "stars": 11884,
   "default_branch": "devel",
-  "scanned_at": "2026-11-16T11:33:24Z",
+  "scanned_at": "2026-11-17T12:37:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,7 +203,7 @@
       }
     },
     "2026-11": {
-      "total": 35,
+      "total": 36,
       "ai": 11,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "anthropics/claude-code",
   "org": "anthropics",
   "language": "TypeScript",
-  "stars": 155067,
+  "stars": 155979,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:15Z",
+  "scanned_at": "2026-11-17T12:43:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,7 +192,7 @@
       }
     },
     "2026-11": {
-      "total": 69,
+      "total": 82,
       "ai": 3,
       "automation": 0,
       "merges": 1,

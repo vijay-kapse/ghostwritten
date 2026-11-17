@@ -3,9 +3,9 @@
   "repo": "withastro/astro",
   "org": "withastro",
   "language": "TypeScript",
-  "stars": 63836,
+  "stars": 64012,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:57Z",
+  "scanned_at": "2026-11-17T12:43:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,9 +195,9 @@
       }
     },
     "2026-11": {
-      "total": 54,
+      "total": 56,
       "ai": 3,
-      "automation": 32,
+      "automation": 33,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

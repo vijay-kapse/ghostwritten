@@ -3,9 +3,9 @@
   "repo": "microsoft/mimalloc",
   "org": "microsoft",
   "language": "C",
-  "stars": 13529,
+  "stars": 13551,
   "default_branch": "main3",
-  "scanned_at": "2026-11-15T11:36:34Z",
+  "scanned_at": "2026-11-17T12:24:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -148,13 +148,20 @@
       }
     },
     "2026-10": {
-      "total": 222,
+      "total": 283,
       "ai": 1,
       "automation": 0,
-      "merges": 35,
+      "merges": 44,
       "by_rule": {
         "claude_trailer": 1
       }
+    },
+    "2026-11": {
+      "total": 234,
+      "ai": 0,
+      "automation": 0,
+      "merges": 14,
+      "by_rule": {}
     }
   }
 }

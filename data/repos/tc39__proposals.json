@@ -3,9 +3,9 @@
   "repo": "tc39/proposals",
   "org": "tc39",
   "language": null,
-  "stars": 19207,
+  "stars": 19208,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:52Z",
+  "scanned_at": "2026-11-17T12:14:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -66,7 +66,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,

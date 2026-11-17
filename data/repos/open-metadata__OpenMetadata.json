@@ -3,9 +3,9 @@
   "repo": "open-metadata/OpenMetadata",
   "org": "open-metadata",
   "language": "TypeScript",
-  "stars": 15721,
+  "stars": 15796,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:45:56Z",
+  "scanned_at": "2026-11-17T12:34:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -242,12 +242,12 @@
       }
     },
     "2026-11": {
-      "total": 444,
-      "ai": 34,
-      "automation": 53,
+      "total": 546,
+      "ai": 39,
+      "automation": 65,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 32,
+        "claude_trailer": 37,
         "copilot_trailer": 1,
         "cursor": 1
       }

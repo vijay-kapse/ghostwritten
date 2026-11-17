@@ -3,9 +3,9 @@
   "repo": "mlfoundations/open_clip",
   "org": "mlfoundations",
   "language": "Python",
-  "stars": 14247,
+  "stars": 14270,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:01Z",
+  "scanned_at": "2026-11-17T12:20:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -148,11 +148,13 @@
       }
     },
     "2026-11": {
-      "total": 11,
-      "ai": 0,
+      "total": 22,
+      "ai": 4,
       "automation": 0,
       "merges": 1,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

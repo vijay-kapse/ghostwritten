@@ -3,9 +3,9 @@
   "repo": "microsoft/onnxruntime",
   "org": "microsoft",
   "language": "C++",
-  "stars": 22267,
+  "stars": 22334,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:22:28Z",
+  "scanned_at": "2026-11-17T12:07:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -227,14 +227,14 @@
       }
     },
     "2026-11": {
-      "total": 187,
-      "ai": 143,
+      "total": 199,
+      "ai": 149,
       "automation": 10,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 137,
+        "copilot_trailer": 140,
         "copilot_author": 18,
-        "claude_trailer": 7,
+        "claude_trailer": 10,
         "claude_generated": 3,
         "cursor": 1
       }

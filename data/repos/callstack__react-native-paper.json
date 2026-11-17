@@ -3,9 +3,9 @@
   "repo": "callstack/react-native-paper",
   "org": "callstack",
   "language": "TypeScript",
-  "stars": 14501,
+  "stars": 14505,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:32Z",
+  "scanned_at": "2026-11-17T12:19:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,7 +117,7 @@
       }
     },
     "2026-11": {
-      "total": 38,
+      "total": 43,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "marimo-team/marimo",
   "org": "marimo-team",
   "language": "Python",
-  "stars": 23481,
+  "stars": 23579,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:20:32Z",
+  "scanned_at": "2026-11-17T12:05:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -234,14 +234,14 @@
       }
     },
     "2026-11": {
-      "total": 206,
-      "ai": 7,
+      "total": 216,
+      "ai": 9,
       "automation": 9,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 5,
-        "claude_generated": 1,
-        "claude_trailer": 1
+        "claude_trailer": 3,
+        "claude_generated": 2
       }
     }
   }

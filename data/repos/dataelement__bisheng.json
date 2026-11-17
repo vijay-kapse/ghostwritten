@@ -3,9 +3,9 @@
   "repo": "dataelement/bisheng",
   "org": "dataelement",
   "language": "Python",
-  "stars": 12202,
+  "stars": 12347,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:32:12Z",
+  "scanned_at": "2026-11-17T12:36:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 94,
+      "total": 97,
       "ai": 22,
       "automation": 0,
-      "merges": 56,
+      "merges": 57,
       "by_rule": {
         "claude_trailer": 22
       }

@@ -3,9 +3,9 @@
   "repo": "GoogleContainerTools/skaffold",
   "org": "GoogleContainerTools",
   "language": "Go",
-  "stars": 15900,
+  "stars": 15913,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:45:08Z",
+  "scanned_at": "2026-11-17T12:33:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
     "2026-11": {
       "total": 4,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

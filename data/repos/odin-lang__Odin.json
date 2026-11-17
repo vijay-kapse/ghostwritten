@@ -3,9 +3,9 @@
   "repo": "odin-lang/Odin",
   "org": "odin-lang",
   "language": "Odin",
-  "stars": 12292,
+  "stars": 12356,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:31:05Z",
+  "scanned_at": "2026-11-17T12:36:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 325,
+      "total": 341,
       "ai": 4,
       "automation": 0,
-      "merges": 189,
+      "merges": 192,
       "by_rule": {
         "claude_trailer": 4
       }

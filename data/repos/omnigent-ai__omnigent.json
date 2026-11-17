@@ -3,9 +3,9 @@
   "repo": "omnigent-ai/omnigent",
   "org": "omnigent-ai",
   "language": "Python",
-  "stars": 11296,
+  "stars": 11399,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:37:31Z",
+  "scanned_at": "2026-11-17T12:40:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -68,9 +68,9 @@
       }
     },
     "2026-11": {
-      "total": 618,
+      "total": 671,
       "ai": 27,
-      "automation": 105,
+      "automation": 111,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 21,

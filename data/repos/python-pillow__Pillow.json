@@ -3,9 +3,9 @@
   "repo": "python-pillow/Pillow",
   "org": "python-pillow",
   "language": "Python",
-  "stars": 13975,
+  "stars": 13988,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:49Z",
+  "scanned_at": "2026-11-17T12:21:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,13 +178,13 @@
       }
     },
     "2026-11": {
-      "total": 133,
-      "ai": 6,
+      "total": 158,
+      "ai": 9,
       "automation": 10,
-      "merges": 17,
+      "merges": 18,
       "by_rule": {
-        "claude_trailer": 5,
-        "copilot_trailer": 1
+        "claude_trailer": 6,
+        "copilot_trailer": 3
       }
     }
   }

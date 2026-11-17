@@ -3,9 +3,9 @@
   "repo": "ag-grid/ag-grid",
   "org": "ag-grid",
   "language": "TypeScript",
-  "stars": 15675,
+  "stars": 15686,
   "default_branch": "latest",
-  "scanned_at": "2026-11-15T11:45:35Z",
+  "scanned_at": "2026-11-17T12:34:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,9 +182,9 @@
       }
     },
     "2026-11": {
-      "total": 129,
+      "total": 136,
       "ai": 4,
-      "automation": 45,
+      "automation": 51,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 4

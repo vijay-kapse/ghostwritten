@@ -3,9 +3,9 @@
   "repo": "wasmerio/wasmer",
   "org": "wasmerio",
   "language": "Rust",
-  "stars": 21229,
+  "stars": 21248,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:24:52Z",
+  "scanned_at": "2026-11-17T12:10:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,19 +179,19 @@
       }
     },
     "2026-10": {
-      "total": 131,
-      "ai": 27,
+      "total": 133,
+      "ai": 29,
       "automation": 0,
       "merges": 21,
       "by_rule": {
-        "claude_trailer": 27
+        "claude_trailer": 29
       }
     },
     "2026-11": {
-      "total": 58,
+      "total": 59,
       "ai": 17,
       "automation": 0,
-      "merges": 11,
+      "merges": 13,
       "by_rule": {
         "claude_trailer": 17
       }

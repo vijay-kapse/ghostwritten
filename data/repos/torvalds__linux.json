@@ -3,33 +3,33 @@
   "repo": "torvalds/linux",
   "org": "torvalds",
   "language": "C",
-  "stars": 254940,
+  "stars": 256023,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:38:58Z",
-  "window_start": "2026-09-24",
+  "scanned_at": "2026-11-17T12:42:18Z",
+  "window_start": "2026-09-17",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 2430,
+      "total": 5051,
       "ai": 0,
       "automation": 0,
-      "merges": 141,
+      "merges": 320,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 9682,
+      "total": 9736,
       "ai": 1,
       "automation": 0,
-      "merges": 1012,
+      "merges": 1013,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-11": {
-      "total": 1496,
+      "total": 1584,
       "ai": 4,
       "automation": 0,
-      "merges": 174,
+      "merges": 180,
       "by_rule": {
         "claude_trailer": 4
       }

@@ -3,9 +3,9 @@
   "repo": "livekit/livekit",
   "org": "livekit",
   "language": "Go",
-  "stars": 22107,
+  "stars": 22254,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:22:52Z",
+  "scanned_at": "2026-11-17T12:07:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 46,
-      "ai": 16,
-      "automation": 2,
+      "total": 53,
+      "ai": 17,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 16
+        "claude_trailer": 17
       }
     }
   }

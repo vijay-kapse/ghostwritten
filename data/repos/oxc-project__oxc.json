@@ -3,16 +3,51 @@
   "repo": "oxc-project/oxc",
   "org": "oxc-project",
   "language": "Rust",
-  "stars": 23380,
+  "stars": 23480,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:06Z",
-  "window_start": "2025-06-08",
-  "complete": false,
+  "scanned_at": "2026-11-17T12:05:33Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-06": {
-      "total": 281,
+    "2025-01": {
+      "total": 513,
       "ai": 0,
-      "automation": 14,
+      "automation": 9,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 530,
+      "ai": 0,
+      "automation": 12,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 522,
+      "ai": 0,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 438,
+      "ai": 0,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 493,
+      "ai": 0,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 375,
+      "ai": 0,
+      "automation": 18,
       "merges": 0,
       "by_rule": {}
     },
@@ -201,14 +236,16 @@
       }
     },
     "2026-11": {
-      "total": 542,
-      "ai": 31,
-      "automation": 27,
+      "total": 662,
+      "ai": 78,
+      "automation": 60,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 25,
-        "claude_trailer": 24,
-        "copilot_trailer": 1
+        "claude_trailer": 65,
+        "claude_generated": 62,
+        "codex_trailer": 8,
+        "copilot_trailer": 1,
+        "cursor": 1
       }
     }
   }

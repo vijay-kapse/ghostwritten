@@ -3,9 +3,9 @@
   "repo": "huggingface/sentence-transformers",
   "org": "huggingface",
   "language": "Python",
-  "stars": 19269,
+  "stars": 19289,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:52Z",
+  "scanned_at": "2026-11-17T12:14:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,7 +197,7 @@
       }
     },
     "2026-11": {
-      "total": 36,
+      "total": 41,
       "ai": 3,
       "automation": 1,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "typescript-eslint/typescript-eslint",
   "org": "typescript-eslint",
   "language": "TypeScript",
-  "stars": 16460,
+  "stars": 16470,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:14Z",
+  "scanned_at": "2026-11-17T12:32:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
     "2026-11": {
       "total": 10,
       "ai": 6,
-      "automation": 11,
+      "automation": 15,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 6,

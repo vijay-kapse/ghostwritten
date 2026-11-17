@@ -3,19 +3,29 @@
   "repo": "JetBrains/intellij-community",
   "org": "JetBrains",
   "language": "Java",
-  "stars": 20720,
+  "stars": 20739,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:25:57Z",
-  "window_start": "2026-09-07",
+  "scanned_at": "2026-11-17T12:11:40Z",
+  "window_start": "2026-08-19",
   "complete": false,
   "months": {
-    "2026-09": {
-      "total": 3736,
-      "ai": 2,
+    "2026-08": {
+      "total": 1580,
+      "ai": 5,
       "automation": 0,
-      "merges": 8,
+      "merges": 6,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 5
+      }
+    },
+    "2026-09": {
+      "total": 4746,
+      "ai": 3,
+      "automation": 0,
+      "merges": 12,
+      "by_rule": {
+        "claude_trailer": 2,
+        "copilot_trailer": 1
       }
     },
     "2026-10": {
@@ -30,12 +40,13 @@
       }
     },
     "2026-11": {
-      "total": 2695,
-      "ai": 57,
+      "total": 3053,
+      "ai": 72,
       "automation": 0,
-      "merges": 4,
+      "merges": 6,
       "by_rule": {
-        "claude_trailer": 57
+        "claude_trailer": 71,
+        "claude_generated": 1
       }
     }
   }

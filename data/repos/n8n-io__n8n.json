@@ -3,9 +3,9 @@
   "repo": "n8n-io/n8n",
   "org": "n8n-io",
   "language": "TypeScript",
-  "stars": 209894,
+  "stars": 210727,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:39:38Z",
+  "scanned_at": "2026-11-17T12:42:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -215,13 +215,13 @@
       }
     },
     "2026-11": {
-      "total": 541,
-      "ai": 272,
-      "automation": 126,
-      "merges": 2,
+      "total": 637,
+      "ai": 322,
+      "automation": 141,
+      "merges": 3,
       "by_rule": {
-        "claude_trailer": 261,
-        "cursor": 11,
+        "claude_trailer": 310,
+        "cursor": 12,
         "copilot_trailer": 1
       }
     }

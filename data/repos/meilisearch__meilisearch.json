@@ -3,9 +3,9 @@
   "repo": "meilisearch/meilisearch",
   "org": "meilisearch",
   "language": "Rust",
-  "stars": 59817,
+  "stars": 59884,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:42:56Z",
+  "scanned_at": "2026-11-17T12:45:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,10 +178,10 @@
       }
     },
     "2026-11": {
-      "total": 28,
+      "total": 43,
       "ai": 2,
       "automation": 4,
-      "merges": 16,
+      "merges": 19,
       "by_rule": {
         "claude_trailer": 2
       }

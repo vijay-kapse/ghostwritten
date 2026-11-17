@@ -3,9 +3,9 @@
   "repo": "wagtail/wagtail",
   "org": "wagtail",
   "language": "Python",
-  "stars": 20605,
+  "stars": 20720,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:01Z",
+  "scanned_at": "2026-11-17T12:11:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,9 +178,9 @@
       }
     },
     "2026-11": {
-      "total": 45,
+      "total": 46,
       "ai": 1,
-      "automation": 5,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

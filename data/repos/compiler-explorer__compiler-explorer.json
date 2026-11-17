@@ -3,9 +3,9 @@
   "repo": "compiler-explorer/compiler-explorer",
   "org": "compiler-explorer",
   "language": "TypeScript",
-  "stars": 19182,
+  "stars": 19192,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:53Z",
+  "scanned_at": "2026-11-17T12:14:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -228,13 +228,13 @@
       }
     },
     "2026-11": {
-      "total": 68,
-      "ai": 16,
+      "total": 70,
+      "ai": 18,
       "automation": 7,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 16,
-        "claude_generated": 9
+        "claude_trailer": 18,
+        "claude_generated": 10
       }
     }
   }

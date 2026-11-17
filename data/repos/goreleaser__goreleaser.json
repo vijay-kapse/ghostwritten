@@ -3,9 +3,9 @@
   "repo": "goreleaser/goreleaser",
   "org": "goreleaser",
   "language": "Go",
-  "stars": 16144,
+  "stars": 16148,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:42Z",
+  "scanned_at": "2026-11-17T12:33:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,9 +199,9 @@
       }
     },
     "2026-11": {
-      "total": 54,
+      "total": 56,
       "ai": 30,
-      "automation": 9,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 21,

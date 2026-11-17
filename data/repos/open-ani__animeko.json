@@ -3,9 +3,9 @@
   "repo": "open-ani/animeko",
   "org": "open-ani",
   "language": "Kotlin",
-  "stars": 21630,
+  "stars": 21818,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:24:17Z",
+  "scanned_at": "2026-11-17T12:09:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 16,
       "ai": 11,
       "automation": 0,
       "merges": 0,

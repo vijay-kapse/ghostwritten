@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "weaviate/weaviate",
-  "head_sha": "927ec35cc360afdfb83dfc3604ee3a08b6da9bfe",
-  "oldest": "2025-02-25T09:29:48Z",
-  "complete": false,
+  "head_sha": "ba33f5fde0ebd87afd9933cc4371fcc534380f39",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-15T11:43:21Z"
+  "updated_at": "2026-11-17T12:31:38Z"
 }

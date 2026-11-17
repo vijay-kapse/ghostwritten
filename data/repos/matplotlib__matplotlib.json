@@ -3,9 +3,9 @@
   "repo": "matplotlib/matplotlib",
   "org": "matplotlib",
   "language": "Python",
-  "stars": 23436,
+  "stars": 23467,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:20:31Z",
+  "scanned_at": "2026-11-17T12:05:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,10 +177,10 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 19,
       "ai": 0,
       "automation": 3,
-      "merges": 19,
+      "merges": 22,
       "by_rule": {}
     }
   }

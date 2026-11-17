@@ -3,9 +3,9 @@
   "repo": "voyager-crew/voyager",
   "org": "voyager-crew",
   "language": "TypeScript",
-  "stars": 20584,
+  "stars": 20648,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:03Z",
+  "scanned_at": "2026-11-17T12:11:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -140,13 +140,14 @@
       }
     },
     "2026-11": {
-      "total": 108,
-      "ai": 108,
+      "total": 115,
+      "ai": 115,
       "automation": 0,
       "merges": 5,
       "by_rule": {
-        "claude_trailer": 108,
-        "codex_trailer": 1
+        "claude_trailer": 115,
+        "codex_trailer": 1,
+        "cursor": 1
       }
     }
   }

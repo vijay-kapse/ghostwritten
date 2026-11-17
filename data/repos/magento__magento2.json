@@ -3,17 +3,17 @@
   "repo": "magento/magento2",
   "org": "magento",
   "language": "PHP",
-  "stars": 12223,
+  "stars": 12239,
   "default_branch": "2.4-develop",
-  "scanned_at": "2026-11-16T11:31:28Z",
-  "window_start": "2025-01-09",
-  "complete": false,
+  "scanned_at": "2026-11-17T12:36:08Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 201,
+      "total": 312,
       "ai": 0,
       "automation": 0,
-      "merges": 156,
+      "merges": 230,
       "by_rule": {}
     },
     "2025-02": {
@@ -145,24 +145,24 @@
       }
     },
     "2026-07": {
-      "total": 152,
+      "total": 154,
       "ai": 0,
       "automation": 0,
-      "merges": 200,
+      "merges": 203,
       "by_rule": {}
     },
     "2026-08": {
       "total": 246,
       "ai": 0,
       "automation": 0,
-      "merges": 206,
+      "merges": 208,
       "by_rule": {}
     },
     "2026-09": {
       "total": 220,
       "ai": 5,
       "automation": 0,
-      "merges": 199,
+      "merges": 200,
       "by_rule": {
         "claude_trailer": 5
       }
@@ -171,7 +171,7 @@
       "total": 166,
       "ai": 22,
       "automation": 0,
-      "merges": 186,
+      "merges": 187,
       "by_rule": {
         "copilot_trailer": 22
       }
@@ -180,7 +180,7 @@
       "total": 14,
       "ai": 2,
       "automation": 0,
-      "merges": 58,
+      "merges": 62,
       "by_rule": {
         "copilot_trailer": 2
       }

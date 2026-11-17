@@ -3,9 +3,9 @@
   "repo": "reduxjs/redux-toolkit",
   "org": "reduxjs",
   "language": "TypeScript",
-  "stars": 11245,
+  "stars": 11248,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:36:59Z",
+  "scanned_at": "2026-11-17T12:40:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,12 +166,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 65,
-      "ai": 2,
+      "total": 74,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 4
       }
     }
   }

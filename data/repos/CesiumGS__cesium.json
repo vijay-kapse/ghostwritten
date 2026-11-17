@@ -3,9 +3,9 @@
   "repo": "CesiumGS/cesium",
   "org": "CesiumGS",
   "language": "JavaScript",
-  "stars": 15930,
+  "stars": 15961,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:45:08Z",
+  "scanned_at": "2026-11-17T12:33:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,7 +159,7 @@
       }
     },
     "2026-09": {
-      "total": 151,
+      "total": 152,
       "ai": 1,
       "automation": 1,
       "merges": 70,
@@ -171,7 +171,7 @@
       "total": 157,
       "ai": 6,
       "automation": 1,
-      "merges": 51,
+      "merges": 52,
       "by_rule": {
         "claude_trailer": 2,
         "copilot_trailer": 2,
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 82,
+      "total": 89,
       "ai": 0,
       "automation": 0,
-      "merges": 61,
+      "merges": 71,
       "by_rule": {}
     }
   }

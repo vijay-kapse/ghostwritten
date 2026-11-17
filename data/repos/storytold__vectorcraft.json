@@ -3,31 +3,31 @@
   "repo": "storytold/vectorcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 11532,
+  "stars": 11831,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:37:27Z",
-  "window_start": "2026-10-16",
+  "scanned_at": "2026-11-17T12:40:46Z",
+  "window_start": "2026-10-08",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 2417,
-      "ai": 413,
+      "total": 3829,
+      "ai": 1016,
       "automation": 2,
-      "merges": 1535,
+      "merges": 2523,
       "by_rule": {
-        "claude_trailer": 285,
-        "cursor": 122,
-        "codex_trailer": 8,
+        "claude_trailer": 854,
+        "cursor": 134,
+        "codex_trailer": 30,
         "claude_generated": 1
       }
     },
     "2026-11": {
-      "total": 3945,
-      "ai": 167,
+      "total": 4215,
+      "ai": 169,
       "automation": 1,
-      "merges": 4079,
+      "merges": 4369,
       "by_rule": {
-        "claude_trailer": 160,
+        "claude_trailer": 162,
         "cursor": 4,
         "codex_trailer": 2,
         "devin": 2

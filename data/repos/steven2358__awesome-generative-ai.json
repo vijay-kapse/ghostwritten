@@ -3,9 +3,9 @@
   "repo": "steven2358/awesome-generative-ai",
   "org": "steven2358",
   "language": null,
-  "stars": 12818,
+  "stars": 12836,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:22Z",
+  "scanned_at": "2026-11-17T12:26:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,6 +162,13 @@
     },
     "2026-10": {
       "total": 8,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 2,
       "ai": 0,
       "automation": 0,
       "merges": 0,

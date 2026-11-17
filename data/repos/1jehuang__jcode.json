@@ -3,9 +3,9 @@
   "repo": "1jehuang/jcode",
   "org": "1jehuang",
   "language": "Rust",
-  "stars": 21634,
+  "stars": 21836,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:24:29Z",
+  "scanned_at": "2026-11-17T12:09:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,10 +84,10 @@
       }
     },
     "2026-11": {
-      "total": 663,
+      "total": 849,
       "ai": 0,
-      "automation": 29,
-      "merges": 5,
+      "automation": 32,
+      "merges": 6,
       "by_rule": {}
     }
   }

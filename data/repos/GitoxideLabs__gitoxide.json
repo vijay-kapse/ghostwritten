@@ -3,9 +3,9 @@
   "repo": "GitoxideLabs/gitoxide",
   "org": "GitoxideLabs",
   "language": "Rust",
-  "stars": 12114,
+  "stars": 12142,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:32:14Z",
+  "scanned_at": "2026-11-17T12:36:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,12 +209,12 @@
       }
     },
     "2026-11": {
-      "total": 182,
-      "ai": 104,
+      "total": 183,
+      "ai": 105,
       "automation": 1,
-      "merges": 45,
+      "merges": 46,
       "by_rule": {
-        "codex_trailer": 100,
+        "codex_trailer": 101,
         "claude_trailer": 4
       }
     }

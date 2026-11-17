@@ -3,9 +3,9 @@
   "repo": "langbot-app/LangBot",
   "org": "langbot-app",
   "language": "Python",
-  "stars": 18838,
+  "stars": 19054,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:29:08Z",
+  "scanned_at": "2026-11-17T12:15:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -220,12 +220,12 @@
       }
     },
     "2026-11": {
-      "total": 166,
-      "ai": 91,
+      "total": 224,
+      "ai": 100,
       "automation": 0,
-      "merges": 14,
+      "merges": 23,
       "by_rule": {
-        "claude_trailer": 91
+        "claude_trailer": 100
       }
     }
   }

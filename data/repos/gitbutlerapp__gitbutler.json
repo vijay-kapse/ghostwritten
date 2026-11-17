@@ -3,20 +3,45 @@
   "repo": "gitbutlerapp/gitbutler",
   "org": "gitbutlerapp",
   "language": "Rust",
-  "stars": 21949,
+  "stars": 21973,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:23:14Z",
-  "window_start": "2026-04-08",
+  "scanned_at": "2026-11-17T12:08:14Z",
+  "window_start": "2026-02-01",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 888,
-      "ai": 11,
-      "automation": 16,
-      "merges": 295,
+    "2026-02": {
+      "total": 596,
+      "ai": 51,
+      "automation": 13,
+      "merges": 330,
       "by_rule": {
-        "codex_trailer": 5,
-        "copilot_trailer": 5,
+        "other_bot_agent": 18,
+        "codex_trailer": 12,
+        "copilot_trailer": 10,
+        "claude_trailer": 7,
+        "copilot_author": 5
+      }
+    },
+    "2026-03": {
+      "total": 1164,
+      "ai": 51,
+      "automation": 21,
+      "merges": 373,
+      "by_rule": {
+        "other_bot_agent": 32,
+        "codex_trailer": 7,
+        "copilot_trailer": 7,
+        "copilot_author": 5
+      }
+    },
+    "2026-04": {
+      "total": 1228,
+      "ai": 14,
+      "automation": 21,
+      "merges": 353,
+      "by_rule": {
+        "copilot_trailer": 7,
+        "codex_trailer": 6,
         "claude_trailer": 1
       }
     },
@@ -81,10 +106,10 @@
       }
     },
     "2026-11": {
-      "total": 825,
+      "total": 868,
       "ai": 14,
       "automation": 0,
-      "merges": 431,
+      "merges": 449,
       "by_rule": {
         "claude_trailer": 14
       }

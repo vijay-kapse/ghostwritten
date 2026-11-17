@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "comet-ml/opik",
   "org": "comet-ml",
-  "language": "Python",
-  "stars": 23278,
+  "language": "Java",
+  "stars": 23443,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:15Z",
+  "scanned_at": "2026-11-17T12:05:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -215,13 +215,13 @@
       }
     },
     "2026-11": {
-      "total": 99,
-      "ai": 55,
-      "automation": 30,
+      "total": 125,
+      "ai": 71,
+      "automation": 32,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 55,
-        "copilot_trailer": 2
+        "claude_trailer": 71,
+        "copilot_trailer": 4
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "huggingface/datasets",
   "org": "huggingface",
   "language": "Python",
-  "stars": 22121,
+  "stars": 22151,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:22:46Z",
+  "scanned_at": "2026-11-17T12:07:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 18,
       "ai": 1,
       "automation": 0,
       "merges": 0,

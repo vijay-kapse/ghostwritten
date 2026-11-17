@@ -3,9 +3,9 @@
   "repo": "lima-vm/lima",
   "org": "lima-vm",
   "language": "Go",
-  "stars": 22292,
+  "stars": 22383,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:22:27Z",
+  "scanned_at": "2026-11-17T12:07:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,10 +179,10 @@
       }
     },
     "2026-11": {
-      "total": 47,
+      "total": 50,
       "ai": 1,
-      "automation": 12,
-      "merges": 48,
+      "automation": 13,
+      "merges": 52,
       "by_rule": {
         "claude_trailer": 1
       }

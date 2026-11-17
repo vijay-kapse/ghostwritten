@@ -3,9 +3,9 @@
   "repo": "altic-dev/FluidVoice",
   "org": "altic-dev",
   "language": "Swift",
-  "stars": 12921,
+  "stars": 13109,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:40Z",
+  "scanned_at": "2026-11-17T12:27:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,7 +124,7 @@
       }
     },
     "2026-11": {
-      "total": 91,
+      "total": 93,
       "ai": 0,
       "automation": 0,
       "merges": 20,

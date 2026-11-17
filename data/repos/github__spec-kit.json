@@ -3,9 +3,9 @@
   "repo": "github/spec-kit",
   "org": "github",
   "language": "Python",
-  "stars": 148867,
+  "stars": 150201,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:18Z",
+  "scanned_at": "2026-11-17T12:43:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,13 +162,13 @@
       }
     },
     "2026-11": {
-      "total": 83,
-      "ai": 49,
-      "automation": 33,
+      "total": 89,
+      "ai": 51,
+      "automation": 39,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 42,
-        "claude_trailer": 8,
+        "copilot_trailer": 43,
+        "claude_trailer": 9,
         "copilot_author": 1
       }
     }

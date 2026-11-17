@@ -3,9 +3,9 @@
   "repo": "tamagui/tamagui",
   "org": "tamagui",
   "language": "TypeScript",
-  "stars": 14302,
+  "stars": 14316,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:56Z",
+  "scanned_at": "2026-11-17T12:20:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 39,
+      "total": 42,
       "ai": 8,
       "automation": 9,
       "merges": 0,

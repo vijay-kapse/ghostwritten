@@ -3,9 +3,9 @@
   "repo": "shipshapecode/shepherd",
   "org": "shipshapecode",
   "language": "JavaScript",
-  "stars": 13827,
+  "stars": 13833,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:35:33Z",
+  "scanned_at": "2026-11-17T12:22:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,12 +166,12 @@
       }
     },
     "2026-11": {
-      "total": 12,
-      "ai": 12,
-      "automation": 5,
+      "total": 13,
+      "ai": 13,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12
+        "claude_trailer": 13
       }
     }
   }

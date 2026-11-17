@@ -3,9 +3,9 @@
   "repo": "firecrawl/pdf-inspector",
   "org": "firecrawl",
   "language": "Rust",
-  "stars": 19965,
+  "stars": 20052,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:46Z",
+  "scanned_at": "2026-11-17T12:13:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,7 +94,7 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 4,
       "ai": 0,
       "automation": 0,
       "merges": 0,

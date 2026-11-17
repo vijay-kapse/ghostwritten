@@ -3,9 +3,9 @@
   "repo": "bitwarden/clients",
   "org": "bitwarden",
   "language": "TypeScript",
-  "stars": 14181,
+  "stars": 14255,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:16Z",
+  "scanned_at": "2026-11-17T12:20:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,9 +189,9 @@
       }
     },
     "2026-11": {
-      "total": 199,
+      "total": 214,
       "ai": 2,
-      "automation": 26,
+      "automation": 30,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

@@ -3,9 +3,9 @@
   "repo": "OpenRefine/OpenRefine",
   "org": "OpenRefine",
   "language": "Java",
-  "stars": 12091,
+  "stars": 12109,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:32:16Z",
+  "scanned_at": "2026-11-17T12:36:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,7 +190,7 @@
     "2026-11": {
       "total": 5,
       "ai": 1,
-      "automation": 10,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
         "cursor": 1

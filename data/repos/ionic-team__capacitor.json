@@ -3,9 +3,9 @@
   "repo": "ionic-team/capacitor",
   "org": "ionic-team",
   "language": "TypeScript",
-  "stars": 17056,
+  "stars": 17109,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:42:25Z",
+  "scanned_at": "2026-11-17T12:30:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -101,77 +101,77 @@
       "by_rule": {}
     },
     "2026-02": {
-      "total": 13,
-      "ai": 0,
-      "automation": 0,
-      "merges": 0,
-      "by_rule": {}
-    },
-    "2026-03": {
       "total": 18,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
+      "by_rule": {}
+    },
+    "2026-03": {
+      "total": 27,
+      "ai": 0,
+      "automation": 0,
+      "merges": 3,
       "by_rule": {}
     },
     "2026-04": {
-      "total": 7,
+      "total": 10,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {}
     },
     "2026-05": {
-      "total": 20,
+      "total": 29,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 4,
       "by_rule": {}
     },
     "2026-06": {
-      "total": 8,
+      "total": 30,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {}
     },
     "2026-07": {
-      "total": 7,
+      "total": 12,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {}
     },
     "2026-08": {
-      "total": 4,
+      "total": 22,
       "ai": 1,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {
         "cursor": 1
       }
     },
     "2026-09": {
-      "total": 5,
+      "total": 19,
       "ai": 1,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {
         "claude_trailer": 1
       }
     },
     "2026-10": {
-      "total": 15,
+      "total": 37,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 5,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 6,
+      "total": 18,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 3,
       "by_rule": {}
     }
   }

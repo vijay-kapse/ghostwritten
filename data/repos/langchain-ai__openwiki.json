@@ -3,9 +3,9 @@
   "repo": "langchain-ai/openwiki",
   "org": "langchain-ai",
   "language": "TypeScript",
-  "stars": 17833,
+  "stars": 17987,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:41:00Z",
+  "scanned_at": "2026-11-17T12:29:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -54,7 +54,7 @@
       }
     },
     "2026-11": {
-      "total": 24,
+      "total": 25,
       "ai": 1,
       "automation": 16,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "huggingface/trl",
   "org": "huggingface",
   "language": "Python",
-  "stars": 19694,
+  "stars": 19749,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:05Z",
+  "scanned_at": "2026-11-17T12:13:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,9 +199,9 @@
       }
     },
     "2026-11": {
-      "total": 199,
+      "total": 236,
       "ai": 3,
-      "automation": 3,
+      "automation": 4,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

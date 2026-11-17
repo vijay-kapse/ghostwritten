@@ -3,9 +3,9 @@
   "repo": "renovatebot/renovate",
   "org": "renovatebot",
   "language": "TypeScript",
-  "stars": 23053,
+  "stars": 23153,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:20Z",
+  "scanned_at": "2026-11-17T12:05:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -211,12 +211,12 @@
       }
     },
     "2026-11": {
-      "total": 134,
-      "ai": 42,
-      "automation": 157,
+      "total": 150,
+      "ai": 52,
+      "automation": 195,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 42
+        "claude_trailer": 52
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "experientiallabs/experiential",
   "org": "experientiallabs",
   "language": "Python",
-  "stars": 15324,
+  "stars": 17456,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:33:50Z",
+  "scanned_at": "2026-11-17T12:20:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -50,21 +50,21 @@
       }
     },
     "2026-10": {
-      "total": 300,
-      "ai": 262,
+      "total": 642,
+      "ai": 583,
       "automation": 0,
-      "merges": 111,
+      "merges": 153,
       "by_rule": {
-        "claude_trailer": 262
+        "claude_trailer": 583
       }
     },
     "2026-11": {
-      "total": 80,
-      "ai": 72,
+      "total": 93,
+      "ai": 83,
       "automation": 0,
-      "merges": 2,
+      "merges": 4,
       "by_rule": {
-        "claude_trailer": 72
+        "claude_trailer": 83
       }
     }
   }

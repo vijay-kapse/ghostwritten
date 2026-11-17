@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "repo": "NVIDIA/auto-ontology",
+  "org": "NVIDIA",
+  "language": "Python",
+  "stars": 13479,
+  "default_branch": "main",
+  "scanned_at": "2026-11-17T12:02:28Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-04": {
+      "total": 123,
+      "ai": 0,
+      "automation": 3,
+      "merges": 18,
+      "by_rule": {}
+    },
+    "2026-05": {
+      "total": 101,
+      "ai": 5,
+      "automation": 0,
+      "merges": 24,
+      "by_rule": {
+        "cursor": 5
+      }
+    },
+    "2026-06": {
+      "total": 249,
+      "ai": 0,
+      "automation": 0,
+      "merges": 46,
+      "by_rule": {}
+    },
+    "2026-07": {
+      "total": 194,
+      "ai": 4,
+      "automation": 0,
+      "merges": 63,
+      "by_rule": {
+        "claude_trailer": 4
+      }
+    },
+    "2026-08": {
+      "total": 169,
+      "ai": 7,
+      "automation": 0,
+      "merges": 48,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-09": {
+      "total": 140,
+      "ai": 7,
+      "automation": 0,
+      "merges": 25,
+      "by_rule": {
+        "claude_trailer": 7
+      }
+    },
+    "2026-10": {
+      "total": 118,
+      "ai": 6,
+      "automation": 0,
+      "merges": 28,
+      "by_rule": {
+        "claude_trailer": 6
+      }
+    },
+    "2026-11": {
+      "total": 34,
+      "ai": 0,
+      "automation": 0,
+      "merges": 5,
+      "by_rule": {}
+    }
+  }
+}

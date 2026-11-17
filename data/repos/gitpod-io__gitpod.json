@@ -3,9 +3,9 @@
   "repo": "gitpod-io/gitpod",
   "org": "gitpod-io",
   "language": "TypeScript",
-  "stars": 13799,
+  "stars": 13798,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:35:38Z",
+  "scanned_at": "2026-11-17T12:22:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 3,
+      "total": 4,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 3
+        "codex_trailer": 4
       }
     }
   }

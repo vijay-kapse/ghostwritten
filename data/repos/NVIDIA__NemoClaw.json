@@ -3,9 +3,9 @@
   "repo": "NVIDIA/NemoClaw",
   "org": "NVIDIA",
   "language": "TypeScript",
-  "stars": 22994,
+  "stars": 23044,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:23Z",
+  "scanned_at": "2026-11-17T12:05:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,7 +97,7 @@
       }
     },
     "2026-11": {
-      "total": 68,
+      "total": 81,
       "ai": 3,
       "automation": 5,
       "merges": 0,

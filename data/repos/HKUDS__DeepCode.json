@@ -3,9 +3,9 @@
   "repo": "HKUDS/DeepCode",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 16827,
+  "stars": 16848,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:43:50Z",
+  "scanned_at": "2026-11-17T12:32:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -114,7 +114,7 @@
       }
     },
     "2026-10": {
-      "total": 302,
+      "total": 307,
       "ai": 1,
       "automation": 0,
       "merges": 31,
@@ -123,10 +123,10 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 33,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 15,
       "by_rule": {}
     }
   }

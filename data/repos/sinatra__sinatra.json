@@ -3,9 +3,9 @@
   "repo": "sinatra/sinatra",
   "org": "sinatra",
   "language": "Ruby",
-  "stars": 12449,
+  "stars": 12451,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:46:25Z",
+  "scanned_at": "2026-11-17T12:35:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,6 +95,13 @@
     },
     "2026-07": {
       "total": 12,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-11": {
+      "total": 5,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "apache/hadoop",
   "org": "apache",
   "language": "Java",
-  "stars": 15711,
+  "stars": 15716,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-15T11:45:32Z",
+  "scanned_at": "2026-11-17T12:34:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,13 +182,13 @@
       }
     },
     "2026-11": {
-      "total": 25,
-      "ai": 6,
+      "total": 33,
+      "ai": 8,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5,
-        "claude_generated": 2,
+        "claude_trailer": 7,
+        "claude_generated": 4,
         "codex_trailer": 1
       }
     }

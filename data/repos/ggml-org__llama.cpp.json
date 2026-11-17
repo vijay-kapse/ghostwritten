@@ -3,9 +3,9 @@
   "repo": "ggml-org/llama.cpp",
   "org": "ggml-org",
   "language": "C++",
-  "stars": 133800,
+  "stars": 135440,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:41:09Z",
+  "scanned_at": "2026-11-17T12:44:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,12 +192,12 @@
       }
     },
     "2026-11": {
-      "total": 408,
-      "ai": 4,
+      "total": 448,
+      "ai": 5,
       "automation": 0,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 5
       }
     }
   }

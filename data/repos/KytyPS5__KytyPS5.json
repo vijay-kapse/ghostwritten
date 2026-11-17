@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "repo": "KytyPS5/KytyPS5",
+  "org": "KytyPS5",
+  "language": "C++",
+  "stars": 11403,
+  "default_branch": "main",
+  "scanned_at": "2026-11-17T12:03:44Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-07": {
+      "total": 128,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 385,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 1
+      }
+    },
+    "2026-09": {
+      "total": 527,
+      "ai": 6,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 5,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-10": {
+      "total": 786,
+      "ai": 31,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 24,
+        "copilot_trailer": 5,
+        "codex_trailer": 2
+      }
+    },
+    "2026-11": {
+      "total": 252,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
+      }
+    }
+  }
+}

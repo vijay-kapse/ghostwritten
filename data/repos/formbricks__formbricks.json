@@ -3,9 +3,9 @@
   "repo": "formbricks/formbricks",
   "org": "formbricks",
   "language": "TypeScript",
-  "stars": 13226,
+  "stars": 13248,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:05Z",
+  "scanned_at": "2026-11-17T12:25:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,12 +205,12 @@
       }
     },
     "2026-11": {
-      "total": 81,
-      "ai": 61,
+      "total": 98,
+      "ai": 73,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 61
+        "claude_trailer": 73
       }
     }
   }

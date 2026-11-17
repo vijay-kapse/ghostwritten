@@ -3,9 +3,9 @@
   "repo": "react/react",
   "org": "react",
   "language": "JavaScript",
-  "stars": 252436,
+  "stars": 252737,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:38:58Z",
+  "scanned_at": "2026-11-17T12:42:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,11 +180,14 @@
       }
     },
     "2026-11": {
-      "total": 34,
-      "ai": 0,
+      "total": 39,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 5,
+        "claude_generated": 4
+      }
     }
   }
 }

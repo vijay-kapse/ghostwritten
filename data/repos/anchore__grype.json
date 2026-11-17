@@ -3,9 +3,9 @@
   "repo": "anchore/grype",
   "org": "anchore",
   "language": "Go",
-  "stars": 13223,
+  "stars": 13276,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:12Z",
+  "scanned_at": "2026-11-17T12:25:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,11 +170,13 @@
       }
     },
     "2026-11": {
-      "total": 11,
-      "ai": 0,
-      "automation": 7,
+      "total": 14,
+      "ai": 1,
+      "automation": 8,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

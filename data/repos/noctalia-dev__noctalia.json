@@ -3,9 +3,9 @@
   "repo": "noctalia-dev/noctalia",
   "org": "noctalia-dev",
   "language": "C++",
-  "stars": 11906,
+  "stars": 12091,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:33:48Z",
+  "scanned_at": "2026-11-17T12:37:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -74,10 +74,10 @@
       }
     },
     "2026-11": {
-      "total": 251,
+      "total": 256,
       "ai": 7,
       "automation": 0,
-      "merges": 7,
+      "merges": 8,
       "by_rule": {
         "claude_trailer": 6,
         "cursor": 1

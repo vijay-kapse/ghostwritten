@@ -3,9 +3,9 @@
   "repo": "arangodb/arangodb",
   "org": "arangodb",
   "language": "C++",
-  "stars": 14296,
+  "stars": 14302,
   "default_branch": "devel",
-  "scanned_at": "2026-11-15T11:33:57Z",
+  "scanned_at": "2026-11-17T12:20:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,10 +186,10 @@
       }
     },
     "2026-11": {
-      "total": 77,
+      "total": 86,
       "ai": 0,
       "automation": 0,
-      "merges": 38,
+      "merges": 42,
       "by_rule": {}
     }
   }

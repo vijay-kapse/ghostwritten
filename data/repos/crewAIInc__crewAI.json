@@ -3,9 +3,9 @@
   "repo": "crewAIInc/crewAI",
   "org": "crewAIInc",
   "language": "Python",
-  "stars": 60683,
+  "stars": 61020,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:42:21Z",
+  "scanned_at": "2026-11-17T12:44:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,7 +217,7 @@
       }
     },
     "2026-11": {
-      "total": 99,
+      "total": 101,
       "ai": 49,
       "automation": 1,
       "merges": 0,

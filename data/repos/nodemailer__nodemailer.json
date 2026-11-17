@@ -3,9 +3,9 @@
   "repo": "nodemailer/nodemailer",
   "org": "nodemailer",
   "language": "TypeScript",
-  "stars": 17708,
+  "stars": 17715,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:40:58Z",
+  "scanned_at": "2026-11-17T12:29:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,10 +171,10 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 22,
       "ai": 7,
-      "automation": 3,
-      "merges": 0,
+      "automation": 4,
+      "merges": 1,
       "by_rule": {
         "claude_trailer": 7
       }

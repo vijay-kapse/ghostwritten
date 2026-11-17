@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "repo": "Edge0-AI/Edge0",
+  "org": "Edge0-AI",
+  "language": "C++",
+  "stars": 11968,
+  "default_branch": "main",
+  "scanned_at": "2026-11-17T12:03:01Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-09": {
+      "total": 77,
+      "ai": 8,
+      "automation": 0,
+      "merges": 15,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-10": {
+      "total": 49,
+      "ai": 11,
+      "automation": 0,
+      "merges": 30,
+      "by_rule": {
+        "claude_trailer": 6,
+        "cursor": 5
+      }
+    },
+    "2026-11": {
+      "total": 56,
+      "ai": 3,
+      "automation": 0,
+      "merges": 16,
+      "by_rule": {
+        "cursor": 2,
+        "claude_trailer": 1
+      }
+    }
+  }
+}

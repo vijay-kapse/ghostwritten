@@ -3,9 +3,9 @@
   "repo": "RustPython/RustPython",
   "org": "RustPython",
   "language": "Rust",
-  "stars": 22469,
+  "stars": 22489,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:21:44Z",
+  "scanned_at": "2026-11-17T12:06:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,12 +198,12 @@
       }
     },
     "2026-11": {
-      "total": 282,
-      "ai": 70,
-      "automation": 17,
+      "total": 321,
+      "ai": 95,
+      "automation": 25,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 65,
+        "codex_trailer": 90,
         "copilot_author": 3,
         "copilot_trailer": 3,
         "claude_trailer": 1,

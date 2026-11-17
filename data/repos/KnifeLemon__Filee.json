@@ -3,9 +3,9 @@
   "repo": "KnifeLemon/Filee",
   "org": "KnifeLemon",
   "language": "C#",
-  "stars": 24464,
+  "stars": 28331,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:26:40Z",
+  "scanned_at": "2026-11-17T12:12:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -30,12 +30,12 @@
       }
     },
     "2026-11": {
-      "total": 591,
-      "ai": 343,
+      "total": 623,
+      "ai": 361,
       "automation": 0,
-      "merges": 351,
+      "merges": 370,
       "by_rule": {
-        "claude_trailer": 343
+        "claude_trailer": 361
       }
     }
   }

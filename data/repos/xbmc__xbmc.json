@@ -3,9 +3,9 @@
   "repo": "xbmc/xbmc",
   "org": "xbmc",
   "language": "C++",
-  "stars": 21453,
+  "stars": 21502,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:24:18Z",
+  "scanned_at": "2026-11-17T12:09:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 263,
-      "ai": 154,
+      "total": 317,
+      "ai": 198,
       "automation": 4,
-      "merges": 121,
+      "merges": 140,
       "by_rule": {
-        "claude_trailer": 154
+        "claude_trailer": 198
       }
     }
   }

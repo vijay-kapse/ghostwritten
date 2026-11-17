@@ -3,9 +3,9 @@
   "repo": "quickwit-oss/tantivy",
   "org": "quickwit-oss",
   "language": "Rust",
-  "stars": 16410,
+  "stars": 16447,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:22Z",
+  "scanned_at": "2026-11-17T12:32:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 0,

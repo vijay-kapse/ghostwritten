@@ -3,9 +3,9 @@
   "repo": "confident-ai/deepeval",
   "org": "confident-ai",
   "language": "Python",
-  "stars": 19381,
+  "stars": 19525,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:27:52Z",
+  "scanned_at": "2026-11-17T12:14:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,10 +182,10 @@
       }
     },
     "2026-11": {
-      "total": 109,
+      "total": 111,
       "ai": 26,
       "automation": 0,
-      "merges": 43,
+      "merges": 44,
       "by_rule": {
         "claude_trailer": 24,
         "codex_trailer": 2

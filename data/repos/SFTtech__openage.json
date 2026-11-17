@@ -3,9 +3,9 @@
   "repo": "SFTtech/openage",
   "org": "SFTtech",
   "language": "Python",
-  "stars": 14591,
+  "stars": 14612,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:33:08Z",
+  "scanned_at": "2026-11-17T12:19:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -96,10 +96,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
+      "total": 6,
       "ai": 5,
       "automation": 0,
-      "merges": 3,
+      "merges": 4,
       "by_rule": {
         "claude_trailer": 5
       }

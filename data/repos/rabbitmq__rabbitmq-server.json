@@ -3,9 +3,9 @@
   "repo": "rabbitmq/rabbitmq-server",
   "org": "rabbitmq",
   "language": "JavaScript",
-  "stars": 13957,
+  "stars": 13974,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:51Z",
+  "scanned_at": "2026-11-17T12:21:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,10 +176,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 100,
+      "total": 104,
       "ai": 5,
-      "automation": 7,
-      "merges": 53,
+      "automation": 9,
+      "merges": 58,
       "by_rule": {
         "claude_trailer": 4,
         "copilot_trailer": 1

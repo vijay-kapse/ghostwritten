@@ -3,9 +3,9 @@
   "repo": "markmead/hyperui",
   "org": "markmead",
   "language": "Astro",
-  "stars": 12279,
+  "stars": 12285,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:30:59Z",
+  "scanned_at": "2026-11-17T12:35:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,12 +170,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 15,
-      "ai": 14,
+      "total": 24,
+      "ai": 23,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 23
       }
     }
   }

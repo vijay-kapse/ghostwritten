@@ -3,9 +3,9 @@
   "repo": "simonw/llm",
   "org": "simonw",
   "language": "Python",
-  "stars": 12732,
+  "stars": 12769,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:39:34Z",
+  "scanned_at": "2026-11-17T12:27:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -148,12 +148,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 41,
-      "ai": 9,
+      "total": 52,
+      "ai": 11,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 10,
+        "cursor": 1
       }
     }
   }

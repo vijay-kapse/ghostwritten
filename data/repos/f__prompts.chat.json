@@ -3,9 +3,9 @@
   "repo": "f/prompts.chat",
   "org": "f",
   "language": "MDX",
-  "stars": 176657,
+  "stars": 177722,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:40:07Z",
+  "scanned_at": "2026-11-17T12:43:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,7 +178,7 @@
       }
     },
     "2026-11": {
-      "total": 611,
+      "total": 642,
       "ai": 38,
       "automation": 0,
       "merges": 0,

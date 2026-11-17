@@ -3,9 +3,9 @@
   "repo": "fengyuanchen/cropperjs",
   "org": "fengyuanchen",
   "language": "TypeScript",
-  "stars": 13912,
+  "stars": 13918,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:35:08Z",
+  "scanned_at": "2026-11-17T12:22:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -116,6 +116,13 @@
         "copilot_author": 2,
         "copilot_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 4,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "OrchestratorInc/agent-orchestrator",
   "org": "OrchestratorInc",
   "language": "TypeScript",
-  "stars": 14324,
+  "stars": 14840,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:31Z",
+  "scanned_at": "2026-11-17T12:21:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -106,12 +106,12 @@
       }
     },
     "2026-11": {
-      "total": 489,
-      "ai": 312,
+      "total": 570,
+      "ai": 356,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 312
+        "claude_trailer": 356
       }
     }
   }

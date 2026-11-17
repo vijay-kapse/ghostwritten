@@ -3,9 +3,9 @@
   "repo": "makerspet/oomwoo",
   "org": "makerspet",
   "language": "Python",
-  "stars": 13027,
+  "stars": 13127,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:38:53Z",
+  "scanned_at": "2026-11-17T12:26:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -58,7 +58,7 @@
     "2026-11": {
       "total": 2,
       "ai": 2,
-      "automation": 4,
+      "automation": 5,
       "merges": 2,
       "by_rule": {
         "claude_trailer": 2

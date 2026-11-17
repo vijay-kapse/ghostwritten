@@ -3,17 +3,17 @@
   "repo": "MetrolistGroup/Metrolist",
   "org": "MetrolistGroup",
   "language": "Kotlin",
-  "stars": 14098,
+  "stars": 14517,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:34:53Z",
+  "scanned_at": "2026-11-17T12:21:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 53,
+      "total": 339,
       "ai": 0,
-      "automation": 0,
-      "merges": 3,
+      "automation": 1,
+      "merges": 4,
       "by_rule": {}
     }
   }

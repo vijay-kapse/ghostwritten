@@ -3,9 +3,9 @@
   "repo": "dagger/dagger",
   "org": "dagger",
   "language": "Go",
-  "stars": 16598,
+  "stars": 16623,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:44:08Z",
+  "scanned_at": "2026-11-17T12:32:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,10 +187,10 @@
       }
     },
     "2026-11": {
-      "total": 871,
+      "total": 874,
       "ai": 1,
       "automation": 0,
-      "merges": 48,
+      "merges": 49,
       "by_rule": {
         "claude_trailer": 1
       }

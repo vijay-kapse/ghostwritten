@@ -3,9 +3,9 @@
   "repo": "handsontable/handsontable",
   "org": "handsontable",
   "language": "TypeScript",
-  "stars": 22080,
+  "stars": 22082,
   "default_branch": "develop",
-  "scanned_at": "2026-11-15T11:22:47Z",
+  "scanned_at": "2026-11-17T12:07:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,7 +195,7 @@
       }
     },
     "2026-11": {
-      "total": 184,
+      "total": 215,
       "ai": 6,
       "automation": 1,
       "merges": 0,

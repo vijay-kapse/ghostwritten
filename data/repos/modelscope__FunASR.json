@@ -3,9 +3,9 @@
   "repo": "modelscope/FunASR",
   "org": "modelscope",
   "language": "Python",
-  "stars": 20978,
+  "stars": 21057,
   "default_branch": "main",
-  "scanned_at": "2026-11-15T11:25:23Z",
+  "scanned_at": "2026-11-17T12:10:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,10 +168,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 75,
+      "total": 80,
       "ai": 4,
       "automation": 0,
-      "merges": 66,
+      "merges": 69,
       "by_rule": {
         "claude_trailer": 2,
         "cursor": 2

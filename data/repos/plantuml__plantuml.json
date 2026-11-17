@@ -3,9 +3,9 @@
   "repo": "plantuml/plantuml",
   "org": "plantuml",
   "language": "Java",
-  "stars": 13408,
+  "stars": 13422,
   "default_branch": "master",
-  "scanned_at": "2026-11-15T11:36:58Z",
+  "scanned_at": "2026-11-17T12:24:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,12 +181,12 @@
       }
     },
     "2026-11": {
-      "total": 77,
-      "ai": 54,
+      "total": 81,
+      "ai": 56,
       "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 54
+        "claude_trailer": 56
       }
     }
   }

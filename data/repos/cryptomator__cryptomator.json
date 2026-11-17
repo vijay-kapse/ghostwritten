@@ -3,9 +3,9 @@
   "repo": "cryptomator/cryptomator",
   "org": "cryptomator",
   "language": "Java",
-  "stars": 16472,
+  "stars": 16524,
   "default_branch": "develop",
-  "scanned_at": "2026-11-15T11:44:18Z",
+  "scanned_at": "2026-11-17T12:32:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 32,
       "ai": 2,
       "automation": 2,
       "merges": 6,

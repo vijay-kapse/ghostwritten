@@ -3,9 +3,9 @@
   "repo": "rclone/rclone",
   "org": "rclone",
   "language": "Go",
-  "stars": 60888,
+  "stars": 61065,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:41:59Z",
+  "scanned_at": "2026-11-17T12:44:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 85,
+      "total": 86,
       "ai": 4,
       "automation": 0,
       "merges": 0,

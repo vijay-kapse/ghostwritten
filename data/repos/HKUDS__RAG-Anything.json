@@ -3,9 +3,9 @@
   "repo": "HKUDS/RAG-Anything",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 24471,
+  "stars": 24571,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:20:24Z",
+  "scanned_at": "2026-11-18T12:19:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,10 +143,10 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 46,
       "ai": 1,
       "automation": 0,
-      "merges": 0,
+      "merges": 2,
       "by_rule": {
         "codex_trailer": 1
       }

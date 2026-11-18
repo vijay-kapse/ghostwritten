@@ -3,9 +3,9 @@
   "repo": "debpalash/VoiceStudio",
   "org": "debpalash",
   "language": "Python",
-  "stars": 105544,
+  "stars": 112348,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:53:56Z",
+  "scanned_at": "2026-11-18T11:56:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,10 +76,10 @@
       }
     },
     "2026-11": {
-      "total": 1009,
+      "total": 1070,
       "ai": 0,
-      "automation": 10,
-      "merges": 555,
+      "automation": 15,
+      "merges": 628,
       "by_rule": {}
     }
   }

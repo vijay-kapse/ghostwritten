@@ -3,9 +3,9 @@
   "repo": "helm/helm",
   "org": "helm",
   "language": "Go",
-  "stars": 30404,
+  "stars": 30430,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:46Z",
+  "scanned_at": "2026-11-18T12:11:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,9 +190,9 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 7,
       "ai": 0,
-      "automation": 10,
+      "automation": 11,
       "merges": 0,
       "by_rule": {}
     }

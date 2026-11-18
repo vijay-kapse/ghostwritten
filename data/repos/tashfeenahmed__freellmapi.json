@@ -3,9 +3,9 @@
   "repo": "tashfeenahmed/freellmapi",
   "org": "tashfeenahmed",
   "language": "TypeScript",
-  "stars": 49466,
+  "stars": 53761,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:50:41Z",
+  "scanned_at": "2026-11-18T11:53:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -72,12 +72,12 @@
       }
     },
     "2026-11": {
-      "total": 72,
-      "ai": 34,
+      "total": 85,
+      "ai": 38,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 34
+        "claude_trailer": 38
       }
     }
   }

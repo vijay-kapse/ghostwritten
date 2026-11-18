@@ -5,17 +5,25 @@
   "language": "Java",
   "stars": 20739,
   "default_branch": "master",
-  "scanned_at": "2026-11-17T12:11:40Z",
-  "window_start": "2026-08-19",
+  "scanned_at": "2026-11-18T12:26:34Z",
+  "window_start": "2026-07-24",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 1580,
-      "ai": 5,
+    "2026-07": {
+      "total": 740,
+      "ai": 0,
       "automation": 0,
-      "merges": 6,
+      "merges": 2,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 3434,
+      "ai": 7,
+      "automation": 0,
+      "merges": 10,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 6,
+        "cursor": 1
       }
     },
     "2026-09": {
@@ -40,12 +48,12 @@
       }
     },
     "2026-11": {
-      "total": 3053,
-      "ai": 72,
+      "total": 3393,
+      "ai": 80,
       "automation": 0,
       "merges": 6,
       "by_rule": {
-        "claude_trailer": 71,
+        "claude_trailer": 79,
         "claude_generated": 1
       }
     }

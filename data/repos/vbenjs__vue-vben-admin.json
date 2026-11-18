@@ -3,9 +3,9 @@
   "repo": "vbenjs/vue-vben-admin",
   "org": "vbenjs",
   "language": "TypeScript",
-  "stars": 33770,
+  "stars": 33817,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:03:21Z",
+  "scanned_at": "2026-11-18T12:04:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 18,
       "ai": 6,
       "automation": 0,
       "merges": 0,

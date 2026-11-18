@@ -3,9 +3,9 @@
   "repo": "topoteretes/cognee",
   "org": "topoteretes",
   "language": "Python",
-  "stars": 33165,
+  "stars": 33362,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:22Z",
+  "scanned_at": "2026-11-18T12:05:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,13 +209,13 @@
       }
     },
     "2026-11": {
-      "total": 239,
-      "ai": 33,
-      "automation": 1,
-      "merges": 148,
+      "total": 341,
+      "ai": 39,
+      "automation": 11,
+      "merges": 222,
       "by_rule": {
-        "claude_trailer": 30,
-        "claude_generated": 4,
+        "claude_trailer": 36,
+        "claude_generated": 5,
         "copilot_trailer": 3,
         "cursor": 1
       }

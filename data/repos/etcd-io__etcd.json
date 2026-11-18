@@ -3,9 +3,9 @@
   "repo": "etcd-io/etcd",
   "org": "etcd-io",
   "language": "Go",
-  "stars": 52677,
+  "stars": 52614,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:46:07Z",
+  "scanned_at": "2026-11-18T11:50:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 39,
       "ai": 0,
       "automation": 6,
-      "merges": 33,
+      "merges": 39,
       "by_rule": {}
     }
   }

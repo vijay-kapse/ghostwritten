@@ -3,9 +3,9 @@
   "repo": "XIU2/TrackersListCollection",
   "org": "XIU2",
   "language": null,
-  "stars": 32383,
+  "stars": 32427,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:05:03Z",
+  "scanned_at": "2026-11-18T12:06:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 16,
+      "automation": 18,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "langchain-ai/langgraph",
   "org": "langchain-ai",
   "language": "Python",
-  "stars": 44684,
+  "stars": 45064,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:51:28Z",
+  "scanned_at": "2026-11-18T11:54:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,7 +194,7 @@
     "2026-11": {
       "total": 44,
       "ai": 3,
-      "automation": 17,
+      "automation": 18,
       "merges": 0,
       "by_rule": {
         "claude_generated": 2,

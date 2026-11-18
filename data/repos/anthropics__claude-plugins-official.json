@@ -3,9 +3,9 @@
   "repo": "anthropics/claude-plugins-official",
   "org": "anthropics",
   "language": "Python",
-  "stars": 46532,
+  "stars": 47528,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:50:19Z",
+  "scanned_at": "2026-11-18T11:53:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -120,12 +120,12 @@
       }
     },
     "2026-11": {
-      "total": 71,
-      "ai": 58,
-      "automation": 19,
-      "merges": 57,
+      "total": 88,
+      "ai": 73,
+      "automation": 20,
+      "merges": 69,
       "by_rule": {
-        "claude_trailer": 58
+        "claude_trailer": 73
       }
     }
   }

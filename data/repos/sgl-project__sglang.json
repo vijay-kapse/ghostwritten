@@ -3,21 +3,54 @@
   "repo": "sgl-project/sglang",
   "org": "sgl-project",
   "language": "Python",
-  "stars": 38610,
+  "stars": 38977,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:57:50Z",
-  "window_start": "2026-03-06",
+  "scanned_at": "2026-11-18T12:00:06Z",
+  "window_start": "2025-12-07",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 779,
-      "ai": 66,
+    "2025-12": {
+      "total": 868,
+      "ai": 28,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 47,
-        "gemini": 20,
-        "copilot_trailer": 1
+        "gemini": 27,
+        "claude_trailer": 1
+      }
+    },
+    "2026-01": {
+      "total": 949,
+      "ai": 24,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 21,
+        "claude_trailer": 3
+      }
+    },
+    "2026-02": {
+      "total": 768,
+      "ai": 38,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "gemini": 22,
+        "claude_trailer": 9,
+        "cursor": 6,
+        "copilot_trailer": 2
+      }
+    },
+    "2026-03": {
+      "total": 994,
+      "ai": 85,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 58,
+        "gemini": 27,
+        "copilot_trailer": 1,
+        "cursor": 1
       }
     },
     "2026-04": {
@@ -108,14 +141,14 @@
       }
     },
     "2026-11": {
-      "total": 1203,
-      "ai": 345,
+      "total": 1378,
+      "ai": 395,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 327,
+        "claude_trailer": 375,
         "copilot_trailer": 12,
-        "cursor": 8,
+        "cursor": 11,
         "devin": 2,
         "codex_trailer": 1
       }

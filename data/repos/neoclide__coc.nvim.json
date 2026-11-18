@@ -3,9 +3,9 @@
   "repo": "neoclide/coc.nvim",
   "org": "neoclide",
   "language": "TypeScript",
-  "stars": 25137,
+  "stars": 25136,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:19:19Z",
+  "scanned_at": "2026-11-18T12:18:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 6,
-      "ai": 1,
+      "total": 10,
+      "ai": 2,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "codex_trailer": 1
+        "codex_trailer": 2
       }
     }
   }

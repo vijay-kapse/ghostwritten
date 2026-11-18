@@ -3,9 +3,9 @@
   "repo": "iina/iina",
   "org": "iina",
   "language": "Swift",
-  "stars": 47062,
+  "stars": 47150,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T11:50:02Z",
+  "scanned_at": "2026-11-18T11:53:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -160,10 +160,10 @@
       }
     },
     "2026-11": {
-      "total": 35,
+      "total": 40,
       "ai": 3,
       "automation": 0,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
         "claude_trailer": 2,
         "cursor": 1

@@ -3,9 +3,9 @@
   "repo": "portainer/portainer",
   "org": "portainer",
   "language": "TypeScript",
-  "stars": 38797,
+  "stars": 38835,
   "default_branch": "release/2.45",
-  "scanned_at": "2026-11-16T11:56:22Z",
+  "scanned_at": "2026-11-18T11:58:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,12 +193,12 @@
       }
     },
     "2026-11": {
-      "total": 15,
-      "ai": 9,
+      "total": 27,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 10
       }
     }
   }

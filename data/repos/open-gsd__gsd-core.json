@@ -3,9 +3,9 @@
   "repo": "open-gsd/gsd-core",
   "org": "open-gsd",
   "language": "JavaScript",
-  "stars": 11371,
+  "stars": 11632,
   "default_branch": "next",
-  "scanned_at": "2026-11-16T12:07:42Z",
+  "scanned_at": "2026-11-18T12:08:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,12 +118,12 @@
       }
     },
     "2026-11": {
-      "total": 130,
-      "ai": 109,
+      "total": 158,
+      "ai": 136,
       "automation": 8,
       "merges": 11,
       "by_rule": {
-        "claude_trailer": 108,
+        "claude_trailer": 135,
         "cursor": 1
       }
     }

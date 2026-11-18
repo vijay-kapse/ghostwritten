@@ -3,9 +3,9 @@
   "repo": "cheeriojs/cheerio",
   "org": "cheeriojs",
   "language": "TypeScript",
-  "stars": 30536,
+  "stars": 30543,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:41Z",
+  "scanned_at": "2026-11-18T12:10:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
     "2026-11": {
       "total": 6,
       "ai": 5,
-      "automation": 39,
+      "automation": 47,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 5

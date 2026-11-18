@@ -3,9 +3,9 @@
   "repo": "Automattic/mongoose",
   "org": "Automattic",
   "language": "JavaScript",
-  "stars": 27450,
+  "stars": 27445,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:16:31Z",
+  "scanned_at": "2026-11-18T12:16:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,10 +209,10 @@
       }
     },
     "2026-11": {
-      "total": 48,
+      "total": 54,
       "ai": 3,
       "automation": 12,
-      "merges": 52,
+      "merges": 56,
       "by_rule": {
         "copilot_trailer": 2,
         "claude_trailer": 1

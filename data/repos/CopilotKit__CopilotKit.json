@@ -3,19 +3,19 @@
   "repo": "CopilotKit/CopilotKit",
   "org": "CopilotKit",
   "language": "TypeScript",
-  "stars": 38576,
+  "stars": 38760,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:57:28Z",
-  "window_start": "2026-04-27",
+  "scanned_at": "2026-11-18T11:59:44Z",
+  "window_start": "2026-04-02",
   "complete": false,
   "months": {
     "2026-04": {
-      "total": 556,
-      "ai": 27,
-      "automation": 43,
-      "merges": 268,
+      "total": 2549,
+      "ai": 279,
+      "automation": 163,
+      "merges": 955,
       "by_rule": {
-        "claude_trailer": 27
+        "claude_trailer": 279
       }
     },
     "2026-05": {
@@ -68,10 +68,10 @@
       }
     },
     "2026-10": {
-      "total": 969,
+      "total": 980,
       "ai": 211,
       "automation": 83,
-      "merges": 436,
+      "merges": 439,
       "by_rule": {
         "claude_trailer": 207,
         "copilot_trailer": 3,
@@ -79,12 +79,12 @@
       }
     },
     "2026-11": {
-      "total": 404,
-      "ai": 217,
-      "automation": 10,
-      "merges": 118,
+      "total": 478,
+      "ai": 231,
+      "automation": 12,
+      "merges": 145,
       "by_rule": {
-        "claude_trailer": 217
+        "claude_trailer": 231
       }
     }
   }

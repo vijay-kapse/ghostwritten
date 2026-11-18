@@ -3,9 +3,9 @@
   "repo": "vercel/ai",
   "org": "vercel",
   "language": "TypeScript",
-  "stars": 27828,
+  "stars": 28030,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:16:21Z",
+  "scanned_at": "2026-11-18T12:15:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -213,9 +213,9 @@
       }
     },
     "2026-11": {
-      "total": 291,
+      "total": 320,
       "ai": 5,
-      "automation": 32,
+      "automation": 37,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 5,

@@ -3,9 +3,9 @@
   "repo": "THU-MAIC/OpenMAIC",
   "org": "THU-MAIC",
   "language": "TypeScript",
-  "stars": 43114,
+  "stars": 43795,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:52:27Z",
+  "scanned_at": "2026-11-18T11:55:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -91,12 +91,12 @@
       }
     },
     "2026-11": {
-      "total": 88,
-      "ai": 21,
+      "total": 111,
+      "ai": 28,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 21,
+        "claude_trailer": 28,
         "claude_generated": 2
       }
     }

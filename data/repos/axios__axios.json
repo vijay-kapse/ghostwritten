@@ -3,9 +3,9 @@
   "repo": "axios/axios",
   "org": "axios",
   "language": "JavaScript",
-  "stars": 109298,
+  "stars": 109379,
   "default_branch": "v1.x",
-  "scanned_at": "2026-11-16T11:49:20Z",
+  "scanned_at": "2026-11-18T11:52:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,9 +189,9 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 19,
       "ai": 3,
-      "automation": 5,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

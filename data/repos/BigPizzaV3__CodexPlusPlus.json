@@ -3,9 +3,9 @@
   "repo": "BigPizzaV3/CodexPlusPlus",
   "org": "BigPizzaV3",
   "language": "Rust",
-  "stars": 33002,
+  "stars": 33179,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:28Z",
+  "scanned_at": "2026-11-18T12:05:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -67,10 +67,10 @@
       }
     },
     "2026-11": {
-      "total": 556,
+      "total": 671,
       "ai": 0,
       "automation": 0,
-      "merges": 122,
+      "merges": 127,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "podman-container-tools/podman",
   "org": "podman-container-tools",
   "language": "Go",
-  "stars": 33209,
+  "stars": 33309,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:07Z",
+  "scanned_at": "2026-11-18T12:05:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 60,
+      "total": 68,
       "ai": 0,
-      "automation": 18,
-      "merges": 71,
+      "automation": 20,
+      "merges": 80,
       "by_rule": {}
     }
   }

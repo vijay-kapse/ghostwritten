@@ -3,9 +3,9 @@
   "repo": "jaywcjlove/awesome-mac",
   "org": "jaywcjlove",
   "language": "Swift",
-  "stars": 118110,
+  "stars": 118718,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:46:21Z",
+  "scanned_at": "2026-11-18T11:50:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 130,
-      "ai": 23,
-      "automation": 118,
+      "total": 160,
+      "ai": 28,
+      "automation": 147,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 19,
+        "claude_trailer": 24,
         "copilot_trailer": 2,
         "cursor": 2
       }

@@ -3,19 +3,30 @@
   "repo": "manaflow-ai/cmux",
   "org": "manaflow-ai",
   "language": "Swift",
-  "stars": 28738,
+  "stars": 28809,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:14:52Z",
-  "window_start": "2026-08-05",
+  "scanned_at": "2026-11-18T12:14:21Z",
+  "window_start": "2026-07-07",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 3153,
-      "ai": 233,
-      "automation": 4,
-      "merges": 377,
+    "2026-07": {
+      "total": 2055,
+      "ai": 194,
+      "automation": 0,
+      "merges": 339,
       "by_rule": {
-        "claude_trailer": 232,
+        "claude_trailer": 193,
+        "codex_trailer": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-08": {
+      "total": 3567,
+      "ai": 258,
+      "automation": 4,
+      "merges": 469,
+      "by_rule": {
+        "claude_trailer": 257,
         "codex_trailer": 1
       }
     },
@@ -44,12 +55,12 @@
       }
     },
     "2026-11": {
-      "total": 311,
-      "ai": 184,
+      "total": 380,
+      "ai": 251,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 169,
+        "claude_trailer": 236,
         "codex_trailer": 15,
         "claude_generated": 1
       }

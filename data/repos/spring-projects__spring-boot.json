@@ -3,9 +3,9 @@
   "repo": "spring-projects/spring-boot",
   "org": "spring-projects",
   "language": "Java",
-  "stars": 81789,
+  "stars": 81904,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:23Z",
+  "scanned_at": "2026-11-18T12:05:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 205,
+      "total": 208,
       "ai": 0,
       "automation": 2,
-      "merges": 140,
+      "merges": 142,
       "by_rule": {}
     }
   }

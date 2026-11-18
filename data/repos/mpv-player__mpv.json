@@ -3,9 +3,9 @@
   "repo": "mpv-player/mpv",
   "org": "mpv-player",
   "language": "C",
-  "stars": 38016,
+  "stars": 38166,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:58:07Z",
+  "scanned_at": "2026-11-18T12:00:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 170,
+      "total": 177,
       "ai": 0,
       "automation": 2,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "PDFMathTranslate/PDFMathTranslate",
   "org": "PDFMathTranslate",
   "language": "Python",
-  "stars": 38312,
+  "stars": 38478,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:57:56Z",
+  "scanned_at": "2026-11-18T12:00:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -137,7 +137,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 419,
+      "automation": 482,
       "merges": 0,
       "by_rule": {}
     }

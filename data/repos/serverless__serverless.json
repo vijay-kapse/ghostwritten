@@ -3,9 +3,9 @@
   "repo": "serverless/serverless",
   "org": "serverless",
   "language": "JavaScript",
-  "stars": 46931,
+  "stars": 46934,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:50:03Z",
+  "scanned_at": "2026-11-18T11:53:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -138,7 +138,7 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 5,
       "ai": 0,
       "automation": 10,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "storytold/photocraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 78088,
+  "stars": 79967,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:08:47Z",
+  "scanned_at": "2026-11-18T12:09:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -17,12 +17,12 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 6219,
-      "ai": 3226,
+      "total": 6236,
+      "ai": 3230,
       "automation": 1,
-      "merges": 2819,
+      "merges": 2827,
       "by_rule": {
-        "claude_trailer": 3126,
+        "claude_trailer": 3130,
         "cursor": 40,
         "codex_trailer": 38,
         "copilot_trailer": 31,
@@ -31,12 +31,12 @@
       }
     },
     "2026-11": {
-      "total": 2737,
-      "ai": 1014,
+      "total": 2843,
+      "ai": 1023,
       "automation": 1,
-      "merges": 1833,
+      "merges": 1937,
       "by_rule": {
-        "claude_trailer": 1012,
+        "claude_trailer": 1021,
         "claude_generated": 3,
         "codex_trailer": 1,
         "devin": 1

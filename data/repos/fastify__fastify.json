@@ -3,9 +3,9 @@
   "repo": "fastify/fastify",
   "org": "fastify",
   "language": "JavaScript",
-  "stars": 37378,
+  "stars": 37432,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:59:38Z",
+  "scanned_at": "2026-11-18T12:01:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,9 +183,9 @@
       }
     },
     "2026-11": {
-      "total": 12,
+      "total": 13,
       "ai": 2,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

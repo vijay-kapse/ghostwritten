@@ -3,9 +3,9 @@
   "repo": "uutils/coreutils",
   "org": "uutils",
   "language": "Rust",
-  "stars": 24346,
+  "stars": 24377,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:20:30Z",
+  "scanned_at": "2026-11-18T12:19:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,9 +180,9 @@
       }
     },
     "2026-11": {
-      "total": 372,
+      "total": 414,
       "ai": 15,
-      "automation": 26,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 15

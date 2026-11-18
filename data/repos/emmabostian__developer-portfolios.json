@@ -3,9 +3,9 @@
   "repo": "emmabostian/developer-portfolios",
   "org": "emmabostian",
   "language": "Python",
-  "stars": 27615,
+  "stars": 27737,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:16:31Z",
+  "scanned_at": "2026-11-18T12:16:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,10 +205,10 @@
       }
     },
     "2026-11": {
-      "total": 67,
+      "total": 70,
       "ai": 11,
       "automation": 0,
-      "merges": 66,
+      "merges": 69,
       "by_rule": {
         "claude_trailer": 4,
         "cursor": 4,

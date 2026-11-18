@@ -3,9 +3,9 @@
   "repo": "LibreChat-AI/LibreChat",
   "org": "LibreChat-AI",
   "language": "TypeScript",
-  "stars": 46889,
+  "stars": 47215,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:50:08Z",
+  "scanned_at": "2026-11-18T11:53:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -213,9 +213,9 @@
       }
     },
     "2026-11": {
-      "total": 278,
+      "total": 294,
       "ai": 2,
-      "automation": 49,
+      "automation": 54,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

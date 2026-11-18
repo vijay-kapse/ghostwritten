@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "markedjs/marked",
   "org": "markedjs",
-  "language": "JavaScript",
-  "stars": 37295,
+  "language": "TypeScript",
+  "stars": 37308,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:59:41Z",
+  "scanned_at": "2026-11-18T12:01:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,12 +177,12 @@
       }
     },
     "2026-11": {
-      "total": 30,
-      "ai": 9,
-      "automation": 6,
+      "total": 51,
+      "ai": 10,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6,
+        "claude_trailer": 7,
         "cursor": 3
       }
     }

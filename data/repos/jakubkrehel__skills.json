@@ -3,9 +3,9 @@
   "repo": "jakubkrehel/skills",
   "org": "jakubkrehel",
   "language": "Markdown",
-  "stars": 11829,
+  "stars": 12303,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:07:39Z",
+  "scanned_at": "2026-11-18T12:08:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -35,10 +35,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 18,
+      "total": 24,
       "ai": 2,
       "automation": 0,
-      "merges": 6,
+      "merges": 10,
       "by_rule": {
         "claude_trailer": 2
       }

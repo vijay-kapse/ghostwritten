@@ -3,9 +3,9 @@
   "repo": "HKUDS/LightRAG",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 40621,
+  "stars": 40738,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:55:08Z",
+  "scanned_at": "2026-11-18T11:57:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,30 +180,30 @@
       }
     },
     "2026-09": {
-      "total": 740,
-      "ai": 498,
+      "total": 749,
+      "ai": 499,
       "automation": 20,
       "merges": 257,
       "by_rule": {
-        "claude_trailer": 498
+        "claude_trailer": 499
       }
     },
     "2026-10": {
-      "total": 51,
-      "ai": 11,
+      "total": 86,
+      "ai": 16,
       "automation": 3,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 11
+        "claude_trailer": 16
       }
     },
     "2026-11": {
-      "total": 259,
-      "ai": 213,
-      "automation": 22,
-      "merges": 231,
+      "total": 338,
+      "ai": 277,
+      "automation": 27,
+      "merges": 318,
       "by_rule": {
-        "claude_trailer": 213
+        "claude_trailer": 277
       }
     }
   }

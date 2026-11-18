@@ -3,9 +3,9 @@
   "repo": "HKUDS/nanobot",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 49961,
+  "stars": 50147,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:47:43Z",
+  "scanned_at": "2026-11-18T11:51:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -104,7 +104,7 @@
       }
     },
     "2026-11": {
-      "total": 169,
+      "total": 184,
       "ai": 0,
       "automation": 0,
       "merges": 0,

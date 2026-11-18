@@ -3,9 +3,9 @@
   "repo": "Dokploy/dokploy",
   "org": "Dokploy",
   "language": "TypeScript",
-  "stars": 38309,
+  "stars": 38557,
   "default_branch": "canary",
-  "scanned_at": "2026-11-16T11:57:55Z",
+  "scanned_at": "2026-11-18T12:00:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-09": {
-      "total": 122,
+      "total": 130,
       "ai": 13,
       "automation": 19,
       "merges": 99,
@@ -183,19 +183,19 @@
       }
     },
     "2026-10": {
-      "total": 140,
+      "total": 143,
       "ai": 6,
       "automation": 4,
-      "merges": 74,
+      "merges": 75,
       "by_rule": {
         "claude_trailer": 6
       }
     },
     "2026-11": {
-      "total": 103,
+      "total": 143,
       "ai": 2,
-      "automation": 5,
-      "merges": 72,
+      "automation": 6,
+      "merges": 89,
       "by_rule": {
         "claude_trailer": 1,
         "devin": 1

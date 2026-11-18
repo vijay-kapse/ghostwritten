@@ -3,9 +3,9 @@
   "repo": "readest/readest",
   "org": "readest",
   "language": "TypeScript",
-  "stars": 26115,
+  "stars": 26398,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:17:50Z",
+  "scanned_at": "2026-11-18T12:17:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 163,
-      "ai": 145,
+      "total": 221,
+      "ai": 198,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 143,
+        "claude_trailer": 196,
         "amp_factory": 1,
         "copilot_trailer": 1
       }

@@ -3,21 +3,45 @@
   "repo": "getsentry/sentry",
   "org": "getsentry",
   "language": "Python",
-  "stars": 45737,
+  "stars": 45787,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:50:39Z",
-  "window_start": "2026-05-01",
+  "scanned_at": "2026-11-18T11:53:52Z",
+  "window_start": "2026-03-23",
   "complete": false,
   "months": {
+    "2026-03": {
+      "total": 517,
+      "ai": 140,
+      "automation": 4,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 129,
+        "cursor": 7,
+        "codex_trailer": 4,
+        "claude_generated": 3
+      }
+    },
+    "2026-04": {
+      "total": 2018,
+      "ai": 585,
+      "automation": 10,
+      "merges": 2,
+      "by_rule": {
+        "claude_trailer": 495,
+        "codex_trailer": 98,
+        "cursor": 49,
+        "claude_generated": 11
+      }
+    },
     "2026-05": {
-      "total": 1518,
-      "ai": 419,
+      "total": 1567,
+      "ai": 432,
       "automation": 37,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 332,
-        "codex_trailer": 57,
-        "cursor": 49,
+        "claude_trailer": 341,
+        "codex_trailer": 60,
+        "cursor": 50,
         "claude_generated": 10
       }
     },
@@ -87,15 +111,15 @@
       }
     },
     "2026-11": {
-      "total": 885,
-      "ai": 189,
-      "automation": 392,
-      "merges": 4,
+      "total": 1081,
+      "ai": 239,
+      "automation": 492,
+      "merges": 17,
       "by_rule": {
-        "claude_trailer": 142,
-        "claude_generated": 41,
-        "cursor": 23,
-        "codex_trailer": 20
+        "claude_trailer": 177,
+        "claude_generated": 47,
+        "cursor": 31,
+        "codex_trailer": 27
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "Twigpine/openclaude",
   "org": "Twigpine",
   "language": "TypeScript",
-  "stars": 34311,
+  "stars": 34399,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:03:00Z",
+  "scanned_at": "2026-11-18T12:04:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,9 +95,9 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 36,
       "ai": 10,
-      "automation": 4,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 10

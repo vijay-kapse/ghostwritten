@@ -3,9 +3,9 @@
   "repo": "hashicorp/consul",
   "org": "hashicorp",
   "language": "Go",
-  "stars": 30110,
+  "stars": 30113,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:11:16Z",
+  "scanned_at": "2026-11-18T12:11:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,12 +174,12 @@
       }
     },
     "2026-11": {
-      "total": 8,
-      "ai": 3,
+      "total": 11,
+      "ai": 5,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 3
+        "copilot_trailer": 5
       }
     }
   }

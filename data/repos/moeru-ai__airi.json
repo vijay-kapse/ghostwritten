@@ -3,9 +3,9 @@
   "repo": "moeru-ai/airi",
   "org": "moeru-ai",
   "language": "TypeScript",
-  "stars": 51235,
+  "stars": 51505,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:46:25Z",
+  "scanned_at": "2026-11-18T11:50:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,13 +202,13 @@
       }
     },
     "2026-11": {
-      "total": 174,
-      "ai": 53,
+      "total": 180,
+      "ai": 56,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 47,
-        "claude_trailer": 45
+        "claude_generated": 49,
+        "claude_trailer": 46
       }
     }
   }

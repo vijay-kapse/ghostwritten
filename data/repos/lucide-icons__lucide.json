@@ -3,9 +3,9 @@
   "repo": "lucide-icons/lucide",
   "org": "lucide-icons",
   "language": "TypeScript",
-  "stars": 25659,
+  "stars": 25806,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:18:05Z",
+  "scanned_at": "2026-11-18T12:17:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,12 +200,12 @@
       }
     },
     "2026-11": {
-      "total": 62,
-      "ai": 23,
+      "total": 81,
+      "ai": 25,
       "automation": 10,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 15,
+        "claude_trailer": 17,
         "copilot_trailer": 8,
         "cursor": 1
       }

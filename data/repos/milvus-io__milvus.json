@@ -3,9 +3,9 @@
   "repo": "milvus-io/milvus",
   "org": "milvus-io",
   "language": "Go",
-  "stars": 46614,
+  "stars": 46677,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:50:11Z",
+  "scanned_at": "2026-11-18T11:53:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,14 +203,15 @@
       }
     },
     "2026-11": {
-      "total": 205,
-      "ai": 55,
+      "total": 240,
+      "ai": 66,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 43,
-        "claude_generated": 34,
-        "codex_trailer": 10,
+        "claude_trailer": 52,
+        "claude_generated": 41,
+        "codex_trailer": 11,
+        "amp_factory": 1,
         "cursor": 1
       }
     }

@@ -3,9 +3,9 @@
   "repo": "CursorTouch/Windows-MCP",
   "org": "CursorTouch",
   "language": "Python",
-  "stars": 11385,
+  "stars": 11812,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:07:41Z",
+  "scanned_at": "2026-11-18T12:08:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -153,12 +153,12 @@
       }
     },
     "2026-11": {
-      "total": 71,
-      "ai": 4,
+      "total": 77,
+      "ai": 8,
       "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4,
+        "claude_trailer": 8,
         "claude_generated": 2
       }
     }

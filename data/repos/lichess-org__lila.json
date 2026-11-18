@@ -5,15 +5,29 @@
   "language": "Scala",
   "stars": 18994,
   "default_branch": "master",
-  "scanned_at": "2026-11-17T12:14:46Z",
-  "window_start": "2025-03-29",
-  "complete": false,
+  "scanned_at": "2026-11-18T12:28:55Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-03": {
-      "total": 31,
+    "2025-01": {
+      "total": 445,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 181,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 379,
+      "ai": 0,
+      "automation": 0,
+      "merges": 139,
+      "by_rule": {}
+    },
+    "2025-03": {
+      "total": 520,
+      "ai": 0,
+      "automation": 0,
+      "merges": 160,
       "by_rule": {}
     },
     "2025-04": {
@@ -175,10 +189,10 @@
       }
     },
     "2026-11": {
-      "total": 263,
+      "total": 297,
       "ai": 4,
-      "automation": 24,
-      "merges": 116,
+      "automation": 25,
+      "merges": 134,
       "by_rule": {
         "claude_trailer": 4
       }

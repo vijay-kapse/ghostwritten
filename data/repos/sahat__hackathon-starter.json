@@ -3,9 +3,9 @@
   "repo": "sahat/hackathon-starter",
   "org": "sahat",
   "language": "JavaScript",
-  "stars": 35262,
+  "stars": 35259,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:01:47Z",
+  "scanned_at": "2026-11-18T12:03:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,7 +159,7 @@
     "2026-11": {
       "total": 3,
       "ai": 0,
-      "automation": 7,
+      "automation": 11,
       "merges": 0,
       "by_rule": {}
     }

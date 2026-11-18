@@ -3,9 +3,9 @@
   "repo": "prisma/orm",
   "org": "prisma",
   "language": "TypeScript",
-  "stars": 47659,
+  "stars": 47675,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:49:21Z",
+  "scanned_at": "2026-11-18T11:52:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -129,13 +129,13 @@
       }
     },
     "2026-11": {
-      "total": 48,
-      "ai": 31,
-      "automation": 0,
+      "total": 103,
+      "ai": 74,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28,
-        "claude_generated": 21
+        "claude_trailer": 71,
+        "claude_generated": 40
       }
     }
   }

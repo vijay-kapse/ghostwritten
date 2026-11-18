@@ -3,9 +3,9 @@
   "repo": "github/awesome-copilot",
   "org": "github",
   "language": "JavaScript",
-  "stars": 40956,
+  "stars": 41254,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:54:33Z",
+  "scanned_at": "2026-11-18T11:57:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,12 +187,13 @@
       }
     },
     "2026-11": {
-      "total": 120,
-      "ai": 61,
-      "automation": 26,
-      "merges": 117,
+      "total": 134,
+      "ai": 74,
+      "automation": 32,
+      "merges": 130,
       "by_rule": {
-        "copilot_trailer": 60,
+        "copilot_trailer": 70,
+        "cursor": 3,
         "copilot_author": 2
       }
     }

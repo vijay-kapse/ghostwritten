@@ -3,9 +3,9 @@
   "repo": "projectdiscovery/nuclei",
   "org": "projectdiscovery",
   "language": "Go",
-  "stars": 32716,
+  "stars": 33037,
   "default_branch": "dev",
-  "scanned_at": "2026-11-16T12:04:52Z",
+  "scanned_at": "2026-11-18T12:05:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 98,
-      "ai": 2,
-      "automation": 5,
-      "merges": 40,
+      "total": 128,
+      "ai": 5,
+      "automation": 6,
+      "merges": 58,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 5
       }
     }
   }

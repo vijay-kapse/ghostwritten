@@ -3,9 +3,9 @@
   "repo": "omacom/omarchy",
   "org": "omacom",
   "language": "Shell",
-  "stars": 46644,
+  "stars": 47118,
   "default_branch": "quattro",
-  "scanned_at": "2026-11-16T11:50:16Z",
+  "scanned_at": "2026-11-18T11:53:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,13 +167,13 @@
       }
     },
     "2026-11": {
-      "total": 390,
-      "ai": 249,
+      "total": 442,
+      "ai": 273,
       "automation": 0,
-      "merges": 38,
+      "merges": 43,
       "by_rule": {
-        "claude_trailer": 243,
-        "codex_trailer": 23,
+        "claude_trailer": 267,
+        "codex_trailer": 27,
         "cursor": 9
       }
     }

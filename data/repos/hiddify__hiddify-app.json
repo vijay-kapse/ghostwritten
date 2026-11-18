@@ -3,9 +3,9 @@
   "repo": "hiddify/hiddify-app",
   "org": "hiddify",
   "language": "Dart",
-  "stars": 33842,
+  "stars": 34095,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:03:27Z",
+  "scanned_at": "2026-11-18T12:04:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,7 +169,7 @@
       }
     },
     "2026-11": {
-      "total": 340,
+      "total": 376,
       "ai": 122,
       "automation": 0,
       "merges": 25,

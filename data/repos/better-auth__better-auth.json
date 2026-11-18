@@ -3,9 +3,9 @@
   "repo": "better-auth/better-auth",
   "org": "better-auth",
   "language": "TypeScript",
-  "stars": 30658,
+  "stars": 30764,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:40Z",
+  "scanned_at": "2026-11-18T12:10:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,9 +205,9 @@
       }
     },
     "2026-11": {
-      "total": 185,
+      "total": 197,
       "ai": 1,
-      "automation": 19,
+      "automation": 23,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

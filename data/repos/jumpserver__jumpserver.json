@@ -3,9 +3,9 @@
   "repo": "jumpserver/jumpserver",
   "org": "jumpserver",
   "language": "Python",
-  "stars": 31931,
+  "stars": 31979,
   "default_branch": "dev",
-  "scanned_at": "2026-11-16T12:05:25Z",
+  "scanned_at": "2026-11-18T12:06:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,10 +175,10 @@
       }
     },
     "2026-11": {
-      "total": 121,
+      "total": 133,
       "ai": 1,
       "automation": 7,
-      "merges": 15,
+      "merges": 18,
       "by_rule": {
         "claude_trailer": 1
       }

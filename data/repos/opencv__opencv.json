@@ -3,9 +3,9 @@
   "repo": "opencv/opencv",
   "org": "opencv",
   "language": "C++",
-  "stars": 91487,
+  "stars": 91609,
   "default_branch": "5.x",
-  "scanned_at": "2026-11-16T12:00:39Z",
+  "scanned_at": "2026-11-18T12:02:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,11 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 68,
-      "ai": 1,
+      "total": 87,
+      "ai": 2,
       "automation": 0,
-      "merges": 32,
+      "merges": 47,
       "by_rule": {
+        "claude_generated": 1,
         "claude_trailer": 1
       }
     }

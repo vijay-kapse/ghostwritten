@@ -3,9 +3,9 @@
   "repo": "reactive-resume/reactive-resume",
   "org": "reactive-resume",
   "language": "TypeScript",
-  "stars": 45525,
+  "stars": 45849,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:51:07Z",
+  "scanned_at": "2026-11-18T11:54:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,7 +191,7 @@
       }
     },
     "2026-11": {
-      "total": 651,
+      "total": 653,
       "ai": 39,
       "automation": 9,
       "merges": 289,

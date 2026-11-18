@@ -3,9 +3,9 @@
   "repo": "aquasecurity/trivy",
   "org": "aquasecurity",
   "language": "Go",
-  "stars": 39152,
+  "stars": 39459,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:56:16Z",
+  "scanned_at": "2026-11-18T11:58:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 25,
+      "total": 29,
       "ai": 3,
-      "automation": 1,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2,

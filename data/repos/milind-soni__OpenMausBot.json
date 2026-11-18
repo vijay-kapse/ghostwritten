@@ -3,9 +3,9 @@
   "repo": "milind-soni/OpenMausBot",
   "org": "milind-soni",
   "language": "TypeScript",
-  "stars": 19148,
+  "stars": 24530,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:07:29Z",
+  "scanned_at": "2026-11-18T12:08:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -40,14 +40,14 @@
       }
     },
     "2026-11": {
-      "total": 2355,
-      "ai": 1771,
-      "automation": 25,
-      "merges": 1276,
+      "total": 2794,
+      "ai": 2088,
+      "automation": 33,
+      "merges": 1517,
       "by_rule": {
-        "claude_trailer": 1755,
+        "claude_trailer": 2071,
         "cursor": 9,
-        "devin": 4,
+        "devin": 5,
         "copilot_trailer": 3
       }
     }

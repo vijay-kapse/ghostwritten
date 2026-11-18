@@ -3,9 +3,9 @@
   "repo": "HKUDS/Vibe-Trading",
   "org": "HKUDS",
   "language": "Python",
-  "stars": 37940,
+  "stars": 38412,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:59:37Z",
+  "scanned_at": "2026-11-18T12:01:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -79,10 +79,10 @@
       }
     },
     "2026-11": {
-      "total": 235,
+      "total": 275,
       "ai": 20,
       "automation": 0,
-      "merges": 31,
+      "merges": 49,
       "by_rule": {
         "claude_trailer": 20
       }

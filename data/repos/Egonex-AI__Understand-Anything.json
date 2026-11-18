@@ -3,9 +3,9 @@
   "repo": "Egonex-AI/Understand-Anything",
   "org": "Egonex-AI",
   "language": "TypeScript",
-  "stars": 91678,
+  "stars": 92949,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:01:52Z",
+  "scanned_at": "2026-11-18T12:03:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -84,14 +84,14 @@
       }
     },
     "2026-11": {
-      "total": 28,
-      "ai": 8,
+      "total": 30,
+      "ai": 9,
       "automation": 0,
-      "merges": 4,
+      "merges": 5,
       "by_rule": {
         "claude_trailer": 5,
-        "devin": 2,
-        "copilot_trailer": 1
+        "copilot_trailer": 2,
+        "devin": 2
       }
     }
   }

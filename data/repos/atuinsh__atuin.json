@@ -3,9 +3,9 @@
   "repo": "atuinsh/atuin",
   "org": "atuinsh",
   "language": "Rust",
-  "stars": 32242,
+  "stars": 32499,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:05:09Z",
+  "scanned_at": "2026-11-18T12:06:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,12 +184,12 @@
       }
     },
     "2026-11": {
-      "total": 109,
-      "ai": 1,
+      "total": 120,
+      "ai": 3,
       "automation": 3,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 1
+        "claude_generated": 3
       }
     }
   }

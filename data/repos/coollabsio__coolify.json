@@ -3,9 +3,9 @@
   "repo": "coollabsio/coolify",
   "org": "coollabsio",
   "language": "PHP",
-  "stars": 65821,
+  "stars": 66164,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:38Z",
+  "scanned_at": "2026-11-18T12:10:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,10 +193,10 @@
       }
     },
     "2026-11": {
-      "total": 425,
+      "total": 453,
       "ai": 153,
       "automation": 1,
-      "merges": 31,
+      "merges": 32,
       "by_rule": {
         "claude_trailer": 153
       }

@@ -3,9 +3,9 @@
   "repo": "photoprism/photoprism",
   "org": "photoprism",
   "language": "Go",
-  "stars": 40423,
+  "stars": 40457,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T11:55:11Z",
+  "scanned_at": "2026-11-18T11:57:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 32,
+      "total": 46,
       "ai": 0,
       "automation": 0,
       "merges": 0,

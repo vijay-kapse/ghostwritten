@@ -3,9 +3,9 @@
   "repo": "ossrs/srs",
   "org": "ossrs",
   "language": "C++",
-  "stars": 29436,
+  "stars": 29441,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T12:12:48Z",
+  "scanned_at": "2026-11-18T12:12:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,12 +171,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
+      "total": 3,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

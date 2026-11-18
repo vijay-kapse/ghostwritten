@@ -3,9 +3,9 @@
   "repo": "gohugoio/hugo",
   "org": "gohugoio",
   "language": "Go",
-  "stars": 90423,
+  "stars": 90495,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:01:36Z",
+  "scanned_at": "2026-11-18T12:03:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,12 +190,12 @@
       }
     },
     "2026-11": {
-      "total": 30,
-      "ai": 12,
+      "total": 38,
+      "ai": 15,
       "automation": 10,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12
+        "claude_trailer": 15
       }
     }
   }

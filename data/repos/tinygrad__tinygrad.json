@@ -3,9 +3,9 @@
   "repo": "tinygrad/tinygrad",
   "org": "tinygrad",
   "language": "Python",
-  "stars": 33873,
+  "stars": 33935,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:03:21Z",
+  "scanned_at": "2026-11-18T12:04:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,7 +182,7 @@
       }
     },
     "2026-11": {
-      "total": 186,
+      "total": 229,
       "ai": 0,
       "automation": 0,
       "merges": 0,

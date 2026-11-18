@@ -3,9 +3,9 @@
   "repo": "Tencent/WeKnora",
   "org": "Tencent",
   "language": "Go",
-  "stars": 36961,
+  "stars": 37642,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:00:58Z",
+  "scanned_at": "2026-11-18T12:02:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,10 +143,10 @@
       }
     },
     "2026-11": {
-      "total": 257,
+      "total": 269,
       "ai": 6,
       "automation": 1,
-      "merges": 2,
+      "merges": 9,
       "by_rule": {
         "claude_trailer": 3,
         "cursor": 3

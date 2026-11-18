@@ -3,9 +3,9 @@
   "repo": "CherryHQ/cherry-studio",
   "org": "CherryHQ",
   "language": "TypeScript",
-  "stars": 53368,
+  "stars": 53596,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:45:51Z",
+  "scanned_at": "2026-11-18T11:49:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -244,15 +244,15 @@
       }
     },
     "2026-11": {
-      "total": 421,
-      "ai": 77,
-      "automation": 126,
+      "total": 478,
+      "ai": 96,
+      "automation": 142,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 40,
-        "copilot_author": 35,
-        "copilot_trailer": 35,
-        "claude_generated": 30,
+        "claude_trailer": 55,
+        "claude_generated": 45,
+        "copilot_author": 39,
+        "copilot_trailer": 39,
         "cursor": 1
       }
     }

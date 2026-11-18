@@ -3,19 +3,29 @@
   "repo": "duckdb/duckdb",
   "org": "duckdb",
   "language": "C++",
-  "stars": 42933,
+  "stars": 43121,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:52:01Z",
-  "window_start": "2026-08-10",
+  "scanned_at": "2026-11-18T11:55:26Z",
+  "window_start": "2026-07-03",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 1210,
-      "ai": 22,
+    "2026-07": {
+      "total": 1310,
+      "ai": 15,
       "automation": 0,
-      "merges": 468,
+      "merges": 485,
       "by_rule": {
-        "claude_trailer": 21,
+        "claude_trailer": 14,
+        "cursor": 1
+      }
+    },
+    "2026-08": {
+      "total": 1563,
+      "ai": 29,
+      "automation": 0,
+      "merges": 620,
+      "by_rule": {
+        "claude_trailer": 28,
         "cursor": 1
       }
     },
@@ -31,23 +41,23 @@
       }
     },
     "2026-10": {
-      "total": 3685,
-      "ai": 39,
+      "total": 3747,
+      "ai": 47,
       "automation": 0,
-      "merges": 1517,
+      "merges": 1538,
       "by_rule": {
-        "claude_trailer": 37,
+        "claude_trailer": 45,
         "codex_trailer": 1,
         "cursor": 1
       }
     },
     "2026-11": {
-      "total": 1146,
-      "ai": 6,
+      "total": 1538,
+      "ai": 9,
       "automation": 0,
-      "merges": 590,
+      "merges": 788,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 9
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "agno-agi/agno",
   "org": "agno-agi",
   "language": "Python",
-  "stars": 43116,
+  "stars": 43214,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:51:42Z",
+  "scanned_at": "2026-11-18T11:55:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -218,12 +218,12 @@
       }
     },
     "2026-11": {
-      "total": 75,
-      "ai": 22,
+      "total": 88,
+      "ai": 23,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 17,
+        "claude_generated": 18,
         "claude_trailer": 17
       }
     }

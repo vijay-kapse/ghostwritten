@@ -3,9 +3,9 @@
   "repo": "prometheus/prometheus",
   "org": "prometheus",
   "language": "Go",
-  "stars": 67579,
+  "stars": 67669,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:13Z",
+  "scanned_at": "2026-11-18T12:10:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
       }
     },
     "2026-10": {
-      "total": 252,
+      "total": 257,
       "ai": 8,
       "automation": 30,
       "merges": 114,
@@ -195,10 +195,10 @@
       }
     },
     "2026-11": {
-      "total": 67,
+      "total": 83,
       "ai": 6,
       "automation": 3,
-      "merges": 26,
+      "merges": 30,
       "by_rule": {
         "claude_trailer": 6
       }

@@ -3,9 +3,9 @@
   "repo": "logseq/logseq",
   "org": "logseq",
   "language": "Clojure",
-  "stars": 45530,
+  "stars": 45627,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:50:48Z",
+  "scanned_at": "2026-11-18T11:54:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,12 +193,12 @@
       }
     },
     "2026-11": {
-      "total": 46,
-      "ai": 20,
+      "total": 64,
+      "ai": 24,
       "automation": 0,
       "merges": 6,
       "by_rule": {
-        "cursor": 20,
+        "cursor": 24,
         "devin": 3
       }
     }

@@ -3,9 +3,9 @@
   "repo": "a2aproject/A2A",
   "org": "a2aproject",
   "language": "Shell",
-  "stars": 26460,
+  "stars": 26564,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:17:22Z",
+  "scanned_at": "2026-11-18T12:16:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 7,
       "ai": 1,
       "automation": 0,
       "merges": 0,

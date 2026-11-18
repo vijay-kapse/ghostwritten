@@ -3,9 +3,9 @@
   "repo": "lysine-dev/okhttp",
   "org": "lysine-dev",
   "language": "Kotlin",
-  "stars": 47107,
+  "stars": 47109,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:49:47Z",
+  "scanned_at": "2026-11-18T11:52:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 23,
       "ai": 0,
-      "automation": 22,
+      "automation": 24,
       "merges": 0,
       "by_rule": {}
     }

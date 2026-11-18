@@ -5,7 +5,7 @@
   "language": "Kotlin",
   "stars": 12279,
   "default_branch": "main",
-  "scanned_at": "2026-11-17T12:02:57Z",
+  "scanned_at": "2026-11-18T12:20:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -20,12 +20,12 @@
       }
     },
     "2026-11": {
-      "total": 389,
-      "ai": 342,
+      "total": 404,
+      "ai": 352,
       "automation": 0,
       "merges": 9,
       "by_rule": {
-        "claude_trailer": 342
+        "claude_trailer": 352
       }
     }
   }

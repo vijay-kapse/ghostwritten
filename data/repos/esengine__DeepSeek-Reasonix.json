@@ -3,21 +3,30 @@
   "repo": "esengine/DeepSeek-Reasonix",
   "org": "esengine",
   "language": "Go",
-  "stars": 36138,
+  "stars": 36106,
   "default_branch": "studio",
-  "scanned_at": "2026-11-16T12:01:27Z",
-  "window_start": "2026-06-11",
-  "complete": false,
+  "scanned_at": "2026-11-18T12:03:02Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2026-06": {
-      "total": 992,
-      "ai": 87,
-      "automation": 5,
-      "merges": 347,
+    "2026-05": {
+      "total": 125,
+      "ai": 3,
+      "automation": 0,
+      "merges": 2,
       "by_rule": {
-        "cursor": 77,
-        "claude_trailer": 9,
-        "codex_trailer": 1
+        "claude_trailer": 3
+      }
+    },
+    "2026-06": {
+      "total": 1672,
+      "ai": 99,
+      "automation": 14,
+      "merges": 387,
+      "by_rule": {
+        "cursor": 83,
+        "claude_trailer": 13,
+        "codex_trailer": 3
       }
     },
     "2026-07": {

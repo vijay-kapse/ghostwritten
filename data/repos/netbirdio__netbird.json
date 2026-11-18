@@ -3,9 +3,9 @@
   "repo": "netbirdio/netbird",
   "org": "netbirdio",
   "language": "Go",
-  "stars": 30829,
+  "stars": 31054,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:41Z",
+  "scanned_at": "2026-11-18T12:10:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
       }
     },
     "2026-11": {
-      "total": 66,
+      "total": 74,
       "ai": 0,
       "automation": 0,
       "merges": 0,

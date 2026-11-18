@@ -3,9 +3,9 @@
   "repo": "bendlang/bend",
   "org": "bendlang",
   "language": "TypeScript",
-  "stars": 24930,
+  "stars": 25062,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:20:14Z",
+  "scanned_at": "2026-11-18T12:19:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -58,12 +58,12 @@
       }
     },
     "2026-11": {
-      "total": 83,
-      "ai": 65,
+      "total": 87,
+      "ai": 66,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 65
+        "claude_trailer": 66
       }
     }
   }

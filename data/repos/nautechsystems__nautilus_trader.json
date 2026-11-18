@@ -3,9 +3,9 @@
   "repo": "nautechsystems/nautilus_trader",
   "org": "nautechsystems",
   "language": "Rust",
-  "stars": 31395,
+  "stars": 31609,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T12:06:43Z",
+  "scanned_at": "2026-11-18T12:07:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 356,
+      "total": 398,
       "ai": 0,
       "automation": 0,
       "merges": 0,

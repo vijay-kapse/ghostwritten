@@ -3,9 +3,9 @@
   "repo": "Wox-launcher/Wox",
   "org": "Wox-launcher",
   "language": "Go",
-  "stars": 27615,
+  "stars": 27654,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:16:25Z",
+  "scanned_at": "2026-11-18T12:15:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,10 +175,10 @@
       }
     },
     "2026-11": {
-      "total": 131,
+      "total": 133,
       "ai": 2,
       "automation": 1,
-      "merges": 26,
+      "merges": 27,
       "by_rule": {
         "claude_trailer": 2
       }

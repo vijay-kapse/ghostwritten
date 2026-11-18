@@ -3,9 +3,9 @@
   "repo": "ComposioHQ/composio",
   "org": "ComposioHQ",
   "language": "TypeScript",
-  "stars": 30993,
+  "stars": 31126,
   "default_branch": "next",
-  "scanned_at": "2026-11-16T12:07:46Z",
+  "scanned_at": "2026-11-18T12:08:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 139,
-      "ai": 34,
-      "automation": 25,
-      "merges": 42,
+      "total": 171,
+      "ai": 47,
+      "automation": 30,
+      "merges": 57,
       "by_rule": {
-        "claude_trailer": 34,
+        "claude_trailer": 47,
         "claude_generated": 4
       }
     }

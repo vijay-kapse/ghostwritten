@@ -3,9 +3,9 @@
   "repo": "huggingface/smolagents",
   "org": "huggingface",
   "language": "Python",
-  "stars": 30274,
+  "stars": 30402,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:11:10Z",
+  "scanned_at": "2026-11-18T12:11:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 12,
       "ai": 1,
       "automation": 1,
       "merges": 0,

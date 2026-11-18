@@ -3,9 +3,9 @@
   "repo": "laravel/framework",
   "org": "laravel",
   "language": "PHP",
-  "stars": 34995,
+  "stars": 35001,
   "default_branch": "13.x",
-  "scanned_at": "2026-11-16T12:02:04Z",
+  "scanned_at": "2026-11-18T12:03:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,13 +190,14 @@
       }
     },
     "2026-11": {
-      "total": 97,
-      "ai": 8,
+      "total": 139,
+      "ai": 17,
       "automation": 2,
-      "merges": 1,
+      "merges": 2,
       "by_rule": {
-        "amp_factory": 6,
-        "claude_trailer": 2
+        "amp_factory": 14,
+        "claude_trailer": 2,
+        "copilot_trailer": 1
       }
     }
   }

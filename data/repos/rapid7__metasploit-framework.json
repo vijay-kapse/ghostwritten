@@ -3,9 +3,9 @@
   "repo": "rapid7/metasploit-framework",
   "org": "rapid7",
   "language": "Ruby",
-  "stars": 39341,
+  "stars": 39593,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:56:09Z",
+  "scanned_at": "2026-11-18T11:58:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,10 +192,10 @@
       }
     },
     "2026-11": {
-      "total": 96,
+      "total": 108,
       "ai": 0,
       "automation": 0,
-      "merges": 57,
+      "merges": 62,
       "by_rule": {}
     }
   }

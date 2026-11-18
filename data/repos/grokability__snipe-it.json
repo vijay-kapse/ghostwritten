@@ -5,7 +5,7 @@
   "language": "PHP",
   "stars": 15193,
   "default_branch": "master",
-  "scanned_at": "2026-11-17T12:18:14Z",
+  "scanned_at": "2026-11-18T12:31:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 515,
+      "total": 520,
       "ai": 1,
       "automation": 1,
       "merges": 200,
@@ -175,11 +175,13 @@
       }
     },
     "2026-11": {
-      "total": 227,
-      "ai": 0,
+      "total": 256,
+      "ai": 4,
       "automation": 0,
-      "merges": 72,
-      "by_rule": {}
+      "merges": 97,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

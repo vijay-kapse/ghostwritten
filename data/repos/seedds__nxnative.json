@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "seedds/nxnative",
   "org": "seedds",
-  "language": "Python",
-  "stars": 13923,
+  "language": "Objective-C",
+  "stars": 15974,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:07:35Z",
+  "scanned_at": "2026-11-18T12:08:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -20,12 +20,12 @@
       }
     },
     "2026-11": {
-      "total": 894,
-      "ai": 8,
+      "total": 1016,
+      "ai": 9,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 8
+        "claude_trailer": 9
       }
     }
   }

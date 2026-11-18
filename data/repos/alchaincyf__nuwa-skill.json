@@ -3,9 +3,9 @@
   "repo": "alchaincyf/nuwa-skill",
   "org": "alchaincyf",
   "language": "Python",
-  "stars": 37864,
+  "stars": 38473,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:59:44Z",
+  "scanned_at": "2026-11-18T12:01:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -71,12 +71,12 @@
       }
     },
     "2026-11": {
-      "total": 5,
-      "ai": 5,
+      "total": 8,
+      "ai": 8,
       "automation": 0,
-      "merges": 5,
+      "merges": 6,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 8
       }
     }
   }

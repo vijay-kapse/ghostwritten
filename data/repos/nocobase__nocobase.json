@@ -3,9 +3,9 @@
   "repo": "nocobase/nocobase",
   "org": "nocobase",
   "language": "TypeScript",
-  "stars": 24876,
-  "default_branch": "v3-develop",
-  "scanned_at": "2026-11-16T12:20:08Z",
+  "stars": 24950,
+  "default_branch": "v3",
+  "scanned_at": "2026-11-18T12:19:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -38,11 +38,12 @@
       }
     },
     "2026-11": {
-      "total": 168,
-      "ai": 1,
-      "automation": 19,
-      "merges": 0,
+      "total": 186,
+      "ai": 2,
+      "automation": 28,
+      "merges": 1,
       "by_rule": {
+        "claude_trailer": 1,
         "codex_trailer": 1
       }
     }

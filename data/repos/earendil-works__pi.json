@@ -3,9 +3,9 @@
   "repo": "earendil-works/pi",
   "org": "earendil-works",
   "language": "TypeScript",
-  "stars": 120989,
+  "stars": 122467,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:46:09Z",
+  "scanned_at": "2026-11-18T11:50:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -132,10 +132,10 @@
       }
     },
     "2026-11": {
-      "total": 625,
+      "total": 662,
       "ai": 3,
       "automation": 55,
-      "merges": 12,
+      "merges": 14,
       "by_rule": {
         "claude_trailer": 2,
         "claude_generated": 1,

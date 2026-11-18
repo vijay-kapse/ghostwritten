@@ -3,9 +3,9 @@
   "repo": "Wei-Shaw/sub2api",
   "org": "Wei-Shaw",
   "language": "Go",
-  "stars": 45711,
+  "stars": 46174,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:51:05Z",
+  "scanned_at": "2026-11-18T11:54:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -113,21 +113,21 @@
       }
     },
     "2026-10": {
-      "total": 280,
+      "total": 283,
       "ai": 33,
       "automation": 8,
-      "merges": 166,
+      "merges": 167,
       "by_rule": {
         "claude_trailer": 33
       }
     },
     "2026-11": {
-      "total": 155,
-      "ai": 15,
-      "automation": 2,
-      "merges": 139,
+      "total": 192,
+      "ai": 17,
+      "automation": 4,
+      "merges": 164,
       "by_rule": {
-        "claude_trailer": 15
+        "claude_trailer": 17
       }
     }
   }

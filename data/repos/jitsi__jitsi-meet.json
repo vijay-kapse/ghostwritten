@@ -3,9 +3,9 @@
   "repo": "jitsi/jitsi-meet",
   "org": "jitsi",
   "language": "TypeScript",
-  "stars": 30210,
+  "stars": 30247,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:11:10Z",
+  "scanned_at": "2026-11-18T12:11:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 163,
+      "total": 184,
       "ai": 0,
       "automation": 0,
       "merges": 0,

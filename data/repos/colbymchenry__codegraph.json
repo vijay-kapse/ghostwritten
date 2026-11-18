@@ -3,9 +3,9 @@
   "repo": "colbymchenry/codegraph",
   "org": "colbymchenry",
   "language": "TypeScript",
-  "stars": 77157,
+  "stars": 77831,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:08:34Z",
+  "scanned_at": "2026-11-18T12:09:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -105,12 +105,12 @@
       }
     },
     "2026-11": {
-      "total": 40,
-      "ai": 40,
-      "automation": 0,
+      "total": 112,
+      "ai": 111,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 40
+        "claude_trailer": 111
       }
     }
   }

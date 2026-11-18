@@ -3,28 +3,28 @@
   "repo": "tinyhumansai/openhuman",
   "org": "tinyhumansai",
   "language": "Rust",
-  "stars": 42604,
+  "stars": 42725,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:52:26Z",
-  "window_start": "2026-10-19",
+  "scanned_at": "2026-11-18T11:55:51Z",
+  "window_start": "2026-10-18",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 9718,
+      "total": 12455,
       "ai": 43,
       "automation": 2,
-      "merges": 606,
+      "merges": 781,
       "by_rule": {
         "claude_trailer": 43
       }
     },
     "2026-11": {
-      "total": 1678,
-      "ai": 60,
+      "total": 1740,
+      "ai": 67,
       "automation": 0,
-      "merges": 275,
+      "merges": 294,
       "by_rule": {
-        "claude_trailer": 60
+        "claude_trailer": 67
       }
     }
   }

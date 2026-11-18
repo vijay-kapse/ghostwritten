@@ -3,9 +3,9 @@
   "repo": "numpy/numpy",
   "org": "numpy",
   "language": "Python",
-  "stars": 33407,
+  "stars": 33393,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:04Z",
+  "scanned_at": "2026-11-18T12:05:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-10": {
-      "total": 209,
+      "total": 212,
       "ai": 5,
       "automation": 11,
       "merges": 13,
@@ -185,10 +185,10 @@
       }
     },
     "2026-11": {
-      "total": 62,
+      "total": 74,
       "ai": 2,
       "automation": 2,
-      "merges": 6,
+      "merges": 13,
       "by_rule": {
         "claude_trailer": 2
       }

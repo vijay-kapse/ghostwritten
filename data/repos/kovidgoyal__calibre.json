@@ -3,9 +3,9 @@
   "repo": "kovidgoyal/calibre",
   "org": "kovidgoyal",
   "language": "Python",
-  "stars": 26392,
+  "stars": 26457,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:17:26Z",
+  "scanned_at": "2026-11-18T12:17:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,10 +183,10 @@
       }
     },
     "2026-11": {
-      "total": 180,
+      "total": 184,
       "ai": 4,
-      "automation": 3,
-      "merges": 42,
+      "automation": 4,
+      "merges": 43,
       "by_rule": {
         "claude_trailer": 3,
         "codex_trailer": 1

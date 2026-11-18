@@ -3,9 +3,9 @@
   "repo": "punkpeye/awesome-mcp-servers",
   "org": "punkpeye",
   "language": null,
-  "stars": 97512,
+  "stars": 97796,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:54:29Z",
+  "scanned_at": "2026-11-18T11:57:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,42 +191,44 @@
       }
     },
     "2026-08": {
-      "total": 637,
+      "total": 653,
       "ai": 52,
       "automation": 0,
-      "merges": 144,
+      "merges": 145,
       "by_rule": {
         "claude_trailer": 46,
         "cursor": 6
       }
     },
     "2026-09": {
-      "total": 1066,
-      "ai": 110,
+      "total": 1094,
+      "ai": 111,
       "automation": 4,
-      "merges": 889,
+      "merges": 891,
       "by_rule": {
-        "claude_trailer": 102,
+        "claude_trailer": 103,
         "cursor": 7,
         "claude_generated": 1
       }
     },
     "2026-10": {
-      "total": 646,
-      "ai": 70,
+      "total": 909,
+      "ai": 102,
       "automation": 0,
-      "merges": 610,
+      "merges": 646,
       "by_rule": {
-        "claude_trailer": 67,
-        "cursor": 3
+        "claude_trailer": 96,
+        "cursor": 6
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 0,
+      "total": 280,
+      "ai": 40,
       "automation": 0,
-      "merges": 2,
-      "by_rule": {}
+      "merges": 363,
+      "by_rule": {
+        "claude_trailer": 40
+      }
     }
   }
 }

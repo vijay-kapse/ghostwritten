@@ -5,7 +5,7 @@
   "language": "Dart",
   "stars": 19294,
   "default_branch": "main",
-  "scanned_at": "2026-11-17T12:14:13Z",
+  "scanned_at": "2026-11-18T12:28:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 2,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

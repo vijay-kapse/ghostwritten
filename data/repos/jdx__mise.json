@@ -3,9 +3,9 @@
   "repo": "jdx/mise",
   "org": "jdx",
   "language": "Rust",
-  "stars": 35963,
+  "stars": 36234,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:01:37Z",
+  "scanned_at": "2026-11-18T12:03:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -248,13 +248,13 @@
       }
     },
     "2026-11": {
-      "total": 255,
-      "ai": 225,
-      "automation": 32,
+      "total": 289,
+      "ai": 259,
+      "automation": 40,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 225,
-        "claude_generated": 222
+        "claude_trailer": 259,
+        "claude_generated": 256
       }
     }
   }

@@ -3,30 +3,30 @@
   "repo": "ClickHouse/ClickHouse",
   "org": "ClickHouse",
   "language": "C++",
-  "stars": 50834,
+  "stars": 50970,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:46:40Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-18T11:50:38Z",
+  "window_start": "2026-10-19",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 1387,
-      "ai": 948,
-      "automation": 19,
-      "merges": 1145,
+      "total": 2186,
+      "ai": 1502,
+      "automation": 42,
+      "merges": 1667,
       "by_rule": {
-        "claude_trailer": 946,
-        "cursor": 2
+        "claude_trailer": 1497,
+        "cursor": 5
       }
     },
     "2026-11": {
-      "total": 3337,
-      "ai": 2187,
+      "total": 4253,
+      "ai": 2756,
       "automation": 7,
-      "merges": 2168,
+      "merges": 2641,
       "by_rule": {
-        "claude_trailer": 2176,
-        "cursor": 11
+        "claude_trailer": 2741,
+        "cursor": 15
       }
     }
   }

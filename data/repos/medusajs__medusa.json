@@ -3,9 +3,9 @@
   "repo": "medusajs/medusa",
   "org": "medusajs",
   "language": "TypeScript",
-  "stars": 37138,
+  "stars": 37285,
   "default_branch": "develop",
-  "scanned_at": "2026-11-16T11:59:46Z",
+  "scanned_at": "2026-11-18T12:01:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,12 +192,12 @@
       }
     },
     "2026-11": {
-      "total": 119,
-      "ai": 63,
-      "automation": 76,
+      "total": 131,
+      "ai": 70,
+      "automation": 85,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 61,
+        "claude_trailer": 68,
         "claude_generated": 2
       }
     }

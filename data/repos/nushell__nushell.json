@@ -3,9 +3,9 @@
   "repo": "nushell/nushell",
   "org": "nushell",
   "language": "Rust",
-  "stars": 41070,
+  "stars": 41023,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:54:19Z",
+  "scanned_at": "2026-11-18T11:57:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -204,7 +204,7 @@
       }
     },
     "2026-11": {
-      "total": 85,
+      "total": 109,
       "ai": 2,
       "automation": 12,
       "merges": 0,

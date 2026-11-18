@@ -3,9 +3,9 @@
   "repo": "tailscale/tailscale",
   "org": "tailscale",
   "language": "Go",
-  "stars": 38826,
+  "stars": 39224,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:57:16Z",
+  "scanned_at": "2026-11-18T11:59:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,7 +177,7 @@
       }
     },
     "2026-11": {
-      "total": 120,
+      "total": 149,
       "ai": 2,
       "automation": 10,
       "merges": 0,

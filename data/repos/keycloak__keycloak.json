@@ -3,9 +3,9 @@
   "repo": "keycloak/keycloak",
   "org": "keycloak",
   "language": "Java",
-  "stars": 37769,
+  "stars": 37904,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:58:08Z",
+  "scanned_at": "2026-11-18T12:00:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 143,
-      "ai": 25,
+      "total": 167,
+      "ai": 34,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 21,
+        "copilot_trailer": 30,
         "claude_trailer": 3,
         "cursor": 1
       }

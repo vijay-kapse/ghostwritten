@@ -3,9 +3,9 @@
   "repo": "statelyai/xstate",
   "org": "statelyai",
   "language": "TypeScript",
-  "stars": 30433,
+  "stars": 30493,
   "default_branch": "next",
-  "scanned_at": "2026-11-16T12:10:44Z",
+  "scanned_at": "2026-11-18T12:10:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 36,
+      "total": 40,
       "ai": 1,
       "automation": 6,
       "merges": 0,

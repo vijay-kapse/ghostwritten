@@ -3,9 +3,9 @@
   "repo": "codex-team/editor.js",
   "org": "codex-team",
   "language": "TypeScript",
-  "stars": 32000,
+  "stars": 32003,
   "default_branch": "next",
-  "scanned_at": "2026-11-16T12:05:21Z",
+  "scanned_at": "2026-11-18T12:06:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -91,9 +91,9 @@
       }
     },
     "2026-11": {
-      "total": 3,
+      "total": 6,
       "ai": 2,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

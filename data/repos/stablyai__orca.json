@@ -3,22 +3,34 @@
   "repo": "stablyai/orca",
   "org": "stablyai",
   "language": "TypeScript",
-  "stars": 119856,
+  "stars": 127313,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:48:10Z",
-  "window_start": "2026-07-15",
+  "scanned_at": "2026-11-18T11:51:46Z",
+  "window_start": "2026-06-01",
   "complete": false,
   "months": {
+    "2026-06": {
+      "total": 1392,
+      "ai": 60,
+      "automation": 205,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 47,
+        "cursor": 12,
+        "devin": 2
+      }
+    },
     "2026-07": {
-      "total": 1005,
-      "ai": 36,
-      "automation": 67,
+      "total": 1780,
+      "ai": 57,
+      "automation": 195,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 32,
+        "claude_trailer": 50,
+        "devin": 4,
+        "claude_generated": 2,
         "cursor": 2,
-        "claude_generated": 1,
-        "devin": 1
+        "codex_trailer": 1
       }
     },
     "2026-08": {
@@ -54,12 +66,12 @@
       }
     },
     "2026-11": {
-      "total": 3459,
-      "ai": 141,
-      "automation": 31,
+      "total": 3945,
+      "ai": 158,
+      "automation": 36,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 116,
+        "claude_trailer": 133,
         "copilot_trailer": 17,
         "codex_trailer": 7,
         "amp_factory": 1

@@ -3,9 +3,9 @@
   "repo": "koajs/koa",
   "org": "koajs",
   "language": "JavaScript",
-  "stars": 35681,
+  "stars": 35683,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:01:36Z",
+  "scanned_at": "2026-11-18T12:03:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -142,7 +142,7 @@
       }
     },
     "2026-11": {
-      "total": 9,
+      "total": 10,
       "ai": 1,
       "automation": 0,
       "merges": 0,

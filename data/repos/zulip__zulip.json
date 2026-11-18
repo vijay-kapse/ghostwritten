@@ -3,9 +3,9 @@
   "repo": "zulip/zulip",
   "org": "zulip",
   "language": "Python",
-  "stars": 26193,
+  "stars": 26241,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:17:37Z",
+  "scanned_at": "2026-11-18T12:17:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,12 +182,12 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 31,
-      "automation": 1,
+      "total": 108,
+      "ai": 58,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 31
+        "claude_trailer": 58
       }
     }
   }

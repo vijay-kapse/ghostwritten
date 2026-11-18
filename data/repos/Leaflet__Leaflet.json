@@ -3,9 +3,9 @@
   "repo": "Leaflet/Leaflet",
   "org": "Leaflet",
   "language": "JavaScript",
-  "stars": 45895,
+  "stars": 45950,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:50:19Z",
+  "scanned_at": "2026-11-18T11:53:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
       }
     },
     "2026-11": {
-      "total": 192,
+      "total": 203,
       "ai": 3,
       "automation": 0,
       "merges": 0,

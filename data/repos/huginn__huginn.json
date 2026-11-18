@@ -3,9 +3,9 @@
   "repo": "huginn/huginn",
   "org": "huginn",
   "language": "Ruby",
-  "stars": 50448,
+  "stars": 50561,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:47:00Z",
+  "scanned_at": "2026-11-18T11:51:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -122,17 +122,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 46,
+      "total": 47,
       "ai": 0,
       "automation": 25,
       "merges": 25,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 12,
+      "total": 26,
       "ai": 0,
-      "automation": 4,
-      "merges": 7,
+      "automation": 5,
+      "merges": 12,
       "by_rule": {}
     }
   }

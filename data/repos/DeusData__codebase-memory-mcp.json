@@ -3,9 +3,9 @@
   "repo": "DeusData/codebase-memory-mcp",
   "org": "DeusData",
   "language": "C",
-  "stars": 48390,
+  "stars": 48758,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:49:14Z",
+  "scanned_at": "2026-11-18T11:52:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -83,7 +83,7 @@
       }
     },
     "2026-10": {
-      "total": 884,
+      "total": 887,
       "ai": 9,
       "automation": 3,
       "merges": 800,
@@ -92,10 +92,10 @@
       }
     },
     "2026-11": {
-      "total": 118,
+      "total": 129,
       "ai": 1,
       "automation": 11,
-      "merges": 160,
+      "merges": 178,
       "by_rule": {
         "claude_trailer": 1
       }

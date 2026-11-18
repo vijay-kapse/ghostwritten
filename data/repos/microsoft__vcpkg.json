@@ -3,9 +3,9 @@
   "repo": "microsoft/vcpkg",
   "org": "microsoft",
   "language": "CMake",
-  "stars": 27587,
+  "stars": 27611,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T12:16:25Z",
+  "scanned_at": "2026-11-18T12:15:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,13 +194,13 @@
       }
     },
     "2026-11": {
-      "total": 236,
-      "ai": 52,
+      "total": 267,
+      "ai": 56,
       "automation": 5,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 49,
-        "claude_trailer": 3
+        "copilot_trailer": 52,
+        "claude_trailer": 4
       }
     }
   }

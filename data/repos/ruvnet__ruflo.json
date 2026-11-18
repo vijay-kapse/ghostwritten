@@ -3,9 +3,9 @@
   "repo": "ruvnet/ruflo",
   "org": "ruvnet",
   "language": "TypeScript",
-  "stars": 81320,
+  "stars": 81924,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:56Z",
+  "scanned_at": "2026-11-18T12:06:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,12 +169,12 @@
       }
     },
     "2026-11": {
-      "total": 307,
-      "ai": 6,
-      "automation": 3,
-      "merges": 172,
+      "total": 351,
+      "ai": 7,
+      "automation": 5,
+      "merges": 178,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 7
       }
     }
   }

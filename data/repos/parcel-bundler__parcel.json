@@ -3,9 +3,9 @@
   "repo": "parcel-bundler/parcel",
   "org": "parcel-bundler",
   "language": "Rust",
-  "stars": 44012,
+  "stars": 44024,
   "default_branch": "v3",
-  "scanned_at": "2026-11-16T11:51:33Z",
+  "scanned_at": "2026-11-18T11:54:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
       }
     },
     "2026-11": {
-      "total": 49,
+      "total": 54,
       "ai": 1,
       "automation": 0,
       "merges": 1,

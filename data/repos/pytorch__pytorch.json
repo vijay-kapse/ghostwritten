@@ -3,20 +3,41 @@
   "repo": "pytorch/pytorch",
   "org": "pytorch",
   "language": "Python",
-  "stars": 105279,
+  "stars": 105619,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:51:03Z",
-  "window_start": "2026-02-07",
+  "scanned_at": "2026-11-18T11:54:18Z",
+  "window_start": "2025-12-02",
   "complete": false,
   "months": {
-    "2026-02": {
-      "total": 927,
-      "ai": 13,
+    "2025-12": {
+      "total": 1264,
+      "ai": 3,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10,
         "copilot_trailer": 3
+      }
+    },
+    "2026-01": {
+      "total": 1196,
+      "ai": 15,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 6,
+        "claude_generated": 5,
+        "copilot_trailer": 4,
+        "copilot_author": 1
+      }
+    },
+    "2026-02": {
+      "total": 1262,
+      "ai": 14,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 10,
+        "copilot_trailer": 4
       }
     },
     "2026-03": {
@@ -117,15 +138,15 @@
       }
     },
     "2026-11": {
-      "total": 857,
-      "ai": 90,
+      "total": 1038,
+      "ai": 99,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 76,
-        "claude_generated": 18,
-        "cursor": 5,
-        "copilot_trailer": 4
+        "claude_trailer": 80,
+        "claude_generated": 22,
+        "cursor": 7,
+        "copilot_trailer": 5
       }
     }
   }

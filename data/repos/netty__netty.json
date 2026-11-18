@@ -3,9 +3,9 @@
   "repo": "netty/netty",
   "org": "netty",
   "language": "Java",
-  "stars": 35071,
+  "stars": 35063,
   "default_branch": "4.2",
-  "scanned_at": "2026-11-16T12:01:56Z",
+  "scanned_at": "2026-11-18T12:03:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,7 +169,7 @@
       }
     },
     "2026-11": {
-      "total": 81,
+      "total": 92,
       "ai": 8,
       "automation": 0,
       "merges": 0,

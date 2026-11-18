@@ -3,9 +3,9 @@
   "repo": "freeCodeCamp/devdocs",
   "org": "freeCodeCamp",
   "language": "Ruby",
-  "stars": 39613,
+  "stars": 39648,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:55:54Z",
+  "scanned_at": "2026-11-18T11:58:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 5,
       "ai": 0,
-      "automation": 2,
-      "merges": 5,
+      "automation": 6,
+      "merges": 9,
       "by_rule": {}
     }
   }

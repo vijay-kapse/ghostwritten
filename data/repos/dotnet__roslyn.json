@@ -5,15 +5,15 @@
   "language": "C#",
   "stars": 20782,
   "default_branch": "main",
-  "scanned_at": "2026-11-17T12:11:11Z",
-  "window_start": "2025-01-22",
-  "complete": false,
+  "scanned_at": "2026-11-18T12:26:09Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 130,
+      "total": 732,
       "ai": 0,
-      "automation": 12,
-      "merges": 52,
+      "automation": 34,
+      "merges": 228,
       "by_rule": {}
     },
     "2025-02": {
@@ -219,12 +219,12 @@
       }
     },
     "2026-11": {
-      "total": 103,
-      "ai": 28,
-      "automation": 13,
-      "merges": 32,
+      "total": 110,
+      "ai": 29,
+      "automation": 14,
+      "merges": 34,
       "by_rule": {
-        "copilot_trailer": 17,
+        "copilot_trailer": 18,
         "claude_trailer": 11,
         "claude_generated": 1,
         "copilot_author": 1

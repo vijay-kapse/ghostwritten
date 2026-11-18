@@ -3,20 +3,31 @@
   "repo": "Kilo-Org/kilocode",
   "org": "Kilo-Org",
   "language": "TypeScript",
-  "stars": 27914,
+  "stars": 28030,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:16:14Z",
-  "window_start": "2026-05-26",
+  "scanned_at": "2026-11-18T12:15:48Z",
+  "window_start": "2026-04-30",
   "complete": false,
   "months": {
+    "2026-04": {
+      "total": 59,
+      "ai": 1,
+      "automation": 10,
+      "merges": 11,
+      "by_rule": {
+        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
     "2026-05": {
-      "total": 407,
-      "ai": 5,
-      "automation": 104,
-      "merges": 125,
+      "total": 2310,
+      "ai": 6,
+      "automation": 618,
+      "merges": 528,
       "by_rule": {
         "claude_trailer": 3,
-        "copilot_trailer": 2
+        "copilot_trailer": 2,
+        "cursor": 1
       }
     },
     "2026-06": {
@@ -67,10 +78,10 @@
       }
     },
     "2026-11": {
-      "total": 204,
+      "total": 227,
       "ai": 0,
-      "automation": 32,
-      "merges": 85,
+      "automation": 38,
+      "merges": 94,
       "by_rule": {}
     }
   }

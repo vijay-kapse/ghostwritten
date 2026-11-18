@@ -3,9 +3,9 @@
   "repo": "alirezarezvani/claude-skills",
   "org": "alirezarezvani",
   "language": "Python",
-  "stars": 29511,
+  "stars": 29947,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:13:22Z",
+  "scanned_at": "2026-11-18T12:13:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -123,12 +123,12 @@
       }
     },
     "2026-11": {
-      "total": 65,
-      "ai": 51,
+      "total": 78,
+      "ai": 59,
       "automation": 0,
-      "merges": 42,
+      "merges": 45,
       "by_rule": {
-        "claude_trailer": 51
+        "claude_trailer": 59
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "pnpm/pnpm",
   "org": "pnpm",
   "language": "Rust",
-  "stars": 37041,
+  "stars": 37103,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:59:49Z",
+  "scanned_at": "2026-11-18T12:01:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,15 +207,15 @@
       }
     },
     "2026-11": {
-      "total": 476,
-      "ai": 137,
+      "total": 524,
+      "ai": 160,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 135,
-        "copilot_trailer": 9,
-        "codex_trailer": 2,
-        "claude_generated": 1
+        "claude_trailer": 157,
+        "copilot_trailer": 11,
+        "claude_generated": 3,
+        "codex_trailer": 3
       }
     }
   }

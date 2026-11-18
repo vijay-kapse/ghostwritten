@@ -3,9 +3,9 @@
   "repo": "outline/outline",
   "org": "outline",
   "language": "TypeScript",
-  "stars": 41210,
+  "stars": 41283,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T11:53:53Z",
+  "scanned_at": "2026-11-18T11:56:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -231,12 +231,13 @@
       }
     },
     "2026-11": {
-      "total": 110,
-      "ai": 5,
-      "automation": 30,
+      "total": 126,
+      "ai": 6,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 5
+        "claude_trailer": 6,
+        "copilot_trailer": 1
       }
     }
   }

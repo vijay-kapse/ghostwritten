@@ -3,9 +3,9 @@
   "repo": "onyx-dot-app/onyx",
   "org": "onyx-dot-app",
   "language": "Python",
-  "stars": 33295,
+  "stars": 33433,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:04:07Z",
+  "scanned_at": "2026-11-18T12:05:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -211,14 +211,14 @@
       }
     },
     "2026-11": {
-      "total": 333,
-      "ai": 205,
-      "automation": 13,
+      "total": 448,
+      "ai": 302,
+      "automation": 22,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 188,
-        "claude_trailer": 124,
-        "devin": 15,
+        "claude_generated": 273,
+        "claude_trailer": 184,
+        "devin": 24,
         "other_bot_agent": 1
       }
     }

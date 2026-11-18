@@ -3,9 +3,9 @@
   "repo": "trufflesecurity/trufflehog",
   "org": "trufflesecurity",
   "language": "Go",
-  "stars": 29032,
+  "stars": 29457,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:14:03Z",
+  "scanned_at": "2026-11-18T12:13:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,7 +186,7 @@
       }
     },
     "2026-11": {
-      "total": 23,
+      "total": 24,
       "ai": 5,
       "automation": 14,
       "merges": 0,

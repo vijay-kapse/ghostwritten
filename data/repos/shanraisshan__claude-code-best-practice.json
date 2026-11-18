@@ -3,9 +3,9 @@
   "repo": "shanraisshan/claude-code-best-practice",
   "org": "shanraisshan",
   "language": "HTML",
-  "stars": 68866,
+  "stars": 69145,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:10:08Z",
+  "scanned_at": "2026-11-18T12:10:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -120,12 +120,12 @@
       }
     },
     "2026-11": {
-      "total": 180,
-      "ai": 180,
+      "total": 200,
+      "ai": 200,
       "automation": 0,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 180
+        "claude_trailer": 200
       }
     }
   }

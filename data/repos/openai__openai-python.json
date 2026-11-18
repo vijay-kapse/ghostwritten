@@ -3,9 +3,9 @@
   "repo": "openai/openai-python",
   "org": "openai",
   "language": "Python",
-  "stars": 32090,
+  "stars": 32179,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:05:19Z",
+  "scanned_at": "2026-11-18T12:06:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,9 +168,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 25,
+      "total": 33,
       "ai": 0,
-      "automation": 20,
+      "automation": 28,
       "merges": 0,
       "by_rule": {}
     }

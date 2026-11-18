@@ -3,19 +3,39 @@
   "repo": "ente/ente",
   "org": "ente",
   "language": "Dart",
-  "stars": 30006,
+  "stars": 30226,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:12:18Z",
-  "window_start": "2026-04-07",
+  "scanned_at": "2026-11-18T12:12:17Z",
+  "window_start": "2026-02-05",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 566,
-      "ai": 7,
-      "automation": 13,
-      "merges": 177,
+    "2026-02": {
+      "total": 758,
+      "ai": 17,
+      "automation": 14,
+      "merges": 250,
       "by_rule": {
-        "claude_trailer": 6,
+        "claude_trailer": 17
+      }
+    },
+    "2026-03": {
+      "total": 1195,
+      "ai": 59,
+      "automation": 22,
+      "merges": 371,
+      "by_rule": {
+        "claude_trailer": 56,
+        "copilot_author": 2,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 779,
+      "ai": 27,
+      "automation": 18,
+      "merges": 249,
+      "by_rule": {
+        "claude_trailer": 26,
         "copilot_trailer": 1
       }
     },
@@ -76,9 +96,9 @@
       }
     },
     "2026-11": {
-      "total": 248,
+      "total": 309,
       "ai": 4,
-      "automation": 18,
+      "automation": 22,
       "merges": 7,
       "by_rule": {
         "cursor": 2,

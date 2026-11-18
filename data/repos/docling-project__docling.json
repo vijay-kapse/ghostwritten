@@ -3,9 +3,9 @@
   "repo": "docling-project/docling",
   "org": "docling-project",
   "language": "Python",
-  "stars": 70315,
+  "stars": 70689,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:09:48Z",
+  "scanned_at": "2026-11-18T12:10:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,12 +188,12 @@
       }
     },
     "2026-11": {
-      "total": 90,
-      "ai": 6,
+      "total": 104,
+      "ai": 7,
       "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 7
       }
     }
   }

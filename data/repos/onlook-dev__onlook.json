@@ -3,9 +3,9 @@
   "repo": "onlook-dev/onlook",
   "org": "onlook-dev",
   "language": "TypeScript",
-  "stars": 27149,
+  "stars": 27234,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:16:46Z",
+  "scanned_at": "2026-11-18T12:16:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,6 +152,15 @@
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1
+      }
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 3,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 3
       }
     }
   }

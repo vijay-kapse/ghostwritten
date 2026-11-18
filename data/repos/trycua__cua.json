@@ -3,9 +3,9 @@
   "repo": "trycua/cua",
   "org": "trycua",
   "language": "Rust",
-  "stars": 32054,
+  "stars": 32475,
   "default_branch": "main",
-  "scanned_at": "2026-11-16T12:05:33Z",
+  "scanned_at": "2026-11-18T12:06:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,12 +212,12 @@
       }
     },
     "2026-11": {
-      "total": 570,
-      "ai": 263,
-      "automation": 514,
+      "total": 613,
+      "ai": 275,
+      "automation": 567,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 261,
+        "claude_trailer": 273,
         "amp_factory": 2
       }
     }

@@ -3,9 +3,9 @@
   "repo": "ray-project/ray",
   "org": "ray-project",
   "language": "Python",
-  "stars": 44242,
+  "stars": 44304,
   "default_branch": "master",
-  "scanned_at": "2026-11-16T11:51:31Z",
+  "scanned_at": "2026-11-18T11:54:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -243,15 +243,15 @@
       }
     },
     "2026-11": {
-      "total": 242,
-      "ai": 145,
+      "total": 285,
+      "ai": 163,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 128,
-        "claude_generated": 117,
-        "copilot_trailer": 10,
-        "gemini": 3,
+        "claude_trailer": 142,
+        "claude_generated": 130,
+        "copilot_trailer": 11,
+        "gemini": 4,
         "cursor": 1
       }
     }

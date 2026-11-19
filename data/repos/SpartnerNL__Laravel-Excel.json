@@ -5,7 +5,7 @@
   "language": "PHP",
   "stars": 12713,
   "default_branch": "4.x",
-  "scanned_at": "2026-11-17T12:27:15Z",
+  "scanned_at": "2026-11-19T11:47:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,10 +151,10 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 7,
       "ai": 0,
       "automation": 0,
-      "merges": 1,
+      "merges": 4,
       "by_rule": {}
     }
   }

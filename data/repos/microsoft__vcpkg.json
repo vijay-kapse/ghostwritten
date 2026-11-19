@@ -5,7 +5,7 @@
   "language": "CMake",
   "stars": 27611,
   "default_branch": "master",
-  "scanned_at": "2026-11-18T12:15:59Z",
+  "scanned_at": "2026-11-19T12:29:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,13 +194,13 @@
       }
     },
     "2026-11": {
-      "total": 267,
-      "ai": 56,
+      "total": 291,
+      "ai": 64,
       "automation": 5,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 52,
-        "claude_trailer": 4
+        "copilot_trailer": 56,
+        "claude_trailer": 8
       }
     }
   }

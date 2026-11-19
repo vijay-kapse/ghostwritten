@@ -2,8 +2,8 @@
   "schema": 1,
   "repo": "cockroachdb/cockroach",
   "head_sha": "d30c905fff79ef825adc96bcc647f1872a90f2ff",
-  "oldest": "2025-03-06T18:10:59Z",
-  "complete": false,
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-18T12:05:58Z"
+  "updated_at": "2026-11-19T12:19:55Z"
 }

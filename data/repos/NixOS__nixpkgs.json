@@ -5,17 +5,17 @@
   "language": "Nix",
   "stars": 26863,
   "default_branch": "master",
-  "scanned_at": "2026-11-18T12:16:52Z",
-  "window_start": "2026-11-04",
+  "scanned_at": "2026-11-19T12:30:04Z",
+  "window_start": "2026-11-01",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 6316,
-      "ai": 11,
-      "automation": 5,
-      "merges": 5095,
+      "total": 8059,
+      "ai": 13,
+      "automation": 6,
+      "merges": 6295,
       "by_rule": {
-        "claude_trailer": 7,
+        "claude_trailer": 9,
         "copilot_trailer": 3,
         "codex_trailer": 1
       }

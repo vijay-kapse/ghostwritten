@@ -5,7 +5,7 @@
   "language": "Java",
   "stars": 22686,
   "default_branch": "master",
-  "scanned_at": "2026-11-18T12:21:54Z",
+  "scanned_at": "2026-11-19T12:35:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 303,
+      "total": 309,
       "ai": 8,
       "automation": 0,
-      "merges": 221,
+      "merges": 224,
       "by_rule": {
         "claude_trailer": 8
       }

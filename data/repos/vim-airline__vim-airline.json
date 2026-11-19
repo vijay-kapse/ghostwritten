@@ -5,7 +5,7 @@
   "language": "Vim Script",
   "stars": 17966,
   "default_branch": "master",
-  "scanned_at": "2026-11-17T12:28:43Z",
+  "scanned_at": "2026-11-19T11:48:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -122,6 +122,15 @@
       "automation": 0,
       "merges": 0,
       "by_rule": {}
+    },
+    "2026-11": {
+      "total": 3,
+      "ai": 1,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

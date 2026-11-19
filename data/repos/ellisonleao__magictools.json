@@ -5,7 +5,7 @@
   "language": "Markdown",
   "stars": 17803,
   "default_branch": "main",
-  "scanned_at": "2026-11-17T12:29:08Z",
+  "scanned_at": "2026-11-19T11:48:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -126,12 +126,12 @@
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 7,
+      "total": 46,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6,
+        "claude_trailer": 9,
         "copilot_trailer": 1
       }
     }

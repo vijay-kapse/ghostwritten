@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "frappe/erpnext",
-  "head_sha": "cf548ce22f71c37d1067808db3bdcdff2574b700",
-  "oldest": "2025-05-22T07:12:08Z",
-  "complete": false,
+  "head_sha": "c8c17aae9dce45d18e88a198f1c96ec5d79d3a7e",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "develop",
-  "updated_at": "2026-11-18T11:57:05Z"
+  "updated_at": "2026-11-19T12:13:05Z"
 }

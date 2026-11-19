@@ -5,7 +5,7 @@
   "language": "Ruby",
   "stars": 39648,
   "default_branch": "main",
-  "scanned_at": "2026-11-18T11:58:15Z",
+  "scanned_at": "2026-11-19T12:14:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 56,
       "ai": 0,
       "automation": 6,
       "merges": 9,

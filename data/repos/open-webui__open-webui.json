@@ -5,7 +5,7 @@
   "language": "Svelte",
   "stars": 158905,
   "default_branch": "main",
-  "scanned_at": "2026-11-17T12:43:15Z",
+  "scanned_at": "2026-11-19T12:02:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,12 +197,13 @@
       }
     },
     "2026-11": {
-      "total": 444,
-      "ai": 1,
+      "total": 773,
+      "ai": 2,
       "automation": 0,
-      "merges": 4,
+      "merges": 5,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 1,
+        "copilot_trailer": 1
       }
     }
   }

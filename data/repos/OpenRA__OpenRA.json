@@ -5,7 +5,7 @@
   "language": "C#",
   "stars": 17795,
   "default_branch": "bleed",
-  "scanned_at": "2026-11-17T12:29:02Z",
+  "scanned_at": "2026-11-19T11:48:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 3,
       "ai": 0,
       "automation": 0,
       "merges": 0,

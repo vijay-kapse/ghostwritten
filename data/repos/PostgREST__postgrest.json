@@ -5,7 +5,7 @@
   "language": "Haskell",
   "stars": 27763,
   "default_branch": "main",
-  "scanned_at": "2026-11-18T12:15:51Z",
+  "scanned_at": "2026-11-19T12:29:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 26,
       "ai": 0,
-      "automation": 5,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     }

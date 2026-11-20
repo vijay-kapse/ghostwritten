@@ -5,7 +5,7 @@
   "language": "Haskell",
   "stars": 40355,
   "default_branch": "master",
-  "scanned_at": "2026-11-19T12:13:40Z",
+  "scanned_at": "2026-11-20T12:26:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -155,11 +155,13 @@
       }
     },
     "2026-11": {
-      "total": 8,
-      "ai": 0,
+      "total": 19,
+      "ai": 2,
       "automation": 0,
       "merges": 17,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

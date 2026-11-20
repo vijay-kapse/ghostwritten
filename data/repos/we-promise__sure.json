@@ -5,7 +5,7 @@
   "language": "Ruby",
   "stars": 16147,
   "default_branch": "main",
-  "scanned_at": "2026-11-19T12:21:52Z",
+  "scanned_at": "2026-11-20T12:34:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -221,13 +221,13 @@
       }
     },
     "2026-11": {
-      "total": 317,
-      "ai": 130,
-      "automation": 8,
+      "total": 332,
+      "ai": 138,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 129,
-        "claude_generated": 59
+        "claude_trailer": 137,
+        "claude_generated": 65
       }
     }
   }

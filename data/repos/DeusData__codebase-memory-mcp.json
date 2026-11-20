@@ -5,7 +5,7 @@
   "language": "C",
   "stars": 48758,
   "default_branch": "main",
-  "scanned_at": "2026-11-19T12:09:21Z",
+  "scanned_at": "2026-11-20T12:22:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -92,10 +92,10 @@
       }
     },
     "2026-11": {
-      "total": 157,
+      "total": 163,
       "ai": 1,
       "automation": 11,
-      "merges": 189,
+      "merges": 194,
       "by_rule": {
         "claude_trailer": 1
       }

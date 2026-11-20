@@ -5,20 +5,20 @@
   "language": "C++",
   "stars": 54681,
   "default_branch": "main",
-  "scanned_at": "2026-11-19T12:08:11Z",
-  "window_start": "2026-11-03",
+  "scanned_at": "2026-11-20T12:21:18Z",
+  "window_start": "2026-11-02",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 8144,
-      "ai": 2022,
-      "automation": 0,
-      "merges": 6375,
+      "total": 9711,
+      "ai": 2535,
+      "automation": 1,
+      "merges": 7716,
       "by_rule": {
-        "claude_trailer": 1964,
-        "devin": 41,
+        "claude_trailer": 2472,
+        "devin": 44,
         "codex_trailer": 9,
-        "copilot_trailer": 6,
+        "copilot_trailer": 8,
         "cursor": 2
       }
     }

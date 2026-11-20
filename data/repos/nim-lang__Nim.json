@@ -5,7 +5,7 @@
   "language": "Nim",
   "stars": 18313,
   "default_branch": "devel",
-  "scanned_at": "2026-11-18T12:30:45Z",
+  "scanned_at": "2026-11-20T11:54:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,13 +187,13 @@
       }
     },
     "2026-11": {
-      "total": 67,
-      "ai": 40,
+      "total": 77,
+      "ai": 48,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 40,
-        "claude_generated": 31
+        "claude_trailer": 48,
+        "claude_generated": 37
       }
     }
   }

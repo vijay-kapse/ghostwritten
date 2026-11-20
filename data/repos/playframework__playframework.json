@@ -5,7 +5,7 @@
   "language": "Scala",
   "stars": 12624,
   "default_branch": "main",
-  "scanned_at": "2026-11-19T11:47:34Z",
+  "scanned_at": "2026-11-20T12:03:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 32,
+      "total": 34,
       "ai": 3,
       "automation": 3,
-      "merges": 28,
+      "merges": 30,
       "by_rule": {
         "claude_trailer": 3
       }

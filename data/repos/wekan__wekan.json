@@ -5,15 +5,15 @@
   "language": "JavaScript",
   "stars": 21174,
   "default_branch": "main",
-  "scanned_at": "2026-11-18T12:25:47Z",
-  "window_start": "2026-08-27",
+  "scanned_at": "2026-11-20T11:49:53Z",
+  "window_start": "2026-08-17",
   "complete": false,
   "months": {
     "2026-08": {
-      "total": 915,
+      "total": 3689,
       "ai": 2,
-      "automation": 27,
-      "merges": 6,
+      "automation": 48,
+      "merges": 11,
       "by_rule": {
         "copilot_author": 2
       }
@@ -36,10 +36,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 349,
+      "total": 480,
       "ai": 0,
-      "automation": 56,
-      "merges": 61,
+      "automation": 61,
+      "merges": 66,
       "by_rule": {}
     }
   }

@@ -5,15 +5,15 @@
   "language": "TypeScript",
   "stars": 282738,
   "default_branch": "master",
-  "scanned_at": "2026-11-19T12:01:15Z",
-  "window_start": "2026-07-30",
+  "scanned_at": "2026-11-20T12:15:31Z",
+  "window_start": "2026-07-22",
   "complete": false,
   "months": {
     "2026-07": {
-      "total": 645,
+      "total": 2300,
       "ai": 0,
-      "automation": 0,
-      "merges": 767,
+      "automation": 8,
+      "merges": 2104,
       "by_rule": {}
     },
     "2026-08": {

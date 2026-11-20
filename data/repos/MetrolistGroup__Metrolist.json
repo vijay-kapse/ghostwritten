@@ -5,16 +5,18 @@
   "language": "Kotlin",
   "stars": 14517,
   "default_branch": "main",
-  "scanned_at": "2026-11-18T12:34:45Z",
+  "scanned_at": "2026-11-20T11:58:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 414,
-      "ai": 0,
-      "automation": 1,
-      "merges": 5,
-      "by_rule": {}
+      "total": 573,
+      "ai": 1,
+      "automation": 2,
+      "merges": 6,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

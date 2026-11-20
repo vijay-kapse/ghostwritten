@@ -5,18 +5,18 @@
   "language": null,
   "stars": 25371,
   "default_branch": "main",
-  "scanned_at": "2026-11-18T12:18:28Z",
-  "window_start": "2026-11-05",
+  "scanned_at": "2026-11-20T11:47:12Z",
+  "window_start": "2026-11-04",
   "complete": false,
   "months": {
     "2026-11": {
-      "total": 11801,
-      "ai": 15,
+      "total": 14746,
+      "ai": 24,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 10,
-        "copilot_trailer": 4,
+        "claude_trailer": 16,
+        "copilot_trailer": 7,
         "copilot_author": 1
       }
     }

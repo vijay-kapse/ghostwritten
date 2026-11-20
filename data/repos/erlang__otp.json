@@ -5,7 +5,7 @@
   "language": "Erlang",
   "stars": 12362,
   "default_branch": "master",
-  "scanned_at": "2026-11-19T11:54:31Z",
+  "scanned_at": "2026-11-20T12:09:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -157,17 +157,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 237,
+      "total": 239,
       "ai": 0,
       "automation": 23,
       "merges": 399,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 57,
+      "total": 64,
       "ai": 0,
       "automation": 0,
-      "merges": 93,
+      "merges": 107,
       "by_rule": {}
     }
   }

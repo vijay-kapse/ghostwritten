@@ -5,7 +5,7 @@
   "language": "PowerShell",
   "stars": 11306,
   "default_branch": "master",
-  "scanned_at": "2026-11-19T11:59:12Z",
+  "scanned_at": "2026-11-20T12:13:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,8 +169,8 @@
     "2026-11": {
       "total": 1,
       "ai": 0,
-      "automation": 0,
-      "merges": 1,
+      "automation": 3,
+      "merges": 4,
       "by_rule": {}
     }
   }

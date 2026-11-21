@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 22116,
   "default_branch": "development",
-  "scanned_at": "2026-11-20T11:47:30Z",
+  "scanned_at": "2026-11-21T11:22:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -147,7 +147,7 @@
       }
     },
     "2026-06": {
-      "total": 216,
+      "total": 218,
       "ai": 97,
       "automation": 11,
       "merges": 71,
@@ -196,10 +196,10 @@
       }
     },
     "2026-11": {
-      "total": 144,
+      "total": 151,
       "ai": 59,
       "automation": 4,
-      "merges": 55,
+      "merges": 57,
       "by_rule": {
         "copilot_trailer": 59
       }

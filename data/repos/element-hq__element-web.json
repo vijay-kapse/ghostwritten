@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 13665,
   "default_branch": "develop",
-  "scanned_at": "2026-11-20T11:59:41Z",
+  "scanned_at": "2026-11-21T11:32:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 140,
+      "total": 147,
       "ai": 7,
       "automation": 77,
       "merges": 0,

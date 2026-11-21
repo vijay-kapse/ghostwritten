@@ -5,7 +5,7 @@
   "language": "Rust",
   "stars": 41182,
   "default_branch": "main",
-  "scanned_at": "2026-11-20T12:25:52Z",
+  "scanned_at": "2026-11-21T11:52:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,12 +118,12 @@
       }
     },
     "2026-11": {
-      "total": 1139,
-      "ai": 572,
+      "total": 1296,
+      "ai": 600,
       "automation": 24,
-      "merges": 163,
+      "merges": 196,
       "by_rule": {
-        "claude_trailer": 562,
+        "claude_trailer": 590,
         "copilot_trailer": 10
       }
     }

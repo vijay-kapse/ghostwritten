@@ -5,19 +5,19 @@
   "language": "Python",
   "stars": 13986,
   "default_branch": "main",
-  "scanned_at": "2026-11-20T11:58:41Z",
-  "window_start": "2026-07-23",
+  "scanned_at": "2026-11-21T11:31:22Z",
+  "window_start": "2026-07-15",
   "complete": false,
   "months": {
     "2026-07": {
-      "total": 954,
-      "ai": 193,
-      "automation": 42,
-      "merges": 336,
+      "total": 2849,
+      "ai": 488,
+      "automation": 61,
+      "merges": 922,
       "by_rule": {
-        "claude_trailer": 143,
-        "cursor": 48,
-        "devin": 7
+        "claude_trailer": 433,
+        "cursor": 52,
+        "devin": 8
       }
     },
     "2026-08": {
@@ -65,12 +65,12 @@
       }
     },
     "2026-11": {
-      "total": 4210,
-      "ai": 1546,
-      "automation": 14,
-      "merges": 1763,
+      "total": 4512,
+      "ai": 1672,
+      "automation": 16,
+      "merges": 1871,
       "by_rule": {
-        "claude_trailer": 1533,
+        "claude_trailer": 1659,
         "cursor": 8,
         "gemini": 3,
         "claude_generated": 2

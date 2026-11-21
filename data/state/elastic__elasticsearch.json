@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "elastic/elasticsearch",
-  "head_sha": "ab36e947d28af91b60301573db714b100f59f928",
-  "oldest": "2025-01-24T08:25:55Z",
-  "complete": false,
+  "head_sha": "a16e127d2b61270965ee2b492c9e0950d8667b50",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "main",
-  "updated_at": "2026-11-20T12:33:20Z"
+  "updated_at": "2026-11-21T11:57:41Z"
 }

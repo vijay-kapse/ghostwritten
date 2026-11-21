@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "mongodb/mongo",
-  "head_sha": "64d561307892f304503e55ca6caa6730c7ba37b1",
-  "oldest": "2025-02-03T17:21:56Z",
-  "complete": false,
+  "head_sha": "d5ba544e61d708a3153df22f6659d7bd58897240",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-19T12:27:11Z"
+  "updated_at": "2026-11-21T11:14:36Z"
 }

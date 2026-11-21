@@ -5,7 +5,7 @@
   "language": "JavaScript",
   "stars": 65370,
   "default_branch": "main",
-  "scanned_at": "2026-11-20T12:17:47Z",
+  "scanned_at": "2026-11-21T11:46:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -42,23 +42,23 @@
       }
     },
     "2026-10": {
-      "total": 1249,
-      "ai": 436,
+      "total": 1261,
+      "ai": 438,
       "automation": 3,
-      "merges": 838,
+      "merges": 843,
       "by_rule": {
-        "claude_trailer": 426,
+        "claude_trailer": 428,
         "cursor": 8,
         "codex_trailer": 2
       }
     },
     "2026-11": {
-      "total": 1704,
-      "ai": 61,
+      "total": 1768,
+      "ai": 65,
       "automation": 0,
-      "merges": 769,
+      "merges": 810,
       "by_rule": {
-        "claude_trailer": 61
+        "claude_trailer": 65
       }
     }
   }

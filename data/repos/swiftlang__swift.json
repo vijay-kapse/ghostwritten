@@ -5,15 +5,29 @@
   "language": "Swift",
   "stars": 70562,
   "default_branch": "main",
-  "scanned_at": "2026-11-20T12:35:18Z",
-  "window_start": "2025-06-27",
+  "scanned_at": "2026-11-21T11:59:18Z",
+  "window_start": "2025-04-30",
   "complete": false,
   "months": {
-    "2025-06": {
-      "total": 90,
+    "2025-04": {
+      "total": 14,
       "ai": 0,
       "automation": 0,
-      "merges": 71,
+      "merges": 14,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 566,
+      "ai": 0,
+      "automation": 0,
+      "merges": 864,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 674,
+      "ai": 0,
+      "automation": 0,
+      "merges": 929,
       "by_rule": {}
     },
     "2025-07": {
@@ -144,10 +158,10 @@
       }
     },
     "2026-11": {
-      "total": 746,
+      "total": 776,
       "ai": 1,
       "automation": 0,
-      "merges": 365,
+      "merges": 390,
       "by_rule": {
         "claude_trailer": 1
       }

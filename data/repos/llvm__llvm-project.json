@@ -5,18 +5,20 @@
   "language": "LLVM",
   "stars": 41478,
   "default_branch": "main",
-  "scanned_at": "2026-11-21T11:52:34Z",
-  "window_start": "2026-06-26",
+  "scanned_at": "2026-11-22T12:00:25Z",
+  "window_start": "2026-06-04",
   "complete": false,
   "months": {
     "2026-06": {
-      "total": 467,
-      "ai": 8,
-      "automation": 1,
+      "total": 3335,
+      "ai": 81,
+      "automation": 33,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 7,
-        "cursor": 1
+        "claude_trailer": 67,
+        "codex_trailer": 9,
+        "cursor": 5,
+        "claude_generated": 2
       }
     },
     "2026-07": {
@@ -76,12 +78,12 @@
       }
     },
     "2026-11": {
-      "total": 4317,
-      "ai": 426,
+      "total": 4384,
+      "ai": 434,
       "automation": 37,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 394,
+        "claude_trailer": 402,
         "copilot_trailer": 16,
         "claude_generated": 12,
         "cursor": 11,

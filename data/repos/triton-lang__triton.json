@@ -5,7 +5,7 @@
   "language": "MLIR",
   "stars": 20589,
   "default_branch": "main",
-  "scanned_at": "2026-11-21T11:25:12Z",
+  "scanned_at": "2026-11-22T11:39:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,7 +190,7 @@
       }
     },
     "2026-11": {
-      "total": 160,
+      "total": 161,
       "ai": 3,
       "automation": 0,
       "merges": 0,

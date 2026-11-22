@@ -5,7 +5,7 @@
   "language": "Rust",
   "stars": 12423,
   "default_branch": "main",
-  "scanned_at": "2026-11-21T11:39:56Z",
+  "scanned_at": "2026-11-22T11:50:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 2,
+      "total": 4,
       "ai": 0,
       "automation": 0,
       "merges": 0,

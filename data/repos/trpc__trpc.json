@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 40809,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:00:36Z",
+  "scanned_at": "2026-11-23T13:43:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,14 +187,14 @@
       }
     },
     "2026-11": {
-      "total": 222,
-      "ai": 197,
-      "automation": 29,
+      "total": 228,
+      "ai": 200,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
         "cursor": 115,
-        "claude_trailer": 83,
-        "claude_generated": 79
+        "claude_trailer": 86,
+        "claude_generated": 80
       }
     }
   }

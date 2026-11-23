@@ -5,17 +5,40 @@
   "language": "Dart",
   "stars": 30226,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T11:32:09Z",
-  "window_start": "2025-06-04",
+  "scanned_at": "2026-11-23T12:57:57Z",
+  "window_start": "2025-03-03",
   "complete": false,
   "months": {
-    "2025-06": {
-      "total": 921,
+    "2025-03": {
+      "total": 802,
+      "ai": 0,
+      "automation": 9,
+      "merges": 191,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 519,
       "ai": 1,
-      "automation": 8,
-      "merges": 166,
+      "automation": 15,
+      "merges": 159,
       "by_rule": {
         "copilot_trailer": 1
+      }
+    },
+    "2025-05": {
+      "total": 795,
+      "ai": 0,
+      "automation": 20,
+      "merges": 237,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 1034,
+      "ai": 2,
+      "automation": 12,
+      "merges": 202,
+      "by_rule": {
+        "copilot_trailer": 2
       }
     },
     "2025-07": {
@@ -178,9 +201,9 @@
       }
     },
     "2026-11": {
-      "total": 389,
+      "total": 417,
       "ai": 4,
-      "automation": 26,
+      "automation": 27,
       "merges": 7,
       "by_rule": {
         "cursor": 2,

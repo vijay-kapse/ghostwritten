@@ -5,7 +5,7 @@
   "language": "Jinja",
   "stars": 12628,
   "default_branch": "development",
-  "scanned_at": "2026-11-22T11:50:17Z",
+  "scanned_at": "2026-11-23T13:26:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,10 +182,10 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 31,
       "ai": 0,
-      "automation": 0,
-      "merges": 0,
+      "automation": 1,
+      "merges": 2,
       "by_rule": {}
     }
   }

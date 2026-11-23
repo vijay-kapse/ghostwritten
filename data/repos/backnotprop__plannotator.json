@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 12883,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T11:35:59Z",
+  "scanned_at": "2026-11-23T13:03:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -107,20 +107,20 @@
       }
     },
     "2026-10": {
-      "total": 1622,
+      "total": 1625,
       "ai": 268,
       "automation": 3,
-      "merges": 959,
+      "merges": 960,
       "by_rule": {
         "claude_trailer": 254,
         "claude_generated": 14
       }
     },
     "2026-11": {
-      "total": 4592,
+      "total": 4740,
       "ai": 304,
       "automation": 0,
-      "merges": 3471,
+      "merges": 3556,
       "by_rule": {
         "claude_trailer": 297,
         "claude_generated": 9

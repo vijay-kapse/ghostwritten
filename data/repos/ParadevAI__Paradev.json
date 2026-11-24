@@ -3,9 +3,9 @@
   "repo": "ParadevAI/Paradev",
   "org": "ParadevAI",
   "language": "TypeScript",
-  "stars": 16354,
+  "stars": 16540,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:44Z",
+  "scanned_at": "2026-11-24T14:35:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -134,7 +134,7 @@
       }
     },
     "2026-11": {
-      "total": 616,
+      "total": 626,
       "ai": 67,
       "automation": 1,
       "merges": 0,

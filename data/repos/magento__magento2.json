@@ -3,9 +3,9 @@
   "repo": "magento/magento2",
   "org": "magento",
   "language": "PHP",
-  "stars": 12239,
+  "stars": 12245,
   "default_branch": "2.4-develop",
-  "scanned_at": "2026-11-23T13:27:42Z",
+  "scanned_at": "2026-11-24T14:37:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,10 +177,10 @@
       }
     },
     "2026-11": {
-      "total": 18,
+      "total": 19,
       "ai": 2,
       "automation": 0,
-      "merges": 66,
+      "merges": 67,
       "by_rule": {
         "copilot_trailer": 2
       }

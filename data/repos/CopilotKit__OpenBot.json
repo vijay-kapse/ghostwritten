@@ -3,9 +3,9 @@
   "repo": "CopilotKit/OpenBot",
   "org": "CopilotKit",
   "language": "TypeScript",
-  "stars": 12671,
+  "stars": 13373,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:11Z",
+  "scanned_at": "2026-11-24T14:10:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -39,7 +39,7 @@
       }
     },
     "2026-11": {
-      "total": 857,
+      "total": 908,
       "ai": 60,
       "automation": 15,
       "merges": 0,

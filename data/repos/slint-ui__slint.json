@@ -3,9 +3,9 @@
   "repo": "slint-ui/slint",
   "org": "slint-ui",
   "language": "Rust",
-  "stars": 24621,
+  "stars": 24707,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:02:53Z",
+  "scanned_at": "2026-11-24T14:10:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,9 +185,9 @@
       }
     },
     "2026-11": {
-      "total": 351,
+      "total": 372,
       "ai": 8,
-      "automation": 14,
+      "automation": 16,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 8

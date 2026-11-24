@@ -3,9 +3,9 @@
   "repo": "redis/ioredis",
   "org": "redis",
   "language": "TypeScript",
-  "stars": 15356,
+  "stars": 15362,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:33Z",
+  "scanned_at": "2026-11-24T14:21:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,12 +163,12 @@
       }
     },
     "2026-11": {
-      "total": 22,
-      "ai": 9,
+      "total": 26,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 10
       }
     }
   }

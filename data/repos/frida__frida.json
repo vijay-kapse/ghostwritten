@@ -3,9 +3,9 @@
   "repo": "frida/frida",
   "org": "frida",
   "language": "Meson",
-  "stars": 22817,
+  "stars": 22923,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:41Z",
+  "scanned_at": "2026-11-24T14:13:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 40,
+      "total": 42,
       "ai": 0,
       "automation": 0,
       "merges": 0,

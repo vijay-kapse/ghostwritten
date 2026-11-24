@@ -3,9 +3,9 @@
   "repo": "ag-ui-protocol/ag-ui",
   "org": "ag-ui-protocol",
   "language": "TypeScript",
-  "stars": 19756,
+  "stars": 21499,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:23:04Z",
+  "scanned_at": "2026-11-24T14:32:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,10 +184,10 @@
       }
     },
     "2026-11": {
-      "total": 198,
+      "total": 201,
       "ai": 31,
       "automation": 0,
-      "merges": 87,
+      "merges": 88,
       "by_rule": {
         "claude_trailer": 30,
         "copilot_trailer": 1

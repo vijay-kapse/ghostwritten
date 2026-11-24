@@ -3,9 +3,9 @@
   "repo": "QwenLM/qwen-code",
   "org": "QwenLM",
   "language": "TypeScript",
-  "stars": 30711,
+  "stars": 30918,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:36Z",
+  "scanned_at": "2026-11-24T14:05:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -201,7 +201,7 @@
       }
     },
     "2026-11": {
-      "total": 1091,
+      "total": 1138,
       "ai": 36,
       "automation": 0,
       "merges": 0,

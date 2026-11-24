@@ -3,9 +3,9 @@
   "repo": "lobehub/lobehub",
   "org": "lobehub",
   "language": "TypeScript",
-  "stars": 85691,
+  "stars": 86095,
   "default_branch": "canary",
-  "scanned_at": "2026-11-22T12:03:20Z",
+  "scanned_at": "2026-11-24T13:57:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -219,12 +219,13 @@
       }
     },
     "2026-11": {
-      "total": 1018,
-      "ai": 570,
+      "total": 1149,
+      "ai": 641,
       "automation": 0,
-      "merges": 9,
+      "merges": 14,
       "by_rule": {
-        "claude_trailer": 567,
+        "claude_trailer": 633,
+        "devin": 5,
         "copilot_trailer": 3,
         "amp_factory": 1,
         "claude_generated": 1

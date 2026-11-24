@@ -3,9 +3,9 @@
   "repo": "yetone/magpie",
   "org": "yetone",
   "language": "Go",
-  "stars": 37948,
+  "stars": 40915,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:59:49Z",
+  "scanned_at": "2026-11-24T14:07:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -32,7 +32,7 @@
       }
     },
     "2026-11": {
-      "total": 3193,
+      "total": 3249,
       "ai": 3,
       "automation": 0,
       "merges": 0,

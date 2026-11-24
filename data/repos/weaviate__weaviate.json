@@ -3,9 +3,9 @@
   "repo": "weaviate/weaviate",
   "org": "weaviate",
   "language": "Go",
-  "stars": 16952,
+  "stars": 16958,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:23:30Z",
+  "scanned_at": "2026-11-24T14:33:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,10 +202,10 @@
       }
     },
     "2026-11": {
-      "total": 999,
+      "total": 1001,
       "ai": 252,
       "automation": 6,
-      "merges": 236,
+      "merges": 238,
       "by_rule": {
         "claude_trailer": 250,
         "copilot_trailer": 2

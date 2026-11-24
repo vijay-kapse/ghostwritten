@@ -3,18 +3,20 @@
   "repo": "JetBrains/intellij-community",
   "org": "JetBrains",
   "language": "Java",
-  "stars": 20739,
+  "stars": 20754,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:08:52Z",
-  "window_start": "2026-04-30",
+  "scanned_at": "2026-11-24T14:17:24Z",
+  "window_start": "2026-04-02",
   "complete": false,
   "months": {
     "2026-04": {
-      "total": 99,
-      "ai": 0,
+      "total": 2691,
+      "ai": 1,
       "automation": 0,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     },
     "2026-05": {
       "total": 3280,
@@ -75,12 +77,12 @@
       }
     },
     "2026-11": {
-      "total": 4336,
-      "ai": 179,
+      "total": 4708,
+      "ai": 185,
       "automation": 0,
       "merges": 8,
       "by_rule": {
-        "claude_trailer": 178,
+        "claude_trailer": 184,
         "claude_generated": 1
       }
     }

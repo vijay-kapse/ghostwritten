@@ -3,9 +3,9 @@
   "repo": "coder/coder",
   "org": "coder",
   "language": "Go",
-  "stars": 17407,
+  "stars": 17466,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:41Z",
+  "scanned_at": "2026-11-24T14:32:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -240,14 +240,14 @@
       }
     },
     "2026-11": {
-      "total": 424,
-      "ai": 25,
+      "total": 466,
+      "ai": 32,
       "automation": 49,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 21,
-        "claude_trailer": 21,
-        "cursor": 2
+        "claude_trailer": 27,
+        "claude_generated": 24,
+        "cursor": 3
       }
     }
   }

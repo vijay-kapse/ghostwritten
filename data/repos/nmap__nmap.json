@@ -3,9 +3,9 @@
   "repo": "nmap/nmap",
   "org": "nmap",
   "language": "C",
-  "stars": 14011,
+  "stars": 14077,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:16:08Z",
+  "scanned_at": "2026-11-24T14:25:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 20,
+      "total": 23,
       "ai": 0,
       "automation": 0,
       "merges": 0,

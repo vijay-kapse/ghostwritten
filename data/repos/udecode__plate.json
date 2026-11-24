@@ -3,9 +3,9 @@
   "repo": "udecode/plate",
   "org": "udecode",
   "language": "TypeScript",
-  "stars": 16708,
+  "stars": 16713,
   "default_branch": "next",
-  "scanned_at": "2026-11-23T13:24:18Z",
+  "scanned_at": "2026-11-24T14:33:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,7 +195,7 @@
       }
     },
     "2026-11": {
-      "total": 981,
+      "total": 1094,
       "ai": 18,
       "automation": 5,
       "merges": 1,

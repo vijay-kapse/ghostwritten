@@ -3,9 +3,9 @@
   "repo": "HumanSignal/label-studio",
   "org": "HumanSignal",
   "language": "TypeScript",
-  "stars": 28716,
+  "stars": 28751,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T12:58:48Z",
+  "scanned_at": "2026-11-24T14:06:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -206,7 +206,7 @@
       }
     },
     "2026-11": {
-      "total": 142,
+      "total": 146,
       "ai": 6,
       "automation": 2,
       "merges": 0,

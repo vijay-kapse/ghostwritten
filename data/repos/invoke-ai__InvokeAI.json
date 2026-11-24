@@ -3,9 +3,9 @@
   "repo": "invoke-ai/InvokeAI",
   "org": "invoke-ai",
   "language": "TypeScript",
-  "stars": 29103,
+  "stars": 29153,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:29Z",
+  "scanned_at": "2026-11-24T14:05:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -208,12 +208,12 @@
       }
     },
     "2026-11": {
-      "total": 174,
-      "ai": 36,
+      "total": 190,
+      "ai": 42,
       "automation": 0,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 35,
+        "claude_trailer": 41,
         "cursor": 1
       }
     }

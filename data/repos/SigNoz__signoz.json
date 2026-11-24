@@ -3,9 +3,9 @@
   "repo": "SigNoz/signoz",
   "org": "SigNoz",
   "language": "TypeScript",
-  "stars": 32667,
+  "stars": 32724,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:58Z",
+  "scanned_at": "2026-11-24T13:59:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,13 +189,13 @@
       }
     },
     "2026-11": {
-      "total": 168,
-      "ai": 10,
+      "total": 182,
+      "ai": 14,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 8,
-        "claude_trailer": 4
+        "claude_generated": 12,
+        "claude_trailer": 5
       }
     }
   }

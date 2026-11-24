@@ -3,9 +3,9 @@
   "repo": "jupyterlab/jupyterlab",
   "org": "jupyterlab",
   "language": "TypeScript",
-  "stars": 15405,
+  "stars": 15419,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:30Z",
+  "scanned_at": "2026-11-24T14:21:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,7 +184,7 @@
       }
     },
     "2026-11": {
-      "total": 113,
+      "total": 115,
       "ai": 8,
       "automation": 8,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "pydantic/pydantic-ai",
   "org": "pydantic",
   "language": "Python",
-  "stars": 21252,
+  "stars": 21363,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:08:18Z",
+  "scanned_at": "2026-11-24T14:16:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -214,9 +214,9 @@
       }
     },
     "2026-11": {
-      "total": 758,
+      "total": 791,
       "ai": 44,
-      "automation": 80,
+      "automation": 81,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 40,

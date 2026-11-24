@@ -3,9 +3,9 @@
   "repo": "microsoft/WSL",
   "org": "microsoft",
   "language": "C++",
-  "stars": 34396,
+  "stars": 34466,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:03:11Z",
+  "scanned_at": "2026-11-24T13:57:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,7 +200,7 @@
       }
     },
     "2026-11": {
-      "total": 101,
+      "total": 105,
       "ai": 17,
       "automation": 0,
       "merges": 0,

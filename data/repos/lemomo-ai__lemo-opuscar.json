@@ -3,9 +3,9 @@
   "repo": "lemomo-ai/lemo-opuscar",
   "org": "lemomo-ai",
   "language": "JavaScript",
-  "stars": 17528,
+  "stars": 20527,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:39Z",
+  "scanned_at": "2026-11-24T14:00:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -26,7 +26,7 @@
       }
     },
     "2026-11": {
-      "total": 54,
+      "total": 55,
       "ai": 3,
       "automation": 0,
       "merges": 6,

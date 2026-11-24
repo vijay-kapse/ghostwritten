@@ -3,9 +3,9 @@
   "repo": "plotly/plotly.py",
   "org": "plotly",
   "language": "Python",
-  "stars": 18908,
+  "stars": 18926,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:00Z",
+  "scanned_at": "2026-11-24T14:19:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,10 +175,10 @@
       }
     },
     "2026-11": {
-      "total": 15,
+      "total": 23,
       "ai": 2,
       "automation": 10,
-      "merges": 32,
+      "merges": 35,
       "by_rule": {
         "claude_trailer": 2
       }

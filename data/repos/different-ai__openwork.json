@@ -3,9 +3,9 @@
   "repo": "different-ai/openwork",
   "org": "different-ai",
   "language": "TypeScript",
-  "stars": 24547,
+  "stars": 24587,
   "default_branch": "dev",
-  "scanned_at": "2026-11-23T13:02:50Z",
+  "scanned_at": "2026-11-24T14:10:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -106,9 +106,9 @@
       }
     },
     "2026-11": {
-      "total": 649,
+      "total": 667,
       "ai": 3,
-      "automation": 18,
+      "automation": 19,
       "merges": 0,
       "by_rule": {
         "cursor": 2,

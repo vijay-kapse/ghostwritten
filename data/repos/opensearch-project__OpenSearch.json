@@ -3,9 +3,9 @@
   "repo": "opensearch-project/OpenSearch",
   "org": "opensearch-project",
   "language": "Java",
-  "stars": 14014,
+  "stars": 14068,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:03Z",
+  "scanned_at": "2026-11-24T14:25:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 60,
+      "total": 67,
       "ai": 1,
       "automation": 7,
       "merges": 0,

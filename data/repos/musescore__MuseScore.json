@@ -3,9 +3,9 @@
   "repo": "musescore/MuseScore",
   "org": "musescore",
   "language": "C++",
-  "stars": 15434,
+  "stars": 15479,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:36Z",
+  "scanned_at": "2026-11-24T14:21:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,10 +176,10 @@
       }
     },
     "2026-11": {
-      "total": 431,
+      "total": 455,
       "ai": 34,
       "automation": 7,
-      "merges": 71,
+      "merges": 74,
       "by_rule": {
         "claude_trailer": 34
       }

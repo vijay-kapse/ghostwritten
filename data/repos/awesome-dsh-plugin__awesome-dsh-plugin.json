@@ -3,9 +3,9 @@
   "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
   "org": "awesome-dsh-plugin",
   "language": "JavaScript",
-  "stars": 24969,
+  "stars": 25559,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:06:51Z",
+  "scanned_at": "2026-11-24T14:15:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -47,12 +47,12 @@
       }
     },
     "2026-11": {
-      "total": 6425,
-      "ai": 101,
-      "automation": 1529,
+      "total": 6710,
+      "ai": 104,
+      "automation": 1577,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 76,
+        "claude_trailer": 79,
         "cursor": 11,
         "gemini": 6,
         "codex_trailer": 4,

@@ -3,9 +3,9 @@
   "repo": "grafana/k6",
   "org": "grafana",
   "language": "Go",
-  "stars": 32335,
+  "stars": 32396,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:04:09Z",
+  "scanned_at": "2026-11-24T13:59:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,7 +192,7 @@
       }
     },
     "2026-11": {
-      "total": 26,
+      "total": 29,
       "ai": 1,
       "automation": 10,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "ImranR98/Obtainium",
   "org": "ImranR98",
   "language": "Dart",
-  "stars": 21614,
+  "stars": 21868,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:08:05Z",
+  "scanned_at": "2026-11-24T14:16:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,10 +166,10 @@
       }
     },
     "2026-11": {
-      "total": 47,
+      "total": 54,
       "ai": 6,
       "automation": 0,
-      "merges": 35,
+      "merges": 39,
       "by_rule": {
         "claude_trailer": 6
       }

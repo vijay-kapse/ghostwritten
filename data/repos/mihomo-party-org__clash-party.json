@@ -3,9 +3,9 @@
   "repo": "mihomo-party-org/clash-party",
   "org": "mihomo-party-org",
   "language": "TypeScript",
-  "stars": 27239,
+  "stars": 27328,
   "default_branch": "smart_core",
-  "scanned_at": "2026-11-23T13:00:09Z",
+  "scanned_at": "2026-11-24T14:07:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,7 +177,7 @@
       }
     },
     "2026-11": {
-      "total": 38,
+      "total": 41,
       "ai": 3,
       "automation": 0,
       "merges": 0,

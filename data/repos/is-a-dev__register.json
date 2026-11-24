@@ -3,19 +3,28 @@
   "repo": "is-a-dev/register",
   "org": "is-a-dev",
   "language": "JavaScript",
-  "stars": 11837,
+  "stars": 11886,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:29:47Z",
-  "window_start": "2026-06-17",
+  "scanned_at": "2026-11-24T14:39:14Z",
+  "window_start": "2026-05-24",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 1067,
-      "ai": 3,
+    "2026-05": {
+      "total": 612,
+      "ai": 1,
       "automation": 0,
-      "merges": 762,
+      "merges": 367,
       "by_rule": {
-        "claude_trailer": 1,
+        "copilot_trailer": 1
+      }
+    },
+    "2026-06": {
+      "total": 2038,
+      "ai": 4,
+      "automation": 0,
+      "merges": 1412,
+      "by_rule": {
+        "claude_trailer": 2,
         "copilot_trailer": 1,
         "cursor": 1
       }
@@ -65,10 +74,10 @@
       }
     },
     "2026-11": {
-      "total": 2943,
+      "total": 3142,
       "ai": 20,
       "automation": 0,
-      "merges": 1813,
+      "merges": 1925,
       "by_rule": {
         "claude_trailer": 20
       }

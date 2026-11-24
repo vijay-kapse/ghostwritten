@@ -3,9 +3,9 @@
   "repo": "lexmount/moli",
   "org": "lexmount",
   "language": "Rust",
-  "stars": 23900,
+  "stars": 24413,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:06:38Z",
+  "scanned_at": "2026-11-24T14:14:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -35,7 +35,7 @@
       }
     },
     "2026-11": {
-      "total": 1223,
+      "total": 1348,
       "ai": 1,
       "automation": 0,
       "merges": 0,

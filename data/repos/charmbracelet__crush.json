@@ -3,9 +3,9 @@
   "repo": "charmbracelet/crush",
   "org": "charmbracelet",
   "language": "Go",
-  "stars": 29106,
+  "stars": 29185,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:33Z",
+  "scanned_at": "2026-11-24T14:05:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,7 +169,7 @@
       }
     },
     "2026-11": {
-      "total": 211,
+      "total": 217,
       "ai": 1,
       "automation": 1,
       "merges": 0,

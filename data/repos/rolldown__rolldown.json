@@ -3,9 +3,9 @@
   "repo": "rolldown/rolldown",
   "org": "rolldown",
   "language": "Rust",
-  "stars": 14028,
+  "stars": 14052,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:15:55Z",
+  "scanned_at": "2026-11-24T14:25:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -225,9 +225,9 @@
       }
     },
     "2026-11": {
-      "total": 313,
+      "total": 330,
       "ai": 14,
-      "automation": 38,
+      "automation": 43,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 8,

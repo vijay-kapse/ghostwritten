@@ -3,9 +3,9 @@
   "repo": "Automattic/wp-calypso",
   "org": "Automattic",
   "language": "TypeScript",
-  "stars": 12651,
+  "stars": 12650,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-23T13:21:07Z",
+  "scanned_at": "2026-11-24T14:30:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -239,12 +239,12 @@
       }
     },
     "2026-11": {
-      "total": 909,
-      "ai": 162,
-      "automation": 13,
+      "total": 959,
+      "ai": 172,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 161,
+        "claude_trailer": 171,
         "copilot_trailer": 2
       }
     }

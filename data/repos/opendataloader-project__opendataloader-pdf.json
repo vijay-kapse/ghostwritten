@@ -3,9 +3,9 @@
   "repo": "opendataloader-project/opendataloader-pdf",
   "org": "opendataloader-project",
   "language": "Java",
-  "stars": 30326,
+  "stars": 30362,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:06:05Z",
+  "scanned_at": "2026-11-24T14:03:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -149,12 +149,12 @@
       }
     },
     "2026-11": {
-      "total": 130,
-      "ai": 112,
-      "automation": 6,
+      "total": 138,
+      "ai": 119,
+      "automation": 7,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 112
+        "claude_trailer": 119
       }
     }
   }

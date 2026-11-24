@@ -3,9 +3,9 @@
   "repo": "icsharpcode/ILSpy",
   "org": "icsharpcode",
   "language": "C#",
-  "stars": 27089,
+  "stars": 27143,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:00:15Z",
+  "scanned_at": "2026-11-24T14:07:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,10 +174,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 69,
+      "total": 76,
       "ai": 2,
-      "automation": 2,
-      "merges": 40,
+      "automation": 4,
+      "merges": 45,
       "by_rule": {
         "copilot_author": 1,
         "copilot_trailer": 1

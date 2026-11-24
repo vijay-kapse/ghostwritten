@@ -3,9 +3,9 @@
   "repo": "meshery/meshery",
   "org": "meshery",
   "language": "Go",
-  "stars": 12225,
+  "stars": 12310,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:28:22Z",
+  "scanned_at": "2026-11-24T14:37:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -222,13 +222,13 @@
       }
     },
     "2026-11": {
-      "total": 1415,
-      "ai": 33,
+      "total": 1521,
+      "ai": 34,
       "automation": 0,
-      "merges": 1509,
+      "merges": 1582,
       "by_rule": {
         "copilot_trailer": 17,
-        "claude_trailer": 15,
+        "claude_trailer": 16,
         "copilot_author": 1
       }
     }

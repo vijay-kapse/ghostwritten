@@ -3,9 +3,9 @@
   "repo": "googleapis/mcp-toolbox",
   "org": "googleapis",
   "language": "Go",
-  "stars": 16895,
+  "stars": 16946,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:04Z",
+  "scanned_at": "2026-11-24T14:33:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,7 +194,7 @@
       }
     },
     "2026-11": {
-      "total": 77,
+      "total": 88,
       "ai": 1,
       "automation": 16,
       "merges": 0,

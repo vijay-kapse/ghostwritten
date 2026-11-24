@@ -3,9 +3,9 @@
   "repo": "Budibase/budibase",
   "org": "Budibase",
   "language": "TypeScript",
-  "stars": 28420,
+  "stars": 28442,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T12:58:54Z",
+  "scanned_at": "2026-11-24T14:06:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,17 +198,17 @@
       }
     },
     "2026-10": {
-      "total": 469,
+      "total": 480,
       "ai": 0,
       "automation": 23,
-      "merges": 456,
+      "merges": 462,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 272,
+      "total": 298,
       "ai": 1,
       "automation": 3,
-      "merges": 205,
+      "merges": 230,
       "by_rule": {
         "claude_trailer": 1
       }

@@ -3,9 +3,9 @@
   "repo": "EverMind-AI/EverOS",
   "org": "EverMind-AI",
   "language": "Python",
-  "stars": 13928,
+  "stars": 13992,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:58Z",
+  "scanned_at": "2026-11-24T14:26:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -55,12 +55,12 @@
       }
     },
     "2026-11": {
-      "total": 51,
-      "ai": 34,
+      "total": 60,
+      "ai": 39,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 30,
+        "claude_trailer": 35,
         "codex_trailer": 4
       }
     }

@@ -3,9 +3,9 @@
   "repo": "arendst/Tasmota",
   "org": "arendst",
   "language": "C",
-  "stars": 24992,
+  "stars": 25020,
   "default_branch": "development",
-  "scanned_at": "2026-11-23T13:02:24Z",
+  "scanned_at": "2026-11-24T14:10:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 143,
+      "total": 146,
       "ai": 7,
       "automation": 0,
       "merges": 0,

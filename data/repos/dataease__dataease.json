@@ -3,9 +3,9 @@
   "repo": "dataease/dataease",
   "org": "dataease",
   "language": "Java",
-  "stars": 24707,
+  "stars": 24736,
   "default_branch": "dev-v3",
-  "scanned_at": "2026-11-23T13:02:35Z",
+  "scanned_at": "2026-11-24T14:10:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,12 +179,12 @@
       }
     },
     "2026-11": {
-      "total": 518,
-      "ai": 63,
+      "total": 536,
+      "ai": 67,
       "automation": 0,
       "merges": 8,
       "by_rule": {
-        "claude_trailer": 63
+        "claude_trailer": 67
       }
     }
   }

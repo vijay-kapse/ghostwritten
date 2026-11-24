@@ -3,9 +3,9 @@
   "repo": "plausible/analytics",
   "org": "plausible",
   "language": "Elixir",
-  "stars": 29870,
+  "stars": 29926,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T12:58:02Z",
+  "scanned_at": "2026-11-24T14:05:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 60,
+      "total": 65,
       "ai": 1,
       "automation": 2,
       "merges": 0,

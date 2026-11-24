@@ -3,9 +3,9 @@
   "repo": "xerj-org/xerj",
   "org": "xerj-org",
   "language": "Rust",
-  "stars": 19180,
+  "stars": 20841,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:15Z",
+  "scanned_at": "2026-11-24T14:19:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -56,10 +56,10 @@
       }
     },
     "2026-11": {
-      "total": 406,
+      "total": 416,
       "ai": 1,
       "automation": 0,
-      "merges": 224,
+      "merges": 231,
       "by_rule": {
         "cursor": 1
       }

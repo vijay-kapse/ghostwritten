@@ -3,9 +3,9 @@
   "repo": "encoredev/encore",
   "org": "encoredev",
   "language": "Go",
-  "stars": 12719,
+  "stars": 12735,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:53Z",
+  "scanned_at": "2026-11-24T14:30:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,7 +172,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 21,
+      "total": 26,
       "ai": 6,
       "automation": 0,
       "merges": 0,

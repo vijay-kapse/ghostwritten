@@ -3,9 +3,9 @@
   "repo": "we-promise/sure",
   "org": "we-promise",
   "language": "Ruby",
-  "stars": 16147,
+  "stars": 17703,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:47Z",
+  "scanned_at": "2026-11-24T14:01:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -221,13 +221,13 @@
       }
     },
     "2026-11": {
-      "total": 372,
-      "ai": 147,
-      "automation": 10,
+      "total": 434,
+      "ai": 180,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 146,
-        "claude_generated": 73
+        "claude_trailer": 178,
+        "claude_generated": 103
       }
     }
   }

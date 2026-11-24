@@ -3,9 +3,9 @@
   "repo": "react/yoga",
   "org": "react",
   "language": "C++",
-  "stars": 18954,
+  "stars": 18961,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:10:49Z",
+  "scanned_at": "2026-11-24T14:19:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,7 +152,7 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 9,
       "ai": 2,
       "automation": 0,
       "merges": 0,

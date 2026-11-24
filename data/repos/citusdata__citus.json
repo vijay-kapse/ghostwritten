@@ -3,9 +3,9 @@
   "repo": "citusdata/citus",
   "org": "citusdata",
   "language": "C",
-  "stars": 12863,
+  "stars": 12868,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:29Z",
+  "scanned_at": "2026-11-24T14:29:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 8,
-      "ai": 4,
+      "total": 10,
+      "ai": 6,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 4
+        "copilot_trailer": 6
       }
     }
   }

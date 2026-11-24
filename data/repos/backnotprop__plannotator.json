@@ -3,9 +3,9 @@
   "repo": "backnotprop/plannotator",
   "org": "backnotprop",
   "language": "TypeScript",
-  "stars": 12883,
+  "stars": 14814,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:10Z",
+  "scanned_at": "2026-11-24T14:10:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,10 +117,10 @@
       }
     },
     "2026-11": {
-      "total": 4740,
+      "total": 5000,
       "ai": 304,
       "automation": 0,
-      "merges": 3556,
+      "merges": 3731,
       "by_rule": {
         "claude_trailer": 297,
         "claude_generated": 9

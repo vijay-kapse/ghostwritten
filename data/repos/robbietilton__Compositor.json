@@ -3,9 +3,9 @@
   "repo": "robbietilton/Compositor",
   "org": "robbietilton",
   "language": "Swift",
-  "stars": 18717,
+  "stars": 18810,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:40Z",
+  "scanned_at": "2026-11-24T14:20:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -28,12 +28,12 @@
       }
     },
     "2026-11": {
-      "total": 120,
-      "ai": 95,
+      "total": 123,
+      "ai": 97,
       "automation": 0,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 95
+        "claude_trailer": 97
       }
     }
   }

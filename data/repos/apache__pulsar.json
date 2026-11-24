@@ -3,9 +3,9 @@
   "repo": "apache/pulsar",
   "org": "apache",
   "language": "Java",
-  "stars": 15361,
+  "stars": 15369,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:12:32Z",
+  "scanned_at": "2026-11-24T14:21:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,12 +193,12 @@
       }
     },
     "2026-11": {
-      "total": 341,
-      "ai": 8,
-      "automation": 18,
+      "total": 370,
+      "ai": 9,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 8
+        "claude_trailer": 9
       }
     }
   }

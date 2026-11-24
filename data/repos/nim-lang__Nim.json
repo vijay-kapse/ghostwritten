@@ -3,9 +3,9 @@
   "repo": "nim-lang/Nim",
   "org": "nim-lang",
   "language": "Nim",
-  "stars": 18313,
+  "stars": 18328,
   "default_branch": "devel",
-  "scanned_at": "2026-11-23T13:12:06Z",
+  "scanned_at": "2026-11-24T14:20:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,13 +187,13 @@
       }
     },
     "2026-11": {
-      "total": 85,
-      "ai": 52,
+      "total": 89,
+      "ai": 55,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 52,
-        "claude_generated": 41
+        "claude_trailer": 55,
+        "claude_generated": 43
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "v8/v8",
   "org": "v8",
   "language": "C++",
-  "stars": 25334,
+  "stars": 25349,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:04Z",
+  "scanned_at": "2026-11-24T14:09:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,12 +173,12 @@
       }
     },
     "2026-11": {
-      "total": 1001,
-      "ai": 30,
+      "total": 1090,
+      "ai": 31,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 30
+        "claude_trailer": 31
       }
     }
   }

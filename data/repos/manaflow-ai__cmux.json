@@ -3,9 +3,9 @@
   "repo": "manaflow-ai/cmux",
   "org": "manaflow-ai",
   "language": "Swift",
-  "stars": 28809,
+  "stars": 28941,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:45Z",
+  "scanned_at": "2026-11-24T14:06:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -114,12 +114,12 @@
       }
     },
     "2026-11": {
-      "total": 564,
-      "ai": 419,
+      "total": 577,
+      "ai": 429,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 402,
+        "claude_trailer": 412,
         "codex_trailer": 19,
         "claude_generated": 1
       }

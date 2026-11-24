@@ -3,9 +3,9 @@
   "repo": "PyO3/pyo3",
   "org": "PyO3",
   "language": "Rust",
-  "stars": 16327,
+  "stars": 16364,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:58Z",
+  "scanned_at": "2026-11-24T14:34:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,9 +180,9 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 22,
       "ai": 1,
-      "automation": 2,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

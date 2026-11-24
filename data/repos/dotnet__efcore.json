@@ -3,9 +3,9 @@
   "repo": "dotnet/efcore",
   "org": "dotnet",
   "language": "C#",
-  "stars": 14822,
+  "stars": 14823,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:13:45Z",
+  "scanned_at": "2026-11-24T14:22:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,9 +205,9 @@
       }
     },
     "2026-11": {
-      "total": 104,
+      "total": 109,
       "ai": 30,
-      "automation": 47,
+      "automation": 48,
       "merges": 27,
       "by_rule": {
         "copilot_author": 22,

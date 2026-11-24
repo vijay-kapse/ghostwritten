@@ -3,9 +3,9 @@
   "repo": "vercel/turborepo",
   "org": "vercel",
   "language": "Rust",
-  "stars": 31359,
+  "stars": 31381,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:25Z",
+  "scanned_at": "2026-11-24T14:00:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -224,9 +224,9 @@
       }
     },
     "2026-11": {
-      "total": 76,
+      "total": 80,
       "ai": 7,
-      "automation": 32,
+      "automation": 35,
       "merges": 0,
       "by_rule": {
         "claude_generated": 7,

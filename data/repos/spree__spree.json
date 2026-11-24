@@ -3,9 +3,9 @@
   "repo": "spree/spree",
   "org": "spree",
   "language": "Ruby",
-  "stars": 15845,
+  "stars": 15848,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:48Z",
+  "scanned_at": "2026-11-24T14:35:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,12 +194,12 @@
       }
     },
     "2026-11": {
-      "total": 261,
-      "ai": 89,
+      "total": 269,
+      "ai": 93,
       "automation": 6,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 89
+        "claude_trailer": 93
       }
     }
   }

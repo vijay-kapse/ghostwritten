@@ -3,9 +3,9 @@
   "repo": "google/elephant-goldfish-model",
   "org": "google",
   "language": "Python",
-  "stars": 20596,
+  "stars": 22544,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:39Z",
+  "scanned_at": "2026-11-24T14:00:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -19,7 +19,7 @@
       }
     },
     "2026-11": {
-      "total": 89,
+      "total": 97,
       "ai": 0,
       "automation": 5,
       "merges": 0,

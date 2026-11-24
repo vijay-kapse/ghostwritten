@@ -3,9 +3,9 @@
   "repo": "heygen-com/hyperframes",
   "org": "heygen-com",
   "language": "TypeScript",
-  "stars": 85593,
+  "stars": 89307,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:55Z",
+  "scanned_at": "2026-11-24T14:01:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -99,12 +99,12 @@
       }
     },
     "2026-11": {
-      "total": 1235,
-      "ai": 264,
+      "total": 1406,
+      "ai": 278,
       "automation": 2,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 263,
+        "claude_trailer": 277,
         "amp_factory": 1
       }
     }

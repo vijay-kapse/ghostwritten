@@ -3,9 +3,9 @@
   "repo": "jundot/omlx",
   "org": "jundot",
   "language": "Python",
-  "stars": 23684,
+  "stars": 23902,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:10Z",
+  "scanned_at": "2026-11-24T14:12:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -104,7 +104,7 @@
       }
     },
     "2026-11": {
-      "total": 308,
+      "total": 328,
       "ai": 46,
       "automation": 8,
       "merges": 0,

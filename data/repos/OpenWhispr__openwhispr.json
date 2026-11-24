@@ -3,9 +3,9 @@
   "repo": "OpenWhispr/openwhispr",
   "org": "OpenWhispr",
   "language": "JavaScript",
-  "stars": 11727,
+  "stars": 12148,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:15Z",
+  "scanned_at": "2026-11-24T14:11:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
       }
     },
     "2026-11": {
-      "total": 186,
+      "total": 195,
       "ai": 17,
       "automation": 3,
       "merges": 18,

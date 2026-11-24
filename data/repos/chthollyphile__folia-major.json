@@ -3,9 +3,9 @@
   "repo": "chthollyphile/folia-major",
   "org": "chthollyphile",
   "language": "TypeScript",
-  "stars": 12922,
+  "stars": 13425,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:41Z",
+  "scanned_at": "2026-11-24T14:00:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -102,10 +102,10 @@
       }
     },
     "2026-11": {
-      "total": 512,
+      "total": 872,
       "ai": 94,
-      "automation": 19,
-      "merges": 205,
+      "automation": 22,
+      "merges": 262,
       "by_rule": {
         "claude_trailer": 94
       }

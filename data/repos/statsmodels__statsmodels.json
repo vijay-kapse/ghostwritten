@@ -3,9 +3,9 @@
   "repo": "statsmodels/statsmodels",
   "org": "statsmodels",
   "language": "Python",
-  "stars": 11752,
+  "stars": 11764,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:29:29Z",
+  "scanned_at": "2026-11-24T14:38:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 579,
+      "total": 692,
       "ai": 155,
       "automation": 7,
-      "merges": 357,
+      "merges": 413,
       "by_rule": {
         "claude_trailer": 154,
         "codex_trailer": 1

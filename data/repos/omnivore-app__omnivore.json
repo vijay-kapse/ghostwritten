@@ -3,9 +3,9 @@
   "repo": "omnivore-app/omnivore",
   "org": "omnivore-app",
   "language": "TypeScript",
-  "stars": 16419,
+  "stars": 16426,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:40Z",
+  "scanned_at": "2026-11-24T14:33:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -124,7 +124,7 @@
       }
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
       "automation": 12,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "scala/scala",
   "org": "scala",
   "language": "Scala",
-  "stars": 14540,
+  "stars": 14545,
   "default_branch": "2.13.x",
-  "scanned_at": "2026-11-23T13:14:34Z",
+  "scanned_at": "2026-11-24T14:23:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,12 +166,12 @@
       }
     },
     "2026-11": {
-      "total": 58,
-      "ai": 7,
+      "total": 73,
+      "ai": 10,
       "automation": 0,
-      "merges": 28,
+      "merges": 38,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 10
       }
     }
   }

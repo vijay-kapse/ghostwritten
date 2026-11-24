@@ -3,9 +3,9 @@
   "repo": "e2e-inc/e2e",
   "org": "e2e-inc",
   "language": "TypeScript",
-  "stars": 13982,
+  "stars": 14171,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:07Z",
+  "scanned_at": "2026-11-24T14:10:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -45,12 +45,12 @@
       }
     },
     "2026-11": {
-      "total": 373,
-      "ai": 91,
-      "automation": 8,
+      "total": 422,
+      "ai": 104,
+      "automation": 10,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 90,
+        "claude_trailer": 103,
         "cursor": 1
       }
     }

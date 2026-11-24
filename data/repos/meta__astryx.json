@@ -3,9 +3,9 @@
   "repo": "meta/astryx",
   "org": "meta",
   "language": "TypeScript",
-  "stars": 29898,
+  "stars": 32759,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:48Z",
+  "scanned_at": "2026-11-24T14:26:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -95,12 +95,12 @@
       }
     },
     "2026-11": {
-      "total": 2898,
-      "ai": 13,
+      "total": 2952,
+      "ai": 14,
       "automation": 10,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11,
+        "claude_trailer": 12,
         "cursor": 2
       }
     }

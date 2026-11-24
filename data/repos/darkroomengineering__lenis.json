@@ -3,9 +3,9 @@
   "repo": "darkroomengineering/lenis",
   "org": "darkroomengineering",
   "language": "TypeScript",
-  "stars": 17316,
+  "stars": 17451,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:57Z",
+  "scanned_at": "2026-11-24T14:32:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -165,11 +165,13 @@
       }
     },
     "2026-11": {
-      "total": 15,
-      "ai": 0,
+      "total": 19,
+      "ai": 4,
       "automation": 0,
-      "merges": 5,
-      "by_rule": {}
+      "merges": 7,
+      "by_rule": {
+        "claude_trailer": 4
+      }
     }
   }
 }

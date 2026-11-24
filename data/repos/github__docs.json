@@ -3,9 +3,9 @@
   "repo": "github/docs",
   "org": "github",
   "language": "TypeScript",
-  "stars": 21476,
+  "stars": 21556,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:08:06Z",
+  "scanned_at": "2026-11-24T14:16:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -228,12 +228,12 @@
       }
     },
     "2026-11": {
-      "total": 247,
-      "ai": 143,
-      "automation": 7,
-      "merges": 74,
+      "total": 258,
+      "ai": 150,
+      "automation": 8,
+      "merges": 81,
       "by_rule": {
-        "copilot_trailer": 136,
+        "copilot_trailer": 143,
         "copilot_author": 17,
         "claude_trailer": 7
       }

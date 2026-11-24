@@ -3,9 +3,9 @@
   "repo": "mastra-ai/mastra",
   "org": "mastra-ai",
   "language": "TypeScript",
-  "stars": 29561,
+  "stars": 29784,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:14Z",
+  "scanned_at": "2026-11-24T14:05:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -253,14 +253,14 @@
       }
     },
     "2026-11": {
-      "total": 833,
-      "ai": 87,
-      "automation": 431,
+      "total": 907,
+      "ai": 93,
+      "automation": 456,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 76,
-        "claude_generated": 55,
-        "devin": 4,
+        "claude_trailer": 81,
+        "claude_generated": 57,
+        "devin": 5,
         "cursor": 3
       }
     }

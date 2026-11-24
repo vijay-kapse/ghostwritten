@@ -3,9 +3,9 @@
   "repo": "elie222/inbox-zero",
   "org": "elie222",
   "language": "TypeScript",
-  "stars": 13058,
+  "stars": 13106,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:17Z",
+  "scanned_at": "2026-11-24T14:29:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -201,12 +201,12 @@
       }
     },
     "2026-11": {
-      "total": 242,
-      "ai": 194,
+      "total": 245,
+      "ai": 197,
       "automation": 0,
       "merges": 5,
       "by_rule": {
-        "claude_trailer": 191,
+        "claude_trailer": 194,
         "cursor": 3
       }
     }

@@ -3,9 +3,9 @@
   "repo": "fmhy/edit",
   "org": "fmhy",
   "language": "JavaScript",
-  "stars": 12843,
+  "stars": 12963,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:52Z",
+  "scanned_at": "2026-11-24T14:30:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,12 +170,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 76,
-      "ai": 2,
-      "automation": 7,
+      "total": 82,
+      "ai": 3,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "devin": 2
+        "devin": 3
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "appium/appium",
   "org": "appium",
   "language": "TypeScript",
-  "stars": 22234,
+  "stars": 22251,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:06:26Z",
+  "scanned_at": "2026-11-24T14:14:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
     "2026-11": {
       "total": 249,
       "ai": 3,
-      "automation": 41,
+      "automation": 44,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

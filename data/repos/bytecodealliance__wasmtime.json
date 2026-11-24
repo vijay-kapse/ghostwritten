@@ -3,9 +3,9 @@
   "repo": "bytecodealliance/wasmtime",
   "org": "bytecodealliance",
   "language": "Rust",
-  "stars": 18866,
+  "stars": 18891,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:02Z",
+  "scanned_at": "2026-11-24T14:19:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,9 +171,9 @@
       }
     },
     "2026-11": {
-      "total": 181,
+      "total": 186,
       "ai": 0,
-      "automation": 5,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     }

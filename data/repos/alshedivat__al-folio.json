@@ -3,9 +3,9 @@
   "repo": "alshedivat/al-folio",
   "org": "alshedivat",
   "language": "HTML",
-  "stars": 16358,
+  "stars": 16376,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:58Z",
+  "scanned_at": "2026-11-24T14:34:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 3,
+      "automation": 4,
       "merges": 0,
       "by_rule": {}
     }

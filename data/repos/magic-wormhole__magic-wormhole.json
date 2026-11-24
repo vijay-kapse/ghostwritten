@@ -3,9 +3,9 @@
   "repo": "magic-wormhole/magic-wormhole",
   "org": "magic-wormhole",
   "language": "Python",
-  "stars": 23109,
+  "stars": 23124,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:04:21Z",
+  "scanned_at": "2026-11-24T14:12:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,17 +143,17 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 9,
+      "total": 11,
       "ai": 0,
       "automation": 0,
       "merges": 6,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 3,
+      "total": 4,
       "ai": 0,
       "automation": 0,
-      "merges": 5,
+      "merges": 6,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "verl-project/verl",
   "org": "verl-project",
   "language": "Python",
-  "stars": 24261,
+  "stars": 24337,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:26Z",
+  "scanned_at": "2026-11-24T14:11:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -248,15 +248,15 @@
       }
     },
     "2026-11": {
-      "total": 88,
-      "ai": 17,
+      "total": 94,
+      "ai": 19,
       "automation": 0,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 8,
-        "cursor": 6,
+        "cursor": 7,
         "claude_generated": 3,
-        "codex_trailer": 2,
+        "codex_trailer": 3,
         "copilot_trailer": 2
       }
     }

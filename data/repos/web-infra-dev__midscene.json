@@ -3,9 +3,9 @@
   "repo": "web-infra-dev/midscene",
   "org": "web-infra-dev",
   "language": "TypeScript",
-  "stars": 15628,
+  "stars": 15744,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:22Z",
+  "scanned_at": "2026-11-24T14:21:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -215,7 +215,7 @@
       }
     },
     "2026-11": {
-      "total": 70,
+      "total": 71,
       "ai": 3,
       "automation": 7,
       "merges": 0,

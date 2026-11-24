@@ -3,9 +3,9 @@
   "repo": "PHP-CS-Fixer/PHP-CS-Fixer",
   "org": "PHP-CS-Fixer",
   "language": "PHP",
-  "stars": 13580,
+  "stars": 13581,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:17:45Z",
+  "scanned_at": "2026-11-24T14:27:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,7 +189,7 @@
     "2026-11": {
       "total": 29,
       "ai": 0,
-      "automation": 4,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     }

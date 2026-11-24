@@ -3,9 +3,9 @@
   "repo": "fyne-io/fyne",
   "org": "fyne-io",
   "language": "Go",
-  "stars": 28844,
+  "stars": 28864,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T12:58:39Z",
+  "scanned_at": "2026-11-24T14:06:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       }
     },
     "2026-11": {
-      "total": 34,
+      "total": 37,
       "ai": 0,
       "automation": 0,
       "merges": 14,

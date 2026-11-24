@@ -3,9 +3,9 @@
   "repo": "storytold/lightcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 16094,
+  "stars": 16369,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:51Z",
+  "scanned_at": "2026-11-24T14:21:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -31,12 +31,12 @@
       }
     },
     "2026-11": {
-      "total": 424,
-      "ai": 94,
+      "total": 453,
+      "ai": 103,
       "automation": 0,
-      "merges": 294,
+      "merges": 305,
       "by_rule": {
-        "claude_trailer": 90,
+        "claude_trailer": 99,
         "codex_trailer": 5,
         "copilot_trailer": 1
       }

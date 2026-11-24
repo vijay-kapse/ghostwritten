@@ -3,9 +3,9 @@
   "repo": "OpenAPITools/openapi-generator",
   "org": "OpenAPITools",
   "language": "Java",
-  "stars": 26860,
+  "stars": 26870,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:00:20Z",
+  "scanned_at": "2026-11-24T14:08:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,14 +196,15 @@
       }
     },
     "2026-11": {
-      "total": 129,
-      "ai": 30,
-      "automation": 24,
+      "total": 133,
+      "ai": 31,
+      "automation": 26,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 25,
         "devin": 14,
         "copilot_trailer": 4,
+        "codex_trailer": 1,
         "cursor": 1
       }
     }

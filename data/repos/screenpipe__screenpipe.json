@@ -3,9 +3,9 @@
   "repo": "screenpipe/screenpipe",
   "org": "screenpipe",
   "language": "Rust",
-  "stars": 22410,
+  "stars": 22525,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:06:22Z",
+  "scanned_at": "2026-11-24T14:14:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 111,
+      "total": 116,
       "ai": 12,
       "automation": 14,
       "merges": 32,

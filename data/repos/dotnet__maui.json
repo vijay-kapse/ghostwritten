@@ -3,9 +3,9 @@
   "repo": "dotnet/maui",
   "org": "dotnet",
   "language": "C#",
-  "stars": 23322,
+  "stars": 23317,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:03Z",
+  "scanned_at": "2026-11-24T14:12:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -230,12 +230,12 @@
       }
     },
     "2026-11": {
-      "total": 71,
-      "ai": 34,
-      "automation": 25,
-      "merges": 1,
+      "total": 77,
+      "ai": 39,
+      "automation": 26,
+      "merges": 2,
       "by_rule": {
-        "copilot_trailer": 34
+        "copilot_trailer": 39
       }
     }
   }

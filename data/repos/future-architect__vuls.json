@@ -3,9 +3,9 @@
   "repo": "future-architect/vuls",
   "org": "future-architect",
   "language": "Go",
-  "stars": 12351,
+  "stars": 12366,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:27:18Z",
+  "scanned_at": "2026-11-24T14:36:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 2,
+      "total": 5,
+      "ai": 3,
       "automation": 4,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 3
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "aws/aws-cdk",
   "org": "aws",
   "language": "TypeScript",
-  "stars": 12981,
+  "stars": 12992,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:05Z",
+  "scanned_at": "2026-11-24T14:29:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 119,
+      "total": 124,
       "ai": 1,
       "automation": 4,
       "merges": 9,

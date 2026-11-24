@@ -3,9 +3,9 @@
   "repo": "open-jarvis/OpenJarvis",
   "org": "open-jarvis",
   "language": "Python",
-  "stars": 16188,
+  "stars": 18434,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:20Z",
+  "scanned_at": "2026-11-24T14:29:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -89,7 +89,7 @@
     "2026-11": {
       "total": 51,
       "ai": 13,
-      "automation": 28,
+      "automation": 29,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 12,

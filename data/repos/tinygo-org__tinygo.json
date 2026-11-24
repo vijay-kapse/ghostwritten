@@ -3,9 +3,9 @@
   "repo": "tinygo-org/tinygo",
   "org": "tinygo-org",
   "language": "Go",
-  "stars": 17919,
+  "stars": 17934,
   "default_branch": "dev",
-  "scanned_at": "2026-11-23T13:21:44Z",
+  "scanned_at": "2026-11-24T14:31:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -150,7 +150,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 381,
+      "total": 396,
       "ai": 1,
       "automation": 0,
       "merges": 0,

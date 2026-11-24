@@ -3,9 +3,9 @@
   "repo": "kvcache-ai/ktransformers",
   "org": "kvcache-ai",
   "language": "Python",
-  "stars": 19680,
+  "stars": 19697,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:10:07Z",
+  "scanned_at": "2026-11-24T14:18:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 4,
+      "total": 7,
       "ai": 1,
       "automation": 1,
       "merges": 0,

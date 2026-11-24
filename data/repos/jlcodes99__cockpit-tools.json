@@ -3,9 +3,9 @@
   "repo": "jlcodes99/cockpit-tools",
   "org": "jlcodes99",
   "language": "Rust",
-  "stars": 20066,
+  "stars": 20389,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:10:07Z",
+  "scanned_at": "2026-11-24T14:18:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -91,7 +91,7 @@
       }
     },
     "2026-11": {
-      "total": 139,
+      "total": 141,
       "ai": 5,
       "automation": 8,
       "merges": 152,

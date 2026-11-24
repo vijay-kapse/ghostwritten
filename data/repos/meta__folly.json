@@ -3,9 +3,9 @@
   "repo": "meta/folly",
   "org": "meta",
   "language": "C++",
-  "stars": 30561,
+  "stars": 30566,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:05:59Z",
+  "scanned_at": "2026-11-24T14:03:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,7 +174,7 @@
       }
     },
     "2026-11": {
-      "total": 539,
+      "total": 566,
       "ai": 1,
       "automation": 4,
       "merges": 0,

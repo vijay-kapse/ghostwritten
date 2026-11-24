@@ -3,9 +3,9 @@
   "repo": "electron-userland/electron-builder",
   "org": "electron-userland",
   "language": "TypeScript",
-  "stars": 14716,
+  "stars": 14725,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:14:10Z",
+  "scanned_at": "2026-11-24T14:23:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 65,
-      "ai": 31,
+      "total": 68,
+      "ai": 32,
       "automation": 10,
       "merges": 0,
       "by_rule": {
-        "other_bot_agent": 20,
+        "other_bot_agent": 21,
         "claude_trailer": 16,
         "claude_generated": 9
       }

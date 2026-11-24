@@ -3,9 +3,9 @@
   "repo": "EveryInc/compound-engineering-plugin",
   "org": "EveryInc",
   "language": "TypeScript",
-  "stars": 26133,
+  "stars": 26217,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:01:23Z",
+  "scanned_at": "2026-11-24T14:09:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -142,12 +142,12 @@
       }
     },
     "2026-11": {
-      "total": 92,
-      "ai": 2,
-      "automation": 14,
+      "total": 93,
+      "ai": 3,
+      "automation": 15,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1,
+        "claude_trailer": 2,
         "cursor": 1
       }
     }

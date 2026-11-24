@@ -3,9 +3,9 @@
   "repo": "tangency-labs/solidcraft",
   "org": "tangency-labs",
   "language": "Rust",
-  "stars": 16765,
+  "stars": 18029,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:25Z",
+  "scanned_at": "2026-11-24T14:29:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -23,16 +23,16 @@
       }
     },
     "2026-11": {
-      "total": 4473,
-      "ai": 2735,
+      "total": 4840,
+      "ai": 2983,
       "automation": 132,
       "merges": 28,
       "by_rule": {
-        "claude_trailer": 2683,
-        "codex_trailer": 49,
+        "claude_trailer": 2918,
+        "codex_trailer": 64,
         "cursor": 14,
-        "openhands": 5,
-        "copilot_trailer": 3
+        "openhands": 6,
+        "copilot_trailer": 4
       }
     }
   }

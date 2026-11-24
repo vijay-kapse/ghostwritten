@@ -3,9 +3,9 @@
   "repo": "hypit-ai/hypit",
   "org": "hypit-ai",
   "language": "TypeScript",
-  "stars": 30338,
+  "stars": 31339,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:59:55Z",
+  "scanned_at": "2026-11-24T14:07:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -44,7 +44,7 @@
       }
     },
     "2026-11": {
-      "total": 10,
+      "total": 13,
       "ai": 0,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "grafana/grafana",
   "org": "grafana",
   "language": "TypeScript",
-  "stars": 77959,
+  "stars": 78083,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:50Z",
+  "scanned_at": "2026-11-24T14:01:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -231,14 +231,14 @@
       }
     },
     "2026-11": {
-      "total": 1037,
-      "ai": 215,
-      "automation": 93,
+      "total": 1117,
+      "ai": 231,
+      "automation": 101,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 184,
-        "cursor": 33,
-        "copilot_trailer": 2
+        "claude_trailer": 191,
+        "cursor": 41,
+        "copilot_trailer": 3
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "debezium/debezium",
   "org": "debezium",
   "language": "Java",
-  "stars": 13358,
+  "stars": 13375,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:18:26Z",
+  "scanned_at": "2026-11-24T14:27:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 313,
+      "total": 318,
       "ai": 5,
       "automation": 2,
       "merges": 0,

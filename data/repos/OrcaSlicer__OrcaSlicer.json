@@ -3,9 +3,9 @@
   "repo": "OrcaSlicer/OrcaSlicer",
   "org": "OrcaSlicer",
   "language": "C++",
-  "stars": 16520,
+  "stars": 16625,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:01Z",
+  "scanned_at": "2026-11-24T14:34:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,7 +203,7 @@
       }
     },
     "2026-11": {
-      "total": 266,
+      "total": 280,
       "ai": 12,
       "automation": 0,
       "merges": 0,

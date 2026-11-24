@@ -3,9 +3,9 @@
   "repo": "bytebase/bytebase",
   "org": "bytebase",
   "language": "TypeScript",
-  "stars": 14720,
+  "stars": 14738,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:14:16Z",
+  "scanned_at": "2026-11-24T14:23:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -215,12 +215,12 @@
       }
     },
     "2026-11": {
-      "total": 319,
-      "ai": 163,
-      "automation": 115,
+      "total": 325,
+      "ai": 164,
+      "automation": 118,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 163
+        "claude_trailer": 164
       }
     }
   }

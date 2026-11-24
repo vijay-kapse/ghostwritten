@@ -3,9 +3,9 @@
   "repo": "DrewThomasson/ebook2audiobook",
   "org": "DrewThomasson",
   "language": "Python",
-  "stars": 20572,
+  "stars": 20652,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:09:00Z",
+  "scanned_at": "2026-11-24T14:17:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,12 +176,12 @@
       }
     },
     "2026-11": {
-      "total": 321,
-      "ai": 212,
-      "automation": 38,
-      "merges": 99,
+      "total": 333,
+      "ai": 223,
+      "automation": 44,
+      "merges": 115,
       "by_rule": {
-        "claude_trailer": 212
+        "claude_trailer": 223
       }
     }
   }

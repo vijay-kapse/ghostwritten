@@ -3,9 +3,9 @@
   "repo": "anefzaoui/misterdownloadmanager",
   "org": "anefzaoui",
   "language": "Rust",
-  "stars": 11494,
+  "stars": 17652,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:18Z",
+  "scanned_at": "2026-11-24T14:11:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -19,12 +19,12 @@
       }
     },
     "2026-11": {
-      "total": 675,
-      "ai": 411,
-      "automation": 8,
+      "total": 703,
+      "ai": 437,
+      "automation": 12,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 411,
+        "claude_trailer": 437,
         "devin": 1
       }
     }

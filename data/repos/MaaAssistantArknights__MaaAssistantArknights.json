@@ -3,9 +3,9 @@
   "repo": "MaaAssistantArknights/MaaAssistantArknights",
   "org": "MaaAssistantArknights",
   "language": "C++",
-  "stars": 24605,
+  "stars": 24754,
   "default_branch": "dev-v2",
-  "scanned_at": "2026-11-23T13:03:01Z",
+  "scanned_at": "2026-11-24T14:10:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -213,9 +213,9 @@
       }
     },
     "2026-11": {
-      "total": 183,
+      "total": 192,
       "ai": 1,
-      "automation": 57,
+      "automation": 63,
       "merges": 20,
       "by_rule": {
         "claude_trailer": 1

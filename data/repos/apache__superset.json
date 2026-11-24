@@ -3,9 +3,9 @@
   "repo": "apache/superset",
   "org": "apache",
   "language": "Python",
-  "stars": 75541,
+  "stars": 75655,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:05:00Z",
+  "scanned_at": "2026-11-24T14:01:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -219,12 +219,12 @@
       }
     },
     "2026-11": {
-      "total": 297,
-      "ai": 113,
-      "automation": 97,
+      "total": 312,
+      "ai": 117,
+      "automation": 118,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 111,
+        "claude_trailer": 115,
         "codex_trailer": 2,
         "cursor": 1
       }

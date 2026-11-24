@@ -3,9 +3,9 @@
   "repo": "twpayne/chezmoi",
   "org": "twpayne",
   "language": "Go",
-  "stars": 22289,
+  "stars": 22351,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:06:29Z",
+  "scanned_at": "2026-11-24T14:14:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,7 +167,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 44,
+      "total": 45,
       "ai": 0,
       "automation": 0,
       "merges": 0,

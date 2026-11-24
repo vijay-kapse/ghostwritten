@@ -3,9 +3,9 @@
   "repo": "mnfst/awesome-free-llm-apis",
   "org": "mnfst",
   "language": "JavaScript",
-  "stars": 13495,
+  "stars": 14088,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:28:56Z",
+  "scanned_at": "2026-11-24T14:38:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -70,10 +70,10 @@
       }
     },
     "2026-11": {
-      "total": 23,
+      "total": 26,
       "ai": 1,
-      "automation": 8,
-      "merges": 14,
+      "automation": 9,
+      "merges": 17,
       "by_rule": {
         "claude_trailer": 1
       }

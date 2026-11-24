@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "repo": "KKKKhazix/AIHOT",
+  "org": "KKKKhazix",
+  "language": "TypeScript",
+  "stars": 11343,
+  "default_branch": "main",
+  "scanned_at": "2026-11-24T13:56:06Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-09": {
+      "total": 26,
+      "ai": 2,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 2
+      }
+    },
+    "2026-10": {
+      "total": 150,
+      "ai": 38,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 38
+      }
+    },
+    "2026-11": {
+      "total": 182,
+      "ai": 28,
+      "automation": 2,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 28
+      }
+    }
+  }
+}

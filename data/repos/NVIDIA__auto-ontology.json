@@ -3,9 +3,9 @@
   "repo": "NVIDIA/auto-ontology",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 13479,
+  "stars": 14752,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:08Z",
+  "scanned_at": "2026-11-24T14:10:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -69,12 +69,12 @@
       }
     },
     "2026-11": {
-      "total": 57,
-      "ai": 1,
+      "total": 65,
+      "ai": 2,
       "automation": 0,
-      "merges": 11,
+      "merges": 14,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     }
   }

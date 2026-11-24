@@ -3,9 +3,9 @@
   "repo": "ceph/ceph",
   "org": "ceph",
   "language": "C++",
-  "stars": 17238,
+  "stars": 17257,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:47Z",
+  "scanned_at": "2026-11-24T14:32:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,10 +184,10 @@
       }
     },
     "2026-11": {
-      "total": 492,
+      "total": 541,
       "ai": 15,
       "automation": 0,
-      "merges": 350,
+      "merges": 375,
       "by_rule": {
         "claude_trailer": 15
       }

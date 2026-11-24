@@ -3,9 +3,9 @@
   "repo": "WordPress/gutenberg",
   "org": "WordPress",
   "language": "TypeScript",
-  "stars": 11794,
+  "stars": 11798,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-23T13:29:18Z",
+  "scanned_at": "2026-11-24T14:38:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -222,12 +222,12 @@
       }
     },
     "2026-11": {
-      "total": 612,
-      "ai": 85,
-      "automation": 19,
+      "total": 656,
+      "ai": 91,
+      "automation": 20,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 82,
+        "claude_trailer": 88,
         "copilot_trailer": 4
       }
     }

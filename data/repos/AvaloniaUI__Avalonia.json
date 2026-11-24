@@ -3,9 +3,9 @@
   "repo": "AvaloniaUI/Avalonia",
   "org": "AvaloniaUI",
   "language": "C#",
-  "stars": 31829,
+  "stars": 31867,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:17Z",
+  "scanned_at": "2026-11-24T13:59:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,12 +198,12 @@
       }
     },
     "2026-11": {
-      "total": 79,
-      "ai": 26,
+      "total": 85,
+      "ai": 27,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 24,
+        "claude_trailer": 25,
         "copilot_trailer": 2
       }
     }

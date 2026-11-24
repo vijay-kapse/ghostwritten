@@ -3,9 +3,9 @@
   "repo": "adonisjs/core",
   "org": "adonisjs",
   "language": "TypeScript",
-  "stars": 19183,
+  "stars": 19193,
   "default_branch": "7.x",
-  "scanned_at": "2026-11-23T13:10:37Z",
+  "scanned_at": "2026-11-24T14:19:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
     "2026-11": {
       "total": 4,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

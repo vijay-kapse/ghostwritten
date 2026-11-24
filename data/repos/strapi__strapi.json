@@ -3,9 +3,9 @@
   "repo": "strapi/strapi",
   "org": "strapi",
   "language": "TypeScript",
-  "stars": 73503,
+  "stars": 73538,
   "default_branch": "develop",
-  "scanned_at": "2026-11-22T12:05:05Z",
+  "scanned_at": "2026-11-24T14:01:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,12 +191,12 @@
       }
     },
     "2026-11": {
-      "total": 303,
-      "ai": 98,
+      "total": 330,
+      "ai": 107,
       "automation": 15,
-      "merges": 73,
+      "merges": 76,
       "by_rule": {
-        "claude_trailer": 97,
+        "claude_trailer": 106,
         "copilot_trailer": 1
       }
     }

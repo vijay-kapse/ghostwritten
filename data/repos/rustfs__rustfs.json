@@ -3,9 +3,9 @@
   "repo": "rustfs/rustfs",
   "org": "rustfs",
   "language": "Rust",
-  "stars": 36196,
+  "stars": 36465,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:02:53Z",
+  "scanned_at": "2026-11-24T13:56:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -220,12 +220,12 @@
       }
     },
     "2026-11": {
-      "total": 638,
-      "ai": 18,
+      "total": 852,
+      "ai": 20,
       "automation": 2,
-      "merges": 0,
+      "merges": 1,
       "by_rule": {
-        "copilot_trailer": 9,
+        "copilot_trailer": 11,
         "claude_trailer": 5,
         "cursor": 4
       }

@@ -3,9 +3,9 @@
   "repo": "jub0t/Concat",
   "org": "jub0t",
   "language": "Rust",
-  "stars": 18267,
+  "stars": 19955,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:17:49Z",
+  "scanned_at": "2026-11-24T14:27:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -38,12 +38,12 @@
       }
     },
     "2026-11": {
-      "total": 380,
-      "ai": 365,
+      "total": 397,
+      "ai": 382,
       "automation": 2,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 360,
+        "claude_trailer": 377,
         "cursor": 5
       }
     }

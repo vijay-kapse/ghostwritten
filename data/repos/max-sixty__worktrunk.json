@@ -3,9 +3,9 @@
   "repo": "max-sixty/worktrunk",
   "org": "max-sixty",
   "language": "Rust",
-  "stars": 12585,
+  "stars": 12728,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:42Z",
+  "scanned_at": "2026-11-24T14:00:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -143,9 +143,9 @@
       }
     },
     "2026-11": {
-      "total": 145,
+      "total": 155,
       "ai": 15,
-      "automation": 32,
+      "automation": 38,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 15,

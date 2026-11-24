@@ -3,9 +3,9 @@
   "repo": "OWASP/CheatSheetSeries",
   "org": "OWASP",
   "language": "JavaScript",
-  "stars": 34090,
+  "stars": 34177,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:03:21Z",
+  "scanned_at": "2026-11-24T13:57:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,9 +197,9 @@
       }
     },
     "2026-11": {
-      "total": 57,
+      "total": 64,
       "ai": 5,
-      "automation": 7,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 4,

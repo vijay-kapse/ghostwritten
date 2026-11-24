@@ -3,9 +3,9 @@
   "repo": "NVIDIA/TensorRT-LLM",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 15084,
+  "stars": 15128,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:13:26Z",
+  "scanned_at": "2026-11-24T14:22:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,7 +194,7 @@
       }
     },
     "2026-11": {
-      "total": 797,
+      "total": 843,
       "ai": 21,
       "automation": 0,
       "merges": 0,

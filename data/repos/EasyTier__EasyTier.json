@@ -3,9 +3,9 @@
   "repo": "EasyTier/EasyTier",
   "org": "EasyTier",
   "language": "Rust",
-  "stars": 14802,
+  "stars": 14944,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:14:37Z",
+  "scanned_at": "2026-11-24T14:23:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,7 +195,7 @@
       }
     },
     "2026-11": {
-      "total": 37,
+      "total": 39,
       "ai": 2,
       "automation": 0,
       "merges": 0,

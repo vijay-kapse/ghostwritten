@@ -3,9 +3,9 @@
   "repo": "grpc-ecosystem/grpc-gateway",
   "org": "grpc-ecosystem",
   "language": "Go",
-  "stars": 20013,
+  "stars": 20016,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:09:28Z",
+  "scanned_at": "2026-11-24T14:18:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,9 +193,9 @@
       }
     },
     "2026-11": {
-      "total": 34,
+      "total": 35,
       "ai": 9,
-      "automation": 63,
+      "automation": 67,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 9

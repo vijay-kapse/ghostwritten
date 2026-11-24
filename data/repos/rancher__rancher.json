@@ -3,9 +3,9 @@
   "repo": "rancher/rancher",
   "org": "rancher",
   "language": "Go",
-  "stars": 26065,
+  "stars": 26075,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:01:14Z",
+  "scanned_at": "2026-11-24T14:08:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,9 +196,9 @@
       }
     },
     "2026-11": {
-      "total": 49,
+      "total": 52,
       "ai": 2,
-      "automation": 68,
+      "automation": 77,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1,

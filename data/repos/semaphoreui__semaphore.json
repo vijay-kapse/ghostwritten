@@ -3,9 +3,9 @@
   "repo": "semaphoreui/semaphore",
   "org": "semaphoreui",
   "language": "Go",
-  "stars": 14420,
+  "stars": 14452,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:15:00Z",
+  "scanned_at": "2026-11-24T14:24:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -216,10 +216,10 @@
       }
     },
     "2026-11": {
-      "total": 254,
+      "total": 282,
       "ai": 29,
       "automation": 4,
-      "merges": 42,
+      "merges": 46,
       "by_rule": {
         "claude_trailer": 28,
         "copilot_trailer": 1

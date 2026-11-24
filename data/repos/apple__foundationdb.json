@@ -3,9 +3,9 @@
   "repo": "apple/foundationdb",
   "org": "apple",
   "language": "C++",
-  "stars": 16866,
+  "stars": 16874,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:00Z",
+  "scanned_at": "2026-11-24T14:33:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 106,
+      "total": 107,
       "ai": 2,
       "automation": 0,
       "merges": 36,

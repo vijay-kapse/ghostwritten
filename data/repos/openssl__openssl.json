@@ -3,9 +3,9 @@
   "repo": "openssl/openssl",
   "org": "openssl",
   "language": "C",
-  "stars": 31469,
+  "stars": 31522,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:04:26Z",
+  "scanned_at": "2026-11-24T14:00:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,7 +184,7 @@
       }
     },
     "2026-11": {
-      "total": 224,
+      "total": 253,
       "ai": 0,
       "automation": 8,
       "merges": 0,

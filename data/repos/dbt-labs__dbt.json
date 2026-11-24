@@ -3,9 +3,9 @@
   "repo": "dbt-labs/dbt",
   "org": "dbt-labs",
   "language": "Rust",
-  "stars": 14182,
+  "stars": 14207,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:15:38Z",
+  "scanned_at": "2026-11-24T14:24:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,12 +194,12 @@
       }
     },
     "2026-11": {
-      "total": 263,
-      "ai": 69,
+      "total": 290,
+      "ai": 87,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 68,
+        "claude_trailer": 86,
         "claude_generated": 2
       }
     }

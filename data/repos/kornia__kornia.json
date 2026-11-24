@@ -3,9 +3,9 @@
   "repo": "kornia/kornia",
   "org": "kornia",
   "language": "Python",
-  "stars": 12392,
+  "stars": 12406,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:29:23Z",
+  "scanned_at": "2026-11-24T14:38:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,12 +194,12 @@
       }
     },
     "2026-11": {
-      "total": 219,
-      "ai": 113,
-      "automation": 5,
+      "total": 261,
+      "ai": 130,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 112,
+        "claude_trailer": 129,
         "copilot_trailer": 1
       }
     }

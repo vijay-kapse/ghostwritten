@@ -3,9 +3,9 @@
   "repo": "suitenumerique/docs",
   "org": "suitenumerique",
   "language": "TypeScript",
-  "stars": 16995,
+  "stars": 17007,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:23:25Z",
+  "scanned_at": "2026-11-24T14:32:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 95,
+      "total": 106,
       "ai": 0,
       "automation": 3,
       "merges": 0,

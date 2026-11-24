@@ -3,9 +3,9 @@
   "repo": "capnproto/capnproto",
   "org": "capnproto",
   "language": "C++",
-  "stars": 13253,
+  "stars": 13260,
   "default_branch": "v2",
-  "scanned_at": "2026-11-23T13:19:10Z",
+  "scanned_at": "2026-11-24T14:28:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,7 +177,7 @@
       }
     },
     "2026-11": {
-      "total": 27,
+      "total": 28,
       "ai": 13,
       "automation": 0,
       "merges": 7,

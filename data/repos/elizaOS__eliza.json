@@ -2,65 +2,20 @@
   "schema": 1,
   "repo": "elizaOS/eliza",
   "org": "elizaOS",
-  "language": "TypeScript",
-  "stars": 19892,
-  "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:10:01Z",
-  "window_start": "2026-07-10",
+  "language": "Java",
+  "stars": 19915,
+  "default_branch": "main",
+  "scanned_at": "2026-11-24T14:18:35Z",
+  "window_start": "2026-11-16",
   "complete": false,
   "months": {
-    "2026-07": {
-      "total": 1233,
-      "ai": 379,
-      "automation": 43,
-      "merges": 258,
-      "by_rule": {
-        "claude_trailer": 378,
-        "cursor": 1
-      }
-    },
-    "2026-08": {
-      "total": 7883,
-      "ai": 1221,
-      "automation": 38,
-      "merges": 1521,
-      "by_rule": {
-        "claude_trailer": 1108,
-        "cursor": 95,
-        "codex_trailer": 29,
-        "devin": 4,
-        "amp_factory": 1
-      }
-    },
-    "2026-09": {
-      "total": 3598,
-      "ai": 399,
-      "automation": 37,
-      "merges": 1068,
-      "by_rule": {
-        "claude_trailer": 398,
-        "cursor": 1
-      }
-    },
-    "2026-10": {
-      "total": 6495,
-      "ai": 2264,
-      "automation": 82,
-      "merges": 3591,
-      "by_rule": {
-        "claude_trailer": 2059,
-        "cursor": 203,
-        "codex_trailer": 16
-      }
-    },
     "2026-11": {
-      "total": 2591,
-      "ai": 920,
-      "automation": 31,
-      "merges": 1318,
+      "total": 1890,
+      "ai": 489,
+      "automation": 1,
+      "merges": 1109,
       "by_rule": {
-        "claude_trailer": 912,
-        "cursor": 8
+        "claude_trailer": 489
       }
     }
   }

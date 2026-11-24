@@ -3,9 +3,9 @@
   "repo": "Atlas-OS/Atlas",
   "org": "Atlas-OS",
   "language": "PowerShell",
-  "stars": 22135,
+  "stars": 22227,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:06:42Z",
+  "scanned_at": "2026-11-24T14:15:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -145,11 +145,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 58,
-      "ai": 0,
+      "total": 79,
+      "ai": 1,
       "automation": 3,
-      "merges": 5,
-      "by_rule": {}
+      "merges": 8,
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

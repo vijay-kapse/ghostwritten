@@ -3,9 +3,9 @@
   "repo": "openai/openai-agents-python",
   "org": "openai",
   "language": "Python",
-  "stars": 30733,
+  "stars": 30852,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:06:00Z",
+  "scanned_at": "2026-11-24T14:03:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -156,9 +156,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 36,
+      "total": 52,
       "ai": 0,
-      "automation": 29,
+      "automation": 34,
       "merges": 0,
       "by_rule": {}
     }

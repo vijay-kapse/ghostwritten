@@ -3,9 +3,9 @@
   "repo": "lichess-org/lila",
   "org": "lichess-org",
   "language": "Scala",
-  "stars": 18994,
+  "stars": 19017,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:10:51Z",
+  "scanned_at": "2026-11-24T14:19:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,10 +189,10 @@
       }
     },
     "2026-11": {
-      "total": 453,
+      "total": 462,
       "ai": 13,
-      "automation": 29,
-      "merges": 175,
+      "automation": 30,
+      "merges": 179,
       "by_rule": {
         "claude_trailer": 12,
         "copilot_trailer": 1

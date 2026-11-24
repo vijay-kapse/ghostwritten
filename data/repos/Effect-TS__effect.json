@@ -3,9 +3,9 @@
   "repo": "Effect-TS/effect",
   "org": "Effect-TS",
   "language": "TypeScript",
-  "stars": 17590,
+  "stars": 17671,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:23Z",
+  "scanned_at": "2026-11-24T14:31:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,12 +195,12 @@
       }
     },
     "2026-11": {
-      "total": 319,
-      "ai": 14,
+      "total": 347,
+      "ai": 18,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12,
+        "claude_trailer": 16,
         "cursor": 2
       }
     }

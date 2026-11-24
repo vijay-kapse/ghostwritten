@@ -3,9 +3,9 @@
   "repo": "labring/FastGPT",
   "org": "labring",
   "language": "TypeScript",
-  "stars": 30051,
+  "stars": 30096,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:57:35Z",
+  "scanned_at": "2026-11-24T14:04:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,12 +203,12 @@
       }
     },
     "2026-11": {
-      "total": 225,
-      "ai": 15,
-      "automation": 5,
+      "total": 242,
+      "ai": 17,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 15
+        "claude_trailer": 17
       }
     }
   }

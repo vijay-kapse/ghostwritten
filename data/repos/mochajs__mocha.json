@@ -3,9 +3,9 @@
   "repo": "mochajs/mocha",
   "org": "mochajs",
   "language": "JavaScript",
-  "stars": 22910,
+  "stars": 22906,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:27Z",
+  "scanned_at": "2026-11-24T14:12:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 1,
-      "ai": 1,
+      "total": 2,
+      "ai": 2,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 1
+        "copilot_trailer": 2
       }
     }
   }

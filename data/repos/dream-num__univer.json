@@ -3,9 +3,9 @@
   "repo": "dream-num/univer",
   "org": "dream-num",
   "language": "TypeScript",
-  "stars": 28648,
+  "stars": 31636,
   "default_branch": "dev",
-  "scanned_at": "2026-11-23T13:04:28Z",
+  "scanned_at": "2026-11-24T14:12:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,12 +169,12 @@
       }
     },
     "2026-11": {
-      "total": 177,
-      "ai": 1,
+      "total": 193,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

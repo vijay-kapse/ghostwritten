@@ -3,9 +3,9 @@
   "repo": "netbootxyz/netboot.xyz",
   "org": "netbootxyz",
   "language": "Jinja",
-  "stars": 12628,
+  "stars": 12717,
   "default_branch": "development",
-  "scanned_at": "2026-11-23T13:26:39Z",
+  "scanned_at": "2026-11-24T14:36:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,7 +182,7 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 37,
       "ai": 0,
       "automation": 1,
       "merges": 2,

@@ -3,9 +3,9 @@
   "repo": "Leantime/leantime",
   "org": "Leantime",
   "language": "PHP",
-  "stars": 12116,
+  "stars": 12140,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:28:51Z",
+  "scanned_at": "2026-11-24T14:38:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,12 +188,12 @@
       }
     },
     "2026-11": {
-      "total": 73,
-      "ai": 72,
+      "total": 77,
+      "ai": 76,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 72
+        "claude_trailer": 76
       }
     }
   }

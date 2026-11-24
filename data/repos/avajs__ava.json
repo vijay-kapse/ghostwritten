@@ -3,9 +3,9 @@
   "repo": "avajs/ava",
   "org": "avajs",
   "language": "JavaScript",
-  "stars": 20828,
+  "stars": 20825,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:08:24Z",
+  "scanned_at": "2026-11-24T14:16:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -75,12 +75,12 @@
       }
     },
     "2026-11": {
-      "total": 4,
-      "ai": 1,
+      "total": 5,
+      "ai": 2,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 1
+        "copilot_trailer": 2
       }
     }
   }

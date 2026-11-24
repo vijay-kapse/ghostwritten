@@ -3,9 +3,9 @@
   "repo": "scikit-learn/scikit-learn",
   "org": "scikit-learn",
   "language": "Python",
-  "stars": 68209,
+  "stars": 68309,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:05:42Z",
+  "scanned_at": "2026-11-24T14:02:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,13 +179,13 @@
       }
     },
     "2026-11": {
-      "total": 81,
-      "ai": 14,
+      "total": 92,
+      "ai": 16,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11,
-        "cursor": 2,
+        "claude_trailer": 12,
+        "cursor": 3,
         "copilot_trailer": 1
       }
     }

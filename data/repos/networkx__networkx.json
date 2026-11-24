@@ -3,9 +3,9 @@
   "repo": "networkx/networkx",
   "org": "networkx",
   "language": "Python",
-  "stars": 17396,
+  "stars": 17416,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:30Z",
+  "scanned_at": "2026-11-24T14:31:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 16,
+      "total": 17,
       "ai": 1,
       "automation": 3,
       "merges": 0,

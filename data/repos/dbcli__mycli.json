@@ -3,9 +3,9 @@
   "repo": "dbcli/mycli",
   "org": "dbcli",
   "language": "Python",
-  "stars": 11997,
+  "stars": 12001,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:28:48Z",
+  "scanned_at": "2026-11-24T14:38:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,10 +170,10 @@
       }
     },
     "2026-11": {
-      "total": 51,
+      "total": 53,
       "ai": 3,
       "automation": 5,
-      "merges": 56,
+      "merges": 58,
       "by_rule": {
         "claude_trailer": 3
       }

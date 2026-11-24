@@ -3,9 +3,9 @@
   "repo": "QwikDev/qwik",
   "org": "QwikDev",
   "language": "TypeScript",
-  "stars": 22071,
+  "stars": 22073,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:06:35Z",
+  "scanned_at": "2026-11-24T14:14:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -192,10 +192,10 @@
       }
     },
     "2026-11": {
-      "total": 361,
+      "total": 370,
       "ai": 86,
       "automation": 1,
-      "merges": 150,
+      "merges": 157,
       "by_rule": {
         "claude_trailer": 86
       }

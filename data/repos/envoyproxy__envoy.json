@@ -3,9 +3,9 @@
   "repo": "envoyproxy/envoy",
   "org": "envoyproxy",
   "language": "C++",
-  "stars": 29250,
+  "stars": 29287,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:18Z",
+  "scanned_at": "2026-11-24T14:05:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,7 +210,7 @@
       }
     },
     "2026-11": {
-      "total": 366,
+      "total": 392,
       "ai": 11,
       "automation": 54,
       "merges": 0,

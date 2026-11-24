@@ -3,9 +3,9 @@
   "repo": "sidekiq/sidekiq",
   "org": "sidekiq",
   "language": "Ruby",
-  "stars": 13570,
+  "stars": 13571,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:17:45Z",
+  "scanned_at": "2026-11-24T14:27:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,11 +164,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 4,
-      "ai": 0,
+      "total": 5,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

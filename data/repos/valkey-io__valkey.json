@@ -3,9 +3,9 @@
   "repo": "valkey-io/valkey",
   "org": "valkey-io",
   "language": "C",
-  "stars": 27731,
+  "stars": 27850,
   "default_branch": "unstable",
-  "scanned_at": "2026-11-23T12:59:46Z",
+  "scanned_at": "2026-11-24T14:07:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,7 +172,7 @@
       }
     },
     "2026-11": {
-      "total": 139,
+      "total": 143,
       "ai": 0,
       "automation": 0,
       "merges": 0,

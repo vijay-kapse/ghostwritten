@@ -3,9 +3,9 @@
   "repo": "microsoft/react-native-windows",
   "org": "microsoft",
   "language": "C++",
-  "stars": 17377,
+  "stars": 17384,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:33Z",
+  "scanned_at": "2026-11-24T14:31:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -201,12 +201,12 @@
       }
     },
     "2026-11": {
-      "total": 24,
-      "ai": 17,
-      "automation": 12,
+      "total": 26,
+      "ai": 18,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
-        "copilot_trailer": 17
+        "copilot_trailer": 18
       }
     }
   }

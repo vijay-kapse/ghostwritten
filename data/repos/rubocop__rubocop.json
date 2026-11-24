@@ -3,9 +3,9 @@
   "repo": "rubocop/rubocop",
   "org": "rubocop",
   "language": "Ruby",
-  "stars": 12925,
+  "stars": 12924,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:20:13Z",
+  "scanned_at": "2026-11-24T14:29:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,10 +180,10 @@
       }
     },
     "2026-11": {
-      "total": 231,
+      "total": 233,
       "ai": 0,
       "automation": 0,
-      "merges": 148,
+      "merges": 150,
       "by_rule": {}
     }
   }

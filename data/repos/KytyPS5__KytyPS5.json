@@ -3,9 +3,9 @@
   "repo": "KytyPS5/KytyPS5",
   "org": "KytyPS5",
   "language": "C++",
-  "stars": 11403,
+  "stars": 12651,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:20Z",
+  "scanned_at": "2026-11-24T14:11:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -47,12 +47,12 @@
       }
     },
     "2026-11": {
-      "total": 346,
-      "ai": 4,
+      "total": 389,
+      "ai": 5,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 5
       }
     }
   }

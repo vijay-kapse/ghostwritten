@@ -3,9 +3,9 @@
   "repo": "microsoft/windows-rs",
   "org": "microsoft",
   "language": "Rust",
-  "stars": 12924,
+  "stars": 12948,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:20:18Z",
+  "scanned_at": "2026-11-24T14:29:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,7 +190,7 @@
       }
     },
     "2026-11": {
-      "total": 146,
+      "total": 151,
       "ai": 0,
       "automation": 0,
       "merges": 0,

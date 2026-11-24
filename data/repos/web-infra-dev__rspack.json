@@ -3,9 +3,9 @@
   "repo": "web-infra-dev/rspack",
   "org": "web-infra-dev",
   "language": "Rust",
-  "stars": 12983,
+  "stars": 12994,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:03Z",
+  "scanned_at": "2026-11-24T14:29:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -228,12 +228,12 @@
       }
     },
     "2026-11": {
-      "total": 281,
-      "ai": 11,
+      "total": 301,
+      "ai": 12,
       "automation": 33,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 9,
+        "claude_trailer": 10,
         "copilot_trailer": 2,
         "codex_trailer": 1
       }

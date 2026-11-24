@@ -3,9 +3,9 @@
   "repo": "opensandbox-group/OpenSandbox",
   "org": "opensandbox-group",
   "language": "Go",
-  "stars": 17431,
+  "stars": 17869,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:48Z",
+  "scanned_at": "2026-11-24T14:34:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -127,12 +127,12 @@
       }
     },
     "2026-11": {
-      "total": 750,
-      "ai": 72,
+      "total": 809,
+      "ai": 77,
       "automation": 0,
-      "merges": 414,
+      "merges": 442,
       "by_rule": {
-        "claude_trailer": 44,
+        "claude_trailer": 49,
         "cursor": 28
       }
     }

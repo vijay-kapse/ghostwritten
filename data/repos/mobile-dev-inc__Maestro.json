@@ -3,9 +3,9 @@
   "repo": "mobile-dev-inc/Maestro",
   "org": "mobile-dev-inc",
   "language": "Kotlin",
-  "stars": 16429,
+  "stars": 16503,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:56Z",
+  "scanned_at": "2026-11-24T14:34:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,9 +185,9 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 18,
       "ai": 1,
-      "automation": 2,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "headroomlabs-ai/headroom",
   "org": "headroomlabs-ai",
   "language": "Python",
-  "stars": 79879,
+  "stars": 80725,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:20Z",
+  "scanned_at": "2026-11-24T13:59:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -121,13 +121,13 @@
       }
     },
     "2026-11": {
-      "total": 317,
-      "ai": 164,
+      "total": 322,
+      "ai": 169,
       "automation": 37,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 146,
-        "claude_generated": 120,
+        "claude_trailer": 151,
+        "claude_generated": 124,
         "copilot_trailer": 9,
         "cursor": 6,
         "devin": 2,

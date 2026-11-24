@@ -3,9 +3,9 @@
   "repo": "composer/composer",
   "org": "composer",
   "language": "PHP",
-  "stars": 29579,
+  "stars": 29589,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:05Z",
+  "scanned_at": "2026-11-24T14:05:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 57,
+      "total": 68,
       "ai": 4,
       "automation": 2,
       "merges": 0,

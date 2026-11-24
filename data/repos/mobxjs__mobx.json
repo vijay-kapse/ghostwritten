@@ -3,9 +3,9 @@
   "repo": "mobxjs/mobx",
   "org": "mobxjs",
   "language": "TypeScript",
-  "stars": 28212,
+  "stars": 28215,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:59:00Z",
+  "scanned_at": "2026-11-24T14:06:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -149,7 +149,7 @@
       }
     },
     "2026-11": {
-      "total": 20,
+      "total": 22,
       "ai": 1,
       "automation": 7,
       "merges": 0,

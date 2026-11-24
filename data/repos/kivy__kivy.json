@@ -3,9 +3,9 @@
   "repo": "kivy/kivy",
   "org": "kivy",
   "language": "Python",
-  "stars": 19028,
+  "stars": 19033,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:10:42Z",
+  "scanned_at": "2026-11-24T14:19:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -171,7 +171,7 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 34,
       "ai": 3,
       "automation": 2,
       "merges": 11,

@@ -3,9 +3,9 @@
   "repo": "vectordotdev/vector",
   "org": "vectordotdev",
   "language": "Rust",
-  "stars": 22886,
+  "stars": 22948,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:04:32Z",
+  "scanned_at": "2026-11-24T14:12:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,9 +199,9 @@
       }
     },
     "2026-11": {
-      "total": 171,
+      "total": 178,
       "ai": 9,
-      "automation": 28,
+      "automation": 31,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 9

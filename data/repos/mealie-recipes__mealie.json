@@ -3,9 +3,9 @@
   "repo": "mealie-recipes/mealie",
   "org": "mealie-recipes",
   "language": "Python",
-  "stars": 13920,
+  "stars": 13981,
   "default_branch": "mealie-next",
-  "scanned_at": "2026-11-23T13:16:55Z",
+  "scanned_at": "2026-11-24T14:26:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
     "2026-11": {
       "total": 99,
       "ai": 6,
-      "automation": 117,
+      "automation": 122,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 6

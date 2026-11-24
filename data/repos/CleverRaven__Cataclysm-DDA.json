@@ -3,9 +3,9 @@
   "repo": "CleverRaven/Cataclysm-DDA",
   "org": "CleverRaven",
   "language": "C++",
-  "stars": 13542,
+  "stars": 13569,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:18:00Z",
+  "scanned_at": "2026-11-24T14:27:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,10 +164,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 269,
+      "total": 279,
       "ai": 0,
       "automation": 0,
-      "merges": 82,
+      "merges": 85,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "sweetalert2/sweetalert2",
   "org": "sweetalert2",
   "language": "JavaScript",
-  "stars": 18103,
+  "stars": 18101,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:21:24Z",
+  "scanned_at": "2026-11-24T14:30:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 2,
-      "ai": 2,
-      "automation": 0,
+      "total": 6,
+      "ai": 6,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 6
       }
     }
   }

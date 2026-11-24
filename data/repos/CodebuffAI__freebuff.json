@@ -3,9 +3,9 @@
   "repo": "CodebuffAI/freebuff",
   "org": "CodebuffAI",
   "language": "TypeScript",
-  "stars": 14204,
+  "stars": 14291,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:09Z",
+  "scanned_at": "2026-11-24T14:25:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 440,
+      "automation": 468,
       "merges": 0,
       "by_rule": {}
     }

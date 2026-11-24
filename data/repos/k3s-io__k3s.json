@@ -3,9 +3,9 @@
   "repo": "k3s-io/k3s",
   "org": "k3s-io",
   "language": "Go",
-  "stars": 34424,
+  "stars": 34507,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:10Z",
+  "scanned_at": "2026-11-24T13:57:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,11 +166,14 @@
       }
     },
     "2026-11": {
-      "total": 8,
-      "ai": 0,
+      "total": 18,
+      "ai": 6,
       "automation": 5,
-      "merges": 0,
-      "by_rule": {}
+      "merges": 1,
+      "by_rule": {
+        "copilot_trailer": 4,
+        "claude_trailer": 2
+      }
     }
   }
 }

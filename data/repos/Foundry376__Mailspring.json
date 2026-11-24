@@ -3,9 +3,9 @@
   "repo": "Foundry376/Mailspring",
   "org": "Foundry376",
   "language": "TypeScript",
-  "stars": 18010,
+  "stars": 18026,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:21:31Z",
+  "scanned_at": "2026-11-24T14:30:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -135,12 +135,12 @@
       }
     },
     "2026-11": {
-      "total": 74,
-      "ai": 62,
+      "total": 78,
+      "ai": 66,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 62
+        "claude_trailer": 66
       }
     }
   }

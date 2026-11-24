@@ -3,9 +3,9 @@
   "repo": "kopia/kopia",
   "org": "kopia",
   "language": "Go",
-  "stars": 14729,
+  "stars": 14808,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:14:28Z",
+  "scanned_at": "2026-11-24T14:23:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,9 +177,9 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 14,
       "ai": 3,
-      "automation": 38,
+      "automation": 40,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2,

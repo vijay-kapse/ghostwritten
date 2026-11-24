@@ -3,9 +3,9 @@
   "repo": "dolthub/dolt",
   "org": "dolthub",
   "language": "Go",
-  "stars": 24926,
+  "stars": 24971,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:29Z",
+  "scanned_at": "2026-11-24T14:10:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -198,7 +198,7 @@
       }
     },
     "2026-10": {
-      "total": 301,
+      "total": 302,
       "ai": 91,
       "automation": 1,
       "merges": 92,
@@ -207,12 +207,12 @@
       }
     },
     "2026-11": {
-      "total": 265,
-      "ai": 79,
+      "total": 293,
+      "ai": 83,
       "automation": 1,
-      "merges": 130,
+      "merges": 149,
       "by_rule": {
-        "claude_trailer": 79
+        "claude_trailer": 83
       }
     }
   }

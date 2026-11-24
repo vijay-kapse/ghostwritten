@@ -3,9 +3,9 @@
   "repo": "unocss/unocss",
   "org": "unocss",
   "language": "TypeScript",
-  "stars": 18986,
+  "stars": 18992,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:10:47Z",
+  "scanned_at": "2026-11-24T14:19:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
       }
     },
     "2026-11": {
-      "total": 39,
+      "total": 40,
       "ai": 1,
       "automation": 0,
       "merges": 0,

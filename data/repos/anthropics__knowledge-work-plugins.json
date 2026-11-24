@@ -3,9 +3,9 @@
   "repo": "anthropics/knowledge-work-plugins",
   "org": "anthropics",
   "language": "Python",
-  "stars": 36360,
+  "stars": 36770,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:09Z",
+  "scanned_at": "2026-11-24T13:57:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -94,7 +94,7 @@
       }
     },
     "2026-11": {
-      "total": 8,
+      "total": 10,
       "ai": 5,
       "automation": 9,
       "merges": 6,

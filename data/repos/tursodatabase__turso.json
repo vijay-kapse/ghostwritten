@@ -3,9 +3,9 @@
   "repo": "tursodatabase/turso",
   "org": "tursodatabase",
   "language": "Rust",
-  "stars": 25278,
+  "stars": 25335,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:13Z",
+  "scanned_at": "2026-11-24T14:09:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,12 +209,12 @@
       }
     },
     "2026-11": {
-      "total": 1250,
-      "ai": 512,
+      "total": 1388,
+      "ai": 577,
       "automation": 3,
-      "merges": 364,
+      "merges": 403,
       "by_rule": {
-        "claude_trailer": 512
+        "claude_trailer": 577
       }
     }
   }

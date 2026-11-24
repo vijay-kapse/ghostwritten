@@ -3,9 +3,9 @@
   "repo": "rust-lang/rust-analyzer",
   "org": "rust-lang",
   "language": "Rust",
-  "stars": 17000,
+  "stars": 17015,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:23:24Z",
+  "scanned_at": "2026-11-24T14:32:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,10 +174,10 @@
       }
     },
     "2026-11": {
-      "total": 111,
+      "total": 115,
       "ai": 0,
       "automation": 3,
-      "merges": 133,
+      "merges": 137,
       "by_rule": {}
     }
   }

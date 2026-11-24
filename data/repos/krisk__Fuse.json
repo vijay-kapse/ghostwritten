@@ -3,9 +3,9 @@
   "repo": "krisk/Fuse",
   "org": "krisk",
   "language": "JavaScript",
-  "stars": 20531,
+  "stars": 20537,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:09:01Z",
+  "scanned_at": "2026-11-24T14:17:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -61,7 +61,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 38,
+      "total": 49,
       "ai": 1,
       "automation": 0,
       "merges": 0,

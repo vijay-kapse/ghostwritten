@@ -3,9 +3,9 @@
   "repo": "bagisto/opensource-ecommerce-mobile-app",
   "org": "bagisto",
   "language": "Dart",
-  "stars": 16092,
+  "stars": 16100,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:21Z",
+  "scanned_at": "2026-11-24T14:34:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -91,6 +91,13 @@
       "by_rule": {
         "claude_trailer": 2
       }
+    },
+    "2026-11": {
+      "total": 1,
+      "ai": 0,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {}
     }
   }
 }

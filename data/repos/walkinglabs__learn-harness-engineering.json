@@ -3,9 +3,9 @@
   "repo": "walkinglabs/learn-harness-engineering",
   "org": "walkinglabs",
   "language": "TypeScript",
-  "stars": 25224,
+  "stars": 26006,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:29Z",
+  "scanned_at": "2026-11-24T14:12:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,19 +76,19 @@
       }
     },
     "2026-10": {
-      "total": 5,
+      "total": 6,
       "ai": 0,
       "automation": 0,
       "merges": 0,
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
-      "ai": 2,
+      "total": 10,
+      "ai": 5,
       "automation": 0,
-      "merges": 0,
+      "merges": 5,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 5
       }
     }
   }

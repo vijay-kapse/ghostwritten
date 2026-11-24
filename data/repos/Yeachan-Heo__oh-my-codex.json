@@ -3,9 +3,9 @@
   "repo": "Yeachan-Heo/oh-my-codex",
   "org": "Yeachan-Heo",
   "language": "TypeScript",
-  "stars": 33797,
+  "stars": 33842,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:24Z",
+  "scanned_at": "2026-11-24T13:58:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -96,10 +96,10 @@
       }
     },
     "2026-11": {
-      "total": 106,
+      "total": 139,
       "ai": 3,
-      "automation": 5,
-      "merges": 52,
+      "automation": 6,
+      "merges": 78,
       "by_rule": {
         "codex_trailer": 2,
         "claude_trailer": 1

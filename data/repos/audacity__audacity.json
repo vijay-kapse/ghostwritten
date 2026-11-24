@@ -3,9 +3,9 @@
   "repo": "audacity/audacity",
   "org": "audacity",
   "language": "C++",
-  "stars": 19091,
+  "stars": 19164,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:10:54Z",
+  "scanned_at": "2026-11-24T14:19:32Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,8 +177,8 @@
     "2026-11": {
       "total": 254,
       "ai": 3,
-      "automation": 10,
-      "merges": 53,
+      "automation": 11,
+      "merges": 54,
       "by_rule": {
         "claude_trailer": 2,
         "copilot_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "diesel-rs/diesel",
   "org": "diesel-rs",
   "language": "Rust",
-  "stars": 14267,
+  "stars": 14281,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:15:17Z",
+  "scanned_at": "2026-11-24T14:24:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,12 +166,12 @@
       }
     },
     "2026-11": {
-      "total": 59,
-      "ai": 7,
+      "total": 66,
+      "ai": 14,
       "automation": 0,
-      "merges": 47,
+      "merges": 48,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 14
       }
     }
   }

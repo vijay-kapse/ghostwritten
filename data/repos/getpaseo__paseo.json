@@ -3,9 +3,9 @@
   "repo": "getpaseo/paseo",
   "org": "getpaseo",
   "language": "TypeScript",
-  "stars": 24230,
+  "stars": 24910,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:35Z",
+  "scanned_at": "2026-11-24T14:12:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -136,9 +136,9 @@
       }
     },
     "2026-11": {
-      "total": 304,
+      "total": 312,
       "ai": 23,
-      "automation": 219,
+      "automation": 223,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 21,

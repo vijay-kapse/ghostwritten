@@ -3,9 +3,9 @@
   "repo": "element-hq/element-web",
   "org": "element-hq",
   "language": "TypeScript",
-  "stars": 13665,
+  "stars": 13676,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:17:33Z",
+  "scanned_at": "2026-11-24T14:26:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,9 +176,9 @@
       }
     },
     "2026-11": {
-      "total": 152,
+      "total": 158,
       "ai": 7,
-      "automation": 78,
+      "automation": 82,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 7

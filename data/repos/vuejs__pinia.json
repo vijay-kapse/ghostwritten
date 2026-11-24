@@ -3,9 +3,9 @@
   "repo": "vuejs/pinia",
   "org": "vuejs",
   "language": "TypeScript",
-  "stars": 14764,
+  "stars": 14772,
   "default_branch": "v4",
-  "scanned_at": "2026-11-23T13:13:53Z",
+  "scanned_at": "2026-11-24T14:22:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 11,
+      "total": 12,
       "ai": 0,
       "automation": 0,
       "merges": 0,

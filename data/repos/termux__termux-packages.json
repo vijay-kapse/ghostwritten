@@ -3,9 +3,9 @@
   "repo": "termux/termux-packages",
   "org": "termux",
   "language": "Shell",
-  "stars": 17388,
+  "stars": 17441,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:22:40Z",
+  "scanned_at": "2026-11-24T14:32:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 1399,
+      "total": 1440,
       "ai": 0,
       "automation": 2,
       "merges": 0,

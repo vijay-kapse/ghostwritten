@@ -3,9 +3,9 @@
   "repo": "jhipster/generator-jhipster",
   "org": "jhipster",
   "language": "TypeScript",
-  "stars": 22461,
+  "stars": 22463,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:52Z",
+  "scanned_at": "2026-11-24T14:13:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,9 +182,9 @@
       }
     },
     "2026-11": {
-      "total": 281,
+      "total": 303,
       "ai": 7,
-      "automation": 210,
+      "automation": 219,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 7

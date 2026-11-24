@@ -3,9 +3,9 @@
   "repo": "assafelovic/gpt-researcher",
   "org": "assafelovic",
   "language": "Python",
-  "stars": 30751,
+  "stars": 30884,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:05:58Z",
+  "scanned_at": "2026-11-24T14:03:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,14 @@
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 16,
-      "automation": 0,
-      "merges": 53,
+      "total": 106,
+      "ai": 43,
+      "automation": 1,
+      "merges": 113,
       "by_rule": {
-        "cursor": 16
+        "cursor": 40,
+        "claude_trailer": 2,
+        "codex_trailer": 1
       }
     }
   }

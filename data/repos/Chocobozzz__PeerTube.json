@@ -3,9 +3,9 @@
   "repo": "Chocobozzz/PeerTube",
   "org": "Chocobozzz",
   "language": "TypeScript",
-  "stars": 15415,
+  "stars": 15428,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:12:29Z",
+  "scanned_at": "2026-11-24T14:21:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 174,
+      "total": 180,
       "ai": 1,
       "automation": 0,
       "merges": 2,

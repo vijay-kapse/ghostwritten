@@ -3,9 +3,9 @@
   "repo": "temporalio/temporal",
   "org": "temporalio",
   "language": "Go",
-  "stars": 24452,
+  "stars": 24583,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:24Z",
+  "scanned_at": "2026-11-24T14:11:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -205,13 +205,13 @@
       }
     },
     "2026-11": {
-      "total": 132,
-      "ai": 30,
+      "total": 140,
+      "ai": 35,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 26,
-        "claude_generated": 12,
+        "claude_trailer": 31,
+        "claude_generated": 16,
         "copilot_trailer": 3
       }
     }

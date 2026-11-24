@@ -3,9 +3,9 @@
   "repo": "CapSoftware/Cap",
   "org": "CapSoftware",
   "language": "Rust",
-  "stars": 25160,
+  "stars": 25520,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:58Z",
+  "scanned_at": "2026-11-24T14:10:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,10 +199,10 @@
       }
     },
     "2026-11": {
-      "total": 2530,
+      "total": 2892,
       "ai": 22,
       "automation": 0,
-      "merges": 1445,
+      "merges": 1487,
       "by_rule": {
         "claude_trailer": 22
       }

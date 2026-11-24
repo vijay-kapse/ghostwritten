@@ -3,9 +3,9 @@
   "repo": "PipedreamHQ/pipedream",
   "org": "PipedreamHQ",
   "language": "JavaScript",
-  "stars": 11789,
+  "stars": 11797,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:29:20Z",
+  "scanned_at": "2026-11-24T14:38:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,7 +210,7 @@
       }
     },
     "2026-11": {
-      "total": 47,
+      "total": 50,
       "ai": 26,
       "automation": 1,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "cilium/cilium",
   "org": "cilium",
   "language": "Go",
-  "stars": 25858,
+  "stars": 25898,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:01:27Z",
+  "scanned_at": "2026-11-24T14:09:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 412,
+      "total": 446,
       "ai": 0,
       "automation": 23,
       "merges": 0,

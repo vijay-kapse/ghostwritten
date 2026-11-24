@@ -3,9 +3,9 @@
   "repo": "t8y2/dbx",
   "org": "t8y2",
   "language": "Rust",
-  "stars": 30595,
+  "stars": 31316,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:50Z",
+  "scanned_at": "2026-11-24T14:06:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,9 +73,9 @@
       }
     },
     "2026-11": {
-      "total": 669,
+      "total": 706,
       "ai": 6,
-      "automation": 59,
+      "automation": 66,
       "merges": 1,
       "by_rule": {
         "claude_trailer": 3,

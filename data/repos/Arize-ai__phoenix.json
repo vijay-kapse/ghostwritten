@@ -3,9 +3,9 @@
   "repo": "Arize-ai/phoenix",
   "org": "Arize-ai",
   "language": "Python",
-  "stars": 12325,
+  "stars": 12397,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:28:23Z",
+  "scanned_at": "2026-11-24T14:37:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,12 +207,12 @@
       }
     },
     "2026-11": {
-      "total": 161,
-      "ai": 52,
-      "automation": 64,
+      "total": 179,
+      "ai": 60,
+      "automation": 68,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 51,
+        "claude_trailer": 59,
         "amp_factory": 2
       }
     }

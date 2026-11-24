@@ -3,9 +3,9 @@
   "repo": "earthtojake/text-to-cad",
   "org": "earthtojake",
   "language": "Python",
-  "stars": 26584,
+  "stars": 27317,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:32Z",
+  "scanned_at": "2026-11-24T14:10:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,12 +73,12 @@
       }
     },
     "2026-11": {
-      "total": 54,
-      "ai": 41,
+      "total": 56,
+      "ai": 43,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 41,
+        "claude_trailer": 43,
         "claude_generated": 22
       }
     }

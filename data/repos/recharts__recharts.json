@@ -3,9 +3,9 @@
   "repo": "recharts/recharts",
   "org": "recharts",
   "language": "TypeScript",
-  "stars": 27716,
+  "stars": 27745,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:59:43Z",
+  "scanned_at": "2026-11-24T14:07:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -227,9 +227,9 @@
       }
     },
     "2026-11": {
-      "total": 98,
+      "total": 106,
       "ai": 40,
-      "automation": 9,
+      "automation": 12,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 40,

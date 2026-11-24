@@ -3,9 +3,9 @@
   "repo": "goharbor/harbor",
   "org": "goharbor",
   "language": "Go",
-  "stars": 29746,
+  "stars": 29793,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:03Z",
+  "scanned_at": "2026-11-24T14:05:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 16,
       "ai": 1,
       "automation": 4,
       "merges": 0,

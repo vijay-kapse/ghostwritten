@@ -3,9 +3,9 @@
   "repo": "xmake-io/xmake",
   "org": "xmake-io",
   "language": "Lua",
-  "stars": 12304,
+  "stars": 12314,
   "default_branch": "dev",
-  "scanned_at": "2026-11-23T13:27:27Z",
+  "scanned_at": "2026-11-24T14:36:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,11 +174,13 @@
       }
     },
     "2026-11": {
-      "total": 36,
-      "ai": 0,
+      "total": 40,
+      "ai": 1,
       "automation": 0,
-      "merges": 24,
-      "by_rule": {}
+      "merges": 25,
+      "by_rule": {
+        "copilot_trailer": 1
+      }
     }
   }
 }

@@ -3,9 +3,9 @@
   "repo": "deepset-ai/haystack",
   "org": "deepset-ai",
   "language": "Python",
-  "stars": 27026,
+  "stars": 27101,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:00:18Z",
+  "scanned_at": "2026-11-24T14:07:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,9 +190,9 @@
       }
     },
     "2026-11": {
-      "total": 210,
+      "total": 221,
       "ai": 16,
-      "automation": 15,
+      "automation": 17,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 13,

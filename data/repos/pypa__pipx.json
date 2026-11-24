@@ -3,9 +3,9 @@
   "repo": "pypa/pipx",
   "org": "pypa",
   "language": "Python",
-  "stars": 13001,
+  "stars": 13023,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:19:57Z",
+  "scanned_at": "2026-11-24T14:29:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -135,12 +135,12 @@
       }
     },
     "2026-11": {
-      "total": 47,
-      "ai": 1,
-      "automation": 14,
+      "total": 56,
+      "ai": 2,
+      "automation": 16,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "pypa/pipenv",
   "org": "pypa",
   "language": "Python",
-  "stars": 25023,
+  "stars": 25021,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:20Z",
+  "scanned_at": "2026-11-24T14:10:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 33,
       "ai": 9,
       "automation": 0,
-      "merges": 20,
+      "merges": 22,
       "by_rule": {
         "claude_trailer": 9
       }

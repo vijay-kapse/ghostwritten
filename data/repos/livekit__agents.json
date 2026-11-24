@@ -3,9 +3,9 @@
   "repo": "livekit/agents",
   "org": "livekit",
   "language": "Python",
-  "stars": 15259,
+  "stars": 15326,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:13:19Z",
+  "scanned_at": "2026-11-24T14:22:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,12 +212,12 @@
       }
     },
     "2026-11": {
-      "total": 171,
-      "ai": 50,
+      "total": 177,
+      "ai": 52,
       "automation": 9,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 46,
+        "claude_trailer": 48,
         "devin": 3,
         "cursor": 2
       }

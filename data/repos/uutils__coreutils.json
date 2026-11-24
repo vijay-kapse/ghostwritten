@@ -3,9 +3,9 @@
   "repo": "uutils/coreutils",
   "org": "uutils",
   "language": "Rust",
-  "stars": 24377,
+  "stars": 24442,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:54Z",
+  "scanned_at": "2026-11-24T14:10:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 473,
+      "total": 479,
       "ai": 17,
       "automation": 38,
       "merges": 0,

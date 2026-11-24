@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "repo": "horizon-rust/horizon",
+  "org": "horizon-rust",
+  "language": "Rust",
+  "stars": 11923,
+  "default_branch": "main",
+  "scanned_at": "2026-11-24T13:55:50Z",
+  "window_start": "2026-11-14",
+  "complete": false,
+  "months": {
+    "2026-11": {
+      "total": 2579,
+      "ai": 685,
+      "automation": 1,
+      "merges": 420,
+      "by_rule": {
+        "claude_trailer": 542,
+        "codex_trailer": 203
+      }
+    }
+  }
+}

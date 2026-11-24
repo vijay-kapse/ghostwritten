@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "repo": "AgriciDaniel/claude-ads",
+  "org": "AgriciDaniel",
+  "language": "Python",
+  "stars": 11293,
+  "default_branch": "main",
+  "scanned_at": "2026-11-24T13:56:07Z",
+  "window_start": "2025-01-01",
+  "complete": true,
+  "months": {
+    "2026-02": {
+      "total": 9,
+      "ai": 9,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-03": {
+      "total": 8,
+      "ai": 8,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 8
+      }
+    },
+    "2026-04": {
+      "total": 11,
+      "ai": 9,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 9
+      }
+    },
+    "2026-05": {
+      "total": 33,
+      "ai": 21,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 21
+      }
+    },
+    "2026-07": {
+      "total": 39,
+      "ai": 5,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 5
+      }
+    },
+    "2026-08": {
+      "total": 4,
+      "ai": 4,
+      "automation": 0,
+      "merges": 0,
+      "by_rule": {
+        "codex_trailer": 4
+      }
+    },
+    "2026-09": {
+      "total": 13,
+      "ai": 11,
+      "automation": 0,
+      "merges": 1,
+      "by_rule": {
+        "claude_trailer": 11
+      }
+    },
+    "2026-10": {
+      "total": 22,
+      "ai": 22,
+      "automation": 0,
+      "merges": 3,
+      "by_rule": {
+        "claude_trailer": 19,
+        "codex_trailer": 3
+      }
+    }
+  }
+}

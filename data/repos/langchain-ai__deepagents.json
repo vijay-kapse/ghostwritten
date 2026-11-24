@@ -3,9 +3,9 @@
   "repo": "langchain-ai/deepagents",
   "org": "langchain-ai",
   "language": "Python",
-  "stars": 31352,
+  "stars": 31553,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:49Z",
+  "scanned_at": "2026-11-24T14:01:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -155,9 +155,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 185,
+      "total": 199,
       "ai": 12,
-      "automation": 131,
+      "automation": 149,
       "merges": 1,
       "by_rule": {
         "claude_generated": 11,

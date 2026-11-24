@@ -3,9 +3,9 @@
   "repo": "mvt-project/mvt",
   "org": "mvt-project",
   "language": "Python",
-  "stars": 16095,
+  "stars": 16178,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:26:01Z",
+  "scanned_at": "2026-11-24T14:35:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 6,
+      "total": 7,
       "ai": 0,
       "automation": 0,
       "merges": 12,

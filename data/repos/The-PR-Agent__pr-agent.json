@@ -3,9 +3,9 @@
   "repo": "The-PR-Agent/pr-agent",
   "org": "The-PR-Agent",
   "language": "Python",
-  "stars": 16317,
+  "stars": 16623,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:39Z",
+  "scanned_at": "2026-11-24T14:26:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 375,
-      "ai": 49,
+      "total": 382,
+      "ai": 50,
       "automation": 12,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 43,
+        "claude_trailer": 44,
         "copilot_trailer": 6
       }
     }

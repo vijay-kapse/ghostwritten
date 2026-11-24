@@ -3,9 +3,9 @@
   "repo": "getlantern/lantern",
   "org": "getlantern",
   "language": "Dart",
-  "stars": 16822,
+  "stars": 16907,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:21Z",
+  "scanned_at": "2026-11-24T14:33:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -204,9 +204,9 @@
       }
     },
     "2026-11": {
-      "total": 183,
+      "total": 184,
       "ai": 156,
-      "automation": 22,
+      "automation": 23,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 156

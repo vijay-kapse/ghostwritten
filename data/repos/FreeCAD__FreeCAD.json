@@ -3,9 +3,9 @@
   "repo": "FreeCAD/FreeCAD",
   "org": "FreeCAD",
   "language": "C++",
-  "stars": 35534,
+  "stars": 35749,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:00Z",
+  "scanned_at": "2026-11-24T13:56:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 165,
-      "ai": 4,
+      "total": 184,
+      "ai": 5,
       "automation": 7,
-      "merges": 16,
+      "merges": 20,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 5
       }
     }
   }

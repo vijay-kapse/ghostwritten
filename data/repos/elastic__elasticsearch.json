@@ -3,9 +3,9 @@
   "repo": "elastic/elasticsearch",
   "org": "elastic",
   "language": "Java",
-  "stars": 78693,
+  "stars": 78718,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:24Z",
+  "scanned_at": "2026-11-24T14:00:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -220,12 +220,12 @@
       }
     },
     "2026-11": {
-      "total": 867,
-      "ai": 14,
-      "automation": 184,
+      "total": 980,
+      "ai": 15,
+      "automation": 191,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 7,
+        "claude_trailer": 8,
         "cursor": 7,
         "copilot_trailer": 1
       }

@@ -3,9 +3,9 @@
   "repo": "openlayers/openlayers",
   "org": "openlayers",
   "language": "JavaScript",
-  "stars": 12662,
+  "stars": 12684,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:21:08Z",
+  "scanned_at": "2026-11-24T14:30:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,10 +177,10 @@
       }
     },
     "2026-11": {
-      "total": 14,
+      "total": 15,
       "ai": 2,
       "automation": 0,
-      "merges": 10,
+      "merges": 11,
       "by_rule": {
         "claude_trailer": 1,
         "copilot_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "carla-simulator/carla",
   "org": "carla-simulator",
   "language": "C++",
-  "stars": 14616,
+  "stars": 14695,
   "default_branch": "ue58-dev",
-  "scanned_at": "2026-11-23T13:14:29Z",
+  "scanned_at": "2026-11-24T14:23:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,12 +184,12 @@
       }
     },
     "2026-11": {
-      "total": 109,
-      "ai": 52,
+      "total": 116,
+      "ai": 55,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 52
+        "claude_trailer": 55
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "adobe/react-spectrum",
   "org": "adobe",
   "language": "TypeScript",
-  "stars": 16044,
+  "stars": 16063,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:26Z",
+  "scanned_at": "2026-11-24T14:34:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,7 +180,7 @@
       }
     },
     "2026-11": {
-      "total": 43,
+      "total": 45,
       "ai": 2,
       "automation": 0,
       "merges": 0,

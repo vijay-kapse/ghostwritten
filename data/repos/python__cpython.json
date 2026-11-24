@@ -3,9 +3,9 @@
   "repo": "python/cpython",
   "org": "python",
   "language": "Python",
-  "stars": 78322,
+  "stars": 78318,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:28Z",
+  "scanned_at": "2026-11-24T14:00:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,12 +191,12 @@
       }
     },
     "2026-11": {
-      "total": 360,
-      "ai": 35,
+      "total": 406,
+      "ai": 45,
       "automation": 0,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 34,
+        "claude_trailer": 44,
         "claude_generated": 1
       }
     }

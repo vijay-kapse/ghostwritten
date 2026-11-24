@@ -3,9 +3,9 @@
   "repo": "transloadit/uppy",
   "org": "transloadit",
   "language": "TypeScript",
-  "stars": 31079,
+  "stars": 31089,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:30Z",
+  "scanned_at": "2026-11-24T14:00:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -204,13 +204,13 @@
       }
     },
     "2026-11": {
-      "total": 58,
-      "ai": 25,
+      "total": 81,
+      "ai": 44,
       "automation": 19,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 22,
-        "claude_generated": 17
+        "claude_trailer": 38,
+        "claude_generated": 27
       }
     }
   }

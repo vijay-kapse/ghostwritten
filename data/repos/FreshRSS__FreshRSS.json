@@ -3,9 +3,9 @@
   "repo": "FreshRSS/FreshRSS",
   "org": "FreshRSS",
   "language": "PHP",
-  "stars": 16610,
+  "stars": 16661,
   "default_branch": "edge",
-  "scanned_at": "2026-11-23T13:24:32Z",
+  "scanned_at": "2026-11-24T14:33:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,7 +178,7 @@
       }
     },
     "2026-11": {
-      "total": 71,
+      "total": 74,
       "ai": 1,
       "automation": 3,
       "merges": 0,

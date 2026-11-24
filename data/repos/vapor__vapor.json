@@ -3,9 +3,9 @@
   "repo": "vapor/vapor",
   "org": "vapor",
   "language": "Swift",
-  "stars": 26239,
+  "stars": 26233,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:01:04Z",
+  "scanned_at": "2026-11-24T14:08:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -161,7 +161,7 @@
     "2026-11": {
       "total": 4,
       "ai": 0,
-      "automation": 7,
+      "automation": 8,
       "merges": 0,
       "by_rule": {}
     }

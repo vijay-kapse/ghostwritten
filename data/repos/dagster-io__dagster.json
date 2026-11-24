@@ -3,9 +3,9 @@
   "repo": "dagster-io/dagster",
   "org": "dagster-io",
   "language": "Python",
-  "stars": 16432,
+  "stars": 16467,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:24:45Z",
+  "scanned_at": "2026-11-24T14:34:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,13 +199,13 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 54,
+      "total": 73,
+      "ai": 57,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 44,
-        "claude_trailer": 44
+        "claude_trailer": 47,
+        "claude_generated": 44
       }
     }
   }

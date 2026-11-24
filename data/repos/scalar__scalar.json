@@ -3,9 +3,9 @@
   "repo": "scalar/scalar",
   "org": "scalar",
   "language": "TypeScript",
-  "stars": 16421,
+  "stars": 16454,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:50Z",
+  "scanned_at": "2026-11-24T14:34:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,7 +200,7 @@
       }
     },
     "2026-11": {
-      "total": 278,
+      "total": 295,
       "ai": 56,
       "automation": 37,
       "merges": 0,

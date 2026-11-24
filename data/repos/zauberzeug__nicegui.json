@@ -3,9 +3,9 @@
   "repo": "zauberzeug/nicegui",
   "org": "zauberzeug",
   "language": "Python",
-  "stars": 16344,
+  "stars": 16354,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:53Z",
+  "scanned_at": "2026-11-24T14:34:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,12 +202,12 @@
       }
     },
     "2026-11": {
-      "total": 54,
-      "ai": 51,
+      "total": 62,
+      "ai": 58,
       "automation": 0,
       "merges": 2,
       "by_rule": {
-        "claude_trailer": 51,
+        "claude_trailer": 58,
         "claude_generated": 2,
         "cursor": 2
       }

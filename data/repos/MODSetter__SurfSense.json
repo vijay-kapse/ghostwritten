@@ -3,9 +3,9 @@
   "repo": "MODSetter/SurfSense",
   "org": "MODSetter",
   "language": "Python",
-  "stars": 16892,
+  "stars": 16933,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:24:07Z",
+  "scanned_at": "2026-11-24T14:33:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,7 +163,7 @@
       }
     },
     "2026-10": {
-      "total": 1222,
+      "total": 1233,
       "ai": 431,
       "automation": 4,
       "merges": 333,
@@ -172,10 +172,10 @@
       }
     },
     "2026-11": {
-      "total": 52,
+      "total": 381,
       "ai": 0,
       "automation": 0,
-      "merges": 15,
+      "merges": 126,
       "by_rule": {}
     }
   }

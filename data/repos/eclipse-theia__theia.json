@@ -3,9 +3,9 @@
   "repo": "eclipse-theia/theia",
   "org": "eclipse-theia",
   "language": "TypeScript",
-  "stars": 21765,
+  "stars": 21787,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:07:03Z",
+  "scanned_at": "2026-11-24T14:15:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 77,
+      "total": 79,
       "ai": 1,
       "automation": 1,
       "merges": 0,

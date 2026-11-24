@@ -3,9 +3,9 @@
   "repo": "mlflow/mlflow",
   "org": "mlflow",
   "language": "Python",
-  "stars": 28850,
+  "stars": 28952,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T12:58:46Z",
+  "scanned_at": "2026-11-24T14:06:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -242,9 +242,9 @@
       }
     },
     "2026-11": {
-      "total": 239,
+      "total": 240,
       "ai": 105,
-      "automation": 175,
+      "automation": 180,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 76,

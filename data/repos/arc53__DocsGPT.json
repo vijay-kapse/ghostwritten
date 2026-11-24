@@ -3,9 +3,9 @@
   "repo": "arc53/DocsGPT",
   "org": "arc53",
   "language": "Python",
-  "stars": 18374,
+  "stars": 18379,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:40Z",
+  "scanned_at": "2026-11-24T14:20:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1316,
+      "total": 1317,
       "ai": 3,
       "automation": 22,
       "merges": 196,
@@ -183,10 +183,10 @@
       }
     },
     "2026-11": {
-      "total": 1009,
+      "total": 1039,
       "ai": 0,
       "automation": 13,
-      "merges": 128,
+      "merges": 136,
       "by_rule": {}
     }
   }

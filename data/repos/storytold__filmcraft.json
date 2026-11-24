@@ -3,9 +3,9 @@
   "repo": "storytold/filmcraft",
   "org": "storytold",
   "language": "Rust",
-  "stars": 18458,
+  "stars": 18954,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:22:45Z",
+  "scanned_at": "2026-11-24T14:32:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -32,7 +32,7 @@
       }
     },
     "2026-11": {
-      "total": 462,
+      "total": 466,
       "ai": 102,
       "automation": 0,
       "merges": 248,

@@ -3,9 +3,9 @@
   "repo": "telegramdesktop/tdesktop",
   "org": "telegramdesktop",
   "language": "C++",
-  "stars": 33590,
+  "stars": 33666,
   "default_branch": "dev",
-  "scanned_at": "2026-11-22T12:03:43Z",
+  "scanned_at": "2026-11-24T13:58:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,12 +181,12 @@
       }
     },
     "2026-11": {
-      "total": 757,
-      "ai": 18,
+      "total": 1053,
+      "ai": 19,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 17,
+        "claude_trailer": 18,
         "amp_factory": 1
       }
     }

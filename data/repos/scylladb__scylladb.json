@@ -3,9 +3,9 @@
   "repo": "scylladb/scylladb",
   "org": "scylladb",
   "language": "C++",
-  "stars": 15834,
+  "stars": 15846,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:25:46Z",
+  "scanned_at": "2026-11-24T14:35:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,12 +195,12 @@
       }
     },
     "2026-11": {
-      "total": 714,
-      "ai": 190,
+      "total": 746,
+      "ai": 212,
       "automation": 2,
-      "merges": 111,
+      "merges": 116,
       "by_rule": {
-        "claude_trailer": 190
+        "claude_trailer": 212
       }
     }
   }

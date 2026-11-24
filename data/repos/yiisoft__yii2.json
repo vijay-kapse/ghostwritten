@@ -3,9 +3,9 @@
   "repo": "yiisoft/yii2",
   "org": "yiisoft",
   "language": "PHP",
-  "stars": 14278,
+  "stars": 14279,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:15:15Z",
+  "scanned_at": "2026-11-24T14:24:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -167,7 +167,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 9,
+      "total": 10,
       "ai": 0,
       "automation": 0,
       "merges": 0,

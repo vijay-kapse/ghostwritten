@@ -3,20 +3,29 @@
   "repo": "BasedHardware/omi",
   "org": "BasedHardware",
   "language": "Python",
-  "stars": 13986,
+  "stars": 14018,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:38Z",
-  "window_start": "2026-06-25",
+  "scanned_at": "2026-11-24T14:26:01Z",
+  "window_start": "2026-05-28",
   "complete": false,
   "months": {
-    "2026-06": {
-      "total": 1704,
-      "ai": 449,
-      "automation": 53,
-      "merges": 286,
+    "2026-05": {
+      "total": 43,
+      "ai": 17,
+      "automation": 6,
+      "merges": 15,
       "by_rule": {
-        "cursor": 354,
-        "claude_trailer": 95
+        "claude_trailer": 17
+      }
+    },
+    "2026-06": {
+      "total": 3870,
+      "ai": 1473,
+      "automation": 124,
+      "merges": 585,
+      "by_rule": {
+        "cursor": 889,
+        "claude_trailer": 584
       }
     },
     "2026-07": {
@@ -75,13 +84,14 @@
       }
     },
     "2026-11": {
-      "total": 4841,
-      "ai": 1735,
-      "automation": 18,
-      "merges": 2009,
+      "total": 5119,
+      "ai": 1794,
+      "automation": 22,
+      "merges": 2126,
       "by_rule": {
-        "claude_trailer": 1722,
+        "claude_trailer": 1779,
         "cursor": 8,
+        "codex_trailer": 5,
         "gemini": 3,
         "claude_generated": 2
       }

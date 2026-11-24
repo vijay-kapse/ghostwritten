@@ -3,9 +3,9 @@
   "repo": "browser-use/browser-harness",
   "org": "browser-use",
   "language": "Python",
-  "stars": 19108,
+  "stars": 19224,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:03Z",
+  "scanned_at": "2026-11-24T14:19:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -67,21 +67,21 @@
       }
     },
     "2026-10": {
-      "total": 81,
-      "ai": 24,
+      "total": 116,
+      "ai": 58,
       "automation": 0,
       "merges": 43,
       "by_rule": {
-        "claude_trailer": 24
+        "claude_trailer": 58
       }
     },
     "2026-11": {
-      "total": 70,
-      "ai": 69,
+      "total": 115,
+      "ai": 113,
       "automation": 0,
-      "merges": 35,
+      "merges": 61,
       "by_rule": {
-        "claude_trailer": 69
+        "claude_trailer": 113
       }
     }
   }

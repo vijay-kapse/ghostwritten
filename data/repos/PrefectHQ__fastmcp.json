@@ -3,9 +3,9 @@
   "repo": "PrefectHQ/fastmcp",
   "org": "PrefectHQ",
   "language": "Python",
-  "stars": 28609,
+  "stars": 28730,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:56Z",
+  "scanned_at": "2026-11-24T14:06:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -222,12 +222,12 @@
       }
     },
     "2026-11": {
-      "total": 337,
-      "ai": 188,
-      "automation": 11,
+      "total": 364,
+      "ai": 213,
+      "automation": 17,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 188
+        "claude_trailer": 213
       }
     }
   }

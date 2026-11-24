@@ -3,9 +3,9 @@
   "repo": "hoppscotch/hoppscotch",
   "org": "hoppscotch",
   "language": "TypeScript",
-  "stars": 80835,
+  "stars": 80950,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:56Z",
+  "scanned_at": "2026-11-24T13:58:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,12 +187,12 @@
       }
     },
     "2026-11": {
-      "total": 3,
-      "ai": 1,
+      "total": 6,
+      "ai": 3,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 3
       }
     }
   }

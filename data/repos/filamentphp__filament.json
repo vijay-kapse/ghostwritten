@@ -3,9 +3,9 @@
   "repo": "filamentphp/filament",
   "org": "filamentphp",
   "language": "PHP",
-  "stars": 32520,
+  "stars": 32552,
   "default_branch": "4.x",
-  "scanned_at": "2026-11-22T12:04:02Z",
+  "scanned_at": "2026-11-24T13:59:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,12 +202,12 @@
       }
     },
     "2026-11": {
-      "total": 186,
-      "ai": 13,
+      "total": 216,
+      "ai": 15,
       "automation": 8,
-      "merges": 28,
+      "merges": 35,
       "by_rule": {
-        "claude_trailer": 8,
+        "claude_trailer": 10,
         "amp_factory": 5
       }
     }

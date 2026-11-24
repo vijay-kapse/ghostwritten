@@ -3,9 +3,9 @@
   "repo": "nanocoai/nanoclaw",
   "org": "nanocoai",
   "language": "TypeScript",
-  "stars": 31116,
+  "stars": 31152,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:30Z",
+  "scanned_at": "2026-11-24T14:00:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -103,12 +103,12 @@
       }
     },
     "2026-11": {
-      "total": 127,
-      "ai": 8,
-      "automation": 14,
+      "total": 129,
+      "ai": 9,
+      "automation": 16,
       "merges": 4,
       "by_rule": {
-        "claude_trailer": 8
+        "claude_trailer": 9
       }
     }
   }

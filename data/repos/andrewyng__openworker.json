@@ -3,9 +3,9 @@
   "repo": "andrewyng/openworker",
   "org": "andrewyng",
   "language": "Python",
-  "stars": 19407,
+  "stars": 19568,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:10:59Z",
+  "scanned_at": "2026-11-24T14:19:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -48,10 +48,10 @@
       }
     },
     "2026-11": {
-      "total": 188,
+      "total": 191,
       "ai": 0,
       "automation": 0,
-      "merges": 55,
+      "merges": 56,
       "by_rule": {}
     }
   }

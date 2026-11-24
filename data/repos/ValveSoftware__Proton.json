@@ -3,9 +3,9 @@
   "repo": "ValveSoftware/Proton",
   "org": "ValveSoftware",
   "language": "C++",
-  "stars": 33305,
+  "stars": 33344,
   "default_branch": "proton_11.0",
-  "scanned_at": "2026-11-22T12:03:45Z",
+  "scanned_at": "2026-11-24T13:58:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,7 +73,7 @@
       "by_rule": {}
     },
     "2025-10": {
-      "total": 35,
+      "total": 43,
       "ai": 0,
       "automation": 0,
       "merges": 0,
@@ -150,7 +150,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 2,
+      "total": 49,
       "ai": 0,
       "automation": 0,
       "merges": 0,

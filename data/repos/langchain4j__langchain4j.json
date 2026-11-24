@@ -3,9 +3,9 @@
   "repo": "langchain4j/langchain4j",
   "org": "langchain4j",
   "language": "Java",
-  "stars": 13413,
+  "stars": 13440,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:18:14Z",
+  "scanned_at": "2026-11-24T14:27:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,9 +197,9 @@
       }
     },
     "2026-11": {
-      "total": 96,
+      "total": 100,
       "ai": 1,
-      "automation": 61,
+      "automation": 64,
       "merges": 0,
       "by_rule": {
         "copilot_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "pascalorg/editor",
   "org": "pascalorg",
   "language": "TypeScript",
-  "stars": 25570,
+  "stars": 25711,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:02:05Z",
+  "scanned_at": "2026-11-24T14:09:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -102,13 +102,14 @@
       }
     },
     "2026-11": {
-      "total": 76,
-      "ai": 69,
+      "total": 79,
+      "ai": 71,
       "automation": 8,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 51,
-        "cursor": 20
+        "claude_trailer": 53,
+        "cursor": 20,
+        "codex_trailer": 1
       }
     }
   }

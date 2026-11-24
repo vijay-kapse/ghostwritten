@@ -3,9 +3,9 @@
   "repo": "JustArchiNET/ArchiSteamFarm",
   "org": "JustArchiNET",
   "language": "C#",
-  "stars": 13817,
+  "stars": 13832,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:53Z",
+  "scanned_at": "2026-11-24T14:26:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,9 +164,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 70,
+      "total": 71,
       "ai": 1,
-      "automation": 40,
+      "automation": 41,
       "merges": 2,
       "by_rule": {
         "copilot_trailer": 1

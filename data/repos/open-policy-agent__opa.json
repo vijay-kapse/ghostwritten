@@ -3,9 +3,9 @@
   "repo": "open-policy-agent/opa",
   "org": "open-policy-agent",
   "language": "Go",
-  "stars": 12482,
+  "stars": 12516,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:27:06Z",
+  "scanned_at": "2026-11-24T14:36:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 115,
+      "total": 120,
       "ai": 3,
       "automation": 13,
       "merges": 0,

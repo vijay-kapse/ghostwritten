@@ -3,9 +3,9 @@
   "repo": "tinacms/tinacms",
   "org": "tinacms",
   "language": "TypeScript",
-  "stars": 13874,
+  "stars": 13890,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:16:40Z",
+  "scanned_at": "2026-11-24T14:26:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -216,12 +216,12 @@
       }
     },
     "2026-11": {
-      "total": 51,
-      "ai": 41,
+      "total": 55,
+      "ai": 43,
       "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 40,
+        "claude_trailer": 42,
         "claude_generated": 6,
         "codex_trailer": 1
       }

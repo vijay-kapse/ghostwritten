@@ -3,19 +3,43 @@
   "repo": "code-yeongyu/oh-my-openagent",
   "org": "code-yeongyu",
   "language": "TypeScript",
-  "stars": 70963,
+  "stars": 71096,
   "default_branch": "dev",
-  "scanned_at": "2026-11-22T12:05:21Z",
-  "window_start": "2026-04-27",
+  "scanned_at": "2026-11-24T14:02:22Z",
+  "window_start": "2026-02-20",
   "complete": false,
   "months": {
-    "2026-04": {
-      "total": 67,
-      "ai": 1,
-      "automation": 13,
-      "merges": 20,
+    "2026-02": {
+      "total": 233,
+      "ai": 2,
+      "automation": 25,
+      "merges": 55,
       "by_rule": {
-        "claude_trailer": 1
+        "amp_factory": 1,
+        "claude_generated": 1,
+        "claude_trailer": 1,
+        "codex_trailer": 1
+      }
+    },
+    "2026-03": {
+      "total": 719,
+      "ai": 10,
+      "automation": 82,
+      "merges": 262,
+      "by_rule": {
+        "claude_trailer": 9,
+        "codex_trailer": 1
+      }
+    },
+    "2026-04": {
+      "total": 917,
+      "ai": 8,
+      "automation": 88,
+      "merges": 219,
+      "by_rule": {
+        "claude_trailer": 7,
+        "amp_factory": 1,
+        "other_bot_agent": 1
       }
     },
     "2026-05": {
@@ -68,7 +92,7 @@
       }
     },
     "2026-10": {
-      "total": 5254,
+      "total": 5255,
       "ai": 25,
       "automation": 12,
       "merges": 3200,
@@ -77,10 +101,10 @@
       }
     },
     "2026-11": {
-      "total": 4718,
+      "total": 4983,
       "ai": 60,
       "automation": 0,
-      "merges": 2726,
+      "merges": 2942,
       "by_rule": {
         "cursor": 31,
         "claude_trailer": 29

@@ -3,9 +3,9 @@
   "repo": "dotnet/csharplang",
   "org": "dotnet",
   "language": "C#",
-  "stars": 12741,
+  "stars": 12742,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:20:48Z",
+  "scanned_at": "2026-11-24T14:30:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 5,
+      "total": 6,
       "ai": 1,
       "automation": 0,
       "merges": 0,

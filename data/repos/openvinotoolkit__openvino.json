@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "repo": "openvinotoolkit/openvino",
+  "org": "openvinotoolkit",
+  "language": "C++",
+  "stars": 12388,
+  "default_branch": "master",
+  "scanned_at": "2026-11-24T13:55:27Z",
+  "window_start": "2026-02-05",
+  "complete": false,
+  "months": {
+    "2026-02": {
+      "total": 149,
+      "ai": 5,
+      "automation": 3,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 5
+      }
+    },
+    "2026-03": {
+      "total": 284,
+      "ai": 14,
+      "automation": 17,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 14
+      }
+    },
+    "2026-04": {
+      "total": 264,
+      "ai": 27,
+      "automation": 41,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 26,
+        "claude_trailer": 1
+      }
+    },
+    "2026-05": {
+      "total": 234,
+      "ai": 33,
+      "automation": 16,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 26,
+        "claude_trailer": 7,
+        "claude_generated": 1
+      }
+    },
+    "2026-06": {
+      "total": 244,
+      "ai": 27,
+      "automation": 40,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 23,
+        "claude_trailer": 4
+      }
+    },
+    "2026-07": {
+      "total": 274,
+      "ai": 28,
+      "automation": 13,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 22,
+        "claude_trailer": 10
+      }
+    },
+    "2026-08": {
+      "total": 330,
+      "ai": 33,
+      "automation": 20,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 23,
+        "claude_trailer": 10
+      }
+    },
+    "2026-09": {
+      "total": 323,
+      "ai": 27,
+      "automation": 19,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 14,
+        "claude_trailer": 13,
+        "claude_generated": 1
+      }
+    },
+    "2026-10": {
+      "total": 377,
+      "ai": 36,
+      "automation": 26,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 21,
+        "claude_trailer": 13,
+        "claude_generated": 2,
+        "cursor": 2
+      }
+    },
+    "2026-11": {
+      "total": 315,
+      "ai": 54,
+      "automation": 11,
+      "merges": 0,
+      "by_rule": {
+        "copilot_trailer": 38,
+        "claude_trailer": 16,
+        "claude_generated": 13,
+        "cursor": 1
+      }
+    }
+  }
+}

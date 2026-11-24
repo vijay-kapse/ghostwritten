@@ -3,9 +3,9 @@
   "repo": "Edge0-AI/Edge0",
   "org": "Edge0-AI",
   "language": "C++",
-  "stars": 11968,
+  "stars": 12292,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:03:14Z",
+  "scanned_at": "2026-11-24T14:11:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -29,10 +29,10 @@
       }
     },
     "2026-11": {
-      "total": 104,
+      "total": 107,
       "ai": 7,
       "automation": 0,
-      "merges": 49,
+      "merges": 51,
       "by_rule": {
         "cursor": 4,
         "claude_trailer": 3

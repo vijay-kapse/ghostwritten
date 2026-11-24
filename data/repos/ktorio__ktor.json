@@ -3,9 +3,9 @@
   "repo": "ktorio/ktor",
   "org": "ktorio",
   "language": "Kotlin",
-  "stars": 14566,
+  "stars": 14577,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:14:32Z",
+  "scanned_at": "2026-11-24T14:23:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -185,7 +185,7 @@
       }
     },
     "2026-11": {
-      "total": 72,
+      "total": 73,
       "ai": 4,
       "automation": 0,
       "merges": 4,

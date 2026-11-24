@@ -3,9 +3,9 @@
   "repo": "shihabal3amri/DiPlay",
   "org": "shihabal3amri",
   "language": "Kotlin",
-  "stars": 13935,
+  "stars": 14171,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:19:50Z",
+  "scanned_at": "2026-11-24T14:29:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -30,12 +30,12 @@
       }
     },
     "2026-11": {
-      "total": 169,
-      "ai": 67,
+      "total": 176,
+      "ai": 74,
       "automation": 0,
-      "merges": 113,
+      "merges": 118,
       "by_rule": {
-        "claude_trailer": 63,
+        "claude_trailer": 70,
         "copilot_trailer": 4
       }
     }

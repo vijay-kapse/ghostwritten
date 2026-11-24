@@ -3,9 +3,9 @@
   "repo": "SunshineStream/Sunshine",
   "org": "SunshineStream",
   "language": "C++",
-  "stars": 43496,
+  "stars": 43853,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:02:59Z",
+  "scanned_at": "2026-11-24T14:10:47Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
     "2026-11": {
       "total": 49,
       "ai": 0,
-      "automation": 53,
+      "automation": 61,
       "merges": 0,
       "by_rule": {}
     }

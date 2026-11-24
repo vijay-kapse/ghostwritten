@@ -3,9 +3,9 @@
   "repo": "h4ckf0r0day/obscura",
   "org": "h4ckf0r0day",
   "language": "Rust",
-  "stars": 36142,
+  "stars": 37207,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:57:29Z",
+  "scanned_at": "2026-11-24T14:04:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -67,10 +67,10 @@
       }
     },
     "2026-11": {
-      "total": 114,
+      "total": 123,
       "ai": 1,
       "automation": 0,
-      "merges": 51,
+      "merges": 59,
       "by_rule": {
         "claude_trailer": 1
       }

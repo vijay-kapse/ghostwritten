@@ -3,9 +3,9 @@
   "repo": "GitbookIO/gitbook",
   "org": "GitbookIO",
   "language": "TypeScript",
-  "stars": 29099,
+  "stars": 29105,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:23Z",
+  "scanned_at": "2026-11-24T14:05:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,7 +196,7 @@
       }
     },
     "2026-11": {
-      "total": 70,
+      "total": 80,
       "ai": 17,
       "automation": 0,
       "merges": 0,

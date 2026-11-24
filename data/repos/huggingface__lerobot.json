@@ -3,9 +3,9 @@
   "repo": "huggingface/lerobot",
   "org": "huggingface",
   "language": "Python",
-  "stars": 28926,
+  "stars": 29064,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:44Z",
+  "scanned_at": "2026-11-24T14:06:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -203,7 +203,7 @@
       }
     },
     "2026-11": {
-      "total": 66,
+      "total": 71,
       "ai": 1,
       "automation": 0,
       "merges": 0,

@@ -3,9 +3,9 @@
   "repo": "YishenTu/claudian",
   "org": "YishenTu",
   "language": "TypeScript",
-  "stars": 16015,
+  "stars": 16067,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:36Z",
+  "scanned_at": "2026-11-24T14:35:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -102,7 +102,7 @@
       }
     },
     "2026-11": {
-      "total": 213,
+      "total": 223,
       "ai": 26,
       "automation": 0,
       "merges": 1,

@@ -3,9 +3,9 @@
   "repo": "remotion-dev/remotion",
   "org": "remotion-dev",
   "language": "TypeScript",
-  "stars": 73806,
+  "stars": 75367,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:05:38Z",
+  "scanned_at": "2026-11-24T14:02:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -229,12 +229,12 @@
       }
     },
     "2026-11": {
-      "total": 1317,
-      "ai": 24,
+      "total": 1381,
+      "ai": 25,
       "automation": 10,
-      "merges": 582,
+      "merges": 619,
       "by_rule": {
-        "claude_trailer": 23,
+        "claude_trailer": 24,
         "cursor": 1
       }
     }

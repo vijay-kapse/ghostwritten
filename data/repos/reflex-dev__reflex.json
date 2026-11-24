@@ -3,9 +3,9 @@
   "repo": "reflex-dev/reflex",
   "org": "reflex-dev",
   "language": "Python",
-  "stars": 29030,
+  "stars": 29046,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:26Z",
+  "scanned_at": "2026-11-24T14:05:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,13 +191,14 @@
       }
     },
     "2026-11": {
-      "total": 137,
-      "ai": 63,
-      "automation": 5,
+      "total": 144,
+      "ai": 67,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 62,
-        "copilot_trailer": 1
+        "claude_trailer": 65,
+        "copilot_trailer": 1,
+        "cursor": 1
       }
     }
   }

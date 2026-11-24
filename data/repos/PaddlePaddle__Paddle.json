@@ -3,9 +3,9 @@
   "repo": "PaddlePaddle/Paddle",
   "org": "PaddlePaddle",
   "language": "C++",
-  "stars": 24145,
+  "stars": 24149,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:03:27Z",
+  "scanned_at": "2026-11-24T14:11:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -217,7 +217,7 @@
       }
     },
     "2026-11": {
-      "total": 30,
+      "total": 32,
       "ai": 2,
       "automation": 0,
       "merges": 0,

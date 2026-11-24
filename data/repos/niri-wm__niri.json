@@ -3,9 +3,9 @@
   "repo": "niri-wm/niri",
   "org": "niri-wm",
   "language": "Rust",
-  "stars": 29111,
+  "stars": 29241,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T12:58:36Z",
+  "scanned_at": "2026-11-24T14:05:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -169,7 +169,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 80,
+      "total": 84,
       "ai": 0,
       "automation": 0,
       "merges": 0,

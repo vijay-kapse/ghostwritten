@@ -3,9 +3,9 @@
   "repo": "aio-libs/aiohttp",
   "org": "aio-libs",
   "language": "Python",
-  "stars": 16608,
+  "stars": 16620,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:24:23Z",
+  "scanned_at": "2026-11-24T14:33:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
     "2026-11": {
       "total": 12,
       "ai": 0,
-      "automation": 47,
+      "automation": 49,
       "merges": 1,
       "by_rule": {}
     }

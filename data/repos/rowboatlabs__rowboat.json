@@ -3,9 +3,9 @@
   "repo": "rowboatlabs/rowboat",
   "org": "rowboatlabs",
   "language": "TypeScript",
-  "stars": 18283,
+  "stars": 18318,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:21:20Z",
+  "scanned_at": "2026-11-24T14:30:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,10 +189,10 @@
       }
     },
     "2026-11": {
-      "total": 124,
+      "total": 133,
       "ai": 42,
       "automation": 34,
-      "merges": 44,
+      "merges": 47,
       "by_rule": {
         "claude_trailer": 40,
         "codex_trailer": 2

@@ -3,9 +3,9 @@
   "repo": "doocs/md",
   "org": "doocs",
   "language": "TypeScript",
-  "stars": 13548,
+  "stars": 13556,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:17:55Z",
+  "scanned_at": "2026-11-24T14:27:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,11 +175,13 @@
       }
     },
     "2026-11": {
-      "total": 19,
-      "ai": 0,
+      "total": 20,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "cursor": 1
+      }
     }
   }
 }

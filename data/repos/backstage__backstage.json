@@ -3,9 +3,9 @@
   "repo": "backstage/backstage",
   "org": "backstage",
   "language": "TypeScript",
-  "stars": 34868,
+  "stars": 34912,
   "default_branch": "master",
-  "scanned_at": "2026-11-22T12:03:06Z",
+  "scanned_at": "2026-11-24T13:57:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -222,15 +222,15 @@
       }
     },
     "2026-11": {
-      "total": 455,
-      "ai": 123,
-      "automation": 103,
-      "merges": 183,
+      "total": 471,
+      "ai": 132,
+      "automation": 104,
+      "merges": 189,
       "by_rule": {
-        "claude_trailer": 102,
+        "claude_trailer": 111,
+        "claude_generated": 11,
         "cursor": 10,
         "codex_trailer": 9,
-        "claude_generated": 7,
         "copilot_trailer": 2
       }
     }

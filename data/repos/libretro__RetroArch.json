@@ -3,9 +3,9 @@
   "repo": "libretro/RetroArch",
   "org": "libretro",
   "language": "C",
-  "stars": 14634,
+  "stars": 14691,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:14:41Z",
+  "scanned_at": "2026-11-24T14:23:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,12 +173,12 @@
       }
     },
     "2026-11": {
-      "total": 1460,
-      "ai": 14,
-      "automation": 16,
+      "total": 1506,
+      "ai": 15,
+      "automation": 17,
       "merges": 3,
       "by_rule": {
-        "claude_trailer": 14
+        "claude_trailer": 15
       }
     }
   }

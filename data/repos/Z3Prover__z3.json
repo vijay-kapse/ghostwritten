@@ -3,9 +3,9 @@
   "repo": "Z3Prover/z3",
   "org": "Z3Prover",
   "language": "C++",
-  "stars": 12948,
+  "stars": 12988,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:20:22Z",
+  "scanned_at": "2026-11-24T14:29:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -229,7 +229,7 @@
       }
     },
     "2026-11": {
-      "total": 158,
+      "total": 159,
       "ai": 123,
       "automation": 11,
       "merges": 2,

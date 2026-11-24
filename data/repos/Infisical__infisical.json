@@ -3,9 +3,9 @@
   "repo": "Infisical/infisical",
   "org": "Infisical",
   "language": "TypeScript",
-  "stars": 30560,
+  "stars": 30727,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:06:05Z",
+  "scanned_at": "2026-11-24T14:03:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,12 +202,12 @@
       }
     },
     "2026-11": {
-      "total": 1067,
-      "ai": 199,
+      "total": 1144,
+      "ai": 202,
       "automation": 7,
-      "merges": 280,
+      "merges": 304,
       "by_rule": {
-        "claude_trailer": 192,
+        "claude_trailer": 195,
         "cursor": 3,
         "devin": 3,
         "other_bot_agent": 3

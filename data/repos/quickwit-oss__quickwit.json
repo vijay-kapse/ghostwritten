@@ -3,9 +3,9 @@
   "repo": "quickwit-oss/quickwit",
   "org": "quickwit-oss",
   "language": "Rust",
-  "stars": 11800,
+  "stars": 11812,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:29:22Z",
+  "scanned_at": "2026-11-24T14:38:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 32,
+      "total": 34,
       "ai": 1,
       "automation": 14,
       "merges": 0,

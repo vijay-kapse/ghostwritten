@@ -3,9 +3,9 @@
   "repo": "mksglu/context-mode",
   "org": "mksglu",
   "language": "JavaScript",
-  "stars": 34206,
+  "stars": 34444,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:03:47Z",
+  "scanned_at": "2026-11-24T13:58:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -90,12 +90,12 @@
       }
     },
     "2026-11": {
-      "total": 379,
-      "ai": 322,
-      "automation": 58,
+      "total": 407,
+      "ai": 350,
+      "automation": 63,
       "merges": 5,
       "by_rule": {
-        "claude_trailer": 322
+        "claude_trailer": 350
       }
     }
   }

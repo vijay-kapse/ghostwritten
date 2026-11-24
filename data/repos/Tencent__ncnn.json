@@ -3,9 +3,9 @@
   "repo": "Tencent/ncnn",
   "org": "Tencent",
   "language": "C++",
-  "stars": 24057,
+  "stars": 24092,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:03:31Z",
+  "scanned_at": "2026-11-24T14:11:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -180,12 +180,12 @@
       }
     },
     "2026-11": {
-      "total": 69,
-      "ai": 20,
+      "total": 75,
+      "ai": 23,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 20
+        "claude_trailer": 23
       }
     }
   }

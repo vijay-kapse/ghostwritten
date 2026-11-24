@@ -3,9 +3,9 @@
   "repo": "SeleniumHQ/selenium",
   "org": "SeleniumHQ",
   "language": "Java",
-  "stars": 34590,
+  "stars": 34609,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-22T12:03:07Z",
+  "scanned_at": "2026-11-24T13:57:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 157,
+      "total": 172,
       "ai": 10,
       "automation": 0,
       "merges": 0,

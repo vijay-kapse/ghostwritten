@@ -3,9 +3,9 @@
   "repo": "hiyouga/LlamaFactory",
   "org": "hiyouga",
   "language": "Python",
-  "stars": 76081,
+  "stars": 76257,
   "default_branch": "main",
-  "scanned_at": "2026-11-22T12:04:58Z",
+  "scanned_at": "2026-11-24T14:01:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,12 +199,12 @@
       }
     },
     "2026-11": {
-      "total": 21,
-      "ai": 2,
+      "total": 26,
+      "ai": 4,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 4
       }
     }
   }

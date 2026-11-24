@@ -3,9 +3,9 @@
   "repo": "phpstan/phpstan",
   "org": "phpstan",
   "language": "PHP",
-  "stars": 14162,
+  "stars": 14170,
   "default_branch": "2.3.x",
-  "scanned_at": "2026-11-23T13:15:33Z",
+  "scanned_at": "2026-11-24T14:24:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,7 +179,7 @@
       }
     },
     "2026-11": {
-      "total": 274,
+      "total": 280,
       "ai": 3,
       "automation": 0,
       "merges": 1,

@@ -3,9 +3,9 @@
   "repo": "NVIDIA/Megatron-LM",
   "org": "NVIDIA",
   "language": "Python",
-  "stars": 18426,
+  "stars": 18470,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:04Z",
+  "scanned_at": "2026-11-24T14:20:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -189,12 +189,12 @@
       }
     },
     "2026-11": {
-      "total": 213,
-      "ai": 68,
-      "automation": 9,
+      "total": 226,
+      "ai": 78,
+      "automation": 10,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 67,
+        "claude_trailer": 77,
         "codex_trailer": 1,
         "cursor": 1
       }

@@ -3,9 +3,9 @@
   "repo": "wenzhixin/bootstrap-table",
   "org": "wenzhixin",
   "language": "JavaScript",
-  "stars": 11811,
+  "stars": 11808,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:29:13Z",
+  "scanned_at": "2026-11-24T14:38:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,8 +172,8 @@
     "2026-11": {
       "total": 22,
       "ai": 2,
-      "automation": 37,
-      "merges": 52,
+      "automation": 41,
+      "merges": 56,
       "by_rule": {
         "claude_trailer": 1,
         "copilot_trailer": 1

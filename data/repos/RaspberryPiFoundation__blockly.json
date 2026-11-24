@@ -3,9 +3,9 @@
   "repo": "RaspberryPiFoundation/blockly",
   "org": "RaspberryPiFoundation",
   "language": "TypeScript",
-  "stars": 13615,
+  "stars": 13620,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:17:41Z",
+  "scanned_at": "2026-11-24T14:27:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,9 +168,9 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 30,
       "ai": 1,
-      "automation": 17,
+      "automation": 23,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

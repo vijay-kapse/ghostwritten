@@ -3,9 +3,9 @@
   "repo": "kubernetes-sigs/kind",
   "org": "kubernetes-sigs",
   "language": "Go",
-  "stars": 15621,
+  "stars": 15641,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:12:11Z",
+  "scanned_at": "2026-11-24T14:21:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,8 +166,8 @@
     "2026-11": {
       "total": 8,
       "ai": 0,
-      "automation": 0,
-      "merges": 6,
+      "automation": 1,
+      "merges": 7,
       "by_rule": {}
     }
   }

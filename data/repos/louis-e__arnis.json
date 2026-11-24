@@ -3,9 +3,9 @@
   "repo": "louis-e/arnis",
   "org": "louis-e",
   "language": "Rust",
-  "stars": 18680,
+  "stars": 18816,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:11:26Z",
+  "scanned_at": "2026-11-24T14:20:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,10 +190,10 @@
       }
     },
     "2026-11": {
-      "total": 503,
+      "total": 505,
       "ai": 26,
       "automation": 1,
-      "merges": 70,
+      "merges": 71,
       "by_rule": {
         "claude_trailer": 26
       }

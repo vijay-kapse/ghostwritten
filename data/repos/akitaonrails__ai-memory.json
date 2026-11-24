@@ -3,9 +3,9 @@
   "repo": "akitaonrails/ai-memory",
   "org": "akitaonrails",
   "language": "Rust",
-  "stars": 16037,
+  "stars": 16338,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:13:45Z",
+  "scanned_at": "2026-11-24T14:22:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -72,12 +72,12 @@
       }
     },
     "2026-11": {
-      "total": 1007,
-      "ai": 369,
+      "total": 1067,
+      "ai": 371,
       "automation": 0,
-      "merges": 455,
+      "merges": 489,
       "by_rule": {
-        "claude_trailer": 365,
+        "claude_trailer": 367,
         "cursor": 4
       }
     }

@@ -3,9 +3,9 @@
   "repo": "magicuidesign/magicui",
   "org": "magicuidesign",
   "language": "MDX",
-  "stars": 23335,
+  "stars": 23513,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:04:21Z",
+  "scanned_at": "2026-11-24T14:12:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,9 +170,9 @@
       }
     },
     "2026-11": {
-      "total": 24,
+      "total": 25,
       "ai": 9,
-      "automation": 4,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 9

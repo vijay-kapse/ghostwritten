@@ -3,9 +3,9 @@
   "repo": "alibaba/zvec",
   "org": "alibaba",
   "language": "C++",
-  "stars": 16257,
+  "stars": 16283,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:25:12Z",
+  "scanned_at": "2026-11-24T14:34:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -97,7 +97,7 @@
       }
     },
     "2026-11": {
-      "total": 31,
+      "total": 34,
       "ai": 2,
       "automation": 2,
       "merges": 0,

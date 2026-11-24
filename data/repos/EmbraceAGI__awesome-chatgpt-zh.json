@@ -3,9 +3,9 @@
   "repo": "EmbraceAGI/awesome-chatgpt-zh",
   "org": "EmbraceAGI",
   "language": "Python",
-  "stars": 11852,
+  "stars": 11872,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:29:15Z",
+  "scanned_at": "2026-11-24T14:38:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -49,7 +49,7 @@
     "2026-11": {
       "total": 6,
       "ai": 4,
-      "automation": 23,
+      "automation": 24,
       "merges": 22,
       "by_rule": {
         "claude_trailer": 4

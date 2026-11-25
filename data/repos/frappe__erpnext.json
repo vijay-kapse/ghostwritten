@@ -3,9 +3,9 @@
   "repo": "frappe/erpnext",
   "org": "frappe",
   "language": "Python",
-  "stars": 41368,
+  "stars": 41597,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:43:41Z",
+  "scanned_at": "2026-11-25T13:16:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,12 +179,12 @@
       }
     },
     "2026-11": {
-      "total": 2751,
-      "ai": 4,
+      "total": 2960,
+      "ai": 5,
       "automation": 9,
-      "merges": 828,
+      "merges": 892,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 5
       }
     }
   }

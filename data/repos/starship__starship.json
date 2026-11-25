@@ -3,9 +3,9 @@
   "repo": "starship/starship",
   "org": "starship",
   "language": "Rust",
-  "stars": 60763,
+  "stars": 60879,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:05Z",
+  "scanned_at": "2026-11-25T13:07:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
     "2026-11": {
       "total": 19,
       "ai": 1,
-      "automation": 29,
+      "automation": 32,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

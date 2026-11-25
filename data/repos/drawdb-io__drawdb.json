@@ -3,9 +3,9 @@
   "repo": "drawdb-io/drawdb",
   "org": "drawdb-io",
   "language": "JavaScript",
-  "stars": 40335,
+  "stars": 40382,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:28Z",
+  "scanned_at": "2026-11-25T13:17:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
     "2026-11": {
       "total": 11,
       "ai": 3,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 3

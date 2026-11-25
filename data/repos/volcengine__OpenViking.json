@@ -3,9 +3,9 @@
   "repo": "volcengine/OpenViking",
   "org": "volcengine",
   "language": "Python",
-  "stars": 42355,
+  "stars": 42689,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:53Z",
+  "scanned_at": "2026-11-25T13:15:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -108,7 +108,7 @@
       }
     },
     "2026-11": {
-      "total": 511,
+      "total": 542,
       "ai": 40,
       "automation": 0,
       "merges": 0,

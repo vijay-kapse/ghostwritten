@@ -5,7 +5,7 @@
   "language": "C++",
   "stars": 15479,
   "default_branch": "main",
-  "scanned_at": "2026-11-24T14:21:31Z",
+  "scanned_at": "2026-11-25T13:39:07Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,10 +176,10 @@
       }
     },
     "2026-11": {
-      "total": 455,
+      "total": 461,
       "ai": 34,
       "automation": 7,
-      "merges": 74,
+      "merges": 77,
       "by_rule": {
         "claude_trailer": 34
       }

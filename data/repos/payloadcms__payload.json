@@ -3,9 +3,9 @@
   "repo": "payloadcms/payload",
   "org": "payloadcms",
   "language": "TypeScript",
-  "stars": 45859,
+  "stars": 45980,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:40:55Z",
+  "scanned_at": "2026-11-25T13:13:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,9 +207,9 @@
       }
     },
     "2026-11": {
-      "total": 125,
+      "total": 146,
       "ai": 8,
-      "automation": 11,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 6,

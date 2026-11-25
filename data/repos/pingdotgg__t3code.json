@@ -3,9 +3,9 @@
   "repo": "pingdotgg/t3code",
   "org": "pingdotgg",
   "language": "TypeScript",
-  "stars": 63505,
+  "stars": 76620,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:02Z",
+  "scanned_at": "2026-11-25T13:18:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -117,16 +117,16 @@
       }
     },
     "2026-11": {
-      "total": 4509,
-      "ai": 1405,
-      "automation": 13,
+      "total": 5044,
+      "ai": 1502,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1356,
-        "codex_trailer": 43,
+        "claude_trailer": 1451,
+        "codex_trailer": 44,
         "cursor": 26,
         "copilot_trailer": 9,
-        "devin": 6,
+        "devin": 7,
         "amp_factory": 2
       }
     }

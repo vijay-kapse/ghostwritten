@@ -3,9 +3,9 @@
   "repo": "stanfordnlp/dspy",
   "org": "stanfordnlp",
   "language": "Python",
-  "stars": 39106,
+  "stars": 39205,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:58Z",
+  "scanned_at": "2026-11-25T13:17:52Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -220,12 +220,12 @@
       }
     },
     "2026-11": {
-      "total": 56,
-      "ai": 49,
+      "total": 57,
+      "ai": 50,
       "automation": 1,
       "merges": 0,
       "by_rule": {
-        "amp_factory": 49
+        "amp_factory": 50
       }
     }
   }

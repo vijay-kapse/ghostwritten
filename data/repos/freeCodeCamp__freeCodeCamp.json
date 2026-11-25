@@ -3,9 +3,9 @@
   "repo": "freeCodeCamp/freeCodeCamp",
   "org": "freeCodeCamp",
   "language": "TypeScript",
-  "stars": 459243,
+  "stars": 459559,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:32:09Z",
+  "scanned_at": "2026-11-25T13:04:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -200,9 +200,9 @@
       }
     },
     "2026-11": {
-      "total": 116,
+      "total": 125,
       "ai": 0,
-      "automation": 41,
+      "automation": 45,
       "merges": 0,
       "by_rule": {}
     }

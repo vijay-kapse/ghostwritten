@@ -3,9 +3,9 @@
   "repo": "freqtrade/freqtrade",
   "org": "freqtrade",
   "language": "Python",
-  "stars": 56977,
+  "stars": 57219,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:35:54Z",
+  "scanned_at": "2026-11-25T13:08:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,10 +178,10 @@
       }
     },
     "2026-11": {
-      "total": 36,
+      "total": 42,
       "ai": 1,
-      "automation": 29,
-      "merges": 37,
+      "automation": 30,
+      "merges": 39,
       "by_rule": {
         "claude_trailer": 1
       }

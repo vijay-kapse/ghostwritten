@@ -3,9 +3,9 @@
   "repo": "TryGhost/Ghost",
   "org": "TryGhost",
   "language": "TypeScript",
-  "stars": 55836,
+  "stars": 55894,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:36:23Z",
+  "scanned_at": "2026-11-25T13:09:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,12 +195,12 @@
       }
     },
     "2026-11": {
-      "total": 632,
-      "ai": 10,
-      "automation": 69,
+      "total": 675,
+      "ai": 12,
+      "automation": 71,
       "merges": 2,
       "by_rule": {
-        "amp_factory": 6,
+        "amp_factory": 8,
         "claude_trailer": 4,
         "claude_generated": 1
       }

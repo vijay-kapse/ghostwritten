@@ -5,15 +5,15 @@
   "language": "Swift",
   "stars": 70609,
   "default_branch": "main",
-  "scanned_at": "2026-11-24T14:02:49Z",
-  "window_start": "2025-01-21",
-  "complete": false,
+  "scanned_at": "2026-11-25T13:24:45Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2025-01": {
-      "total": 296,
+      "total": 724,
       "ai": 0,
       "automation": 0,
-      "merges": 322,
+      "merges": 703,
       "by_rule": {}
     },
     "2025-02": {
@@ -163,14 +163,14 @@
       }
     },
     "2026-09": {
-      "total": 800,
+      "total": 802,
       "ai": 0,
       "automation": 0,
       "merges": 680,
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1083,
+      "total": 1084,
       "ai": 1,
       "automation": 0,
       "merges": 554,
@@ -179,10 +179,10 @@
       }
     },
     "2026-11": {
-      "total": 866,
+      "total": 904,
       "ai": 1,
       "automation": 0,
-      "merges": 422,
+      "merges": 436,
       "by_rule": {
         "claude_trailer": 1
       }

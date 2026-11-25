@@ -3,9 +3,9 @@
   "repo": "bevyengine/bevy",
   "org": "bevyengine",
   "language": "Rust",
-  "stars": 49811,
+  "stars": 49974,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:38:56Z",
+  "scanned_at": "2026-11-25T13:11:45Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,11 +166,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 124,
-      "ai": 1,
-      "automation": 9,
+      "total": 137,
+      "ai": 2,
+      "automation": 11,
       "merges": 0,
       "by_rule": {
+        "claude_trailer": 1,
         "cursor": 1
       }
     }

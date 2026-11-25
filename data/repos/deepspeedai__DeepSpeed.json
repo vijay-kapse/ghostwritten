@@ -3,9 +3,9 @@
   "repo": "deepspeedai/DeepSpeed",
   "org": "deepspeedai",
   "language": "Python",
-  "stars": 43331,
+  "stars": 43357,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:41:43Z",
+  "scanned_at": "2026-11-25T13:14:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,14 +191,14 @@
       }
     },
     "2026-11": {
-      "total": 103,
-      "ai": 34,
+      "total": 119,
+      "ai": 39,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 15,
+        "claude_trailer": 20,
         "copilot_trailer": 15,
-        "claude_generated": 4,
+        "claude_generated": 6,
         "cursor": 4
       }
     }

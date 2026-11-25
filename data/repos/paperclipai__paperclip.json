@@ -3,9 +3,9 @@
   "repo": "paperclipai/paperclip",
   "org": "paperclipai",
   "language": "TypeScript",
-  "stars": 114463,
+  "stars": 116586,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:39:40Z",
+  "scanned_at": "2026-11-25T13:12:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -106,13 +106,13 @@
       }
     },
     "2026-11": {
-      "total": 2306,
-      "ai": 1589,
-      "automation": 47,
+      "total": 2466,
+      "ai": 1698,
+      "automation": 51,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1575,
-        "claude_generated": 1531,
+        "claude_trailer": 1684,
+        "claude_generated": 1634,
         "codex_trailer": 7
       }
     }

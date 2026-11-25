@@ -3,9 +3,9 @@
   "repo": "langfuse/langfuse",
   "org": "langfuse",
   "language": "TypeScript",
-  "stars": 37540,
+  "stars": 37792,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:44Z",
+  "scanned_at": "2026-11-25T13:19:34Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -225,13 +225,13 @@
       }
     },
     "2026-11": {
-      "total": 772,
-      "ai": 492,
+      "total": 894,
+      "ai": 576,
       "automation": 8,
       "merges": 0,
       "by_rule": {
-        "cursor": 336,
-        "claude_trailer": 160
+        "cursor": 389,
+        "claude_trailer": 191
       }
     }
   }

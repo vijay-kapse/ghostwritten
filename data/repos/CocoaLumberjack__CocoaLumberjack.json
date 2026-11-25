@@ -5,7 +5,7 @@
   "language": "Objective-C",
   "stars": 13326,
   "default_branch": "master",
-  "scanned_at": "2026-11-24T14:27:45Z",
+  "scanned_at": "2026-11-25T13:44:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -138,7 +138,7 @@
     "2026-11": {
       "total": 2,
       "ai": 0,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {}
     }

@@ -3,9 +3,9 @@
   "repo": "DioxusLabs/dioxus",
   "org": "DioxusLabs",
   "language": "Rust",
-  "stars": 39792,
+  "stars": 39900,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:43Z",
+  "scanned_at": "2026-11-25T13:17:36Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       }
     },
     "2026-11": {
-      "total": 11,
+      "total": 16,
       "ai": 1,
       "automation": 0,
       "merges": 0,

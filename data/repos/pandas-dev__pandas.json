@@ -3,9 +3,9 @@
   "repo": "pandas-dev/pandas",
   "org": "pandas-dev",
   "language": "Python",
-  "stars": 50548,
+  "stars": 50614,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:32:11Z",
+  "scanned_at": "2026-11-25T13:04:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -186,12 +186,12 @@
       }
     },
     "2026-11": {
-      "total": 239,
-      "ai": 178,
+      "total": 247,
+      "ai": 182,
       "automation": 14,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 176,
+        "claude_trailer": 180,
         "cursor": 2
       }
     }

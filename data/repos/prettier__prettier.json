@@ -3,9 +3,9 @@
   "repo": "prettier/prettier",
   "org": "prettier",
   "language": "JavaScript",
-  "stars": 52417,
+  "stars": 52445,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:39Z",
+  "scanned_at": "2026-11-25T13:10:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,7 +182,7 @@
       }
     },
     "2026-11": {
-      "total": 70,
+      "total": 72,
       "ai": 2,
       "automation": 40,
       "merges": 1,

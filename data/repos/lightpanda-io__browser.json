@@ -3,9 +3,9 @@
   "repo": "lightpanda-io/browser",
   "org": "lightpanda-io",
   "language": "Zig",
-  "stars": 42172,
+  "stars": 42464,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:39Z",
+  "scanned_at": "2026-11-25T13:17:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,10 +177,10 @@
       }
     },
     "2026-11": {
-      "total": 553,
+      "total": 585,
       "ai": 13,
-      "automation": 30,
-      "merges": 314,
+      "automation": 35,
+      "merges": 339,
       "by_rule": {
         "claude_trailer": 13
       }

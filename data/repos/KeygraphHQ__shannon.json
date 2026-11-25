@@ -3,9 +3,9 @@
   "repo": "KeygraphHQ/shannon",
   "org": "KeygraphHQ",
   "language": "TypeScript",
-  "stars": 51996,
+  "stars": 52254,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:56Z",
+  "scanned_at": "2026-11-25T13:10:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,7 +118,7 @@
       }
     },
     "2026-11": {
-      "total": 17,
+      "total": 19,
       "ai": 5,
       "automation": 0,
       "merges": 1,

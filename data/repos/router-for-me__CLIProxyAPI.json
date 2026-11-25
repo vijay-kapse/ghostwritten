@@ -3,9 +3,9 @@
   "repo": "router-for-me/CLIProxyAPI",
   "org": "router-for-me",
   "language": "Go",
-  "stars": 58805,
+  "stars": 59386,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:45Z",
+  "scanned_at": "2026-11-25T13:08:19Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -162,10 +162,10 @@
       }
     },
     "2026-11": {
-      "total": 393,
+      "total": 474,
       "ai": 1,
       "automation": 0,
-      "merges": 49,
+      "merges": 51,
       "by_rule": {
         "claude_trailer": 1
       }

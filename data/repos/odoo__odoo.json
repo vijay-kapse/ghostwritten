@@ -3,17 +3,24 @@
   "repo": "odoo/odoo",
   "org": "odoo",
   "language": "Python",
-  "stars": 55856,
+  "stars": 56065,
   "default_branch": "20.0",
-  "scanned_at": "2026-11-23T13:37:14Z",
-  "window_start": "2025-02-12",
-  "complete": false,
+  "scanned_at": "2026-11-25T13:09:36Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
-    "2025-02": {
-      "total": 747,
+    "2025-01": {
+      "total": 682,
       "ai": 0,
       "automation": 0,
-      "merges": 16,
+      "merges": 9,
+      "by_rule": {}
+    },
+    "2025-02": {
+      "total": 1223,
+      "ai": 0,
+      "automation": 0,
+      "merges": 19,
       "by_rule": {}
     },
     "2025-03": {
@@ -163,7 +170,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 819,
+      "total": 958,
       "ai": 3,
       "automation": 0,
       "merges": 3,

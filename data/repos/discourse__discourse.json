@@ -3,9 +3,9 @@
   "repo": "discourse/discourse",
   "org": "discourse",
   "language": "Ruby",
-  "stars": 48089,
+  "stars": 48111,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:39:34Z",
+  "scanned_at": "2026-11-25T13:12:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -190,9 +190,9 @@
       }
     },
     "2026-11": {
-      "total": 683,
+      "total": 789,
       "ai": 7,
-      "automation": 1,
+      "automation": 2,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 4,

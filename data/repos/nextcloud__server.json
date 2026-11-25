@@ -3,9 +3,9 @@
   "repo": "nextcloud/server",
   "org": "nextcloud",
   "language": "PHP",
-  "stars": 37541,
+  "stars": 37623,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:46:29Z",
+  "scanned_at": "2026-11-25T13:19:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,21 +173,21 @@
       }
     },
     "2026-10": {
-      "total": 434,
+      "total": 436,
       "ai": 6,
       "automation": 90,
-      "merges": 286,
+      "merges": 288,
       "by_rule": {
         "claude_trailer": 6
       }
     },
     "2026-11": {
-      "total": 361,
-      "ai": 7,
+      "total": 391,
+      "ai": 8,
       "automation": 40,
-      "merges": 192,
+      "merges": 205,
       "by_rule": {
-        "claude_trailer": 7
+        "claude_trailer": 8
       }
     }
   }

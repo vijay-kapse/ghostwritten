@@ -3,9 +3,9 @@
   "repo": "zylon-ai/private-gpt",
   "org": "zylon-ai",
   "language": "Python",
-  "stars": 57642,
+  "stars": 57649,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:48Z",
+  "scanned_at": "2026-11-25T13:08:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -65,7 +65,7 @@
       }
     },
     "2026-11": {
-      "total": 23,
+      "total": 25,
       "ai": 4,
       "automation": 2,
       "merges": 0,

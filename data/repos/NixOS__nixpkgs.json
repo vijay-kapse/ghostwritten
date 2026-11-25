@@ -5,25 +5,25 @@
   "language": "Nix",
   "stars": 26940,
   "default_branch": "master",
-  "scanned_at": "2026-11-24T14:08:30Z",
-  "window_start": "2026-10-22",
+  "scanned_at": "2026-11-25T13:29:09Z",
+  "window_start": "2026-10-20",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 3928,
-      "ai": 11,
+      "total": 5362,
+      "ai": 13,
       "automation": 2,
-      "merges": 3048,
+      "merges": 3916,
       "by_rule": {
-        "claude_trailer": 9,
-        "copilot_trailer": 2
+        "claude_trailer": 10,
+        "copilot_trailer": 3
       }
     },
     "2026-11": {
-      "total": 10423,
+      "total": 10819,
       "ai": 20,
       "automation": 9,
-      "merges": 8183,
+      "merges": 8478,
       "by_rule": {
         "claude_trailer": 13,
         "copilot_trailer": 6,

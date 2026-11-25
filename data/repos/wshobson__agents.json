@@ -3,9 +3,9 @@
   "repo": "wshobson/agents",
   "org": "wshobson",
   "language": "Python",
-  "stars": 42604,
+  "stars": 42862,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:43Z",
+  "scanned_at": "2026-11-25T13:15:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -148,7 +148,7 @@
       }
     },
     "2026-11": {
-      "total": 16,
+      "total": 18,
       "ai": 2,
       "automation": 4,
       "merges": 0,

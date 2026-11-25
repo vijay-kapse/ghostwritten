@@ -3,9 +3,9 @@
   "repo": "vllm-project/vllm",
   "org": "vllm-project",
   "language": "Python",
-  "stars": 97096,
+  "stars": 97476,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:30Z",
+  "scanned_at": "2026-11-25T13:17:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -249,15 +249,15 @@
       }
     },
     "2026-11": {
-      "total": 1784,
-      "ai": 1100,
+      "total": 1972,
+      "ai": 1200,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 966,
-        "codex_trailer": 142,
-        "cursor": 51,
-        "copilot_trailer": 16,
+        "claude_trailer": 1053,
+        "codex_trailer": 159,
+        "cursor": 54,
+        "copilot_trailer": 19,
         "devin": 4
       }
     }

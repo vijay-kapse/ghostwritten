@@ -3,9 +3,9 @@
   "repo": "codewhale-hq/Codewhale",
   "org": "codewhale-hq",
   "language": "Rust",
-  "stars": 41182,
+  "stars": 41196,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:43:31Z",
+  "scanned_at": "2026-11-25T13:16:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,12 +118,12 @@
       }
     },
     "2026-11": {
-      "total": 1327,
-      "ai": 607,
-      "automation": 27,
-      "merges": 218,
+      "total": 1657,
+      "ai": 656,
+      "automation": 29,
+      "merges": 334,
       "by_rule": {
-        "claude_trailer": 597,
+        "claude_trailer": 646,
         "copilot_trailer": 10
       }
     }

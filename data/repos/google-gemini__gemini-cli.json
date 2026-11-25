@@ -3,9 +3,9 @@
   "repo": "google-gemini/gemini-cli",
   "org": "google-gemini",
   "language": "TypeScript",
-  "stars": 108894,
+  "stars": 109050,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:40:03Z",
+  "scanned_at": "2026-11-25T13:13:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,12 +178,12 @@
       }
     },
     "2026-11": {
-      "total": 71,
-      "ai": 9,
+      "total": 76,
+      "ai": 10,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "gemini": 9
+        "gemini": 10
       }
     }
   }

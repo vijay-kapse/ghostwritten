@@ -5,17 +5,17 @@
   "language": "Java",
   "stars": 19915,
   "default_branch": "main",
-  "scanned_at": "2026-11-24T14:18:35Z",
-  "window_start": "2026-11-16",
-  "complete": false,
+  "scanned_at": "2026-11-25T13:36:43Z",
+  "window_start": "2025-01-01",
+  "complete": true,
   "months": {
     "2026-11": {
-      "total": 1890,
-      "ai": 489,
+      "total": 2223,
+      "ai": 607,
       "automation": 1,
-      "merges": 1109,
+      "merges": 1280,
       "by_rule": {
-        "claude_trailer": 489
+        "claude_trailer": 607
       }
     }
   }

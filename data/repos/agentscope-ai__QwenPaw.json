@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "agentscope-ai/QwenPaw",
   "org": "agentscope-ai",
-  "language": "TypeScript",
-  "stars": 37868,
+  "language": "Python",
+  "stars": 38169,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:35Z",
+  "scanned_at": "2026-11-25T13:19:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -83,11 +83,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 141,
-      "ai": 0,
+      "total": 157,
+      "ai": 1,
       "automation": 0,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 1
+      }
     }
   }
 }

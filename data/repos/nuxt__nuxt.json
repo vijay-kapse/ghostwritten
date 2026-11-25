@@ -3,9 +3,9 @@
   "repo": "nuxt/nuxt",
   "org": "nuxt",
   "language": "TypeScript",
-  "stars": 61074,
+  "stars": 61095,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:01Z",
+  "scanned_at": "2026-11-25T13:07:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       }
     },
     "2026-11": {
-      "total": 322,
+      "total": 350,
       "ai": 9,
-      "automation": 16,
+      "automation": 17,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 9

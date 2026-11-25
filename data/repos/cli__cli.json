@@ -3,9 +3,9 @@
   "repo": "cli/cli",
   "org": "cli",
   "language": "Go",
-  "stars": 47056,
+  "stars": 47174,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-23T13:32:06Z",
+  "scanned_at": "2026-11-25T13:04:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -210,12 +210,12 @@
       }
     },
     "2026-11": {
-      "total": 80,
-      "ai": 46,
-      "automation": 17,
-      "merges": 35,
+      "total": 95,
+      "ai": 52,
+      "automation": 23,
+      "merges": 44,
       "by_rule": {
-        "copilot_trailer": 43,
+        "copilot_trailer": 49,
         "copilot_author": 3
       }
     }

@@ -3,9 +3,9 @@
   "repo": "mozilla/pdf.js",
   "org": "mozilla",
   "language": "JavaScript",
-  "stars": 54150,
+  "stars": 54182,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:37:30Z",
+  "scanned_at": "2026-11-25T13:09:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,10 +172,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 114,
+      "total": 121,
       "ai": 0,
       "automation": 21,
-      "merges": 113,
+      "merges": 118,
       "by_rule": {}
     }
   }

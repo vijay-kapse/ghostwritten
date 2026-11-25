@@ -3,9 +3,9 @@
   "repo": "nodejs/node",
   "org": "nodejs",
   "language": "JavaScript",
-  "stars": 123765,
+  "stars": 123880,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:52Z",
+  "scanned_at": "2026-11-25T13:08:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,9 +179,9 @@
       }
     },
     "2026-11": {
-      "total": 408,
+      "total": 457,
       "ai": 1,
-      "automation": 4,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1

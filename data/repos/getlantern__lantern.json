@@ -5,7 +5,7 @@
   "language": "Dart",
   "stars": 16907,
   "default_branch": "main",
-  "scanned_at": "2026-11-24T14:33:38Z",
+  "scanned_at": "2026-11-25T13:49:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -204,9 +204,9 @@
       }
     },
     "2026-11": {
-      "total": 184,
+      "total": 185,
       "ai": 156,
-      "automation": 23,
+      "automation": 24,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 156

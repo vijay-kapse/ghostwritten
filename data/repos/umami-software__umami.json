@@ -3,9 +3,9 @@
   "repo": "umami-software/umami",
   "org": "umami-software",
   "language": "TypeScript",
-  "stars": 40192,
+  "stars": 40325,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:44:39Z",
+  "scanned_at": "2026-11-25T13:17:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,8 +181,8 @@
     "2026-11": {
       "total": 34,
       "ai": 1,
-      "automation": 0,
-      "merges": 13,
+      "automation": 1,
+      "merges": 14,
       "by_rule": {
         "claude_trailer": 1
       }

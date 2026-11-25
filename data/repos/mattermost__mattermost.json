@@ -3,9 +3,9 @@
   "repo": "mattermost/mattermost",
   "org": "mattermost",
   "language": "TypeScript",
-  "stars": 39634,
+  "stars": 39695,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:44:46Z",
+  "scanned_at": "2026-11-25T13:17:39Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -241,14 +241,14 @@
       }
     },
     "2026-11": {
-      "total": 304,
-      "ai": 246,
-      "automation": 7,
+      "total": 332,
+      "ai": 269,
+      "automation": 8,
       "merges": 0,
       "by_rule": {
-        "cursor": 187,
-        "claude_trailer": 78,
-        "copilot_trailer": 1
+        "cursor": 206,
+        "claude_trailer": 83,
+        "copilot_trailer": 2
       }
     }
   }

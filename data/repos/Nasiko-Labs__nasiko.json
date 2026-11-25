@@ -3,9 +3,9 @@
   "repo": "Nasiko-Labs/nasiko",
   "org": "Nasiko-Labs",
   "language": "Rust",
-  "stars": 11947,
+  "stars": 11935,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:30:44Z",
+  "scanned_at": "2026-11-25T13:03:04Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -71,12 +71,12 @@
       }
     },
     "2026-11": {
-      "total": 1188,
-      "ai": 281,
-      "automation": 6,
+      "total": 1318,
+      "ai": 331,
+      "automation": 7,
       "merges": 1,
       "by_rule": {
-        "claude_trailer": 280,
+        "claude_trailer": 330,
         "copilot_trailer": 1
       }
     }

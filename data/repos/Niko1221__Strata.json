@@ -3,9 +3,9 @@
   "repo": "Niko1221/Strata",
   "org": "Niko1221",
   "language": "C++",
-  "stars": 45132,
+  "stars": 47688,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:57Z",
+  "scanned_at": "2026-11-25T13:18:49Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -30,10 +30,10 @@
       }
     },
     "2026-11": {
-      "total": 2710,
+      "total": 2937,
       "ai": 0,
       "automation": 0,
-      "merges": 632,
+      "merges": 685,
       "by_rule": {}
     }
   }

@@ -3,9 +3,9 @@
   "repo": "D4Vinci/Scrapling",
   "org": "D4Vinci",
   "language": "Python",
-  "stars": 103797,
+  "stars": 105467,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:25Z",
+  "scanned_at": "2026-11-25T13:18:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,7 +172,7 @@
       }
     },
     "2026-11": {
-      "total": 32,
+      "total": 34,
       "ai": 0,
       "automation": 0,
       "merges": 3,

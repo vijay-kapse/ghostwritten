@@ -3,9 +3,9 @@
   "repo": "data-privacy-stack/presidio",
   "org": "data-privacy-stack",
   "language": "Python",
-  "stars": 11915,
+  "stars": 12029,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:30:02Z",
+  "scanned_at": "2026-11-25T13:02:22Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -211,7 +211,7 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 15,
       "ai": 2,
       "automation": 0,
       "merges": 0,

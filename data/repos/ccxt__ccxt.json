@@ -3,9 +3,9 @@
   "repo": "ccxt/ccxt",
   "org": "ccxt",
   "language": "Python",
-  "stars": 44902,
+  "stars": 44974,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:41:25Z",
+  "scanned_at": "2026-11-25T13:14:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 114,
-      "ai": 25,
-      "automation": 345,
+      "total": 131,
+      "ai": 26,
+      "automation": 400,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 24,
+        "claude_trailer": 25,
         "copilot_trailer": 1
       }
     }

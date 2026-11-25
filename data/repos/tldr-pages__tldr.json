@@ -3,9 +3,9 @@
   "repo": "tldr-pages/tldr",
   "org": "tldr-pages",
   "language": "Markdown",
-  "stars": 64226,
+  "stars": 64290,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:34:14Z",
+  "scanned_at": "2026-11-25T13:06:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 320,
+      "total": 345,
       "ai": 2,
       "automation": 6,
       "merges": 0,

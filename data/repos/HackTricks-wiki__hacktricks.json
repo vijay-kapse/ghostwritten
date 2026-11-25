@@ -5,7 +5,7 @@
   "language": "JavaScript",
   "stars": 12813,
   "default_branch": "master",
-  "scanned_at": "2026-11-24T14:30:11Z",
+  "scanned_at": "2026-11-25T13:46:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,10 +176,10 @@
       }
     },
     "2026-11": {
-      "total": 227,
+      "total": 235,
       "ai": 0,
       "automation": 0,
-      "merges": 156,
+      "merges": 161,
       "by_rule": {}
     }
   }

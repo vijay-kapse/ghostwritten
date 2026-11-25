@@ -3,9 +3,9 @@
   "repo": "astral-sh/ruff",
   "org": "astral-sh",
   "language": "Rust",
-  "stars": 51269,
+  "stars": 51405,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:38:40Z",
+  "scanned_at": "2026-11-25T13:11:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -195,9 +195,9 @@
       }
     },
     "2026-11": {
-      "total": 458,
+      "total": 535,
       "ai": 2,
-      "automation": 45,
+      "automation": 62,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 1,

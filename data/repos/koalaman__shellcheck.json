@@ -3,9 +3,9 @@
   "repo": "koalaman/shellcheck",
   "org": "koalaman",
   "language": "Haskell",
-  "stars": 40355,
+  "stars": 40379,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:44:27Z",
+  "scanned_at": "2026-11-25T13:17:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -146,7 +146,7 @@
       }
     },
     "2026-10": {
-      "total": 42,
+      "total": 44,
       "ai": 1,
       "automation": 0,
       "merges": 26,
@@ -155,10 +155,10 @@
       }
     },
     "2026-11": {
-      "total": 21,
+      "total": 32,
       "ai": 2,
       "automation": 0,
-      "merges": 17,
+      "merges": 25,
       "by_rule": {
         "claude_trailer": 2
       }

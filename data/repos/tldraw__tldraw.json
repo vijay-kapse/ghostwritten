@@ -3,9 +3,9 @@
   "repo": "tldraw/tldraw",
   "org": "tldraw",
   "language": "TypeScript",
-  "stars": 51454,
+  "stars": 51563,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:50Z",
+  "scanned_at": "2026-11-25T13:10:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -227,13 +227,13 @@
       }
     },
     "2026-11": {
-      "total": 153,
-      "ai": 54,
-      "automation": 13,
+      "total": 182,
+      "ai": 58,
+      "automation": 14,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 54,
-        "claude_generated": 16
+        "claude_trailer": 58,
+        "claude_generated": 17
       }
     }
   }

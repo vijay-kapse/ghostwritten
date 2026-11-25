@@ -3,9 +3,9 @@
   "repo": "dotansimha/graphql-code-generator",
   "org": "dotansimha",
   "language": "TypeScript",
-  "stars": 11268,
+  "stars": 11266,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:31:44Z",
+  "scanned_at": "2026-11-25T13:03:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -170,7 +170,7 @@
       }
     },
     "2026-11": {
-      "total": 13,
+      "total": 14,
       "ai": 3,
       "automation": 9,
       "merges": 0,

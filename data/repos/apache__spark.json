@@ -3,9 +3,9 @@
   "repo": "apache/spark",
   "org": "apache",
   "language": "Scala",
-  "stars": 44551,
+  "stars": 44612,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:41:28Z",
+  "scanned_at": "2026-11-25T13:14:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,12 +197,12 @@
       }
     },
     "2026-11": {
-      "total": 492,
-      "ai": 13,
+      "total": 539,
+      "ai": 14,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 13
+        "claude_generated": 14
       }
     }
   }

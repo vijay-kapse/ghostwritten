@@ -3,9 +3,9 @@
   "repo": "zhayujie/CowAgent",
   "org": "zhayujie",
   "language": "Python",
-  "stars": 47970,
+  "stars": 48059,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:39:36Z",
+  "scanned_at": "2026-11-25T13:12:46Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,12 +152,12 @@
       }
     },
     "2026-11": {
-      "total": 355,
-      "ai": 4,
+      "total": 450,
+      "ai": 8,
       "automation": 0,
-      "merges": 140,
+      "merges": 167,
       "by_rule": {
-        "claude_trailer": 4
+        "claude_trailer": 8
       }
     }
   }

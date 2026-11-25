@@ -3,9 +3,9 @@
   "repo": "directus/directus",
   "org": "directus",
   "language": "TypeScript",
-  "stars": 38739,
+  "stars": 38631,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:03Z",
+  "scanned_at": "2026-11-25T13:18:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -199,7 +199,7 @@
       }
     },
     "2026-11": {
-      "total": 52,
+      "total": 53,
       "ai": 3,
       "automation": 0,
       "merges": 0,

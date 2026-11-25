@@ -3,9 +3,9 @@
   "repo": "QuantumNous/new-api",
   "org": "QuantumNous",
   "language": "Go",
-  "stars": 52076,
+  "stars": 52468,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:56Z",
+  "scanned_at": "2026-11-25T13:10:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,9 +181,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 68,
+      "total": 71,
       "ai": 2,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 2

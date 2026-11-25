@@ -3,9 +3,9 @@
   "repo": "doocs/leetcode",
   "org": "doocs",
   "language": "Java",
-  "stars": 36767,
+  "stars": 36773,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:48Z",
+  "scanned_at": "2026-11-25T13:19:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
     "2026-11": {
       "total": 67,
       "ai": 0,
-      "automation": 3,
+      "automation": 5,
       "merges": 0,
       "by_rule": {}
     }

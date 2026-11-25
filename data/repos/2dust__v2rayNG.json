@@ -3,9 +3,9 @@
   "repo": "2dust/v2rayNG",
   "org": "2dust",
   "language": "Kotlin",
-  "stars": 66055,
+  "stars": 66476,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:34:05Z",
+  "scanned_at": "2026-11-25T13:06:21Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       }
     },
     "2026-11": {
-      "total": 34,
+      "total": 54,
       "ai": 0,
       "automation": 2,
       "merges": 0,

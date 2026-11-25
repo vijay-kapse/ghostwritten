@@ -3,9 +3,9 @@
   "repo": "dotnet/aspnetcore",
   "org": "dotnet",
   "language": "C#",
-  "stars": 38532,
+  "stars": 38540,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:32Z",
+  "scanned_at": "2026-11-25T13:18:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -172,20 +172,20 @@
       }
     },
     "2026-06": {
-      "total": 170,
+      "total": 175,
       "ai": 63,
       "automation": 60,
-      "merges": 17,
+      "merges": 22,
       "by_rule": {
         "copilot_trailer": 60,
         "copilot_author": 19
       }
     },
     "2026-07": {
-      "total": 222,
+      "total": 225,
       "ai": 81,
       "automation": 42,
-      "merges": 46,
+      "merges": 51,
       "by_rule": {
         "copilot_trailer": 76,
         "copilot_author": 16,
@@ -207,7 +207,7 @@
       "total": 170,
       "ai": 73,
       "automation": 78,
-      "merges": 70,
+      "merges": 72,
       "by_rule": {
         "copilot_trailer": 71,
         "copilot_author": 11,
@@ -225,12 +225,12 @@
       }
     },
     "2026-11": {
-      "total": 191,
-      "ai": 117,
-      "automation": 44,
-      "merges": 109,
+      "total": 213,
+      "ai": 134,
+      "automation": 46,
+      "merges": 129,
       "by_rule": {
-        "copilot_trailer": 117,
+        "copilot_trailer": 134,
         "copilot_author": 1
       }
     }

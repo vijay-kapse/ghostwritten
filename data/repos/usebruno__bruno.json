@@ -3,9 +3,9 @@
   "repo": "usebruno/bruno",
   "org": "usebruno",
   "language": "JavaScript",
-  "stars": 48423,
+  "stars": 48537,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:39:32Z",
+  "scanned_at": "2026-11-25T13:12:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -196,12 +196,12 @@
       }
     },
     "2026-11": {
-      "total": 127,
-      "ai": 7,
+      "total": 136,
+      "ai": 8,
       "automation": 0,
       "merges": 2,
       "by_rule": {
-        "cursor": 5,
+        "cursor": 6,
         "claude_trailer": 1,
         "copilot_trailer": 1
       }

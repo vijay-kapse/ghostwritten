@@ -3,9 +3,9 @@
   "repo": "ultraworkers/claw-code",
   "org": "ultraworkers",
   "language": "Rust",
-  "stars": 194759,
+  "stars": 194719,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:42Z",
+  "scanned_at": "2026-11-25T13:05:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,7 +76,7 @@
       }
     },
     "2026-11": {
-      "total": 24,
+      "total": 27,
       "ai": 3,
       "automation": 0,
       "merges": 4,

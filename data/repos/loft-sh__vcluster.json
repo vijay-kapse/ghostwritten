@@ -3,9 +3,9 @@
   "repo": "loft-sh/vcluster",
   "org": "loft-sh",
   "language": "Go",
-  "stars": 11380,
+  "stars": 11407,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:30:42Z",
+  "scanned_at": "2026-11-25T13:03:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,12 +182,12 @@
       }
     },
     "2026-11": {
-      "total": 17,
-      "ai": 7,
+      "total": 21,
+      "ai": 8,
       "automation": 2,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 7,
+        "claude_trailer": 8,
         "cursor": 1
       }
     }

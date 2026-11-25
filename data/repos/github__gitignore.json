@@ -3,9 +3,9 @@
   "repo": "github/gitignore",
   "org": "github",
   "language": null,
-  "stars": 176313,
+  "stars": 176447,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:49Z",
+  "scanned_at": "2026-11-25T13:05:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,10 +173,10 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 20,
+      "total": 22,
       "ai": 5,
       "automation": 0,
-      "merges": 31,
+      "merges": 33,
       "by_rule": {
         "copilot_trailer": 5
       }

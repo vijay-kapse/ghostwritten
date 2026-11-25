@@ -3,9 +3,9 @@
   "repo": "nilbuild/developer-roadmap",
   "org": "nilbuild",
   "language": "TypeScript",
-  "stars": 372206,
+  "stars": 372674,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:32:43Z",
+  "scanned_at": "2026-11-25T13:04:44Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 43,
-      "ai": 17,
-      "automation": 33,
+      "total": 56,
+      "ai": 20,
+      "automation": 47,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 17
+        "claude_trailer": 20
       }
     }
   }

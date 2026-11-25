@@ -3,9 +3,9 @@
   "repo": "xyflow/xyflow",
   "org": "xyflow",
   "language": "TypeScript",
-  "stars": 39054,
+  "stars": 39138,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:59Z",
+  "scanned_at": "2026-11-25T13:17:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,8 +177,8 @@
     "2026-11": {
       "total": 97,
       "ai": 0,
-      "automation": 4,
-      "merges": 48,
+      "automation": 5,
+      "merges": 49,
       "by_rule": {}
     }
   }

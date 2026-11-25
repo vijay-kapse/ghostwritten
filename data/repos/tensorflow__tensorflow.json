@@ -3,9 +3,9 @@
   "repo": "tensorflow/tensorflow",
   "org": "tensorflow",
   "language": "C++",
-  "stars": 201625,
+  "stars": 201709,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:33:40Z",
+  "scanned_at": "2026-11-25T13:05:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -181,7 +181,7 @@
       }
     },
     "2026-11": {
-      "total": 1367,
+      "total": 1517,
       "ai": 3,
       "automation": 3,
       "merges": 106,

@@ -2,10 +2,10 @@
   "schema": 1,
   "repo": "twbs/bootstrap",
   "org": "twbs",
-  "language": "MDX",
-  "stars": 175076,
+  "language": "JavaScript",
+  "stars": 175123,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:49Z",
+  "scanned_at": "2026-11-25T13:05:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,12 +176,12 @@
       }
     },
     "2026-11": {
-      "total": 77,
-      "ai": 11,
-      "automation": 6,
+      "total": 85,
+      "ai": 14,
+      "automation": 7,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11
+        "claude_trailer": 14
       }
     }
   }

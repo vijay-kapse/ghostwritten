@@ -3,9 +3,9 @@
   "repo": "Stirling-Tools/Stirling-PDF",
   "org": "Stirling-Tools",
   "language": "TypeScript",
-  "stars": 96822,
+  "stars": 97363,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:42Z",
+  "scanned_at": "2026-11-25T13:17:26Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -219,12 +219,12 @@
       }
     },
     "2026-11": {
-      "total": 116,
-      "ai": 6,
+      "total": 130,
+      "ai": 7,
       "automation": 35,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 6,
+        "claude_trailer": 7,
         "claude_generated": 5
       }
     }

@@ -3,9 +3,9 @@
   "repo": "facebookresearch/faiss",
   "org": "facebookresearch",
   "language": "C++",
-  "stars": 41766,
+  "stars": 41906,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:58Z",
+  "scanned_at": "2026-11-25T13:15:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 73,
+      "total": 78,
       "ai": 3,
       "automation": 0,
       "merges": 0,

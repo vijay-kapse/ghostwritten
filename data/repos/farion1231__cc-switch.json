@@ -3,9 +3,9 @@
   "repo": "farion1231/cc-switch",
   "org": "farion1231",
   "language": "Rust",
-  "stars": 155132,
+  "stars": 156848,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:56Z",
+  "scanned_at": "2026-11-25T13:06:09Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -150,7 +150,7 @@
       }
     },
     "2026-11": {
-      "total": 518,
+      "total": 551,
       "ai": 10,
       "automation": 0,
       "merges": 0,

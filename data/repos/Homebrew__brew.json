@@ -3,9 +3,9 @@
   "repo": "Homebrew/brew",
   "org": "Homebrew",
   "language": "Ruby",
-  "stars": 50359,
+  "stars": 50419,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:38:42Z",
+  "scanned_at": "2026-11-25T13:11:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -212,11 +212,12 @@
       }
     },
     "2026-11": {
-      "total": 410,
-      "ai": 1,
+      "total": 431,
+      "ai": 3,
       "automation": 15,
-      "merges": 257,
+      "merges": 276,
       "by_rule": {
+        "claude_trailer": 2,
         "copilot_trailer": 1
       }
     }

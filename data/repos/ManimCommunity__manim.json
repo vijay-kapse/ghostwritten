@@ -3,9 +3,9 @@
   "repo": "ManimCommunity/manim",
   "org": "ManimCommunity",
   "language": "Python",
-  "stars": 42629,
+  "stars": 42869,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:41Z",
+  "scanned_at": "2026-11-25T13:15:24Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -163,7 +163,7 @@
       }
     },
     "2026-11": {
-      "total": 23,
+      "total": 24,
       "ai": 3,
       "automation": 3,
       "merges": 0,

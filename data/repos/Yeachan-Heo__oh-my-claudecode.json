@@ -3,9 +3,9 @@
   "repo": "Yeachan-Heo/oh-my-claudecode",
   "org": "Yeachan-Heo",
   "language": "TypeScript",
-  "stars": 40888,
+  "stars": 41046,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:22Z",
+  "scanned_at": "2026-11-25T13:17:02Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -110,12 +110,12 @@
       }
     },
     "2026-11": {
-      "total": 280,
-      "ai": 6,
+      "total": 495,
+      "ai": 10,
       "automation": 0,
-      "merges": 79,
+      "merges": 128,
       "by_rule": {
-        "claude_trailer": 6
+        "claude_trailer": 10
       }
     }
   }

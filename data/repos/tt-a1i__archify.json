@@ -3,9 +3,9 @@
   "repo": "tt-a1i/archify",
   "org": "tt-a1i",
   "language": "JavaScript",
-  "stars": 97325,
+  "stars": 99393,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:41Z",
+  "scanned_at": "2026-11-25T13:18:31Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -73,12 +73,12 @@
       }
     },
     "2026-11": {
-      "total": 383,
-      "ai": 49,
+      "total": 412,
+      "ai": 50,
       "automation": 0,
-      "merges": 164,
+      "merges": 172,
       "by_rule": {
-        "claude_trailer": 49,
+        "claude_trailer": 50,
         "cursor": 5,
         "devin": 5
       }

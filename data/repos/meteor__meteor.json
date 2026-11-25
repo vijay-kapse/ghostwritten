@@ -3,9 +3,9 @@
   "repo": "meteor/meteor",
   "org": "meteor",
   "language": "JavaScript",
-  "stars": 44793,
+  "stars": 44790,
   "default_branch": "devel",
-  "scanned_at": "2026-11-23T13:41:22Z",
+  "scanned_at": "2026-11-25T13:14:12Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,10 +188,10 @@
       }
     },
     "2026-11": {
-      "total": 64,
+      "total": 66,
       "ai": 1,
       "automation": 0,
-      "merges": 9,
+      "merges": 10,
       "by_rule": {
         "claude_trailer": 1
       }

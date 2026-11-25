@@ -3,9 +3,9 @@
   "repo": "vlang/v",
   "org": "vlang",
   "language": "V",
-  "stars": 38118,
+  "stars": 38127,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:45:50Z",
+  "scanned_at": "2026-11-25T13:18:42Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -184,7 +184,7 @@
       }
     },
     "2026-11": {
-      "total": 1160,
+      "total": 1386,
       "ai": 0,
       "automation": 2,
       "merges": 0,

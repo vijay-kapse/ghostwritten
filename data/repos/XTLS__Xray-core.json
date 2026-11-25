@@ -3,9 +3,9 @@
   "repo": "XTLS/Xray-core",
   "org": "XTLS",
   "language": "Go",
-  "stars": 42966,
+  "stars": 43123,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:09Z",
+  "scanned_at": "2026-11-25T13:14:57Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -179,13 +179,13 @@
       }
     },
     "2026-11": {
-      "total": 48,
-      "ai": 13,
-      "automation": 4,
+      "total": 57,
+      "ai": 15,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 12,
-        "codex_trailer": 1
+        "claude_trailer": 13,
+        "codex_trailer": 2
       }
     }
   }

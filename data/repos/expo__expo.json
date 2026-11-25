@@ -3,9 +3,9 @@
   "repo": "expo/expo",
   "org": "expo",
   "language": "TypeScript",
-  "stars": 53603,
+  "stars": 53750,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:33Z",
+  "scanned_at": "2026-11-25T13:09:55Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -207,13 +207,13 @@
       }
     },
     "2026-11": {
-      "total": 683,
-      "ai": 122,
-      "automation": 4,
+      "total": 774,
+      "ai": 138,
+      "automation": 5,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 104,
-        "claude_trailer": 29,
+        "claude_generated": 119,
+        "claude_trailer": 32,
         "cursor": 3,
         "devin": 2,
         "copilot_trailer": 1

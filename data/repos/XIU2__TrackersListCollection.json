@@ -5,7 +5,7 @@
   "language": null,
   "stars": 32439,
   "default_branch": "master",
-  "scanned_at": "2026-11-24T13:59:17Z",
+  "scanned_at": "2026-11-25T13:22:43Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 24,
+      "automation": 25,
       "merges": 0,
       "by_rule": {}
     }

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T14:39:20Z",
+  "generated_at": "2026-11-25T13:51:57Z",
   "universe": {
     "repos": 5083,
     "selection": "top by stars, plus on-demand lookups"
@@ -20,7 +20,7 @@
       "ai_share": 0.9908,
       "ai": 108,
       "total": 109,
-      "stars": 48473,
+      "stars": 48585,
       "language": "Python"
     },
     {
@@ -44,7 +44,7 @@
       "ai_share": 0.951,
       "ai": 640,
       "total": 673,
-      "stars": 39307,
+      "stars": 39351,
       "language": "TypeScript"
     },
     {
@@ -52,7 +52,7 @@
       "ai_share": 0.9494,
       "ai": 619,
       "total": 652,
-      "stars": 92063,
+      "stars": 92208,
       "language": "TypeScript"
     },
     {
@@ -60,7 +60,7 @@
       "ai_share": 0.9324,
       "ai": 400,
       "total": 429,
-      "stars": 51028,
+      "stars": 51043,
       "language": "TypeScript"
     },
     {
@@ -68,7 +68,7 @@
       "ai_share": 0.9293,
       "ai": 631,
       "total": 679,
-      "stars": 335348,
+      "stars": 336838,
       "language": "Python"
     },
     {
@@ -132,7 +132,7 @@
       "ai_share": 0.8989,
       "ai": 1280,
       "total": 1424,
-      "stars": 36274,
+      "stars": 36943,
       "language": "TypeScript"
     },
     {
@@ -140,7 +140,7 @@
       "ai_share": 0.8962,
       "ai": 259,
       "total": 289,
-      "stars": 46121,
+      "stars": 46376,
       "language": "TypeScript"
     },
     {
@@ -148,7 +148,7 @@
       "ai_share": 0.8879,
       "ai": 103,
       "total": 116,
-      "stars": 11445,
+      "stars": 11356,
       "language": "TypeScript"
     },
     {
@@ -196,7 +196,7 @@
       "ai_share": 0.8461,
       "ai": 1160,
       "total": 1371,
-      "stars": 188072,
+      "stars": 188160,
       "language": "Python"
     },
     {
@@ -276,7 +276,7 @@
       "ai_share": 0.8098,
       "ai": 1158,
       "total": 1430,
-      "stars": 120905,
+      "stars": 122565,
       "language": "Go"
     },
     {
@@ -292,7 +292,7 @@
       "ai_share": 0.8043,
       "ai": 715,
       "total": 889,
-      "stars": 111779,
+      "stars": 116010,
       "language": "Rust"
     },
     {
@@ -324,7 +324,7 @@
       "ai_share": 0.8001,
       "ai": 1245,
       "total": 1556,
-      "stars": 11313,
+      "stars": 11353,
       "language": "TypeScript"
     },
     {
@@ -392,14 +392,6 @@
       "language": "C++"
     },
     {
-      "repo": "desktop/desktop",
-      "ai_share": 0.7692,
-      "ai": 290,
-      "total": 377,
-      "stars": 22137,
-      "language": "TypeScript"
-    },
-    {
       "repo": "yamadashy/repomix",
       "ai_share": 0.7674,
       "ai": 99,
@@ -416,11 +408,19 @@
       "language": "Go"
     },
     {
+      "repo": "desktop/desktop",
+      "ai_share": 0.7632,
+      "ai": 290,
+      "total": 380,
+      "stars": 22137,
+      "language": "TypeScript"
+    },
+    {
       "repo": "microsoft/vscode",
       "ai_share": 0.7573,
       "ai": 5129,
       "total": 6773,
-      "stars": 195537,
+      "stars": 195642,
       "language": "TypeScript"
     },
     {
@@ -428,7 +428,7 @@
       "ai_share": 0.7551,
       "ai": 111,
       "total": 147,
-      "stars": 326364,
+      "stars": 331883,
       "language": "Shell"
     },
     {
@@ -444,7 +444,7 @@
       "ai_share": 0.7513,
       "ai": 420,
       "total": 559,
-      "stars": 47056,
+      "stars": 47174,
       "language": "Go"
     },
     {
@@ -460,7 +460,7 @@
       "ai_share": 0.7455,
       "ai": 82,
       "total": 110,
-      "stars": 117323,
+      "stars": 120938,
       "language": "JavaScript"
     },
     {
@@ -492,7 +492,7 @@
       "ai_share": 0.722,
       "ai": 213,
       "total": 295,
-      "stars": 51645,
+      "stars": 51707,
       "language": "Python"
     },
     {
@@ -532,7 +532,7 @@
       "ai_share": 0.7124,
       "ai": 805,
       "total": 1130,
-      "stars": 50548,
+      "stars": 50614,
       "language": "Python"
     },
     {
@@ -540,7 +540,7 @@
       "ai_share": 0.7107,
       "ai": 909,
       "total": 1279,
-      "stars": 117837,
+      "stars": 119453,
       "language": "TypeScript"
     },
     {
@@ -644,7 +644,7 @@
       "ai_share": 0.662,
       "ai": 141,
       "total": 213,
-      "stars": 57245,
+      "stars": 58382,
       "language": "Python"
     },
     {
@@ -692,7 +692,7 @@
       "ai_share": 0.6427,
       "ai": 473,
       "total": 736,
-      "stars": 39634,
+      "stars": 39695,
       "language": "TypeScript"
     },
     {
@@ -700,7 +700,7 @@
       "ai_share": 0.6396,
       "ai": 378,
       "total": 591,
-      "stars": 41254,
+      "stars": 41514,
       "language": "JavaScript"
     },
     {
@@ -732,7 +732,7 @@
       "ai_share": 0.6209,
       "ai": 113,
       "total": 182,
-      "stars": 39106,
+      "stars": 39205,
       "language": "Python"
     },
     {
@@ -764,7 +764,7 @@
       "ai_share": 0.6111,
       "ai": 308,
       "total": 504,
-      "stars": 47675,
+      "stars": 47713,
       "language": "TypeScript"
     },
     {
@@ -772,7 +772,7 @@
       "ai_share": 0.6093,
       "ai": 418,
       "total": 686,
-      "stars": 60923,
+      "stars": 62361,
       "language": "JavaScript"
     },
     {
@@ -860,7 +860,7 @@
       "ai_share": 0.5787,
       "ai": 114,
       "total": 197,
-      "stars": 41261,
+      "stars": 41296,
       "language": "TypeScript"
     },
     {
@@ -876,7 +876,7 @@
       "ai_share": 0.5686,
       "ai": 257,
       "total": 452,
-      "stars": 150201,
+      "stars": 151236,
       "language": "Python"
     },
     {
@@ -916,7 +916,7 @@
       "ai_share": 0.5628,
       "ai": 820,
       "total": 1457,
-      "stars": 40738,
+      "stars": 40844,
       "language": "Python"
     },
     {
@@ -948,7 +948,7 @@
       "ai_share": 0.5495,
       "ai": 1222,
       "total": 2224,
-      "stars": 37540,
+      "stars": 37792,
       "language": "TypeScript"
     },
     {
@@ -1020,7 +1020,7 @@
       "ai_share": 0.5255,
       "ai": 247,
       "total": 470,
-      "stars": 41787,
+      "stars": 42299,
       "language": "TypeScript"
     },
     {
@@ -1052,7 +1052,7 @@
       "ai_share": 0.5182,
       "ai": 314,
       "total": 606,
-      "stars": 40343,
+      "stars": 40422,
       "language": "TypeScript"
     },
     {
@@ -1068,7 +1068,7 @@
       "ai_share": 0.5159,
       "ai": 781,
       "total": 1514,
-      "stars": 47118,
+      "stars": 47508,
       "language": "Shell"
     },
     {
@@ -1076,7 +1076,7 @@
       "ai_share": 0.5098,
       "ai": 3016,
       "total": 5916,
-      "stars": 38971,
+      "stars": 39071,
       "language": "TypeScript"
     },
     {
@@ -1124,7 +1124,7 @@
       "ai_share": 0.499,
       "ai": 3163,
       "total": 6339,
-      "stars": 63505,
+      "stars": 76620,
       "language": "TypeScript"
     },
     {
@@ -1148,14 +1148,14 @@
       "ai_share": 0.4878,
       "ai": 260,
       "total": 533,
-      "stars": 38532,
+      "stars": 38540,
       "language": "C#"
     },
     {
       "repo": "tangency-labs/solidcraft",
       "ai_share": 0.4866,
-      "ai": 2852,
-      "total": 5861,
+      "ai": 2853,
+      "total": 5863,
       "stars": 18029,
       "language": "Rust"
     },
@@ -1180,7 +1180,7 @@
       "ai_share": 0.4751,
       "ai": 200,
       "total": 421,
-      "stars": 48605,
+      "stars": 48773,
       "language": "TypeScript"
     },
     {
@@ -1188,7 +1188,7 @@
       "ai_share": 0.4737,
       "ai": 90,
       "total": 190,
-      "stars": 43824,
+      "stars": 44333,
       "language": "TypeScript"
     },
     {
@@ -1212,7 +1212,7 @@
       "ai_share": 0.4665,
       "ai": 383,
       "total": 821,
-      "stars": 93632,
+      "stars": 94221,
       "language": "TypeScript"
     },
     {
@@ -1220,7 +1220,7 @@
       "ai_share": 0.4649,
       "ai": 1748,
       "total": 3760,
-      "stars": 210727,
+      "stars": 211952,
       "language": "TypeScript"
     },
     {
@@ -1252,7 +1252,7 @@
       "ai_share": 0.4621,
       "ai": 396,
       "total": 857,
-      "stars": 40282,
+      "stars": 40317,
       "language": "Go"
     },
     {
@@ -1276,7 +1276,7 @@
       "ai_share": 0.4545,
       "ai": 265,
       "total": 583,
-      "stars": 46403,
+      "stars": 46487,
       "language": "Python"
     },
     {
@@ -1308,7 +1308,7 @@
       "ai_share": 0.4514,
       "ai": 251,
       "total": 556,
-      "stars": 39655,
+      "stars": 39660,
       "language": "Go"
     },
     {
@@ -1328,20 +1328,20 @@
       "language": "Python"
     },
     {
-      "repo": "rtk-ai/rtk",
-      "ai_share": 0.4489,
-      "ai": 369,
-      "total": 822,
-      "stars": 87677,
-      "language": "Rust"
-    },
-    {
       "repo": "dataelement/bisheng",
       "ai_share": 0.4485,
       "ai": 862,
       "total": 1922,
       "stars": 12423,
       "language": "Python"
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "ai_share": 0.4469,
+      "ai": 370,
+      "total": 828,
+      "stars": 87677,
+      "language": "Rust"
     },
     {
       "repo": "plantuml/plantuml",
@@ -1372,7 +1372,7 @@
       "ai_share": 0.4366,
       "ai": 596,
       "total": 1365,
-      "stars": 149308,
+      "stars": 152781,
       "language": "Python"
     },
     {
@@ -1404,7 +1404,7 @@
       "ai_share": 0.4308,
       "ai": 277,
       "total": 643,
-      "stars": 45627,
+      "stars": 45692,
       "language": "Clojure"
     },
     {
@@ -1428,7 +1428,7 @@
       "ai_share": 0.4286,
       "ai": 60,
       "total": 140,
-      "stars": 11531,
+      "stars": 11593,
       "language": "C++"
     },
     {
@@ -1460,7 +1460,7 @@
       "ai_share": 0.42,
       "ai": 4261,
       "total": 10145,
-      "stars": 63404,
+      "stars": 63817,
       "language": "Python"
     },
     {
@@ -1492,7 +1492,7 @@
       "ai_share": 0.4118,
       "ai": 2008,
       "total": 4876,
-      "stars": 97096,
+      "stars": 97476,
       "language": "Python"
     },
     {
@@ -1500,7 +1500,7 @@
       "ai_share": 0.4042,
       "ai": 194,
       "total": 480,
-      "stars": 141093,
+      "stars": 141351,
       "language": "C"
     },
     {
@@ -1540,7 +1540,7 @@
       "ai_share": 0.3945,
       "ai": 447,
       "total": 1133,
-      "stars": 44304,
+      "stars": 44371,
       "language": "Python"
     },
     {
@@ -1585,10 +1585,10 @@
     },
     {
       "repo": "storybookjs/storybook",
-      "ai_share": 0.3904,
+      "ai_share": 0.3897,
       "ai": 1538,
-      "total": 3940,
-      "stars": 91604,
+      "total": 3947,
+      "stars": 91704,
       "language": "TypeScript"
     },
     {
@@ -1604,7 +1604,7 @@
       "ai_share": 0.3852,
       "ai": 47,
       "total": 122,
-      "stars": 42032,
+      "stars": 42173,
       "language": "TypeScript"
     },
     {
@@ -1628,7 +1628,7 @@
       "ai_share": 0.376,
       "ai": 47,
       "total": 125,
-      "stars": 11444,
+      "stars": 11457,
       "language": "C"
     },
     {
@@ -1644,7 +1644,7 @@
       "ai_share": 0.3714,
       "ai": 153,
       "total": 412,
-      "stars": 61020,
+      "stars": 61223,
       "language": "Python"
     },
     {
@@ -1673,10 +1673,10 @@
     },
     {
       "repo": "storytold/vectorcraft",
-      "ai_share": 0.3615,
-      "ai": 1611,
-      "total": 4457,
-      "stars": 11831,
+      "ai_share": 0.3622,
+      "ai": 1616,
+      "total": 4462,
+      "stars": 12056,
       "language": "Rust"
     },
     {
@@ -1724,7 +1724,7 @@
       "ai_share": 0.3512,
       "ai": 59,
       "total": 168,
-      "stars": 44072,
+      "stars": 44134,
       "language": "Python"
     },
     {
@@ -1732,7 +1732,7 @@
       "ai_share": 0.3478,
       "ai": 233,
       "total": 670,
-      "stars": 12156,
+      "stars": 12448,
       "language": "Python"
     },
     {
@@ -1748,7 +1748,7 @@
       "ai_share": 0.3464,
       "ai": 229,
       "total": 661,
-      "stars": 123947,
+      "stars": 124070,
       "language": "C++"
     },
     {
@@ -1796,7 +1796,7 @@
       "ai_share": 0.3397,
       "ai": 125,
       "total": 368,
-      "stars": 64086,
+      "stars": 64330,
       "language": "TypeScript"
     },
     {
@@ -1820,7 +1820,7 @@
       "ai_share": 0.3376,
       "ai": 2034,
       "total": 6024,
-      "stars": 41182,
+      "stars": 41196,
       "language": "Rust"
     },
     {
@@ -1836,7 +1836,7 @@
       "ai_share": 0.3348,
       "ai": 233,
       "total": 696,
-      "stars": 46677,
+      "stars": 46730,
       "language": "Go"
     },
     {
@@ -1844,7 +1844,7 @@
       "ai_share": 0.3311,
       "ai": 101,
       "total": 305,
-      "stars": 11591,
+      "stars": 11698,
       "language": "TypeScript"
     },
     {
@@ -1852,7 +1852,7 @@
       "ai_share": 0.3305,
       "ai": 195,
       "total": 590,
-      "stars": 46953,
+      "stars": 47064,
       "language": "Haskell"
     },
     {
@@ -1876,7 +1876,7 @@
       "ai_share": 0.3299,
       "ai": 222,
       "total": 673,
-      "stars": 202481,
+      "stars": 208480,
       "language": "TypeScript"
     },
     {
@@ -1897,10 +1897,10 @@
     },
     {
       "repo": "appwrite/appwrite",
-      "ai_share": 0.3234,
-      "ai": 2617,
-      "total": 8092,
-      "stars": 58107,
+      "ai_share": 0.3235,
+      "ai": 2619,
+      "total": 8095,
+      "stars": 58560,
       "language": "TypeScript"
     },
     {
@@ -1908,7 +1908,7 @@
       "ai_share": 0.32,
       "ai": 288,
       "total": 900,
-      "stars": 11825,
+      "stars": 11859,
       "language": "Rust"
     },
     {
@@ -1916,7 +1916,7 @@
       "ai_share": 0.3195,
       "ai": 902,
       "total": 2823,
-      "stars": 58830,
+      "stars": 60709,
       "language": "Python"
     },
     {
@@ -1956,7 +1956,7 @@
       "ai_share": 0.3114,
       "ai": 175,
       "total": 562,
-      "stars": 42370,
+      "stars": 42519,
       "language": "TypeScript"
     },
     {
@@ -1972,7 +1972,7 @@
       "ai_share": 0.3107,
       "ai": 55,
       "total": 177,
-      "stars": 48219,
+      "stars": 48260,
       "language": "Inno Setup"
     },
     {
@@ -1980,15 +1980,15 @@
       "ai_share": 0.3096,
       "ai": 61,
       "total": 197,
-      "stars": 175076,
-      "language": "MDX"
+      "stars": 175123,
+      "language": "JavaScript"
     },
     {
       "repo": "huggingface/pytorch-image-models",
       "ai_share": 0.3092,
       "ai": 64,
       "total": 207,
-      "stars": 37286,
+      "stars": 37309,
       "language": "Python"
     },
     {
@@ -2012,7 +2012,7 @@
       "ai_share": 0.308,
       "ai": 361,
       "total": 1172,
-      "stars": 36112,
+      "stars": 36228,
       "language": "Go"
     },
     {
@@ -2028,7 +2028,7 @@
       "ai_share": 0.3054,
       "ai": 146,
       "total": 478,
-      "stars": 58491,
+      "stars": 59786,
       "language": "Python"
     },
     {
@@ -2060,7 +2060,7 @@
       "ai_share": 0.3018,
       "ai": 131,
       "total": 434,
-      "stars": 43795,
+      "stars": 44356,
       "language": "TypeScript"
     },
     {
@@ -2076,7 +2076,7 @@
       "ai_share": 0.2975,
       "ai": 169,
       "total": 568,
-      "stars": 53761,
+      "stars": 57633,
       "language": "TypeScript"
     },
     {
@@ -2084,7 +2084,7 @@
       "ai_share": 0.2969,
       "ai": 38,
       "total": 128,
-      "stars": 144921,
+      "stars": 145570,
       "language": "Python"
     },
     {
@@ -2116,7 +2116,7 @@
       "ai_share": 0.2915,
       "ai": 499,
       "total": 1712,
-      "stars": 65370,
+      "stars": 66589,
       "language": "JavaScript"
     },
     {
@@ -2124,7 +2124,7 @@
       "ai_share": 0.2906,
       "ai": 34,
       "total": 117,
-      "stars": 38835,
+      "stars": 38898,
       "language": "TypeScript"
     },
     {
@@ -2188,15 +2188,7 @@
       "ai_share": 0.2741,
       "ai": 196,
       "total": 715,
-      "stars": 40211,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "CopilotKit/CopilotKit",
-      "ai_share": 0.274,
-      "ai": 950,
-      "total": 3467,
-      "stars": 38760,
+      "stars": 40246,
       "language": "TypeScript"
     },
     {
@@ -2222,6 +2214,14 @@
       "total": 422,
       "stars": 34466,
       "language": "C++"
+    },
+    {
+      "repo": "CopilotKit/CopilotKit",
+      "ai_share": 0.2724,
+      "ai": 950,
+      "total": 3488,
+      "stars": 38938,
+      "language": "TypeScript"
     },
     {
       "repo": "vuejs/vitepress",
@@ -2260,7 +2260,7 @@
       "ai_share": 0.2667,
       "ai": 28,
       "total": 105,
-      "stars": 11778,
+      "stars": 11859,
       "language": "TypeScript"
     },
     {
@@ -2276,7 +2276,7 @@
       "ai_share": 0.2615,
       "ai": 85,
       "total": 325,
-      "stars": 129828,
+      "stars": 131195,
       "language": "Rust"
     },
     {
@@ -2284,7 +2284,7 @@
       "ai_share": 0.2602,
       "ai": 102,
       "total": 392,
-      "stars": 43214,
+      "stars": 43284,
       "language": "Python"
     },
     {
@@ -2316,7 +2316,7 @@
       "ai_share": 0.2586,
       "ai": 151,
       "total": 584,
-      "stars": 45788,
+      "stars": 45887,
       "language": "Rust"
     },
     {
@@ -2388,7 +2388,7 @@
       "ai_share": 0.2338,
       "ai": 36,
       "total": 154,
-      "stars": 11396,
+      "stars": 11400,
       "language": "TypeScript"
     },
     {
@@ -2412,7 +2412,7 @@
       "ai_share": 0.2304,
       "ai": 542,
       "total": 2352,
-      "stars": 37103,
+      "stars": 37157,
       "language": "Rust"
     },
     {
@@ -2452,7 +2452,7 @@
       "ai_share": 0.2263,
       "ai": 3633,
       "total": 16053,
-      "stars": 40846,
+      "stars": 41075,
       "language": "Python"
     },
     {
@@ -2500,7 +2500,7 @@
       "ai_share": 0.2216,
       "ai": 164,
       "total": 740,
-      "stars": 41283,
+      "stars": 41362,
       "language": "TypeScript"
     },
     {
@@ -2548,7 +2548,7 @@
       "ai_share": 0.2173,
       "ai": 73,
       "total": 336,
-      "stars": 43331,
+      "stars": 43357,
       "language": "Python"
     },
     {
@@ -2556,7 +2556,7 @@
       "ai_share": 0.2164,
       "ai": 119,
       "total": 550,
-      "stars": 41299,
+      "stars": 41327,
       "language": "Vim Script"
     },
     {
@@ -2572,7 +2572,7 @@
       "ai_share": 0.2133,
       "ai": 157,
       "total": 736,
-      "stars": 46507,
+      "stars": 46528,
       "language": "TypeScript"
     },
     {
@@ -2580,7 +2580,7 @@
       "ai_share": 0.2131,
       "ai": 412,
       "total": 1933,
-      "stars": 53596,
+      "stars": 53821,
       "language": "TypeScript"
     },
     {
@@ -2604,7 +2604,7 @@
       "ai_share": 0.2117,
       "ai": 65,
       "total": 307,
-      "stars": 44651,
+      "stars": 44757,
       "language": "Go"
     },
     {
@@ -2612,7 +2612,7 @@
       "ai_share": 0.2107,
       "ai": 470,
       "total": 2231,
-      "stars": 11947,
+      "stars": 11935,
       "language": "Rust"
     },
     {
@@ -2660,7 +2660,7 @@
       "ai_share": 0.2062,
       "ai": 33,
       "total": 160,
-      "stars": 11311,
+      "stars": 11318,
       "language": "C#"
     },
     {
@@ -2668,7 +2668,7 @@
       "ai_share": 0.2061,
       "ai": 27,
       "total": 131,
-      "stars": 38212,
+      "stars": 38924,
       "language": "Python"
     },
     {
@@ -2676,7 +2676,7 @@
       "ai_share": 0.2054,
       "ai": 206,
       "total": 1003,
-      "stars": 169134,
+      "stars": 169246,
       "language": "Python"
     },
     {
@@ -2748,7 +2748,7 @@
       "ai_share": 0.1953,
       "ai": 42,
       "total": 215,
-      "stars": 37270,
+      "stars": 37506,
       "language": null
     },
     {
@@ -2820,7 +2820,7 @@
       "ai_share": 0.1849,
       "ai": 221,
       "total": 1195,
-      "stars": 49278,
+      "stars": 49298,
       "language": "Julia"
     },
     {
@@ -2832,27 +2832,35 @@
       "language": "C++"
     },
     {
-      "repo": "rails/rails",
-      "ai_share": 0.1798,
-      "ai": 169,
-      "total": 940,
-      "stars": 59057,
-      "language": "Ruby"
+      "repo": "addyosmani/agent-skills",
+      "ai_share": 0.1815,
+      "ai": 47,
+      "total": 259,
+      "stars": 120126,
+      "language": "JavaScript"
     },
     {
       "repo": "getsentry/sentry",
       "ai_share": 0.1796,
       "ai": 947,
       "total": 5273,
-      "stars": 45787,
+      "stars": 45872,
       "language": "Python"
+    },
+    {
+      "repo": "rails/rails",
+      "ai_share": 0.1792,
+      "ai": 169,
+      "total": 943,
+      "stars": 59087,
+      "language": "Ruby"
     },
     {
       "repo": "wandb/wandb",
       "ai_share": 0.1788,
       "ai": 81,
       "total": 453,
-      "stars": 11322,
+      "stars": 11334,
       "language": "Python"
     },
     {
@@ -2860,7 +2868,7 @@
       "ai_share": 0.1772,
       "ai": 974,
       "total": 5496,
-      "stars": 38977,
+      "stars": 39018,
       "language": "Python"
     },
     {
@@ -2868,7 +2876,7 @@
       "ai_share": 0.1767,
       "ai": 50,
       "total": 283,
-      "stars": 39541,
+      "stars": 39597,
       "language": "Rust"
     },
     {
@@ -2908,7 +2916,7 @@
       "ai_share": 0.1705,
       "ai": 311,
       "total": 1824,
-      "stars": 115106,
+      "stars": 115334,
       "language": "TypeScript"
     },
     {
@@ -2924,7 +2932,7 @@
       "ai_share": 0.1702,
       "ai": 24,
       "total": 141,
-      "stars": 252737,
+      "stars": 252796,
       "language": "JavaScript"
     },
     {
@@ -2948,7 +2956,7 @@
       "ai_share": 0.1685,
       "ai": 181,
       "total": 1074,
-      "stars": 37549,
+      "stars": 37720,
       "language": "Rust"
     },
     {
@@ -3028,7 +3036,7 @@
       "ai_share": 0.158,
       "ai": 432,
       "total": 2735,
-      "stars": 51657,
+      "stars": 53244,
       "language": "C"
     },
     {
@@ -3036,7 +3044,7 @@
       "ai_share": 0.158,
       "ai": 67,
       "total": 424,
-      "stars": 111836,
+      "stars": 111882,
       "language": "Go"
     },
     {
@@ -3044,7 +3052,7 @@
       "ai_share": 0.1579,
       "ai": 39,
       "total": 247,
-      "stars": 99351,
+      "stars": 99389,
       "language": "JavaScript"
     },
     {
@@ -3060,7 +3068,7 @@
       "ai_share": 0.1572,
       "ai": 25,
       "total": 159,
-      "stars": 39009,
+      "stars": 39011,
       "language": "JavaScript"
     },
     {
@@ -3076,7 +3084,7 @@
       "ai_share": 0.1561,
       "ai": 37,
       "total": 237,
-      "stars": 39056,
+      "stars": 39124,
       "language": "TypeScript"
     },
     {
@@ -3092,7 +3100,7 @@
       "ai_share": 0.1545,
       "ai": 34,
       "total": 220,
-      "stars": 40163,
+      "stars": 40185,
       "language": "TypeScript"
     },
     {
@@ -3132,7 +3140,7 @@
       "ai_share": 0.1533,
       "ai": 40,
       "total": 261,
-      "stars": 168926,
+      "stars": 170016,
       "language": "Shell"
     },
     {
@@ -3140,7 +3148,7 @@
       "ai_share": 0.153,
       "ai": 349,
       "total": 2281,
-      "stars": 50379,
+      "stars": 50500,
       "language": "Clojure"
     },
     {
@@ -3156,7 +3164,7 @@
       "ai_share": 0.1514,
       "ai": 104,
       "total": 687,
-      "stars": 91130,
+      "stars": 91224,
       "language": "TypeScript"
     },
     {
@@ -3180,7 +3188,7 @@
       "ai_share": 0.1506,
       "ai": 25,
       "total": 166,
-      "stars": 11590,
+      "stars": 11623,
       "language": "Python"
     },
     {
@@ -3188,15 +3196,7 @@
       "ai_share": 0.1504,
       "ai": 203,
       "total": 1350,
-      "stars": 97325,
-      "language": "JavaScript"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "ai_share": 0.1486,
-      "ai": 37,
-      "total": 249,
-      "stars": 118509,
+      "stars": 99393,
       "language": "JavaScript"
     },
     {
@@ -3236,7 +3236,7 @@
       "ai_share": 0.1416,
       "ai": 757,
       "total": 5347,
-      "stars": 465242,
+      "stars": 476508,
       "language": "TypeScript"
     },
     {
@@ -3244,7 +3244,7 @@
       "ai_share": 0.1414,
       "ai": 291,
       "total": 2058,
-      "stars": 41239,
+      "stars": 41294,
       "language": "HTML"
     },
     {
@@ -3276,7 +3276,7 @@
       "ai_share": 0.138,
       "ai": 41,
       "total": 297,
-      "stars": 11440,
+      "stars": 11481,
       "language": "TypeScript"
     },
     {
@@ -3324,7 +3324,7 @@
       "ai_share": 0.1349,
       "ai": 53,
       "total": 393,
-      "stars": 141867,
+      "stars": 142529,
       "language": "TypeScript"
     },
     {
@@ -3340,7 +3340,7 @@
       "ai_share": 0.1345,
       "ai": 32,
       "total": 238,
-      "stars": 108894,
+      "stars": 109050,
       "language": "TypeScript"
     },
     {
@@ -3348,7 +3348,7 @@
       "ai_share": 0.1338,
       "ai": 99,
       "total": 740,
-      "stars": 118727,
+      "stars": 119275,
       "language": "JavaScript"
     },
     {
@@ -3364,7 +3364,7 @@
       "ai_share": 0.1325,
       "ai": 22,
       "total": 166,
-      "stars": 42191,
+      "stars": 42209,
       "language": "Python"
     },
     {
@@ -3388,7 +3388,7 @@
       "ai_share": 0.1316,
       "ai": 30,
       "total": 228,
-      "stars": 121281,
+      "stars": 121914,
       "language": "Python"
     },
     {
@@ -3444,7 +3444,7 @@
       "ai_share": 0.1293,
       "ai": 15,
       "total": 116,
-      "stars": 56216,
+      "stars": 56282,
       "language": "C#"
     },
     {
@@ -3452,7 +3452,7 @@
       "ai_share": 0.1291,
       "ai": 39,
       "total": 302,
-      "stars": 118718,
+      "stars": 119250,
       "language": "Swift"
     },
     {
@@ -3460,7 +3460,7 @@
       "ai_share": 0.1288,
       "ai": 21,
       "total": 163,
-      "stars": 60799,
+      "stars": 61242,
       "language": "Python"
     },
     {
@@ -3484,7 +3484,7 @@
       "ai_share": 0.1257,
       "ai": 567,
       "total": 4510,
-      "stars": 53590,
+      "stars": 53632,
       "language": "Kotlin"
     },
     {
@@ -3508,7 +3508,7 @@
       "ai_share": 0.1245,
       "ai": 159,
       "total": 1277,
-      "stars": 13869,
+      "stars": 14323,
       "language": "TypeScript"
     },
     {
@@ -3556,7 +3556,7 @@
       "ai_share": 0.1198,
       "ai": 126,
       "total": 1052,
-      "stars": 40362,
+      "stars": 40476,
       "language": "Rust"
     },
     {
@@ -3572,7 +3572,7 @@
       "ai_share": 0.1189,
       "ai": 370,
       "total": 3113,
-      "stars": 61037,
+      "stars": 61409,
       "language": "TypeScript"
     },
     {
@@ -3580,7 +3580,7 @@
       "ai_share": 0.1173,
       "ai": 80,
       "total": 682,
-      "stars": 51454,
+      "stars": 51563,
       "language": "TypeScript"
     },
     {
@@ -3588,7 +3588,7 @@
       "ai_share": 0.1169,
       "ai": 54,
       "total": 462,
-      "stars": 38944,
+      "stars": 38984,
       "language": "Go"
     },
     {
@@ -3612,7 +3612,7 @@
       "ai_share": 0.1162,
       "ai": 23,
       "total": 198,
-      "stars": 62560,
+      "stars": 63079,
       "language": "TypeScript"
     },
     {
@@ -3620,7 +3620,7 @@
       "ai_share": 0.116,
       "ai": 160,
       "total": 1379,
-      "stars": 56444,
+      "stars": 57688,
       "language": "Go"
     },
     {
@@ -3628,7 +3628,7 @@
       "ai_share": 0.1158,
       "ai": 578,
       "total": 4993,
-      "stars": 105619,
+      "stars": 105669,
       "language": "Python"
     },
     {
@@ -3652,7 +3652,7 @@
       "ai_share": 0.1154,
       "ai": 45,
       "total": 390,
-      "stars": 37140,
+      "stars": 37188,
       "language": "Go"
     },
     {
@@ -3676,7 +3676,7 @@
       "ai_share": 0.1127,
       "ai": 286,
       "total": 2537,
-      "stars": 114463,
+      "stars": 116586,
       "language": "TypeScript"
     },
     {
@@ -3716,7 +3716,7 @@
       "ai_share": 0.1094,
       "ai": 99,
       "total": 905,
-      "stars": 499718,
+      "stars": 501146,
       "language": "Python"
     },
     {
@@ -3828,7 +3828,7 @@
       "ai_share": 0.101,
       "ai": 83,
       "total": 822,
-      "stars": 51505,
+      "stars": 51711,
       "language": "TypeScript"
     },
     {
@@ -3860,7 +3860,7 @@
       "ai_share": 0.0998,
       "ai": 265,
       "total": 2656,
-      "stars": 97796,
+      "stars": 98455,
       "language": null
     },
     {
@@ -3876,7 +3876,7 @@
       "ai_share": 0.0987,
       "ai": 15,
       "total": 152,
-      "stars": 11589,
+      "stars": 11649,
       "language": "Python"
     },
     {
@@ -3896,20 +3896,20 @@
       "language": null
     },
     {
-      "repo": "lyogavin/airllm",
-      "ai_share": 0.098,
-      "ai": 10,
-      "total": 102,
-      "stars": 42545,
-      "language": "Jupyter Notebook"
-    },
-    {
       "repo": "LawnchairLauncher/lawnchair",
       "ai_share": 0.0973,
       "ai": 11,
       "total": 113,
       "stars": 14001,
       "language": "Java"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "ai_share": 0.0971,
+      "ai": 10,
+      "total": 103,
+      "stars": 43298,
+      "language": "Jupyter Notebook"
     },
     {
       "repo": "mealie-recipes/mealie",
@@ -3932,7 +3932,7 @@
       "ai_share": 0.0952,
       "ai": 218,
       "total": 2290,
-      "stars": 53603,
+      "stars": 53750,
       "language": "TypeScript"
     },
     {
@@ -3940,7 +3940,7 @@
       "ai_share": 0.0952,
       "ai": 12,
       "total": 126,
-      "stars": 194759,
+      "stars": 194719,
       "language": "Rust"
     },
     {
@@ -3964,7 +3964,7 @@
       "ai_share": 0.094,
       "ai": 322,
       "total": 3427,
-      "stars": 112348,
+      "stars": 117565,
       "language": "Python"
     },
     {
@@ -4004,7 +4004,7 @@
       "ai_share": 0.0917,
       "ai": 11,
       "total": 120,
-      "stars": 11249,
+      "stars": 11295,
       "language": "Rust"
     },
     {
@@ -4052,7 +4052,7 @@
       "ai_share": 0.0895,
       "ai": 29,
       "total": 324,
-      "stars": 44335,
+      "stars": 44405,
       "language": "TypeScript"
     },
     {
@@ -4108,7 +4108,7 @@
       "ai_share": 0.087,
       "ai": 77,
       "total": 885,
-      "stars": 44188,
+      "stars": 44247,
       "language": "TypeScript"
     },
     {
@@ -4116,7 +4116,7 @@
       "ai_share": 0.087,
       "ai": 20,
       "total": 230,
-      "stars": 67787,
+      "stars": 71542,
       "language": "HTML"
     },
     {
@@ -4124,7 +4124,7 @@
       "ai_share": 0.0866,
       "ai": 85,
       "total": 982,
-      "stars": 37904,
+      "stars": 38030,
       "language": "Java"
     },
     {
@@ -4188,7 +4188,7 @@
       "ai_share": 0.0839,
       "ai": 82,
       "total": 977,
-      "stars": 44902,
+      "stars": 44974,
       "language": "Python"
     },
     {
@@ -4196,7 +4196,7 @@
       "ai_share": 0.0839,
       "ai": 51,
       "total": 608,
-      "stars": 56710,
+      "stars": 56928,
       "language": "Rust"
     },
     {
@@ -4212,7 +4212,7 @@
       "ai_share": 0.0821,
       "ai": 33,
       "total": 402,
-      "stars": 11814,
+      "stars": 11856,
       "language": "TypeScript"
     },
     {
@@ -4220,7 +4220,7 @@
       "ai_share": 0.0819,
       "ai": 44,
       "total": 537,
-      "stars": 36526,
+      "stars": 36556,
       "language": "Go"
     },
     {
@@ -4292,7 +4292,7 @@
       "ai_share": 0.078,
       "ai": 23,
       "total": 295,
-      "stars": 11442,
+      "stars": 11457,
       "language": "JavaScript"
     },
     {
@@ -4316,7 +4316,7 @@
       "ai_share": 0.0772,
       "ai": 49,
       "total": 635,
-      "stars": 60589,
+      "stars": 60681,
       "language": "Python"
     },
     {
@@ -4340,7 +4340,7 @@
       "ai_share": 0.0766,
       "ai": 36,
       "total": 470,
-      "stars": 37285,
+      "stars": 37389,
       "language": "TypeScript"
     },
     {
@@ -4356,7 +4356,7 @@
       "ai_share": 0.075,
       "ai": 18,
       "total": 240,
-      "stars": 39034,
+      "stars": 39279,
       "language": "Rust"
     },
     {
@@ -4372,7 +4372,7 @@
       "ai_share": 0.0747,
       "ai": 144,
       "total": 1928,
-      "stars": 11231,
+      "stars": 11254,
       "language": "Python"
     },
     {
@@ -4444,7 +4444,7 @@
       "ai_share": 0.0708,
       "ai": 23,
       "total": 325,
-      "stars": 41023,
+      "stars": 41090,
       "language": "Rust"
     },
     {
@@ -4476,7 +4476,7 @@
       "ai_share": 0.0694,
       "ai": 115,
       "total": 1657,
-      "stars": 304971,
+      "stars": 309926,
       "language": "JavaScript"
     },
     {
@@ -4484,7 +4484,7 @@
       "ai_share": 0.069,
       "ai": 8,
       "total": 116,
-      "stars": 112558,
+      "stars": 114418,
       "language": "Python"
     },
     {
@@ -4540,8 +4540,8 @@
       "ai_share": 0.0667,
       "ai": 29,
       "total": 435,
-      "stars": 42074,
-      "language": "Astro"
+      "stars": 42126,
+      "language": "TypeScript"
     },
     {
       "repo": "statelyai/xstate",
@@ -4572,7 +4572,7 @@
       "ai_share": 0.0662,
       "ai": 92,
       "total": 1389,
-      "stars": 143676,
+      "stars": 143630,
       "language": "JavaScript"
     },
     {
@@ -4604,7 +4604,7 @@
       "ai_share": 0.0654,
       "ai": 959,
       "total": 14671,
-      "stars": 41478,
+      "stars": 41585,
       "language": "LLVM"
     },
     {
@@ -4612,7 +4612,7 @@
       "ai_share": 0.065,
       "ai": 16,
       "total": 246,
-      "stars": 59884,
+      "stars": 59983,
       "language": "Rust"
     },
     {
@@ -4628,7 +4628,7 @@
       "ai_share": 0.0647,
       "ai": 9,
       "total": 139,
-      "stars": 66225,
+      "stars": 66617,
       "language": "PowerShell"
     },
     {
@@ -4652,7 +4652,7 @@
       "ai_share": 0.0633,
       "ai": 94,
       "total": 1484,
-      "stars": 46174,
+      "stars": 46556,
       "language": "Go"
     },
     {
@@ -4660,7 +4660,7 @@
       "ai_share": 0.0632,
       "ai": 11,
       "total": 174,
-      "stars": 47150,
+      "stars": 47262,
       "language": "Swift"
     },
     {
@@ -4676,7 +4676,7 @@
       "ai_share": 0.0626,
       "ai": 30,
       "total": 479,
-      "stars": 144123,
+      "stars": 145378,
       "language": "Python"
     },
     {
@@ -4700,7 +4700,7 @@
       "ai_share": 0.0625,
       "ai": 10,
       "total": 160,
-      "stars": 128389,
+      "stars": 128941,
       "language": "TypeScript"
     },
     {
@@ -4716,7 +4716,7 @@
       "ai_share": 0.0621,
       "ai": 9,
       "total": 145,
-      "stars": 120809,
+      "stars": 121331,
       "language": "C#"
     },
     {
@@ -4732,7 +4732,7 @@
       "ai_share": 0.0613,
       "ai": 10,
       "total": 163,
-      "stars": 192537,
+      "stars": 197832,
       "language": "JavaScript"
     },
     {
@@ -4748,7 +4748,7 @@
       "ai_share": 0.0606,
       "ai": 40,
       "total": 660,
-      "stars": 52455,
+      "stars": 52520,
       "language": "Java"
     },
     {
@@ -4756,7 +4756,7 @@
       "ai_share": 0.0602,
       "ai": 71,
       "total": 1180,
-      "stars": 42355,
+      "stars": 42689,
       "language": "Python"
     },
     {
@@ -4764,7 +4764,7 @@
       "ai_share": 0.0601,
       "ai": 145,
       "total": 2411,
-      "stars": 161348,
+      "stars": 161828,
       "language": "Python"
     },
     {
@@ -4796,7 +4796,7 @@
       "ai_share": 0.0588,
       "ai": 9,
       "total": 153,
-      "stars": 11397,
+      "stars": 11400,
       "language": "TypeScript"
     },
     {
@@ -4804,7 +4804,7 @@
       "ai_share": 0.0588,
       "ai": 8,
       "total": 136,
-      "stars": 39054,
+      "stars": 39992,
       "language": "Rust"
     },
     {
@@ -4812,7 +4812,7 @@
       "ai_share": 0.0586,
       "ai": 14,
       "total": 239,
-      "stars": 47528,
+      "stars": 48094,
       "language": "Python"
     },
     {
@@ -4820,7 +4820,7 @@
       "ai_share": 0.0586,
       "ai": 13,
       "total": 222,
-      "stars": 11589,
+      "stars": 11588,
       "language": "Rust"
     },
     {
@@ -4828,7 +4828,7 @@
       "ai_share": 0.0585,
       "ai": 53,
       "total": 906,
-      "stars": 156720,
+      "stars": 156903,
       "language": "Python"
     },
     {
@@ -4884,7 +4884,7 @@
       "ai_share": 0.056,
       "ai": 7,
       "total": 125,
-      "stars": 39459,
+      "stars": 39683,
       "language": "Go"
     },
     {
@@ -4916,7 +4916,7 @@
       "ai_share": 0.0553,
       "ai": 11,
       "total": 199,
-      "stars": 52417,
+      "stars": 52445,
       "language": "JavaScript"
     },
     {
@@ -4924,7 +4924,7 @@
       "ai_share": 0.0551,
       "ai": 25,
       "total": 454,
-      "stars": 51480,
+      "stars": 51489,
       "language": "TypeScript"
     },
     {
@@ -4932,7 +4932,7 @@
       "ai_share": 0.0551,
       "ai": 7,
       "total": 127,
-      "stars": 46934,
+      "stars": 46933,
       "language": "JavaScript"
     },
     {
@@ -4948,7 +4948,7 @@
       "ai_share": 0.055,
       "ai": 88,
       "total": 1599,
-      "stars": 59945,
+      "stars": 62184,
       "language": "Python"
     },
     {
@@ -4996,7 +4996,7 @@
       "ai_share": 0.0534,
       "ai": 23,
       "total": 431,
-      "stars": 100248,
+      "stars": 100363,
       "language": "TypeScript"
     },
     {
@@ -5004,7 +5004,7 @@
       "ai_share": 0.0531,
       "ai": 50,
       "total": 942,
-      "stars": 63517,
+      "stars": 63710,
       "language": "Python"
     },
     {
@@ -5012,7 +5012,7 @@
       "ai_share": 0.053,
       "ai": 8,
       "total": 151,
-      "stars": 42966,
+      "stars": 43123,
       "language": "Go"
     },
     {
@@ -5028,7 +5028,7 @@
       "ai_share": 0.0523,
       "ai": 9,
       "total": 172,
-      "stars": 40833,
+      "stars": 41226,
       "language": "Python"
     },
     {
@@ -5036,7 +5036,7 @@
       "ai_share": 0.0522,
       "ai": 12,
       "total": 230,
-      "stars": 44922,
+      "stars": 44925,
       "language": "TypeScript"
     },
     {
@@ -5044,7 +5044,7 @@
       "ai_share": 0.052,
       "ai": 547,
       "total": 10520,
-      "stars": 127313,
+      "stars": 135454,
       "language": "TypeScript"
     },
     {
@@ -5060,7 +5060,7 @@
       "ai_share": 0.0513,
       "ai": 128,
       "total": 2493,
-      "stars": 11314,
+      "stars": 11336,
       "language": "TypeScript"
     },
     {
@@ -5086,6 +5086,14 @@
       "total": 254,
       "stars": 30815,
       "language": "TypeScript"
+    },
+    {
+      "repo": "NVIDIA/auto-ontology",
+      "ai_share": 0.051,
+      "ai": 22,
+      "total": 431,
+      "stars": 14752,
+      "language": "Python"
     },
     {
       "repo": "OWASP/CheatSheetSeries",
@@ -5188,7 +5196,7 @@
       "ai_share": 0.049,
       "ai": 7,
       "total": 143,
-      "stars": 190650,
+      "stars": 190804,
       "language": "Shell"
     },
     {
@@ -5204,7 +5212,7 @@
       "ai_share": 0.0489,
       "ai": 11,
       "total": 225,
-      "stars": 42397,
+      "stars": 42512,
       "language": "Ruby"
     },
     {
@@ -5212,7 +5220,7 @@
       "ai_share": 0.0485,
       "ai": 43,
       "total": 886,
-      "stars": 186534,
+      "stars": 186576,
       "language": "JavaScript"
     },
     {
@@ -5228,16 +5236,8 @@
       "ai_share": 0.0485,
       "ai": 5,
       "total": 103,
-      "stars": 401744,
+      "stars": 402183,
       "language": "Python"
-    },
-    {
-      "repo": "DeusData/codebase-memory-mcp",
-      "ai_share": 0.0482,
-      "ai": 91,
-      "total": 1887,
-      "stars": 48758,
-      "language": "C"
     },
     {
       "repo": "highcharts/highcharts",
@@ -5260,7 +5260,7 @@
       "ai_share": 0.0479,
       "ai": 7,
       "total": 146,
-      "stars": 38739,
+      "stars": 38631,
       "language": "TypeScript"
     },
     {
@@ -5268,7 +5268,7 @@
       "ai_share": 0.0475,
       "ai": 53,
       "total": 1115,
-      "stars": 12486,
+      "stars": 12864,
       "language": "TypeScript"
     },
     {
@@ -5276,7 +5276,7 @@
       "ai_share": 0.0475,
       "ai": 19,
       "total": 400,
-      "stars": 48189,
+      "stars": 48563,
       "language": "Python"
     },
     {
@@ -5308,7 +5308,7 @@
       "ai_share": 0.0472,
       "ai": 16,
       "total": 339,
-      "stars": 55462,
+      "stars": 55683,
       "language": "Python"
     },
     {
@@ -5328,14 +5328,6 @@
       "language": "Python"
     },
     {
-      "repo": "NVIDIA/auto-ontology",
-      "ai_share": 0.0468,
-      "ai": 20,
-      "total": 427,
-      "stars": 14752,
-      "language": "Python"
-    },
-    {
       "repo": "FFmpeg/FFmpeg",
       "ai_share": 0.0466,
       "ai": 111,
@@ -5348,7 +5340,7 @@
       "ai_share": 0.0465,
       "ai": 6,
       "total": 129,
-      "stars": 56528,
+      "stars": 60364,
       "language": "CSS"
     },
     {
@@ -5364,7 +5356,7 @@
       "ai_share": 0.0457,
       "ai": 52,
       "total": 1138,
-      "stars": 126942,
+      "stars": 126993,
       "language": "C++"
     },
     {
@@ -5404,7 +5396,7 @@
       "ai_share": 0.0449,
       "ai": 8,
       "total": 178,
-      "stars": 144212,
+      "stars": 144630,
       "language": "TypeScript"
     },
     {
@@ -5460,7 +5452,7 @@
       "ai_share": 0.0437,
       "ai": 9,
       "total": 206,
-      "stars": 11572,
+      "stars": 11575,
       "language": "C"
     },
     {
@@ -5492,7 +5484,7 @@
       "ai_share": 0.0431,
       "ai": 9,
       "total": 209,
-      "stars": 103797,
+      "stars": 105467,
       "language": "Python"
     },
     {
@@ -5500,7 +5492,7 @@
       "ai_share": 0.043,
       "ai": 19,
       "total": 442,
-      "stars": 44793,
+      "stars": 44790,
       "language": "JavaScript"
     },
     {
@@ -5516,7 +5508,7 @@
       "ai_share": 0.0426,
       "ai": 44,
       "total": 1033,
-      "stars": 64183,
+      "stars": 64402,
       "language": "Zig"
     },
     {
@@ -5565,6 +5557,14 @@
       "ai": 34,
       "total": 824,
       "stars": 27618,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "Dokploy/dokploy",
+      "ai_share": 0.0413,
+      "ai": 21,
+      "total": 509,
+      "stars": 38674,
       "language": "TypeScript"
     },
     {
@@ -5628,7 +5628,7 @@
       "ai_share": 0.0408,
       "ai": 52,
       "total": 1275,
-      "stars": 37642,
+      "stars": 38134,
       "language": "Go"
     },
     {
@@ -5688,19 +5688,11 @@
       "language": "C++"
     },
     {
-      "repo": "Dokploy/dokploy",
-      "ai_share": 0.0394,
-      "ai": 20,
-      "total": 508,
-      "stars": 38557,
-      "language": "TypeScript"
-    },
-    {
       "repo": "DavidHDev/react-bits",
       "ai_share": 0.0393,
       "ai": 7,
       "total": 178,
-      "stars": 52163,
+      "stars": 52619,
       "language": "JavaScript"
     },
     {
@@ -5708,7 +5700,7 @@
       "ai_share": 0.0392,
       "ai": 95,
       "total": 2422,
-      "stars": 47506,
+      "stars": 47647,
       "language": "Python"
     },
     {
@@ -5716,7 +5708,7 @@
       "ai_share": 0.0392,
       "ai": 6,
       "total": 153,
-      "stars": 56640,
+      "stars": 56652,
       "language": "TypeScript"
     },
     {
@@ -5732,7 +5724,7 @@
       "ai_share": 0.0386,
       "ai": 78,
       "total": 2019,
-      "stars": 40888,
+      "stars": 41046,
       "language": "TypeScript"
     },
     {
@@ -5740,7 +5732,7 @@
       "ai_share": 0.0386,
       "ai": 20,
       "total": 518,
-      "stars": 45859,
+      "stars": 45980,
       "language": "TypeScript"
     },
     {
@@ -5748,7 +5740,7 @@
       "ai_share": 0.0385,
       "ai": 64,
       "total": 1662,
-      "stars": 38412,
+      "stars": 38764,
       "language": "Python"
     },
     {
@@ -5788,7 +5780,7 @@
       "ai_share": 0.0377,
       "ai": 6,
       "total": 159,
-      "stars": 66055,
+      "stars": 66476,
       "language": "Kotlin"
     },
     {
@@ -5796,7 +5788,7 @@
       "ai_share": 0.0374,
       "ai": 7,
       "total": 187,
-      "stars": 38197,
+      "stars": 38350,
       "language": "TypeScript"
     },
     {
@@ -5820,7 +5812,7 @@
       "ai_share": 0.0371,
       "ai": 47,
       "total": 1267,
-      "stars": 95202,
+      "stars": 95624,
       "language": "Rust"
     },
     {
@@ -5828,7 +5820,7 @@
       "ai_share": 0.037,
       "ai": 34,
       "total": 920,
-      "stars": 39593,
+      "stars": 39655,
       "language": "Ruby"
     },
     {
@@ -5844,7 +5836,7 @@
       "ai_share": 0.0368,
       "ai": 23,
       "total": 625,
-      "stars": 62145,
+      "stars": 62284,
       "language": null
     },
     {
@@ -5852,7 +5844,7 @@
       "ai_share": 0.0367,
       "ai": 22,
       "total": 599,
-      "stars": 108032,
+      "stars": 109273,
       "language": "TypeScript"
     },
     {
@@ -5868,7 +5860,7 @@
       "ai_share": 0.0367,
       "ai": 14,
       "total": 381,
-      "stars": 50900,
+      "stars": 50972,
       "language": "C++"
     },
     {
@@ -5892,7 +5884,7 @@
       "ai_share": 0.0364,
       "ai": 4,
       "total": 110,
-      "stars": 50335,
+      "stars": 50382,
       "language": "C++"
     },
     {
@@ -5948,7 +5940,7 @@
       "ai_share": 0.0356,
       "ai": 21,
       "total": 590,
-      "stars": 96822,
+      "stars": 97363,
       "language": "TypeScript"
     },
     {
@@ -5956,7 +5948,7 @@
       "ai_share": 0.0355,
       "ai": 112,
       "total": 3153,
-      "stars": 11399,
+      "stars": 11528,
       "language": "Python"
     },
     {
@@ -5980,7 +5972,7 @@
       "ai_share": 0.0354,
       "ai": 54,
       "total": 1524,
-      "stars": 47215,
+      "stars": 47487,
       "language": "TypeScript"
     },
     {
@@ -5988,7 +5980,7 @@
       "ai_share": 0.0351,
       "ai": 4,
       "total": 114,
-      "stars": 39766,
+      "stars": 40710,
       "language": "TypeScript"
     },
     {
@@ -6004,7 +5996,7 @@
       "ai_share": 0.0349,
       "ai": 23,
       "total": 659,
-      "stars": 95746,
+      "stars": 95936,
       "language": "Python"
     },
     {
@@ -6036,7 +6028,7 @@
       "ai_share": 0.0345,
       "ai": 5,
       "total": 145,
-      "stars": 64974,
+      "stars": 65379,
       "language": "TypeScript"
     },
     {
@@ -6052,7 +6044,7 @@
       "ai_share": 0.0344,
       "ai": 113,
       "total": 3288,
-      "stars": 38118,
+      "stars": 38127,
       "language": "V"
     },
     {
@@ -6062,6 +6054,14 @@
       "total": 175,
       "stars": 22461,
       "language": "Go"
+    },
+    {
+      "repo": "webadderallorg/Recordly",
+      "ai_share": 0.0342,
+      "ai": 9,
+      "total": 263,
+      "stars": 37361,
+      "language": "TypeScript"
     },
     {
       "repo": "questdb/questdb",
@@ -6164,7 +6164,7 @@
       "ai_share": 0.033,
       "ai": 55,
       "total": 1666,
-      "stars": 61532,
+      "stars": 63054,
       "language": "Python"
     },
     {
@@ -6172,7 +6172,7 @@
       "ai_share": 0.033,
       "ai": 12,
       "total": 364,
-      "stars": 64423,
+      "stars": 64447,
       "language": "Python"
     },
     {
@@ -6180,7 +6180,7 @@
       "ai_share": 0.0327,
       "ai": 21,
       "total": 643,
-      "stars": 59131,
+      "stars": 59237,
       "language": "Go"
     },
     {
@@ -6204,7 +6204,7 @@
       "ai_share": 0.0319,
       "ai": 6,
       "total": 188,
-      "stars": 94530,
+      "stars": 94826,
       "language": "JavaScript"
     },
     {
@@ -6268,7 +6268,7 @@
       "ai_share": 0.0305,
       "ai": 13,
       "total": 426,
-      "stars": 57922,
+      "stars": 59145,
       "language": "TypeScript"
     },
     {
@@ -6300,7 +6300,7 @@
       "ai_share": 0.0295,
       "ai": 42,
       "total": 1425,
-      "stars": 47970,
+      "stars": 48059,
       "language": "Python"
     },
     {
@@ -6308,7 +6308,7 @@
       "ai_share": 0.0295,
       "ai": 19,
       "total": 644,
-      "stars": 50048,
+      "stars": 50546,
       "language": "Go"
     },
     {
@@ -6380,7 +6380,7 @@
       "ai_share": 0.0278,
       "ai": 3,
       "total": 108,
-      "stars": 195941,
+      "stars": 198193,
       "language": "Python"
     },
     {
@@ -6396,7 +6396,7 @@
       "ai_share": 0.0275,
       "ai": 3,
       "total": 109,
-      "stars": 11538,
+      "stars": 11555,
       "language": "Go"
     },
     {
@@ -6420,7 +6420,7 @@
       "ai_share": 0.0272,
       "ai": 7,
       "total": 257,
-      "stars": 46194,
+      "stars": 47088,
       "language": "Python"
     },
     {
@@ -6428,7 +6428,7 @@
       "ai_share": 0.0272,
       "ai": 5,
       "total": 184,
-      "stars": 194384,
+      "stars": 195716,
       "language": "Go"
     },
     {
@@ -6436,7 +6436,7 @@
       "ai_share": 0.0272,
       "ai": 5,
       "total": 184,
-      "stars": 44814,
+      "stars": 45186,
       "language": "PowerShell"
     },
     {
@@ -6452,16 +6452,8 @@
       "ai_share": 0.0269,
       "ai": 51,
       "total": 1893,
-      "stars": 96728,
+      "stars": 96865,
       "language": "Rust"
-    },
-    {
-      "repo": "webadderallorg/Recordly",
-      "ai_share": 0.0269,
-      "ai": 13,
-      "total": 483,
-      "stars": 36973,
-      "language": "TypeScript"
     },
     {
       "repo": "apache/tvm",
@@ -6484,7 +6476,7 @@
       "ai_share": 0.0267,
       "ai": 10,
       "total": 374,
-      "stars": 53357,
+      "stars": 55944,
       "language": "Go"
     },
     {
@@ -6507,7 +6499,7 @@
       "repo": "quarkusio/quarkus",
       "ai_share": 0.0265,
       "ai": 32,
-      "total": 1206,
+      "total": 1208,
       "stars": 15995,
       "language": "Java"
     },
@@ -6588,7 +6580,7 @@
       "ai_share": 0.0252,
       "ai": 12,
       "total": 477,
-      "stars": 40024,
+      "stars": 40474,
       "language": "Ruby"
     },
     {
@@ -6644,7 +6636,7 @@
       "ai_share": 0.0248,
       "ai": 17,
       "total": 686,
-      "stars": 11591,
+      "stars": 11634,
       "language": "Kotlin"
     },
     {
@@ -6652,7 +6644,7 @@
       "ai_share": 0.0248,
       "ai": 8,
       "total": 323,
-      "stars": 40192,
+      "stars": 40325,
       "language": "TypeScript"
     },
     {
@@ -6676,7 +6668,7 @@
       "ai_share": 0.0246,
       "ai": 16,
       "total": 651,
-      "stars": 11783,
+      "stars": 11812,
       "language": "TypeScript"
     },
     {
@@ -6684,7 +6676,7 @@
       "ai_share": 0.0242,
       "ai": 7,
       "total": 289,
-      "stars": 158936,
+      "stars": 160384,
       "language": "TypeScript"
     },
     {
@@ -6716,7 +6708,7 @@
       "ai_share": 0.024,
       "ai": 3,
       "total": 125,
-      "stars": 52754,
+      "stars": 52768,
       "language": "TypeScript"
     },
     {
@@ -6796,7 +6788,7 @@
       "ai_share": 0.0229,
       "ai": 33,
       "total": 1442,
-      "stars": 44551,
+      "stars": 44612,
       "language": "Scala"
     },
     {
@@ -6812,7 +6804,7 @@
       "ai_share": 0.0227,
       "ai": 38,
       "total": 1676,
-      "stars": 65556,
+      "stars": 65602,
       "language": "TypeScript"
     },
     {
@@ -6868,7 +6860,7 @@
       "ai_share": 0.022,
       "ai": 36,
       "total": 1636,
-      "stars": 181290,
+      "stars": 181398,
       "language": "Dart"
     },
     {
@@ -6876,7 +6868,7 @@
       "ai_share": 0.0219,
       "ai": 14,
       "total": 639,
-      "stars": 45849,
+      "stars": 46043,
       "language": "TypeScript"
     },
     {
@@ -6916,7 +6908,7 @@
       "ai_share": 0.0216,
       "ai": 22,
       "total": 1017,
-      "stars": 459243,
+      "stars": 459559,
       "language": "TypeScript"
     },
     {
@@ -6932,16 +6924,8 @@
       "ai_share": 0.0214,
       "ai": 7,
       "total": 327,
-      "stars": 64012,
+      "stars": 64169,
       "language": "TypeScript"
-    },
-    {
-      "repo": "plotly/dash",
-      "ai_share": 0.0214,
-      "ai": 5,
-      "total": 234,
-      "stars": 24504,
-      "language": "Python"
     },
     {
       "repo": "actix/actix-web",
@@ -6964,7 +6948,7 @@
       "ai_share": 0.0213,
       "ai": 13,
       "total": 609,
-      "stars": 100389,
+      "stars": 100963,
       "language": "TypeScript"
     },
     {
@@ -6972,7 +6956,15 @@
       "ai_share": 0.0213,
       "ai": 6,
       "total": 282,
-      "stars": 11324,
+      "stars": 11333,
+      "language": "Python"
+    },
+    {
+      "repo": "plotly/dash",
+      "ai_share": 0.0209,
+      "ai": 5,
+      "total": 239,
+      "stars": 24504,
       "language": "Python"
     },
     {
@@ -6980,7 +6972,7 @@
       "ai_share": 0.0208,
       "ai": 3,
       "total": 144,
-      "stars": 50809,
+      "stars": 50905,
       "language": "Kotlin"
     },
     {
@@ -6988,7 +6980,7 @@
       "ai_share": 0.0206,
       "ai": 20,
       "total": 970,
-      "stars": 103758,
+      "stars": 103806,
       "language": "Vim Script"
     },
     {
@@ -6996,7 +6988,7 @@
       "ai_share": 0.0206,
       "ai": 11,
       "total": 533,
-      "stars": 226189,
+      "stars": 226421,
       "language": "Python"
     },
     {
@@ -7004,7 +6996,7 @@
       "ai_share": 0.0203,
       "ai": 11,
       "total": 542,
-      "stars": 61074,
+      "stars": 61095,
       "language": "TypeScript"
     },
     {
@@ -7064,19 +7056,11 @@
       "language": "Objective-C"
     },
     {
-      "repo": "plotly/plotly.js",
-      "ai_share": 0.0196,
-      "ai": 7,
-      "total": 357,
-      "stars": 18387,
-      "language": "JavaScript"
-    },
-    {
       "repo": "apple/container",
       "ai_share": 0.0196,
       "ai": 2,
       "total": 102,
-      "stars": 51815,
+      "stars": 52058,
       "language": "Swift"
     },
     {
@@ -7086,6 +7070,14 @@
       "total": 571,
       "stars": 20729,
       "language": "Python"
+    },
+    {
+      "repo": "plotly/plotly.js",
+      "ai_share": 0.0193,
+      "ai": 7,
+      "total": 363,
+      "stars": 18387,
+      "language": "JavaScript"
     },
     {
       "repo": "hypit-ai/hypit",
@@ -7124,7 +7116,7 @@
       "ai_share": 0.0187,
       "ai": 2,
       "total": 107,
-      "stars": 37432,
+      "stars": 37451,
       "language": "JavaScript"
     },
     {
@@ -7139,8 +7131,8 @@
       "repo": "opencv/opencv",
       "ai_share": 0.0184,
       "ai": 9,
-      "total": 489,
-      "stars": 91609,
+      "total": 490,
+      "stars": 91703,
       "language": "C++"
     },
     {
@@ -7148,7 +7140,7 @@
       "ai_share": 0.0183,
       "ai": 38,
       "total": 2079,
-      "stars": 11355,
+      "stars": 11366,
       "language": "Dart"
     },
     {
@@ -7160,20 +7152,20 @@
       "language": "C"
     },
     {
-      "repo": "mvt-project/mvt",
-      "ai_share": 0.0182,
-      "ai": 2,
-      "total": 110,
-      "stars": 16178,
-      "language": "Python"
-    },
-    {
       "repo": "usebruno/bruno",
       "ai_share": 0.0181,
       "ai": 6,
       "total": 332,
-      "stars": 48423,
+      "stars": 48537,
       "language": "JavaScript"
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "ai_share": 0.018,
+      "ai": 2,
+      "total": 111,
+      "stars": 16178,
+      "language": "Python"
     },
     {
       "repo": "huggingface/speech-to-speech",
@@ -7195,8 +7187,8 @@
       "repo": "duckdb/duckdb",
       "ai_share": 0.0178,
       "ai": 136,
-      "total": 7637,
-      "stars": 43121,
+      "total": 7643,
+      "stars": 43288,
       "language": "C++"
     },
     {
@@ -7260,7 +7252,7 @@
       "ai_share": 0.0174,
       "ai": 7,
       "total": 403,
-      "stars": 38518,
+      "stars": 38532,
       "language": "Go"
     },
     {
@@ -7316,7 +7308,7 @@
       "ai_share": 0.0167,
       "ai": 17,
       "total": 1020,
-      "stars": 50568,
+      "stars": 50625,
       "language": "TypeScript"
     },
     {
@@ -7324,7 +7316,7 @@
       "ai_share": 0.0166,
       "ai": 5,
       "total": 302,
-      "stars": 149760,
+      "stars": 149932,
       "language": "Python"
     },
     {
@@ -7332,7 +7324,7 @@
       "ai_share": 0.0164,
       "ai": 2,
       "total": 122,
-      "stars": 96096,
+      "stars": 96283,
       "language": "Shell"
     },
     {
@@ -7364,7 +7356,7 @@
       "ai_share": 0.016,
       "ai": 4,
       "total": 250,
-      "stars": 37522,
+      "stars": 37902,
       "language": "Python"
     },
     {
@@ -7419,7 +7411,7 @@
       "repo": "ceph/ceph",
       "ai_share": 0.0156,
       "ai": 41,
-      "total": 2627,
+      "total": 2629,
       "stars": 17257,
       "language": "C++"
     },
@@ -7428,7 +7420,7 @@
       "ai_share": 0.0155,
       "ai": 37,
       "total": 2382,
-      "stars": 47070,
+      "stars": 47191,
       "language": "TypeScript"
     },
     {
@@ -7444,7 +7436,7 @@
       "ai_share": 0.0155,
       "ai": 4,
       "total": 258,
-      "stars": 36411,
+      "stars": 36606,
       "language": "Java"
     },
     {
@@ -7484,7 +7476,7 @@
       "ai_share": 0.0152,
       "ai": 2,
       "total": 132,
-      "stars": 52614,
+      "stars": 52646,
       "language": "Go"
     },
     {
@@ -7492,7 +7484,7 @@
       "ai_share": 0.0152,
       "ai": 2,
       "total": 132,
-      "stars": 45183,
+      "stars": 45182,
       "language": "Shell"
     },
     {
@@ -7500,7 +7492,7 @@
       "ai_share": 0.015,
       "ai": 6,
       "total": 400,
-      "stars": 47091,
+      "stars": 47431,
       "language": "Python"
     },
     {
@@ -7572,7 +7564,7 @@
       "ai_share": 0.0147,
       "ai": 66,
       "total": 4494,
-      "stars": 56904,
+      "stars": 56981,
       "language": null
     },
     {
@@ -7620,7 +7612,7 @@
       "ai_share": 0.0143,
       "ai": 39,
       "total": 2734,
-      "stars": 177722,
+      "stars": 178366,
       "language": "MDX"
     },
     {
@@ -7628,7 +7620,7 @@
       "ai_share": 0.014,
       "ai": 2,
       "total": 143,
-      "stars": 45064,
+      "stars": 45355,
       "language": "Python"
     },
     {
@@ -7636,7 +7628,7 @@
       "ai_share": 0.0138,
       "ai": 27,
       "total": 1954,
-      "stars": 42172,
+      "stars": 42464,
       "language": "Zig"
     },
     {
@@ -7668,7 +7660,7 @@
       "ai_share": 0.0135,
       "ai": 2,
       "total": 148,
-      "stars": 42876,
+      "stars": 42969,
       "language": "JavaScript"
     },
     {
@@ -7686,6 +7678,14 @@
       "total": 448,
       "stars": 15377,
       "language": "Java"
+    },
+    {
+      "repo": "monicahq/monica",
+      "ai_share": 0.0133,
+      "ai": 5,
+      "total": 375,
+      "stars": 25831,
+      "language": "PHP"
     },
     {
       "repo": "tw93/Kami",
@@ -7708,7 +7708,7 @@
       "ai_share": 0.0131,
       "ai": 2,
       "total": 153,
-      "stars": 44064,
+      "stars": 44074,
       "language": "TypeScript"
     },
     {
@@ -7748,7 +7748,7 @@
       "ai_share": 0.0128,
       "ai": 35,
       "total": 2741,
-      "stars": 94300,
+      "stars": 94639,
       "language": "Go"
     },
     {
@@ -7772,7 +7772,7 @@
       "ai_share": 0.0127,
       "ai": 8,
       "total": 628,
-      "stars": 61065,
+      "stars": 61229,
       "language": "Go"
     },
     {
@@ -7788,7 +7788,7 @@
       "ai_share": 0.0121,
       "ai": 17,
       "total": 1402,
-      "stars": 50410,
+      "stars": 50523,
       "language": "Go"
     },
     {
@@ -7796,7 +7796,7 @@
       "ai_share": 0.0119,
       "ai": 12,
       "total": 1008,
-      "stars": 50359,
+      "stars": 50419,
       "language": "Ruby"
     },
     {
@@ -7828,7 +7828,7 @@
       "ai_share": 0.0115,
       "ai": 10,
       "total": 867,
-      "stars": 55265,
+      "stars": 55477,
       "language": "C++"
     },
     {
@@ -7836,7 +7836,7 @@
       "ai_share": 0.0114,
       "ai": 12,
       "total": 1053,
-      "stars": 45755,
+      "stars": 46072,
       "language": "Rust"
     },
     {
@@ -7844,7 +7844,7 @@
       "ai_share": 0.0114,
       "ai": 4,
       "total": 350,
-      "stars": 57221,
+      "stars": 57339,
       "language": "TypeScript"
     },
     {
@@ -7876,7 +7876,7 @@
       "ai_share": 0.011,
       "ai": 2,
       "total": 182,
-      "stars": 11256,
+      "stars": 11279,
       "language": "Objective-C"
     },
     {
@@ -7924,7 +7924,7 @@
       "ai_share": 0.0105,
       "ai": 3,
       "total": 287,
-      "stars": 104496,
+      "stars": 105030,
       "language": "Rust"
     },
     {
@@ -7956,7 +7956,7 @@
       "ai_share": 0.0102,
       "ai": 2,
       "total": 196,
-      "stars": 45950,
+      "stars": 45977,
       "language": "JavaScript"
     },
     {
@@ -7972,7 +7972,7 @@
       "ai_share": 0.01,
       "ai": 23,
       "total": 2300,
-      "stars": 158905,
+      "stars": 159412,
       "language": "Svelte"
     },
     {
@@ -7996,7 +7996,7 @@
       "ai_share": 0.0098,
       "ai": 12,
       "total": 1220,
-      "stars": 140006,
+      "stars": 140009,
       "language": "Go"
     },
     {
@@ -8028,7 +8028,7 @@
       "ai_share": 0.0097,
       "ai": 6,
       "total": 618,
-      "stars": 11272,
+      "stars": 11311,
       "language": "Python"
     },
     {
@@ -8116,7 +8116,7 @@
       "ai_share": 0.009,
       "ai": 3,
       "total": 334,
-      "stars": 44024,
+      "stars": 44032,
       "language": "Rust"
     },
     {
@@ -8132,7 +8132,7 @@
       "ai_share": 0.009,
       "ai": 2,
       "total": 222,
-      "stars": 112955,
+      "stars": 113101,
       "language": "Rust"
     },
     {
@@ -8156,7 +8156,7 @@
       "ai_share": 0.0088,
       "ai": 10,
       "total": 1135,
-      "stars": 62459,
+      "stars": 62696,
       "language": "Clojure"
     },
     {
@@ -8164,7 +8164,7 @@
       "ai_share": 0.0088,
       "ai": 2,
       "total": 228,
-      "stars": 155979,
+      "stars": 156902,
       "language": "TypeScript"
     },
     {
@@ -8187,8 +8187,8 @@
       "repo": "NationalSecurityAgency/ghidra",
       "ai_share": 0.0087,
       "ai": 4,
-      "total": 458,
-      "stars": 100404,
+      "total": 459,
+      "stars": 101179,
       "language": "Java"
     },
     {
@@ -8204,7 +8204,7 @@
       "ai_share": 0.0087,
       "ai": 1,
       "total": 115,
-      "stars": 41694,
+      "stars": 41864,
       "language": "C++"
     },
     {
@@ -8212,7 +8212,7 @@
       "ai_share": 0.0086,
       "ai": 118,
       "total": 13730,
-      "stars": 39269,
+      "stars": 39785,
       "language": "TypeScript"
     },
     {
@@ -8236,7 +8236,7 @@
       "ai_share": 0.0084,
       "ai": 4,
       "total": 476,
-      "stars": 39224,
+      "stars": 39557,
       "language": "Go"
     },
     {
@@ -8276,7 +8276,7 @@
       "ai_share": 0.0081,
       "ai": 18,
       "total": 2219,
-      "stars": 55836,
+      "stars": 55894,
       "language": "TypeScript"
     },
     {
@@ -8284,7 +8284,7 @@
       "ai_share": 0.0081,
       "ai": 6,
       "total": 742,
-      "stars": 49851,
+      "stars": 50243,
       "language": "Python"
     },
     {
@@ -8340,7 +8340,7 @@
       "ai_share": 0.0078,
       "ai": 11,
       "total": 1408,
-      "stars": 50147,
+      "stars": 50296,
       "language": "Python"
     },
     {
@@ -8412,7 +8412,7 @@
       "ai_share": 0.0074,
       "ai": 2,
       "total": 272,
-      "stars": 39054,
+      "stars": 39138,
       "language": "TypeScript"
     },
     {
@@ -8436,7 +8436,7 @@
       "ai_share": 0.0073,
       "ai": 2,
       "total": 273,
-      "stars": 41043,
+      "stars": 41044,
       "language": "TypeScript"
     },
     {
@@ -8492,7 +8492,7 @@
       "ai_share": 0.007,
       "ai": 34,
       "total": 4830,
-      "stars": 201625,
+      "stars": 201709,
       "language": "C++"
     },
     {
@@ -8500,7 +8500,7 @@
       "ai_share": 0.007,
       "ai": 3,
       "total": 430,
-      "stars": 52076,
+      "stars": 52468,
       "language": "Go"
     },
     {
@@ -8532,7 +8532,7 @@
       "ai_share": 0.0068,
       "ai": 8,
       "total": 1169,
-      "stars": 155132,
+      "stars": 156848,
       "language": "Rust"
     },
     {
@@ -8548,7 +8548,7 @@
       "ai_share": 0.0067,
       "ai": 1,
       "total": 150,
-      "stars": 52222,
+      "stars": 53720,
       "language": "Rust"
     },
     {
@@ -8558,14 +8558,6 @@
       "total": 6388,
       "stars": 80139,
       "language": "Python"
-    },
-    {
-      "repo": "cheaper-inference/OmniRoute",
-      "ai_share": 0.0066,
-      "ai": 39,
-      "total": 5879,
-      "stars": 90013,
-      "language": "TypeScript"
     },
     {
       "repo": "dagger/dagger",
@@ -8588,7 +8580,7 @@
       "ai_share": 0.0066,
       "ai": 2,
       "total": 305,
-      "stars": 37461,
+      "stars": 37513,
       "language": "Go"
     },
     {
@@ -8596,15 +8588,23 @@
       "ai_share": 0.0066,
       "ai": 1,
       "total": 152,
-      "stars": 40318,
+      "stars": 40387,
       "language": "Java"
+    },
+    {
+      "repo": "cheaper-inference/OmniRoute",
+      "ai_share": 0.0065,
+      "ai": 39,
+      "total": 5961,
+      "stars": 90013,
+      "language": "TypeScript"
     },
     {
       "repo": "jellyfin/jellyfin",
       "ai_share": 0.0065,
       "ai": 3,
       "total": 465,
-      "stars": 59455,
+      "stars": 59708,
       "language": "C#"
     },
     {
@@ -8684,7 +8684,7 @@
       "ai_share": 0.0062,
       "ai": 2,
       "total": 324,
-      "stars": 11381,
+      "stars": 11416,
       "language": "TypeScript"
     },
     {
@@ -8692,7 +8692,7 @@
       "ai_share": 0.0061,
       "ai": 11,
       "total": 1814,
-      "stars": 135440,
+      "stars": 136105,
       "language": "C++"
     },
     {
@@ -8780,7 +8780,7 @@
       "ai_share": 0.0056,
       "ai": 1,
       "total": 179,
-      "stars": 41766,
+      "stars": 41906,
       "language": "C++"
     },
     {
@@ -8820,7 +8820,7 @@
       "ai_share": 0.0054,
       "ai": 3,
       "total": 560,
-      "stars": 56977,
+      "stars": 57219,
       "language": "Python"
     },
     {
@@ -8828,7 +8828,7 @@
       "ai_share": 0.0054,
       "ai": 2,
       "total": 370,
-      "stars": 45800,
+      "stars": 46032,
       "language": "Go"
     },
     {
@@ -8859,8 +8859,8 @@
       "repo": "nextcloud/server",
       "ai_share": 0.0052,
       "ai": 8,
-      "total": 1530,
-      "stars": 37541,
+      "total": 1532,
+      "stars": 37623,
       "language": "PHP"
     },
     {
@@ -8876,7 +8876,7 @@
       "ai_share": 0.0052,
       "ai": 4,
       "total": 766,
-      "stars": 92063,
+      "stars": 92576,
       "language": "Rust"
     },
     {
@@ -8884,7 +8884,7 @@
       "ai_share": 0.0052,
       "ai": 3,
       "total": 576,
-      "stars": 147290,
+      "stars": 148397,
       "language": "Python"
     },
     {
@@ -8924,7 +8924,7 @@
       "ai_share": 0.0051,
       "ai": 3,
       "total": 593,
-      "stars": 51509,
+      "stars": 52595,
       "language": "Rust"
     },
     {
@@ -8940,7 +8940,7 @@
       "ai_share": 0.0051,
       "ai": 1,
       "total": 195,
-      "stars": 42833,
+      "stars": 43898,
       "language": "Dart"
     },
     {
@@ -8980,7 +8980,7 @@
       "ai_share": 0.0049,
       "ai": 3,
       "total": 615,
-      "stars": 119428,
+      "stars": 120018,
       "language": "TypeScript"
     },
     {
@@ -8996,7 +8996,7 @@
       "ai_share": 0.0049,
       "ai": 2,
       "total": 412,
-      "stars": 40739,
+      "stars": 40769,
       "language": "Go"
     },
     {
@@ -9004,7 +9004,7 @@
       "ai_share": 0.0049,
       "ai": 1,
       "total": 205,
-      "stars": 11329,
+      "stars": 11325,
       "language": "Solidity"
     },
     {
@@ -9020,7 +9020,7 @@
       "ai_share": 0.0048,
       "ai": 8,
       "total": 1654,
-      "stars": 123765,
+      "stars": 123880,
       "language": "JavaScript"
     },
     {
@@ -9028,7 +9028,7 @@
       "ai_share": 0.0048,
       "ai": 6,
       "total": 1238,
-      "stars": 51269,
+      "stars": 51405,
       "language": "Rust"
     },
     {
@@ -9036,7 +9036,7 @@
       "ai_share": 0.0048,
       "ai": 6,
       "total": 1255,
-      "stars": 58805,
+      "stars": 59386,
       "language": "Go"
     },
     {
@@ -9092,7 +9092,7 @@
       "ai_share": 0.0047,
       "ai": 7,
       "total": 1479,
-      "stars": 51061,
+      "stars": 51097,
       "language": "TypeScript"
     },
     {
@@ -9164,7 +9164,7 @@
       "ai_share": 0.0043,
       "ai": 3,
       "total": 691,
-      "stars": 36767,
+      "stars": 36773,
       "language": "Java"
     },
     {
@@ -9172,7 +9172,7 @@
       "ai_share": 0.0043,
       "ai": 2,
       "total": 460,
-      "stars": 65440,
+      "stars": 65560,
       "language": "Python"
     },
     {
@@ -9204,7 +9204,7 @@
       "ai_share": 0.0042,
       "ai": 18,
       "total": 4298,
-      "stars": 41368,
+      "stars": 41597,
       "language": "Python"
     },
     {
@@ -9220,7 +9220,7 @@
       "ai_share": 0.0042,
       "ai": 1,
       "total": 240,
-      "stars": 60601,
+      "stars": 60780,
       "language": "Rust"
     },
     {
@@ -9228,7 +9228,7 @@
       "ai_share": 0.0041,
       "ai": 8,
       "total": 1952,
-      "stars": 48089,
+      "stars": 48111,
       "language": "Ruby"
     },
     {
@@ -9284,7 +9284,7 @@
       "ai_share": 0.004,
       "ai": 1,
       "total": 253,
-      "stars": 64079,
+      "stars": 64266,
       "language": "Kotlin"
     },
     {
@@ -9300,7 +9300,7 @@
       "ai_share": 0.0038,
       "ai": 1,
       "total": 266,
-      "stars": 39648,
+      "stars": 39657,
       "language": "Ruby"
     },
     {
@@ -9412,7 +9412,7 @@
       "ai_share": 0.0031,
       "ai": 9,
       "total": 2918,
-      "stars": 11368,
+      "stars": 11385,
       "language": "C++"
     },
     {
@@ -9428,7 +9428,7 @@
       "ai_share": 0.003,
       "ai": 3,
       "total": 1009,
-      "stars": 11845,
+      "stars": 11901,
       "language": "TypeScript"
     },
     {
@@ -9492,7 +9492,7 @@
       "ai_share": 0.0029,
       "ai": 1,
       "total": 346,
-      "stars": 187341,
+      "stars": 187956,
       "language": "Go"
     },
     {
@@ -9500,7 +9500,7 @@
       "ai_share": 0.0028,
       "ai": 16,
       "total": 5670,
-      "stars": 36106,
+      "stars": 36074,
       "language": "Go"
     },
     {
@@ -9524,7 +9524,7 @@
       "ai_share": 0.0027,
       "ai": 2,
       "total": 732,
-      "stars": 11268,
+      "stars": 11276,
       "language": "TypeScript"
     },
     {
@@ -9540,7 +9540,7 @@
       "ai_share": 0.0026,
       "ai": 5,
       "total": 1887,
-      "stars": 122467,
+      "stars": 123663,
       "language": "TypeScript"
     },
     {
@@ -9580,7 +9580,7 @@
       "ai_share": 0.0025,
       "ai": 3,
       "total": 1187,
-      "stars": 64226,
+      "stars": 64290,
       "language": "Markdown"
     },
     {
@@ -9612,7 +9612,7 @@
       "ai_share": 0.0024,
       "ai": 11,
       "total": 4534,
-      "stars": 45132,
+      "stars": 47688,
       "language": "C++"
     },
     {
@@ -9636,7 +9636,7 @@
       "ai_share": 0.0023,
       "ai": 1,
       "total": 429,
-      "stars": 11543,
+      "stars": 11587,
       "language": "Go"
     },
     {
@@ -9668,7 +9668,7 @@
       "ai_share": 0.0022,
       "ai": 1,
       "total": 455,
-      "stars": 64154,
+      "stars": 64222,
       "language": "Python"
     },
     {
@@ -9676,15 +9676,15 @@
       "ai_share": 0.0021,
       "ai": 9,
       "total": 4365,
-      "stars": 227458,
+      "stars": 228905,
       "language": "TypeScript"
     },
     {
       "repo": "bitcoin/bitcoin",
       "ai_share": 0.0021,
       "ai": 2,
-      "total": 953,
-      "stars": 90691,
+      "total": 958,
+      "stars": 90755,
       "language": "C++"
     },
     {
@@ -9740,7 +9740,7 @@
       "ai_share": 0.002,
       "ai": 1,
       "total": 494,
-      "stars": 60319,
+      "stars": 60328,
       "language": "Java"
     },
     {
@@ -9788,7 +9788,7 @@
       "ai_share": 0.0019,
       "ai": 1,
       "total": 517,
-      "stars": 54150,
+      "stars": 54182,
       "language": "JavaScript"
     },
     {
@@ -9803,8 +9803,8 @@
       "repo": "Ebony-Vinyl/dsh-our-free-model",
       "ai_share": 0.0018,
       "ai": 1,
-      "total": 551,
-      "stars": 78114,
+      "total": 552,
+      "stars": 85722,
       "language": "JavaScript"
     },
     {
@@ -9828,7 +9828,7 @@
       "ai_share": 0.0016,
       "ai": 1,
       "total": 636,
-      "stars": 41100,
+      "stars": 41346,
       "language": "C#"
     },
     {
@@ -9844,7 +9844,7 @@
       "ai_share": 0.0015,
       "ai": 2,
       "total": 1352,
-      "stars": 41788,
+      "stars": 41859,
       "language": "C"
     },
     {
@@ -9852,8 +9852,8 @@
       "ai_share": 0.0015,
       "ai": 1,
       "total": 654,
-      "stars": 37868,
-      "language": "TypeScript"
+      "stars": 38169,
+      "language": "Python"
     },
     {
       "repo": "arc53/DocsGPT",
@@ -9884,7 +9884,7 @@
       "ai_share": 0.0013,
       "ai": 2,
       "total": 1523,
-      "stars": 129184,
+      "stars": 129238,
       "language": "Go"
     },
     {
@@ -9892,7 +9892,7 @@
       "ai_share": 0.0012,
       "ai": 6,
       "total": 4801,
-      "stars": 47268,
+      "stars": 47361,
       "language": "TypeScript"
     },
     {
@@ -9916,7 +9916,7 @@
       "ai_share": 0.0011,
       "ai": 1,
       "total": 946,
-      "stars": 43540,
+      "stars": 43664,
       "language": "C"
     },
     {
@@ -9987,7 +9987,7 @@
       "repo": "swiftlang/swift",
       "ai_share": 0.0007,
       "ai": 2,
-      "total": 2731,
+      "total": 2734,
       "stars": 70609,
       "language": "Swift"
     },
@@ -10004,7 +10004,7 @@
       "ai_share": 0.0005,
       "ai": 1,
       "total": 1871,
-      "stars": 40457,
+      "stars": 40474,
       "language": "Go"
     },
     {
@@ -10019,8 +10019,8 @@
       "repo": "rust-lang/rust",
       "ai_share": 0.0004,
       "ai": 3,
-      "total": 6685,
-      "stars": 122146,
+      "total": 6688,
+      "stars": 122302,
       "language": "Rust"
     },
     {
@@ -10028,7 +10028,7 @@
       "ai_share": 0.0004,
       "ai": 2,
       "total": 4706,
-      "stars": 55856,
+      "stars": 56065,
       "language": "Python"
     },
     {
@@ -10068,8 +10068,16 @@
       "ai_share": 0.0001,
       "ai": 1,
       "total": 7850,
-      "stars": 48430,
+      "stars": 48484,
       "language": "Python"
+    },
+    {
+      "repo": "torvalds/linux",
+      "ai_share": 0.0,
+      "ai": 1,
+      "total": 28472,
+      "stars": 256502,
+      "language": "C"
     },
     {
       "repo": "1Panel-dev/MaxKB",
@@ -10084,7 +10092,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 101,
-      "stars": 11498,
+      "stars": 11536,
       "language": "Python"
     },
     {
@@ -10100,7 +10108,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 131,
-      "stars": 47382,
+      "stars": 47444,
       "language": "Python"
     },
     {
@@ -10156,7 +10164,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 292,
-      "stars": 46935,
+      "stars": 47048,
       "language": "Jupyter Notebook"
     },
     {
@@ -10244,7 +10252,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 193,
-      "stars": 42984,
+      "stars": 43276,
       "language": "Rust"
     },
     {
@@ -10396,7 +10404,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 492,
-      "stars": 40046,
+      "stars": 40258,
       "language": "Go"
     },
     {
@@ -10452,15 +10460,15 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 246,
-      "stars": 122907,
-      "language": "Python"
+      "stars": 123665,
+      "language": "TypeScript"
     },
     {
       "repo": "TeamNewPipe/NewPipe",
       "ai_share": 0.0,
       "ai": 0,
       "total": 120,
-      "stars": 40780,
+      "stars": 40908,
       "language": "Java"
     },
     {
@@ -10484,7 +10492,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 182,
-      "stars": 40456,
+      "stars": 40769,
       "language": "Python"
     },
     {
@@ -10500,7 +10508,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 275,
-      "stars": 55902,
+      "stars": 56030,
       "language": "C++"
     },
     {
@@ -10524,7 +10532,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 159,
-      "stars": 53885,
+      "stars": 54871,
       "language": "Python"
     },
     {
@@ -10532,7 +10540,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 264,
-      "stars": 40469,
+      "stars": 40611,
       "language": "Java"
     },
     {
@@ -10540,7 +10548,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 362,
-      "stars": 58420,
+      "stars": 58770,
       "language": "TypeScript"
     },
     {
@@ -10588,7 +10596,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 1109,
-      "stars": 101466,
+      "stars": 101488,
       "language": "TypeScript"
     },
     {
@@ -10620,7 +10628,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 940,
-      "stars": 11402,
+      "stars": 11404,
       "language": "Java"
     },
     {
@@ -10684,7 +10692,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 439,
-      "stars": 11325,
+      "stars": 11343,
       "language": "C++"
     },
     {
@@ -10700,7 +10708,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 564,
-      "stars": 49811,
+      "stars": 49974,
       "language": "Rust"
     },
     {
@@ -10819,7 +10827,7 @@
       "repo": "containerd/containerd",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 258,
+      "total": 259,
       "stars": 21525,
       "language": "Go"
     },
@@ -10852,7 +10860,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 456,
-      "stars": 41698,
+      "stars": 41700,
       "language": "JavaScript"
     },
     {
@@ -10860,7 +10868,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 11825,
-      "stars": 282738,
+      "stars": 286430,
       "language": "TypeScript"
     },
     {
@@ -10876,7 +10884,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 208,
-      "stars": 109006,
+      "stars": 108960,
       "language": "Rust"
     },
     {
@@ -10892,7 +10900,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 240,
-      "stars": 91848,
+      "stars": 91796,
       "language": "Python"
     },
     {
@@ -10900,7 +10908,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 324,
-      "stars": 53321,
+      "stars": 53456,
       "language": null
     },
     {
@@ -10908,7 +10916,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 158,
-      "stars": 54213,
+      "stars": 54271,
       "language": "Shell"
     },
     {
@@ -10996,7 +11004,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 243,
-      "stars": 51479,
+      "stars": 51478,
       "language": "Go"
     },
     {
@@ -11004,7 +11012,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 123,
-      "stars": 43471,
+      "stars": 43604,
       "language": "Swift"
     },
     {
@@ -11028,7 +11036,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 199,
-      "stars": 46682,
+      "stars": 46784,
       "language": "C#"
     },
     {
@@ -11036,7 +11044,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 378,
-      "stars": 38058,
+      "stars": 38195,
       "language": "Rust"
     },
     {
@@ -11132,7 +11140,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 773,
-      "stars": 64350,
+      "stars": 64488,
       "language": "C"
     },
     {
@@ -11148,7 +11156,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 173,
-      "stars": 44922,
+      "stars": 45353,
       "language": "Kotlin"
     },
     {
@@ -11171,8 +11179,8 @@
       "repo": "godotengine/godot",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 1001,
-      "stars": 120305,
+      "total": 1003,
+      "stars": 120671,
       "language": "C++"
     },
     {
@@ -11196,7 +11204,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 307,
-      "stars": 37726,
+      "stars": 37824,
       "language": "C++"
     },
     {
@@ -11236,7 +11244,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 135,
-      "stars": 11341,
+      "stars": 11342,
       "language": "Go"
     },
     {
@@ -11244,7 +11252,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 138,
-      "stars": 51926,
+      "stars": 51925,
       "language": "Java"
     },
     {
@@ -11268,7 +11276,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 111,
-      "stars": 11547,
+      "stars": 11611,
       "language": "Go"
     },
     {
@@ -11292,7 +11300,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 104,
-      "stars": 39835,
+      "stars": 39868,
       "language": "Emacs Lisp"
     },
     {
@@ -11348,7 +11356,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 346,
-      "stars": 45448,
+      "stars": 45456,
       "language": "C++"
     },
     {
@@ -11356,7 +11364,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 113,
-      "stars": 38927,
+      "stars": 38962,
       "language": "Go"
     },
     {
@@ -11364,7 +11372,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 356,
-      "stars": 50262,
+      "stars": 50319,
       "language": "Go"
     },
     {
@@ -11388,7 +11396,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 106,
-      "stars": 50561,
+      "stars": 50620,
       "language": "Ruby"
     },
     {
@@ -11396,7 +11404,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 312,
-      "stars": 40685,
+      "stars": 40768,
       "language": "C++"
     },
     {
@@ -11428,7 +11436,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 1816,
-      "stars": 36640,
+      "stars": 36678,
       "language": "Python"
     },
     {
@@ -11444,7 +11452,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 319,
-      "stars": 11665,
+      "stars": 11680,
       "language": null
     },
     {
@@ -11588,7 +11596,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 114,
-      "stars": 41782,
+      "stars": 42384,
       "language": "TypeScript"
     },
     {
@@ -11604,7 +11612,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 246,
-      "stars": 99379,
+      "stars": 100591,
       "language": "Dart"
     },
     {
@@ -11660,7 +11668,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 687,
-      "stars": 50599,
+      "stars": 50607,
       "language": "Ruby"
     },
     {
@@ -11716,7 +11724,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 103,
-      "stars": 105409,
+      "stars": 105489,
       "language": "C++"
     },
     {
@@ -11748,7 +11756,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 452,
-      "stars": 38166,
+      "stars": 38276,
       "language": "C"
     },
     {
@@ -11868,7 +11876,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 4140,
-      "stars": 135617,
+      "stars": 136305,
       "language": "Rust"
     },
     {
@@ -11916,7 +11924,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 148,
-      "stars": 11671,
+      "stars": 11696,
       "language": "Go"
     },
     {
@@ -11932,7 +11940,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 174,
-      "stars": 61990,
+      "stars": 61958,
       "language": "Python"
     },
     {
@@ -11956,7 +11964,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 121,
-      "stars": 61582,
+      "stars": 61566,
       "language": "Go"
     },
     {
@@ -11988,7 +11996,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 409,
-      "stars": 11944,
+      "stars": 12050,
       "language": "TypeScript"
     },
     {
@@ -11996,7 +12004,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 210,
-      "stars": 95848,
+      "stars": 95896,
       "language": "TypeScript"
     },
     {
@@ -12060,7 +12068,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 106,
-      "stars": 61434,
+      "stars": 61430,
       "language": "TypeScript"
     },
     {
@@ -12084,7 +12092,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 194,
-      "stars": 143019,
+      "stars": 143535,
       "language": "HTML"
     },
     {
@@ -12108,7 +12116,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 157,
-      "stars": 65231,
+      "stars": 65290,
       "language": "CSS"
     },
     {
@@ -12116,7 +12124,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 183,
-      "stars": 40963,
+      "stars": 41033,
       "language": "Go"
     },
     {
@@ -12124,7 +12132,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 152,
-      "stars": 39630,
+      "stars": 39823,
       "language": "Python"
     },
     {
@@ -12148,7 +12156,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 400,
-      "stars": 51426,
+      "stars": 51530,
       "language": null
     },
     {
@@ -12156,7 +12164,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 1314,
-      "stars": 38546,
+      "stars": 38621,
       "language": "Rust"
     },
     {
@@ -12236,7 +12244,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 276,
-      "stars": 11382,
+      "stars": 11390,
       "language": "TypeScript"
     },
     {
@@ -12252,7 +12260,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 125,
-      "stars": 38971,
+      "stars": 39025,
       "language": "Python"
     },
     {
@@ -12340,7 +12348,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 517,
-      "stars": 50451,
+      "stars": 50478,
       "language": "C"
     },
     {
@@ -12380,7 +12388,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 237,
-      "stars": 63732,
+      "stars": 63989,
       "language": "Rust"
     },
     {
@@ -12404,7 +12412,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 145,
-      "stars": 57246,
+      "stars": 57395,
       "language": "Rust"
     },
     {
@@ -12428,7 +12436,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 272,
-      "stars": 64519,
+      "stars": 64667,
       "language": "Go"
     },
     {
@@ -12436,7 +12444,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 144,
-      "stars": 36932,
+      "stars": 37027,
       "language": "Swift"
     },
     {
@@ -12452,7 +12460,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 109,
-      "stars": 40288,
+      "stars": 40323,
       "language": "TypeScript"
     },
     {
@@ -12500,7 +12508,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 112,
-      "stars": 36109,
+      "stars": 36216,
       "language": "Rust"
     },
     {
@@ -12508,7 +12516,7 @@
       "ai_share": 0.0,
       "ai": 0,
       "total": 271,
-      "stars": 45854,
+      "stars": 45984,
       "language": "C++"
     },
     {
@@ -12844,13 +12852,6 @@
       "repos": 1
     },
     {
-      "org": "desktop",
-      "ai_share": 0.7692,
-      "ai": 290,
-      "total": 377,
-      "repos": 1
-    },
-    {
       "org": "yamadashy",
       "ai_share": 0.7674,
       "ai": 99,
@@ -12862,6 +12863,13 @@
       "ai_share": 0.7648,
       "ai": 361,
       "total": 472,
+      "repos": 1
+    },
+    {
+      "org": "desktop",
+      "ai_share": 0.7632,
+      "ai": 290,
+      "total": 380,
       "repos": 1
     },
     {
@@ -13376,18 +13384,18 @@
       "repos": 1
     },
     {
+      "org": "storytold",
+      "ai_share": 0.5022,
+      "ai": 10822,
+      "total": 21551,
+      "repos": 8
+    },
+    {
       "org": "dotnet",
       "ai_share": 0.5022,
       "ai": 2397,
       "total": 4773,
       "repos": 11
-    },
-    {
-      "org": "storytold",
-      "ai_share": 0.502,
-      "ai": 10817,
-      "total": 21546,
-      "repos": 8
     },
     {
       "org": "jdx",
@@ -13413,8 +13421,8 @@
     {
       "org": "tangency-labs",
       "ai_share": 0.4866,
-      "ai": 2852,
-      "total": 5861,
+      "ai": 2853,
+      "total": 5863,
       "repos": 1
     },
     {
@@ -13545,9 +13553,9 @@
     },
     {
       "org": "rtk-ai",
-      "ai_share": 0.4489,
-      "ai": 369,
-      "total": 822,
+      "ai_share": 0.4469,
+      "ai": 370,
+      "total": 828,
       "repos": 1
     },
     {
@@ -13713,9 +13721,9 @@
     },
     {
       "org": "storybookjs",
-      "ai_share": 0.3904,
+      "ai_share": 0.3897,
       "ai": 1538,
-      "total": 3940,
+      "total": 3947,
       "repos": 1
     },
     {
@@ -13965,9 +13973,9 @@
     },
     {
       "org": "appwrite",
-      "ai_share": 0.3234,
-      "ai": 2617,
-      "total": 8092,
+      "ai_share": 0.3235,
+      "ai": 2619,
+      "total": 8095,
       "repos": 1
     },
     {
@@ -14146,18 +14154,18 @@
       "repos": 1
     },
     {
-      "org": "CopilotKit",
-      "ai_share": 0.2906,
-      "ai": 1173,
-      "total": 4037,
-      "repos": 2
-    },
-    {
       "org": "portainer",
       "ai_share": 0.2906,
       "ai": 34,
       "total": 117,
       "repos": 1
+    },
+    {
+      "org": "CopilotKit",
+      "ai_share": 0.2891,
+      "ai": 1173,
+      "total": 4058,
+      "repos": 2
     },
     {
       "org": "super-productivity",
@@ -14727,10 +14735,10 @@
       "repos": 1
     },
     {
-      "org": "rails",
-      "ai_share": 0.1798,
-      "ai": 169,
-      "total": 940,
+      "org": "addyosmani",
+      "ai_share": 0.1815,
+      "ai": 47,
+      "total": 259,
       "repos": 1
     },
     {
@@ -14738,6 +14746,13 @@
       "ai_share": 0.1796,
       "ai": 947,
       "total": 5273,
+      "repos": 1
+    },
+    {
+      "org": "rails",
+      "ai_share": 0.1792,
+      "ai": 169,
+      "total": 943,
       "repos": 1
     },
     {
@@ -14990,13 +15005,6 @@
       "ai_share": 0.1504,
       "ai": 203,
       "total": 1350,
-      "repos": 1
-    },
-    {
-      "org": "addyosmani",
-      "ai_share": 0.1486,
-      "ai": 37,
-      "total": 249,
       "repos": 1
     },
     {
@@ -15539,17 +15547,17 @@
       "repos": 3
     },
     {
-      "org": "lyogavin",
-      "ai_share": 0.098,
-      "ai": 10,
-      "total": 102,
-      "repos": 1
-    },
-    {
       "org": "LawnchairLauncher",
       "ai_share": 0.0973,
       "ai": 11,
       "total": 113,
+      "repos": 1
+    },
+    {
+      "org": "lyogavin",
+      "ai_share": 0.0971,
+      "ai": 10,
+      "total": 103,
       "repos": 1
     },
     {
@@ -16498,6 +16506,13 @@
       "repos": 1
     },
     {
+      "org": "NVIDIA",
+      "ai_share": 0.0509,
+      "ai": 402,
+      "total": 7902,
+      "repos": 13
+    },
+    {
       "org": "zloirock",
       "ai_share": 0.0508,
       "ai": 9,
@@ -16510,13 +16525,6 @@
       "ai": 7,
       "total": 138,
       "repos": 2
-    },
-    {
-      "org": "NVIDIA",
-      "ai_share": 0.0506,
-      "ai": 400,
-      "total": 7898,
-      "repos": 13
     },
     {
       "org": "odin-lang",
@@ -16638,13 +16646,6 @@
       "repos": 1
     },
     {
-      "org": "DeusData",
-      "ai_share": 0.0482,
-      "ai": 91,
-      "total": 1887,
-      "repos": 1
-    },
-    {
       "org": "highcharts",
       "ai_share": 0.0482,
       "ai": 58,
@@ -16743,13 +16744,6 @@
       "repos": 1
     },
     {
-      "org": "plotly",
-      "ai_share": 0.0451,
-      "ai": 37,
-      "total": 820,
-      "repos": 3
-    },
-    {
       "org": "nocobase",
       "ai_share": 0.045,
       "ai": 45,
@@ -16769,6 +16763,13 @@
       "ai": 18,
       "total": 403,
       "repos": 1
+    },
+    {
+      "org": "plotly",
+      "ai_share": 0.0445,
+      "ai": 37,
+      "total": 831,
+      "repos": 3
     },
     {
       "org": "coleam00",
@@ -16897,6 +16898,13 @@
       "repos": 1
     },
     {
+      "org": "Dokploy",
+      "ai_share": 0.0413,
+      "ai": 21,
+      "total": 509,
+      "repos": 1
+    },
+    {
       "org": "trycompai",
       "ai_share": 0.0413,
       "ai": 5,
@@ -16985,13 +16993,6 @@
       "ai_share": 0.0394,
       "ai": 49,
       "total": 1244,
-      "repos": 1
-    },
-    {
-      "org": "Dokploy",
-      "ai_share": 0.0394,
-      "ai": 20,
-      "total": 508,
       "repos": 1
     },
     {
@@ -17279,6 +17280,13 @@
       "ai_share": 0.0343,
       "ai": 6,
       "total": 175,
+      "repos": 1
+    },
+    {
+      "org": "webadderallorg",
+      "ai_share": 0.0342,
+      "ai": 9,
+      "total": 263,
       "repos": 1
     },
     {
@@ -17611,13 +17619,6 @@
       "repos": 1
     },
     {
-      "org": "webadderallorg",
-      "ai_share": 0.0269,
-      "ai": 13,
-      "total": 483,
-      "repos": 1
-    },
-    {
       "org": "QuipNetwork",
       "ai_share": 0.0267,
       "ai": 15,
@@ -17635,7 +17636,7 @@
       "org": "quarkusio",
       "ai_share": 0.0265,
       "ai": 32,
-      "total": 1206,
+      "total": 1208,
       "repos": 1
     },
     {
@@ -18062,7 +18063,7 @@
       "org": "opencv",
       "ai_share": 0.0184,
       "ai": 9,
-      "total": 489,
+      "total": 490,
       "repos": 1
     },
     {
@@ -18080,17 +18081,17 @@
       "repos": 1
     },
     {
-      "org": "mvt-project",
-      "ai_share": 0.0182,
-      "ai": 2,
-      "total": 110,
-      "repos": 1
-    },
-    {
       "org": "usebruno",
       "ai_share": 0.0181,
       "ai": 6,
       "total": 332,
+      "repos": 1
+    },
+    {
+      "org": "mvt-project",
+      "ai_share": 0.018,
+      "ai": 2,
+      "total": 111,
       "repos": 1
     },
     {
@@ -18118,7 +18119,7 @@
       "org": "duckdb",
       "ai_share": 0.0178,
       "ai": 136,
-      "total": 7637,
+      "total": 7643,
       "repos": 1
     },
     {
@@ -18272,7 +18273,7 @@
       "org": "ceph",
       "ai_share": 0.0156,
       "ai": 41,
-      "total": 2627,
+      "total": 2629,
       "repos": 1
     },
     {
@@ -18512,6 +18513,13 @@
       "ai": 6,
       "total": 448,
       "repos": 6
+    },
+    {
+      "org": "monicahq",
+      "ai_share": 0.0133,
+      "ai": 5,
+      "total": 375,
+      "repos": 1
     },
     {
       "org": "hashcat",
@@ -18909,7 +18917,7 @@
       "org": "NationalSecurityAgency",
       "ai_share": 0.0087,
       "ai": 4,
-      "total": 458,
+      "total": 459,
       "repos": 1
     },
     {
@@ -19193,13 +19201,6 @@
       "repos": 1
     },
     {
-      "org": "cheaper-inference",
-      "ai_share": 0.0066,
-      "ai": 39,
-      "total": 5879,
-      "repos": 1
-    },
-    {
       "org": "dagger",
       "ai_share": 0.0066,
       "ai": 23,
@@ -19211,6 +19212,13 @@
       "ai_share": 0.0066,
       "ai": 1,
       "total": 152,
+      "repos": 1
+    },
+    {
+      "org": "cheaper-inference",
+      "ai_share": 0.0065,
+      "ai": 39,
+      "total": 5961,
       "repos": 1
     },
     {
@@ -19413,7 +19421,7 @@
       "org": "nextcloud",
       "ai_share": 0.0052,
       "ai": 8,
-      "total": 1530,
+      "total": 1532,
       "repos": 1
     },
     {
@@ -20071,7 +20079,7 @@
       "org": "bitcoin",
       "ai_share": 0.0021,
       "ai": 2,
-      "total": 953,
+      "total": 958,
       "repos": 1
     },
     {
@@ -20155,7 +20163,7 @@
       "org": "Ebony-Vinyl",
       "ai_share": 0.0018,
       "ai": 1,
-      "total": 551,
+      "total": 552,
       "repos": 1
     },
     {
@@ -20190,7 +20198,7 @@
       "org": "google",
       "ai_share": 0.0014,
       "ai": 8,
-      "total": 5913,
+      "total": 5918,
       "repos": 41
     },
     {
@@ -20267,14 +20275,14 @@
       "org": "swiftlang",
       "ai_share": 0.001,
       "ai": 3,
-      "total": 2961,
+      "total": 2964,
       "repos": 2
     },
     {
       "org": "rust-lang",
       "ai_share": 0.0009,
       "ai": 7,
-      "total": 8003,
+      "total": 8006,
       "repos": 7
     },
     {
@@ -20367,6 +20375,13 @@
       "ai": 1,
       "total": 15001,
       "repos": 2
+    },
+    {
+      "org": "torvalds",
+      "ai_share": 0.0,
+      "ai": 1,
+      "total": 28472,
+      "repos": 1
     },
     {
       "org": "9001",
@@ -20932,7 +20947,7 @@
       "org": "containerd",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 258,
+      "total": 259,
       "repos": 1
     },
     {
@@ -21226,7 +21241,7 @@
       "org": "godotengine",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 1001,
+      "total": 1003,
       "repos": 1
     },
     {
@@ -22220,16 +22235,16 @@
     },
     {
       "language": "Python",
-      "ai_share": 0.1902,
-      "ai": 52287,
-      "total": 274880,
+      "ai_share": 0.1899,
+      "ai": 52290,
+      "total": 275298,
       "repos": 948
     },
     {
       "language": "Rust",
       "ai_share": 0.1879,
-      "ai": 31917,
-      "total": 169889,
+      "ai": 31924,
+      "total": 169905,
       "repos": 263
     },
     {
@@ -22243,22 +22258,15 @@
       "language": "Swift",
       "ai_share": 0.1725,
       "ai": 4699,
-      "total": 27236,
+      "total": 27239,
       "repos": 73
     },
     {
       "language": "TypeScript",
-      "ai_share": 0.1659,
-      "ai": 67261,
-      "total": 405388,
-      "repos": 784
-    },
-    {
-      "language": "Astro",
-      "ai_share": 0.163,
-      "ai": 81,
-      "total": 497,
-      "repos": 4
+      "ai_share": 0.166,
+      "ai": 67288,
+      "total": 405317,
+      "repos": 785
     },
     {
       "language": "Clojure",
@@ -22269,23 +22277,23 @@
     },
     {
       "language": "Haskell",
-      "ai_share": 0.1563,
+      "ai_share": 0.156,
       "ai": 198,
-      "total": 1267,
+      "total": 1269,
       "repos": 5
     },
     {
       "language": "Ruby",
       "ai_share": 0.1264,
       "ai": 2620,
-      "total": 20721,
+      "total": 20724,
       "repos": 44
     },
     {
       "language": "Jupyter Notebook",
-      "ai_share": 0.1197,
+      "ai_share": 0.1196,
       "ai": 426,
-      "total": 3560,
+      "total": 3561,
       "repos": 124
     },
     {
@@ -22299,7 +22307,7 @@
       "language": "Go",
       "ai_share": 0.1129,
       "ai": 10414,
-      "total": 92240,
+      "total": 92241,
       "repos": 398
     },
     {
@@ -22334,7 +22342,7 @@
       "language": "C++",
       "ai_share": 0.0788,
       "ai": 8366,
-      "total": 106107,
+      "total": 106134,
       "repos": 250
     },
     {
@@ -22346,17 +22354,17 @@
     },
     {
       "language": "JavaScript",
-      "ai_share": 0.06,
-      "ai": 6959,
-      "total": 116057,
+      "ai_share": 0.0605,
+      "ai": 7030,
+      "total": 116270,
       "repos": 602
     },
     {
       "language": "Java",
       "ai_share": 0.0566,
       "ai": 3190,
-      "total": 56390,
-      "repos": 222
+      "total": 56395,
+      "repos": 223
     },
     {
       "language": "Solidity",
@@ -22367,9 +22375,9 @@
     },
     {
       "language": "PHP",
-      "ai_share": 0.0537,
-      "ai": 928,
-      "total": 17282,
+      "ai_share": 0.0528,
+      "ai": 933,
+      "total": 17655,
       "repos": 72
     },
     {
@@ -22380,13 +22388,6 @@
       "repos": 1
     },
     {
-      "language": "MDX",
-      "ai_share": 0.0494,
-      "ai": 152,
-      "total": 3080,
-      "repos": 12
-    },
-    {
       "language": "Dart",
       "ai_share": 0.0466,
       "ai": 497,
@@ -22394,18 +22395,25 @@
       "repos": 30
     },
     {
-      "language": "C",
-      "ai_share": 0.0433,
-      "ai": 3173,
-      "total": 73333,
-      "repos": 151
-    },
-    {
       "language": "V",
       "ai_share": 0.0344,
       "ai": 113,
       "total": 3288,
       "repos": 1
+    },
+    {
+      "language": "MDX",
+      "ai_share": 0.0316,
+      "ai": 91,
+      "total": 2883,
+      "repos": 11
+    },
+    {
+      "language": "C",
+      "ai_share": 0.0309,
+      "ai": 3083,
+      "total": 99918,
+      "repos": 151
     },
     {
       "language": "Scala",
@@ -22551,7 +22559,7 @@
   "tools": [
     {
       "rule": "claude_trailer",
-      "ai": 163562
+      "ai": 163498
     },
     {
       "rule": "copilot_trailer",
@@ -22559,7 +22567,7 @@
     },
     {
       "rule": "cursor",
-      "ai": 14168
+      "ai": 14165
     },
     {
       "rule": "claude_generated",
@@ -22602,156 +22610,156 @@
     {
       "month": "2025-01",
       "ai": 421,
-      "total": 175000,
+      "total": 177511,
       "ai_share": 0.0024,
-      "repos": 5041
+      "repos": 5044
     },
     {
       "month": "2025-02",
       "ai": 384,
-      "total": 172217,
+      "total": 174197,
       "ai_share": 0.0022,
-      "repos": 5042
-    },
-    {
-      "month": "2025-03",
-      "ai": 1297,
-      "total": 191753,
-      "ai_share": 0.0068,
-      "repos": 5043
-    },
-    {
-      "month": "2025-04",
-      "ai": 790,
-      "total": 186683,
-      "ai_share": 0.0042,
       "repos": 5044
     },
     {
+      "month": "2025-03",
+      "ai": 1298,
+      "total": 195567,
+      "ai_share": 0.0066,
+      "repos": 5047
+    },
+    {
+      "month": "2025-04",
+      "ai": 795,
+      "total": 189516,
+      "ai_share": 0.0042,
+      "repos": 5048
+    },
+    {
       "month": "2025-05",
-      "ai": 1262,
-      "total": 179785,
-      "ai_share": 0.007,
-      "repos": 5046
+      "ai": 1264,
+      "total": 183896,
+      "ai_share": 0.0069,
+      "repos": 5050
     },
     {
       "month": "2025-06",
-      "ai": 1984,
-      "total": 180986,
-      "ai_share": 0.011,
-      "repos": 5048
+      "ai": 2004,
+      "total": 184349,
+      "ai_share": 0.0109,
+      "repos": 5052
     },
     {
       "month": "2025-07",
       "ai": 2821,
-      "total": 200613,
-      "ai_share": 0.0141,
-      "repos": 5050
-    },
-    {
-      "month": "2025-08",
-      "ai": 3084,
-      "total": 191383,
-      "ai_share": 0.0161,
-      "repos": 5051
-    },
-    {
-      "month": "2025-09",
-      "ai": 3191,
-      "total": 198130,
-      "ai_share": 0.0161,
+      "total": 202197,
+      "ai_share": 0.014,
       "repos": 5052
     },
     {
+      "month": "2025-08",
+      "ai": 3085,
+      "total": 208953,
+      "ai_share": 0.0148,
+      "repos": 5054
+    },
+    {
+      "month": "2025-09",
+      "ai": 3192,
+      "total": 198854,
+      "ai_share": 0.0161,
+      "repos": 5054
+    },
+    {
       "month": "2025-10",
-      "ai": 5618,
-      "total": 205889,
-      "ai_share": 0.0273,
-      "repos": 5053
+      "ai": 5634,
+      "total": 213765,
+      "ai_share": 0.0264,
+      "repos": 5058
     },
     {
       "month": "2025-11",
-      "ai": 5188,
-      "total": 188794,
-      "ai_share": 0.0275,
-      "repos": 5055
-    },
-    {
-      "month": "2025-12",
-      "ai": 8639,
-      "total": 206011,
-      "ai_share": 0.0419,
-      "repos": 5059
-    },
-    {
-      "month": "2026-01",
-      "ai": 15954,
-      "total": 238597,
-      "ai_share": 0.0669,
-      "repos": 5059
-    },
-    {
-      "month": "2026-02",
-      "ai": 22840,
-      "total": 246990,
-      "ai_share": 0.0925,
+      "ai": 5216,
+      "total": 194946,
+      "ai_share": 0.0268,
       "repos": 5060
     },
     {
+      "month": "2025-12",
+      "ai": 8641,
+      "total": 206112,
+      "ai_share": 0.0419,
+      "repos": 5060
+    },
+    {
+      "month": "2026-01",
+      "ai": 15963,
+      "total": 241124,
+      "ai_share": 0.0662,
+      "repos": 5062
+    },
+    {
+      "month": "2026-02",
+      "ai": 22849,
+      "total": 248246,
+      "ai_share": 0.092,
+      "repos": 5062
+    },
+    {
       "month": "2026-03",
-      "ai": 30856,
-      "total": 306194,
-      "ai_share": 0.1008,
+      "ai": 30818,
+      "total": 305504,
+      "ai_share": 0.1009,
       "repos": 5062
     },
     {
       "month": "2026-04",
-      "ai": 30022,
-      "total": 297919,
-      "ai_share": 0.1008,
-      "repos": 5062
-    },
-    {
-      "month": "2026-05",
-      "ai": 28109,
-      "total": 298985,
-      "ai_share": 0.094,
+      "ai": 30023,
+      "total": 300332,
+      "ai_share": 0.1,
       "repos": 5063
     },
     {
+      "month": "2026-05",
+      "ai": 28623,
+      "total": 302978,
+      "ai_share": 0.0945,
+      "repos": 5065
+    },
+    {
       "month": "2026-06",
-      "ai": 35865,
-      "total": 320105,
-      "ai_share": 0.112,
+      "ai": 35857,
+      "total": 319698,
+      "ai_share": 0.1122,
       "repos": 5066
     },
     {
       "month": "2026-07",
-      "ai": 40626,
-      "total": 374134,
-      "ai_share": 0.1086,
+      "ai": 40609,
+      "total": 373603,
+      "ai_share": 0.1087,
       "repos": 5068
     },
     {
       "month": "2026-08",
-      "ai": 40589,
-      "total": 402902,
-      "ai_share": 0.1007,
-      "repos": 5069
-    },
-    {
-      "month": "2026-09",
-      "ai": 61815,
-      "total": 478147,
-      "ai_share": 0.1293,
+      "ai": 40582,
+      "total": 410414,
+      "ai_share": 0.0989,
       "repos": 5070
     },
     {
+      "month": "2026-09",
+      "ai": 61814,
+      "total": 478233,
+      "ai_share": 0.1293,
+      "repos": 5071
+    },
+    {
       "month": "2026-10",
-      "ai": 111693,
-      "total": 691524,
-      "ai_share": 0.1615,
-      "repos": 5074
+      "ai": 111989,
+      "total": 719506,
+      "ai_share": 0.1556,
+      "repos": 5076
     }
   ]
 }

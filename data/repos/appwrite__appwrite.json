@@ -3,17 +3,38 @@
   "repo": "appwrite/appwrite",
   "org": "appwrite",
   "language": "TypeScript",
-  "stars": 58107,
+  "stars": 58560,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:43Z",
-  "window_start": "2025-06-20",
+  "scanned_at": "2026-11-25T13:08:16Z",
+  "window_start": "2025-03-13",
   "complete": false,
   "months": {
-    "2025-06": {
-      "total": 136,
+    "2025-03": {
+      "total": 417,
       "ai": 0,
       "automation": 0,
-      "merges": 60,
+      "merges": 138,
+      "by_rule": {}
+    },
+    "2025-04": {
+      "total": 442,
+      "ai": 0,
+      "automation": 0,
+      "merges": 174,
+      "by_rule": {}
+    },
+    "2025-05": {
+      "total": 588,
+      "ai": 0,
+      "automation": 0,
+      "merges": 252,
+      "by_rule": {}
+    },
+    "2025-06": {
+      "total": 399,
+      "ai": 0,
+      "automation": 0,
+      "merges": 186,
       "by_rule": {}
     },
     "2025-07": {
@@ -171,23 +192,23 @@
       }
     },
     "2026-10": {
-      "total": 3534,
-      "ai": 1354,
+      "total": 3537,
+      "ai": 1356,
       "automation": 0,
-      "merges": 1324,
+      "merges": 1325,
       "by_rule": {
         "claude_trailer": 1148,
-        "cursor": 205,
+        "cursor": 207,
         "copilot_author": 1
       }
     },
     "2026-11": {
-      "total": 3031,
-      "ai": 822,
-      "automation": 3,
-      "merges": 931,
+      "total": 3427,
+      "ai": 1096,
+      "automation": 4,
+      "merges": 1060,
       "by_rule": {
-        "claude_trailer": 797,
+        "claude_trailer": 1071,
         "cursor": 23,
         "copilot_author": 2
       }

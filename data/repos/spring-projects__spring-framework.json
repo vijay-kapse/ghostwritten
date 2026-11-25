@@ -3,9 +3,9 @@
   "repo": "spring-projects/spring-framework",
   "org": "spring-projects",
   "language": "Java",
-  "stars": 60319,
+  "stars": 60328,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:06Z",
+  "scanned_at": "2026-11-25T13:07:37Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -168,7 +168,7 @@
       }
     },
     "2026-11": {
-      "total": 79,
+      "total": 93,
       "ai": 0,
       "automation": 1,
       "merges": 26,

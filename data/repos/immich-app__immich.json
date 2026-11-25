@@ -3,9 +3,9 @@
   "repo": "immich-app/immich",
   "org": "immich-app",
   "language": "TypeScript",
-  "stars": 119428,
+  "stars": 120018,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:37:47Z",
+  "scanned_at": "2026-11-25T13:10:18Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -182,12 +182,13 @@
       }
     },
     "2026-11": {
-      "total": 209,
-      "ai": 1,
-      "automation": 59,
+      "total": 245,
+      "ai": 2,
+      "automation": 62,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 1,
+        "cursor": 1
       }
     }
   }

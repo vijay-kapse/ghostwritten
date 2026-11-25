@@ -3,9 +3,9 @@
   "repo": "lysine-dev/retrofit",
   "org": "lysine-dev",
   "language": "Java",
-  "stars": 43937,
+  "stars": 43943,
   "default_branch": "trunk",
-  "scanned_at": "2026-11-23T13:41:38Z",
+  "scanned_at": "2026-11-25T13:14:27Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -159,7 +159,7 @@
     "2026-11": {
       "total": 0,
       "ai": 0,
-      "automation": 21,
+      "automation": 23,
       "merges": 0,
       "by_rule": {}
     }

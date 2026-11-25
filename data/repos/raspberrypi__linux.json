@@ -5,15 +5,15 @@
   "language": "C",
   "stars": 13351,
   "default_branch": "rpi-6.18.y",
-  "scanned_at": "2026-11-24T14:28:13Z",
-  "window_start": "2025-09-12",
+  "scanned_at": "2026-11-25T13:44:53Z",
+  "window_start": "2025-09-03",
   "complete": false,
   "months": {
     "2025-09": {
-      "total": 4757,
+      "total": 7498,
       "ai": 0,
       "automation": 0,
-      "merges": 540,
+      "merges": 699,
       "by_rule": {}
     },
     "2025-10": {
@@ -110,7 +110,7 @@
       }
     },
     "2026-11": {
-      "total": 4872,
+      "total": 4876,
       "ai": 10,
       "automation": 0,
       "merges": 4,

@@ -3,9 +3,9 @@
   "repo": "vim/vim",
   "org": "vim",
   "language": "Vim Script",
-  "stars": 41299,
+  "stars": 41327,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:43:28Z",
+  "scanned_at": "2026-11-25T13:16:10Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -194,7 +194,7 @@
       }
     },
     "2026-11": {
-      "total": 156,
+      "total": 181,
       "ai": 0,
       "automation": 2,
       "merges": 0,

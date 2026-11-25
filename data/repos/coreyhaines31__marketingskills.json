@@ -3,9 +3,9 @@
   "repo": "coreyhaines31/marketingskills",
   "org": "coreyhaines31",
   "language": "JavaScript",
-  "stars": 60923,
+  "stars": 62361,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:20Z",
+  "scanned_at": "2026-11-25T13:07:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -104,12 +104,12 @@
       }
     },
     "2026-11": {
-      "total": 139,
-      "ai": 94,
+      "total": 146,
+      "ai": 101,
       "automation": 0,
-      "merges": 89,
+      "merges": 93,
       "by_rule": {
-        "claude_trailer": 94
+        "claude_trailer": 101
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "twentyhq/twenty",
   "org": "twentyhq",
   "language": "TypeScript",
-  "stars": 61037,
+  "stars": 61409,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:09Z",
+  "scanned_at": "2026-11-25T13:07:41Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -226,13 +226,13 @@
       }
     },
     "2026-11": {
-      "total": 973,
-      "ai": 128,
-      "automation": 312,
+      "total": 1146,
+      "ai": 147,
+      "automation": 353,
       "merges": 0,
       "by_rule": {
-        "claude_generated": 119,
-        "claude_trailer": 12
+        "claude_generated": 136,
+        "claude_trailer": 15
       }
     }
   }

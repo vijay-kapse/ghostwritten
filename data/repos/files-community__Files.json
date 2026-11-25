@@ -3,9 +3,9 @@
   "repo": "files-community/Files",
   "org": "files-community",
   "language": "C#",
-  "stars": 46682,
+  "stars": 46784,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:39:59Z",
+  "scanned_at": "2026-11-25T13:13:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,12 +173,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 25,
-      "ai": 1,
+      "total": 32,
+      "ai": 2,
       "automation": 7,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 2
       }
     }
   }

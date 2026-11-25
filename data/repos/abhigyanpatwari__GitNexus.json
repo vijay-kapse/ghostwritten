@@ -3,9 +3,9 @@
   "repo": "abhigyanpatwari/GitNexus",
   "org": "abhigyanpatwari",
   "language": "TypeScript",
-  "stars": 48605,
+  "stars": 48773,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:39:09Z",
+  "scanned_at": "2026-11-25T13:11:58Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -118,12 +118,12 @@
       }
     },
     "2026-11": {
-      "total": 108,
-      "ai": 35,
-      "automation": 5,
+      "total": 125,
+      "ai": 38,
+      "automation": 6,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 35
+        "claude_trailer": 38
       }
     }
   }

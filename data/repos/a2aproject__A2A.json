@@ -5,7 +5,7 @@
   "language": "Shell",
   "stars": 26668,
   "default_branch": "main",
-  "scanned_at": "2026-11-24T14:08:33Z",
+  "scanned_at": "2026-11-25T13:29:13Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 7,
+      "total": 9,
       "ai": 1,
       "automation": 0,
       "merges": 0,

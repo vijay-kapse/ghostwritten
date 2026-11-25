@@ -3,9 +3,9 @@
   "repo": "google-research/google-research",
   "org": "google-research",
   "language": "Jupyter Notebook",
-  "stars": 39200,
+  "stars": 39275,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:44:54Z",
+  "scanned_at": "2026-11-25T13:17:48Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -164,7 +164,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 32,
+      "total": 37,
       "ai": 0,
       "automation": 0,
       "merges": 0,

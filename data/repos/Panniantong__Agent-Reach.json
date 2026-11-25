@@ -3,9 +3,9 @@
   "repo": "Panniantong/Agent-Reach",
   "org": "Panniantong",
   "language": "Python",
-  "stars": 112558,
+  "stars": 114418,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:40:03Z",
+  "scanned_at": "2026-11-25T13:13:16Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -76,12 +76,12 @@
       }
     },
     "2026-11": {
-      "total": 32,
-      "ai": 2,
+      "total": 34,
+      "ai": 4,
       "automation": 0,
-      "merges": 43,
+      "merges": 44,
       "by_rule": {
-        "claude_trailer": 2
+        "claude_trailer": 4
       }
     }
   }

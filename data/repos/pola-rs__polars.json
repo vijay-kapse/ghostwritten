@@ -3,9 +3,9 @@
   "repo": "pola-rs/polars",
   "org": "pola-rs",
   "language": "Rust",
-  "stars": 40362,
+  "stars": 40476,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:26Z",
+  "scanned_at": "2026-11-25T13:17:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,12 +187,12 @@
       }
     },
     "2026-11": {
-      "total": 321,
-      "ai": 52,
+      "total": 363,
+      "ai": 56,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 52,
+        "claude_trailer": 56,
         "cursor": 1
       }
     }

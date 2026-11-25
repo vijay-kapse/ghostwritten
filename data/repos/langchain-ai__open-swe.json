@@ -3,9 +3,9 @@
   "repo": "langchain-ai/open-swe",
   "org": "langchain-ai",
   "language": "Python",
-  "stars": 11231,
+  "stars": 11254,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:32:01Z",
+  "scanned_at": "2026-11-25T13:04:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -151,14 +151,15 @@
       }
     },
     "2026-11": {
-      "total": 888,
-      "ai": 138,
-      "automation": 50,
+      "total": 976,
+      "ai": 144,
+      "automation": 55,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 136,
+        "claude_trailer": 141,
         "claude_generated": 7,
-        "devin": 2
+        "devin": 2,
+        "cursor": 1
       }
     }
   }

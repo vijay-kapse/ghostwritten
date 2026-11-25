@@ -3,9 +3,9 @@
   "repo": "trpc/trpc",
   "org": "trpc",
   "language": "TypeScript",
-  "stars": 40809,
+  "stars": 40847,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:43:45Z",
+  "scanned_at": "2026-11-25T13:16:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,14 +187,14 @@
       }
     },
     "2026-11": {
-      "total": 228,
-      "ai": 200,
-      "automation": 31,
+      "total": 264,
+      "ai": 229,
+      "automation": 44,
       "merges": 0,
       "by_rule": {
-        "cursor": 115,
-        "claude_trailer": 86,
-        "claude_generated": 80
+        "cursor": 122,
+        "claude_trailer": 114,
+        "claude_generated": 96
       }
     }
   }

@@ -3,9 +3,9 @@
   "repo": "nvm-windows/nvm",
   "org": "nvm-windows",
   "language": "Inno Setup",
-  "stars": 48219,
+  "stars": 48260,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:39:31Z",
+  "scanned_at": "2026-11-25T13:12:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -35,10 +35,10 @@
       }
     },
     "2026-11": {
-      "total": 29,
+      "total": 35,
       "ai": 0,
       "automation": 0,
-      "merges": 13,
+      "merges": 14,
       "by_rule": {}
     }
   }

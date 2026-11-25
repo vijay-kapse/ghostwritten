@@ -3,9 +3,9 @@
   "repo": "streamlit/streamlit",
   "org": "streamlit",
   "language": "Python",
-  "stars": 46403,
+  "stars": 46487,
   "default_branch": "develop",
-  "scanned_at": "2026-11-23T13:40:02Z",
+  "scanned_at": "2026-11-25T13:13:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -229,9 +229,9 @@
       }
     },
     "2026-11": {
-      "total": 138,
+      "total": 147,
       "ai": 86,
-      "automation": 66,
+      "automation": 74,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 84,

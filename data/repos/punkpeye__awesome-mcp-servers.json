@@ -3,9 +3,9 @@
   "repo": "punkpeye/awesome-mcp-servers",
   "org": "punkpeye",
   "language": null,
-  "stars": 97796,
+  "stars": 98455,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:43:42Z",
+  "scanned_at": "2026-11-25T13:16:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -222,12 +222,12 @@
       }
     },
     "2026-11": {
-      "total": 285,
-      "ai": 40,
+      "total": 291,
+      "ai": 41,
       "automation": 0,
-      "merges": 365,
+      "merges": 369,
       "by_rule": {
-        "claude_trailer": 40
+        "claude_trailer": 41
       }
     }
   }

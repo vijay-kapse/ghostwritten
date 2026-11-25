@@ -3,9 +3,9 @@
   "repo": "open-webui/open-webui",
   "org": "open-webui",
   "language": "Svelte",
-  "stars": 158905,
+  "stars": 159412,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:53Z",
+  "scanned_at": "2026-11-25T13:06:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -197,10 +197,10 @@
       }
     },
     "2026-11": {
-      "total": 773,
+      "total": 1130,
       "ai": 2,
       "automation": 0,
-      "merges": 5,
+      "merges": 6,
       "by_rule": {
         "claude_trailer": 1,
         "copilot_trailer": 1

@@ -3,9 +3,9 @@
   "repo": "pytorch/pytorch",
   "org": "pytorch",
   "language": "Python",
-  "stars": 105619,
+  "stars": 105669,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:41:15Z",
+  "scanned_at": "2026-11-25T13:14:03Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -226,14 +226,14 @@
       }
     },
     "2026-11": {
-      "total": 1345,
-      "ai": 145,
+      "total": 1487,
+      "ai": 171,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 124,
-        "claude_generated": 26,
-        "cursor": 9,
+        "claude_trailer": 148,
+        "claude_generated": 30,
+        "cursor": 10,
         "copilot_trailer": 5
       }
     }

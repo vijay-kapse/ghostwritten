@@ -3,9 +3,9 @@
   "repo": "gitroomhq/postiz-app",
   "org": "gitroomhq",
   "language": "TypeScript",
-  "stars": 41787,
+  "stars": 42299,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:43:50Z",
+  "scanned_at": "2026-11-25T13:16:33Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 115,
-      "ai": 92,
+      "total": 123,
+      "ai": 98,
       "automation": 0,
-      "merges": 77,
+      "merges": 80,
       "by_rule": {
-        "claude_trailer": 92
+        "claude_trailer": 98
       }
     }
   }

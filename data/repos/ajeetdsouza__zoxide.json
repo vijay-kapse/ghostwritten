@@ -3,9 +3,9 @@
   "repo": "ajeetdsouza/zoxide",
   "org": "ajeetdsouza",
   "language": "Rust",
-  "stars": 40619,
+  "stars": 40721,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:44:24Z",
+  "scanned_at": "2026-11-25T13:17:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,11 +152,13 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 5,
-      "ai": 0,
+      "total": 8,
+      "ai": 2,
       "automation": 2,
       "merges": 0,
-      "by_rule": {}
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

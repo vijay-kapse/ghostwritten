@@ -3,31 +3,31 @@
   "repo": "NousResearch/hermes-agent",
   "org": "NousResearch",
   "language": "Python",
-  "stars": 264069,
+  "stars": 265789,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:33:01Z",
-  "window_start": "2026-10-09",
+  "scanned_at": "2026-11-25T13:05:05Z",
+  "window_start": "2026-10-06",
   "complete": false,
   "months": {
     "2026-10": {
-      "total": 8106,
-      "ai": 156,
-      "automation": 10,
-      "merges": 210,
+      "total": 10443,
+      "ai": 224,
+      "automation": 17,
+      "merges": 266,
       "by_rule": {
-        "claude_trailer": 145,
-        "cursor": 6,
-        "codex_trailer": 3,
-        "devin": 2
+        "claude_trailer": 172,
+        "cursor": 43,
+        "codex_trailer": 6,
+        "devin": 3
       }
     },
     "2026-11": {
-      "total": 14853,
-      "ai": 636,
-      "automation": 21,
-      "merges": 316,
+      "total": 15438,
+      "ai": 655,
+      "automation": 22,
+      "merges": 322,
       "by_rule": {
-        "claude_trailer": 584,
+        "claude_trailer": 603,
         "cursor": 32,
         "openhands": 8,
         "devin": 5,

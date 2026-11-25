@@ -3,9 +3,9 @@
   "repo": "kubernetes/kubernetes",
   "org": "kubernetes",
   "language": "Go",
-  "stars": 129184,
+  "stars": 129238,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:35:02Z",
+  "scanned_at": "2026-11-25T13:07:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,10 +178,10 @@
       }
     },
     "2026-11": {
-      "total": 703,
+      "total": 712,
       "ai": 0,
       "automation": 0,
-      "merges": 400,
+      "merges": 405,
       "by_rule": {}
     }
   }

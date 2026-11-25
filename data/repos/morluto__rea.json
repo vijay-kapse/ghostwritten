@@ -3,9 +3,9 @@
   "repo": "morluto/rea",
   "org": "morluto",
   "language": "TypeScript",
-  "stars": 465242,
+  "stars": 476508,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:32:14Z",
+  "scanned_at": "2026-11-25T13:04:23Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -56,13 +56,13 @@
       }
     },
     "2026-11": {
-      "total": 3698,
-      "ai": 309,
-      "automation": 3,
+      "total": 3920,
+      "ai": 324,
+      "automation": 13,
       "merges": 1,
       "by_rule": {
-        "cursor": 176,
-        "claude_trailer": 146,
+        "cursor": 190,
+        "claude_trailer": 147,
         "codex_trailer": 2,
         "devin": 1
       }

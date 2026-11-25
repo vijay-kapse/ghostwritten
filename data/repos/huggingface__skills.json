@@ -3,9 +3,9 @@
   "repo": "huggingface/skills",
   "org": "huggingface",
   "language": "Python",
-  "stars": 11356,
+  "stars": 11394,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:31:44Z",
+  "scanned_at": "2026-11-25T13:03:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -107,9 +107,9 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 1,
+      "total": 2,
       "ai": 0,
-      "automation": 0,
+      "automation": 1,
       "merges": 0,
       "by_rule": {}
     }

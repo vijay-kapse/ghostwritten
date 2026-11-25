@@ -3,9 +3,9 @@
   "repo": "OpenHands/OpenHands",
   "org": "OpenHands",
   "language": "TypeScript",
-  "stars": 93632,
+  "stars": 94221,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:44Z",
+  "scanned_at": "2026-11-25T13:18:35Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -237,13 +237,13 @@
       }
     },
     "2026-11": {
-      "total": 234,
-      "ai": 95,
-      "automation": 136,
+      "total": 268,
+      "ai": 118,
+      "automation": 152,
       "merges": 0,
       "by_rule": {
-        "openhands": 57,
-        "claude_trailer": 39,
+        "openhands": 73,
+        "claude_trailer": 46,
         "codex_trailer": 3,
         "devin": 1
       }

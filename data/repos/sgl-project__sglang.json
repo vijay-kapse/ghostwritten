@@ -3,9 +3,9 @@
   "repo": "sgl-project/sglang",
   "org": "sgl-project",
   "language": "Python",
-  "stars": 38977,
+  "stars": 39018,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:35Z",
+  "scanned_at": "2026-11-25T13:18:30Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -232,15 +232,15 @@
       }
     },
     "2026-11": {
-      "total": 1764,
-      "ai": 534,
+      "total": 1882,
+      "ai": 568,
       "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 511,
+        "claude_trailer": 543,
+        "cursor": 14,
         "copilot_trailer": 13,
-        "cursor": 12,
-        "codex_trailer": 3,
+        "codex_trailer": 4,
         "devin": 2
       }
     }

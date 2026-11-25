@@ -3,9 +3,9 @@
   "repo": "addyosmani/agent-skills",
   "org": "addyosmani",
   "language": "JavaScript",
-  "stars": 118509,
+  "stars": 120126,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:38:43Z",
+  "scanned_at": "2026-11-25T13:11:28Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -86,22 +86,22 @@
       }
     },
     "2026-10": {
-      "total": 109,
-      "ai": 20,
+      "total": 119,
+      "ai": 30,
       "automation": 0,
-      "merges": 95,
+      "merges": 97,
       "by_rule": {
-        "claude_trailer": 15,
+        "claude_trailer": 25,
         "cursor": 5
       }
     },
     "2026-11": {
-      "total": 28,
-      "ai": 1,
+      "total": 43,
+      "ai": 5,
       "automation": 0,
-      "merges": 25,
+      "merges": 37,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 5
       }
     }
   }

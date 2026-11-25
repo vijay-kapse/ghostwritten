@@ -3,9 +3,9 @@
   "repo": "ToolJet/ToolJet",
   "org": "ToolJet",
   "language": "HTML",
-  "stars": 41239,
+  "stars": 41294,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:43:29Z",
+  "scanned_at": "2026-11-25T13:16:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -216,12 +216,12 @@
       }
     },
     "2026-11": {
-      "total": 686,
-      "ai": 102,
+      "total": 703,
+      "ai": 103,
       "automation": 0,
-      "merges": 276,
+      "merges": 284,
       "by_rule": {
-        "claude_trailer": 102
+        "claude_trailer": 103
       }
     }
   }

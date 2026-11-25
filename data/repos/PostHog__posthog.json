@@ -3,14 +3,26 @@
   "repo": "PostHog/posthog",
   "org": "PostHog",
   "language": "Python",
-  "stars": 40846,
+  "stars": 41075,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:44:21Z",
-  "window_start": "2026-07-01",
+  "scanned_at": "2026-11-25T13:16:59Z",
+  "window_start": "2026-06-17",
   "complete": false,
   "months": {
+    "2026-06": {
+      "total": 2081,
+      "ai": 341,
+      "automation": 118,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 334,
+        "copilot_trailer": 3,
+        "cursor": 3,
+        "claude_generated": 1
+      }
+    },
     "2026-07": {
-      "total": 4765,
+      "total": 4766,
       "ai": 703,
       "automation": 331,
       "merges": 0,
@@ -55,12 +67,13 @@
       }
     },
     "2026-11": {
-      "total": 5640,
-      "ai": 2632,
-      "automation": 658,
+      "total": 6333,
+      "ai": 2960,
+      "automation": 699,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 2628,
+        "claude_trailer": 2956,
+        "other_bot_agent": 7,
         "cursor": 5
       }
     }

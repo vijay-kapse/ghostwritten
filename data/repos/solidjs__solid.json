@@ -3,9 +3,9 @@
   "repo": "solidjs/solid",
   "org": "solidjs",
   "language": "TypeScript",
-  "stars": 36274,
+  "stars": 36943,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:46:58Z",
+  "scanned_at": "2026-11-25T13:19:50Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,12 +187,12 @@
       }
     },
     "2026-11": {
-      "total": 327,
-      "ai": 239,
-      "automation": 9,
+      "total": 343,
+      "ai": 244,
+      "automation": 10,
       "merges": 5,
       "by_rule": {
-        "claude_trailer": 236,
+        "claude_trailer": 241,
         "cursor": 4
       }
     }

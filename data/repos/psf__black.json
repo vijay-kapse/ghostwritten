@@ -3,9 +3,9 @@
   "repo": "psf/black",
   "org": "psf",
   "language": "Python",
-  "stars": 42191,
+  "stars": 42209,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:42:43Z",
+  "scanned_at": "2026-11-25T13:15:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,7 +187,7 @@
       }
     },
     "2026-11": {
-      "total": 47,
+      "total": 51,
       "ai": 3,
       "automation": 3,
       "merges": 0,

@@ -5,15 +5,15 @@
   "language": "JavaScript",
   "stars": 24318,
   "default_branch": "master",
-  "scanned_at": "2026-11-24T14:10:40Z",
+  "scanned_at": "2026-11-25T13:31:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 2,
+      "total": 49,
       "ai": 0,
       "automation": 0,
-      "merges": 0,
+      "merges": 60,
       "by_rule": {}
     }
   }

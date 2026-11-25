@@ -3,9 +3,9 @@
   "repo": "jemalloc/jemalloc",
   "org": "jemalloc",
   "language": "C",
-  "stars": 11273,
+  "stars": 11281,
   "default_branch": "dev",
-  "scanned_at": "2026-11-23T13:31:45Z",
+  "scanned_at": "2026-11-25T13:03:54Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -112,7 +112,7 @@
       }
     },
     "2026-11": {
-      "total": 33,
+      "total": 37,
       "ai": 6,
       "automation": 0,
       "merges": 0,

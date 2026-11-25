@@ -3,9 +3,9 @@
   "repo": "docker/compose",
   "org": "docker",
   "language": "Go",
-  "stars": 38944,
+  "stars": 38984,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:45:32Z",
+  "scanned_at": "2026-11-25T13:18:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,12 +183,12 @@
       }
     },
     "2026-11": {
-      "total": 97,
-      "ai": 11,
-      "automation": 11,
+      "total": 100,
+      "ai": 12,
+      "automation": 13,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 11
+        "claude_trailer": 12
       }
     }
   }

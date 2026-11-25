@@ -3,9 +3,9 @@
   "repo": "react/react-native",
   "org": "react",
   "language": "C++",
-  "stars": 126942,
+  "stars": 126993,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:35:19Z",
+  "scanned_at": "2026-11-25T13:07:53Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -176,7 +176,7 @@
       }
     },
     "2026-11": {
-      "total": 251,
+      "total": 288,
       "ai": 24,
       "automation": 0,
       "merges": 0,

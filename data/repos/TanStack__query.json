@@ -3,9 +3,9 @@
   "repo": "TanStack/query",
   "org": "TanStack",
   "language": "TypeScript",
-  "stars": 50568,
+  "stars": 50625,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:38:22Z",
+  "scanned_at": "2026-11-25T13:11:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -183,7 +183,7 @@
       }
     },
     "2026-11": {
-      "total": 107,
+      "total": 113,
       "ai": 8,
       "automation": 35,
       "merges": 0,

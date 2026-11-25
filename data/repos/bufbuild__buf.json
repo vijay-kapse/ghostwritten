@@ -3,9 +3,9 @@
   "repo": "bufbuild/buf",
   "org": "bufbuild",
   "language": "Go",
-  "stars": 11530,
+  "stars": 11537,
   "default_branch": "main",
-  "scanned_at": "2026-11-23T13:30:17Z",
+  "scanned_at": "2026-11-25T13:02:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -166,7 +166,7 @@
     "2026-11": {
       "total": 11,
       "ai": 0,
-      "automation": 3,
+      "automation": 6,
       "merges": 0,
       "by_rule": {}
     }

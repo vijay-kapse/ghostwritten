@@ -3,17 +3,24 @@
   "repo": "torvalds/linux",
   "org": "torvalds",
   "language": "C",
-  "stars": 256023,
+  "stars": 256502,
   "default_branch": "master",
-  "scanned_at": "2026-11-23T13:33:32Z",
-  "window_start": "2026-08-04",
+  "scanned_at": "2026-11-25T13:05:39Z",
+  "window_start": "2026-07-29",
   "complete": false,
   "months": {
-    "2026-08": {
-      "total": 7164,
+    "2026-07": {
+      "total": 1768,
       "ai": 0,
       "automation": 0,
-      "merges": 793,
+      "merges": 104,
+      "by_rule": {}
+    },
+    "2026-08": {
+      "total": 7945,
+      "ai": 0,
+      "automation": 0,
+      "merges": 840,
       "by_rule": {}
     },
     "2026-09": {
@@ -24,7 +31,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 9737,
+      "total": 9742,
       "ai": 1,
       "automation": 0,
       "merges": 1013,
@@ -33,10 +40,10 @@
       }
     },
     "2026-11": {
-      "total": 2349,
+      "total": 2586,
       "ai": 4,
       "automation": 0,
-      "merges": 262,
+      "merges": 280,
       "by_rule": {
         "claude_trailer": 4
       }

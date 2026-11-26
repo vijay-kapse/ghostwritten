@@ -5,7 +5,7 @@
   "language": "Python",
   "stars": 13981,
   "default_branch": "mealie-next",
-  "scanned_at": "2026-11-25T13:43:05Z",
+  "scanned_at": "2026-11-26T13:25:15Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -178,9 +178,9 @@
       }
     },
     "2026-11": {
-      "total": 99,
+      "total": 105,
       "ai": 6,
-      "automation": 125,
+      "automation": 131,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 6

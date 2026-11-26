@@ -5,7 +5,7 @@
   "language": "Elixir",
   "stars": 29926,
   "default_branch": "master",
-  "scanned_at": "2026-11-25T13:26:24Z",
+  "scanned_at": "2026-11-26T13:07:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -174,9 +174,9 @@
       }
     },
     "2026-11": {
-      "total": 67,
+      "total": 75,
       "ai": 1,
-      "automation": 2,
+      "automation": 3,
       "merges": 0,
       "by_rule": {
         "cursor": 1

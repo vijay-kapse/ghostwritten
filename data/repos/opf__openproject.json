@@ -5,7 +5,7 @@
   "language": "Ruby",
   "stars": 17683,
   "default_branch": "dev",
-  "scanned_at": "2026-11-25T13:49:22Z",
+  "scanned_at": "2026-11-26T13:31:40Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -209,10 +209,10 @@
       }
     },
     "2026-11": {
-      "total": 2012,
+      "total": 2127,
       "ai": 77,
-      "automation": 67,
-      "merges": 616,
+      "automation": 78,
+      "merges": 657,
       "by_rule": {
         "claude_trailer": 76,
         "copilot_trailer": 1

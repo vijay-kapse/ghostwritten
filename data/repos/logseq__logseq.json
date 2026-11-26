@@ -5,7 +5,7 @@
   "language": "Clojure",
   "stars": 45692,
   "default_branch": "master",
-  "scanned_at": "2026-11-25T13:14:00Z",
+  "scanned_at": "2026-11-26T12:56:00Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -193,13 +193,13 @@
       }
     },
     "2026-11": {
-      "total": 141,
-      "ai": 57,
+      "total": 144,
+      "ai": 58,
       "automation": 0,
       "merges": 8,
       "by_rule": {
-        "cursor": 55,
-        "devin": 8
+        "cursor": 56,
+        "devin": 9
       }
     }
   }

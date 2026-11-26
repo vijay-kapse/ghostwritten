@@ -5,7 +5,7 @@
   "language": "Zig",
   "stars": 42464,
   "default_branch": "main",
-  "scanned_at": "2026-11-25T13:17:22Z",
+  "scanned_at": "2026-11-26T12:58:59Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -177,10 +177,10 @@
       }
     },
     "2026-11": {
-      "total": 585,
+      "total": 621,
       "ai": 13,
-      "automation": 35,
-      "merges": 339,
+      "automation": 36,
+      "merges": 346,
       "by_rule": {
         "claude_trailer": 13
       }

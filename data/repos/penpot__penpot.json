@@ -5,7 +5,7 @@
   "language": "Clojure",
   "stars": 62696,
   "default_branch": "develop",
-  "scanned_at": "2026-11-25T13:07:18Z",
+  "scanned_at": "2026-11-26T12:50:51Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -187,10 +187,10 @@
       }
     },
     "2026-11": {
-      "total": 503,
+      "total": 521,
       "ai": 0,
-      "automation": 26,
-      "merges": 60,
+      "automation": 27,
+      "merges": 61,
       "by_rule": {}
     }
   }

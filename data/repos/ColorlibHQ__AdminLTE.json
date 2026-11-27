@@ -5,7 +5,7 @@
   "language": "Astro",
   "stars": 45706,
   "default_branch": "master",
-  "scanned_at": "2026-11-26T12:55:54Z",
+  "scanned_at": "2026-11-27T12:44:17Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -152,12 +152,12 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 11,
-      "ai": 9,
+      "total": 17,
+      "ai": 14,
       "automation": 0,
-      "merges": 2,
+      "merges": 4,
       "by_rule": {
-        "claude_trailer": 9
+        "claude_trailer": 14
       }
     }
   }

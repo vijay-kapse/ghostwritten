@@ -5,7 +5,7 @@
   "language": "PowerShell",
   "stars": 13624,
   "default_branch": "main",
-  "scanned_at": "2026-11-26T13:26:11Z",
+  "scanned_at": "2026-11-27T13:10:14Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -191,7 +191,7 @@
     "2026-11": {
       "total": 31,
       "ai": 5,
-      "automation": 39,
+      "automation": 40,
       "merges": 1,
       "by_rule": {
         "copilot_trailer": 5,

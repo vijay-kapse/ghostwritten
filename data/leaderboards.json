@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T13:33:07Z",
+  "generated_at": "2026-11-27T13:16:28Z",
   "universe": {
     "repos": 5083,
     "selection": "top by stars, plus on-demand lookups"
@@ -744,6 +744,14 @@
       "language": "Go"
     },
     {
+      "repo": "storytold/lightcraft",
+      "ai_share": 0.6167,
+      "ai": 1984,
+      "total": 3217,
+      "stars": 16369,
+      "language": "Rust"
+    },
+    {
       "repo": "longbridge/gpui-kit",
       "ai_share": 0.6166,
       "ai": 460,
@@ -766,14 +774,6 @@
       "total": 504,
       "stars": 47713,
       "language": "TypeScript"
-    },
-    {
-      "repo": "storytold/lightcraft",
-      "ai_share": 0.6099,
-      "ai": 1887,
-      "total": 3094,
-      "stars": 16369,
-      "language": "Rust"
     },
     {
       "repo": "coreyhaines31/marketingskills",
@@ -889,9 +889,9 @@
     },
     {
       "repo": "storytold/filmcraft",
-      "ai_share": 0.5677,
-      "ai": 1225,
-      "total": 2158,
+      "ai_share": 0.565,
+      "ai": 1238,
+      "total": 2191,
       "stars": 18954,
       "language": "Rust"
     },
@@ -1128,14 +1128,6 @@
       "language": "TypeScript"
     },
     {
-      "repo": "storytold/pdfcraft",
-      "ai_share": 0.4966,
-      "ai": 1696,
-      "total": 3415,
-      "stars": 21652,
-      "language": "Rust"
-    },
-    {
       "repo": "emilk/egui",
       "ai_share": 0.4898,
       "ai": 120,
@@ -1157,6 +1149,14 @@
       "ai": 2856,
       "total": 5868,
       "stars": 18029,
+      "language": "Rust"
+    },
+    {
+      "repo": "storytold/pdfcraft",
+      "ai_share": 0.4864,
+      "ai": 1701,
+      "total": 3497,
+      "stars": 21652,
       "language": "Rust"
     },
     {
@@ -1585,9 +1585,9 @@
     },
     {
       "repo": "storybookjs/storybook",
-      "ai_share": 0.3894,
-      "ai": 1538,
-      "total": 3950,
+      "ai_share": 0.3889,
+      "ai": 1541,
+      "total": 3962,
       "stars": 91704,
       "language": "TypeScript"
     },
@@ -2240,19 +2240,19 @@
       "language": "Python"
     },
     {
-      "repo": "topoteretes/cognee",
-      "ai_share": 0.2697,
-      "ai": 520,
-      "total": 1928,
-      "stars": 33545,
-      "language": "Python"
-    },
-    {
       "repo": "microsoft/SkillOpt",
       "ai_share": 0.2697,
       "ai": 48,
       "total": 178,
       "stars": 19201,
+      "language": "Python"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "ai_share": 0.2679,
+      "ai": 520,
+      "total": 1941,
+      "stars": 33545,
       "language": "Python"
     },
     {
@@ -2849,9 +2849,9 @@
     },
     {
       "repo": "rails/rails",
-      "ai_share": 0.1792,
+      "ai_share": 0.179,
       "ai": 169,
-      "total": 943,
+      "total": 944,
       "stars": 59087,
       "language": "Ruby"
     },
@@ -3200,6 +3200,14 @@
       "language": "JavaScript"
     },
     {
+      "repo": "spree/spree",
+      "ai_share": 0.1503,
+      "ai": 280,
+      "total": 1863,
+      "stars": 15848,
+      "language": "Ruby"
+    },
+    {
       "repo": "sirmalloc/ccstatusline",
       "ai_share": 0.1479,
       "ai": 25,
@@ -3414,14 +3422,6 @@
       "total": 642,
       "stars": 29235,
       "language": "Go"
-    },
-    {
-      "repo": "spree/spree",
-      "ai_share": 0.1307,
-      "ai": 235,
-      "total": 1798,
-      "stars": 15848,
-      "language": "Ruby"
     },
     {
       "repo": "nim-lang/Nim",
@@ -3856,14 +3856,6 @@
       "language": "Python"
     },
     {
-      "repo": "punkpeye/awesome-mcp-servers",
-      "ai_share": 0.0998,
-      "ai": 265,
-      "total": 2656,
-      "stars": 98455,
-      "language": null
-    },
-    {
       "repo": "rolldown/rolldown",
       "ai_share": 0.0997,
       "ai": 31,
@@ -3878,6 +3870,14 @@
       "total": 152,
       "stars": 11649,
       "language": "Python"
+    },
+    {
+      "repo": "punkpeye/awesome-mcp-servers",
+      "ai_share": 0.0985,
+      "ai": 266,
+      "total": 2700,
+      "stars": 98455,
+      "language": null
     },
     {
       "repo": "sveltejs/kit",
@@ -4473,9 +4473,9 @@
     },
     {
       "repo": "cupy/cupy",
-      "ai_share": 0.0692,
+      "ai_share": 0.069,
       "ai": 31,
-      "total": 448,
+      "total": 449,
       "stars": 12414,
       "language": "Python"
     },
@@ -4648,20 +4648,20 @@
       "language": "TypeScript"
     },
     {
-      "repo": "Wei-Shaw/sub2api",
-      "ai_share": 0.0633,
-      "ai": 94,
-      "total": 1484,
-      "stars": 46556,
-      "language": "Go"
-    },
-    {
       "repo": "iina/iina",
       "ai_share": 0.0632,
       "ai": 11,
       "total": 174,
       "stars": 47262,
       "language": "Swift"
+    },
+    {
+      "repo": "Wei-Shaw/sub2api",
+      "ai_share": 0.063,
+      "ai": 94,
+      "total": 1491,
+      "stars": 46556,
+      "language": "Go"
     },
     {
       "repo": "ocrmypdf/OCRmyPDF",
@@ -4699,7 +4699,7 @@
       "repo": "pipecat-ai/pipecat",
       "ai_share": 0.0624,
       "ai": 179,
-      "total": 2868,
+      "total": 2869,
       "stars": 17409,
       "language": "Python"
     },
@@ -5240,20 +5240,20 @@
       "language": "Python"
     },
     {
-      "repo": "DeusData/codebase-memory-mcp",
-      "ai_share": 0.0482,
-      "ai": 91,
-      "total": 1887,
-      "stars": 49113,
-      "language": "C"
-    },
-    {
       "repo": "highcharts/highcharts",
       "ai_share": 0.0482,
       "ai": 58,
       "total": 1203,
       "stars": 12501,
       "language": "TypeScript"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "ai_share": 0.0481,
+      "ai": 91,
+      "total": 1892,
+      "stars": 49113,
+      "language": "C"
     },
     {
       "repo": "wilsonfreitas/awesome-quant",
@@ -6992,10 +6992,18 @@
       "language": "Python"
     },
     {
+      "repo": "scipy/scipy",
+      "ai_share": 0.0205,
+      "ai": 10,
+      "total": 488,
+      "stars": 15250,
+      "language": "Python"
+    },
+    {
       "repo": "plotly/dash",
-      "ai_share": 0.0206,
+      "ai_share": 0.0205,
       "ai": 5,
-      "total": 243,
+      "total": 244,
       "stars": 24504,
       "language": "Python"
     },
@@ -7126,14 +7134,6 @@
       "total": 107,
       "stars": 37451,
       "language": "JavaScript"
-    },
-    {
-      "repo": "scipy/scipy",
-      "ai_share": 0.0185,
-      "ai": 9,
-      "total": 487,
-      "stars": 15250,
-      "language": "Python"
     },
     {
       "repo": "opencv/opencv",
@@ -7419,7 +7419,7 @@
       "repo": "ceph/ceph",
       "ai_share": 0.0156,
       "ai": 41,
-      "total": 2631,
+      "total": 2633,
       "stars": 17257,
       "language": "C++"
     },
@@ -8195,7 +8195,7 @@
       "repo": "NationalSecurityAgency/ghidra",
       "ai_share": 0.0087,
       "ai": 4,
-      "total": 459,
+      "total": 460,
       "stars": 101179,
       "language": "Java"
     },
@@ -8608,14 +8608,6 @@
       "language": "TypeScript"
     },
     {
-      "repo": "jellyfin/jellyfin",
-      "ai_share": 0.0065,
-      "ai": 3,
-      "total": 465,
-      "stars": 59708,
-      "language": "C#"
-    },
-    {
       "repo": "jumpserver/jumpserver",
       "ai_share": 0.0065,
       "ai": 3,
@@ -8646,6 +8638,14 @@
       "total": 776,
       "stars": 80005,
       "language": "Python"
+    },
+    {
+      "repo": "jellyfin/jellyfin",
+      "ai_share": 0.0064,
+      "ai": 3,
+      "total": 467,
+      "stars": 59708,
+      "language": "C#"
     },
     {
       "repo": "aws/aws-cdk",
@@ -9184,14 +9184,6 @@
       "language": "Python"
     },
     {
-      "repo": "argotorg/solidity",
-      "ai_share": 0.0043,
-      "ai": 1,
-      "total": 231,
-      "stars": 25778,
-      "language": "C++"
-    },
-    {
       "repo": "influxdata/telegraf",
       "ai_share": 0.0043,
       "ai": 1,
@@ -9214,6 +9206,14 @@
       "total": 4300,
       "stars": 41597,
       "language": "Python"
+    },
+    {
+      "repo": "argotorg/solidity",
+      "ai_share": 0.0042,
+      "ai": 1,
+      "total": 238,
+      "stars": 25778,
+      "language": "C++"
     },
     {
       "repo": "cockpit-project/cockpit",
@@ -9515,7 +9515,7 @@
       "repo": "oracle/graal",
       "ai_share": 0.0028,
       "ai": 3,
-      "total": 1076,
+      "total": 1077,
       "stars": 21759,
       "language": "Java"
     },
@@ -10027,7 +10027,7 @@
       "repo": "rust-lang/rust",
       "ai_share": 0.0004,
       "ai": 3,
-      "total": 6688,
+      "total": 6689,
       "stars": 122302,
       "language": "Rust"
     },
@@ -10139,7 +10139,7 @@
       "repo": "BookStackApp/BookStack",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 101,
+      "total": 104,
       "stars": 19153,
       "language": "PHP"
     },
@@ -11059,7 +11059,7 @@
       "repo": "firefly-iii/firefly-iii",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 692,
+      "total": 787,
       "stars": 25330,
       "language": "PHP"
     },
@@ -11187,7 +11187,7 @@
       "repo": "godotengine/godot",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 1003,
+      "total": 1005,
       "stars": 120671,
       "language": "C++"
     },
@@ -13393,9 +13393,9 @@
     },
     {
       "org": "storytold",
-      "ai_share": 0.5025,
-      "ai": 10843,
-      "total": 21578,
+      "ai_share": 0.5023,
+      "ai": 10958,
+      "total": 21816,
       "repos": 8
     },
     {
@@ -13729,9 +13729,9 @@
     },
     {
       "org": "storybookjs",
-      "ai_share": 0.3894,
-      "ai": 1538,
-      "total": 3950,
+      "ai_share": 0.3889,
+      "ai": 1541,
+      "total": 3962,
       "repos": 1
     },
     {
@@ -14246,18 +14246,18 @@
       "repos": 1
     },
     {
-      "org": "topoteretes",
-      "ai_share": 0.2697,
-      "ai": 520,
-      "total": 1928,
-      "repos": 1
-    },
-    {
       "org": "pypa",
       "ai_share": 0.2685,
       "ai": 163,
       "total": 607,
       "repos": 2
+    },
+    {
+      "org": "topoteretes",
+      "ai_share": 0.2679,
+      "ai": 520,
+      "total": 1941,
+      "repos": 1
     },
     {
       "org": "simplifaisoul",
@@ -14758,9 +14758,9 @@
     },
     {
       "org": "rails",
-      "ai_share": 0.1792,
+      "ai_share": 0.179,
       "ai": 169,
-      "total": 943,
+      "total": 944,
       "repos": 1
     },
     {
@@ -15016,6 +15016,13 @@
       "repos": 1
     },
     {
+      "org": "spree",
+      "ai_share": 0.1503,
+      "ai": 280,
+      "total": 1863,
+      "repos": 1
+    },
+    {
       "org": "sirmalloc",
       "ai_share": 0.1479,
       "ai": 25,
@@ -15189,13 +15196,6 @@
       "ai": 36,
       "total": 275,
       "repos": 10
-    },
-    {
-      "org": "spree",
-      "ai_share": 0.1307,
-      "ai": 235,
-      "total": 1798,
-      "repos": 1
     },
     {
       "org": "nim-lang",
@@ -15534,17 +15534,17 @@
       "repos": 1
     },
     {
-      "org": "punkpeye",
-      "ai_share": 0.0998,
-      "ai": 265,
-      "total": 2656,
-      "repos": 1
-    },
-    {
       "org": "rolldown",
       "ai_share": 0.0997,
       "ai": 31,
       "total": 311,
+      "repos": 1
+    },
+    {
+      "org": "punkpeye",
+      "ai_share": 0.0985,
+      "ai": 266,
+      "total": 2700,
       "repos": 1
     },
     {
@@ -16004,9 +16004,9 @@
     },
     {
       "org": "cupy",
-      "ai_share": 0.0692,
+      "ai_share": 0.069,
       "ai": 31,
-      "total": 448,
+      "total": 449,
       "repos": 1
     },
     {
@@ -16080,18 +16080,18 @@
       "repos": 1
     },
     {
-      "org": "Wei-Shaw",
-      "ai_share": 0.0658,
-      "ai": 99,
-      "total": 1504,
-      "repos": 2
-    },
-    {
       "org": "OpenWhispr",
       "ai_share": 0.0657,
       "ai": 59,
       "total": 898,
       "repos": 1
+    },
+    {
+      "org": "Wei-Shaw",
+      "ai_share": 0.0655,
+      "ai": 99,
+      "total": 1511,
+      "repos": 2
     },
     {
       "org": "OWASP",
@@ -16195,7 +16195,7 @@
       "org": "pipecat-ai",
       "ai_share": 0.0624,
       "ai": 179,
-      "total": 2868,
+      "total": 2869,
       "repos": 1
     },
     {
@@ -16654,17 +16654,17 @@
       "repos": 1
     },
     {
-      "org": "DeusData",
-      "ai_share": 0.0482,
-      "ai": 91,
-      "total": 1887,
-      "repos": 1
-    },
-    {
       "org": "highcharts",
       "ai_share": 0.0482,
       "ai": 58,
       "total": 1203,
+      "repos": 1
+    },
+    {
+      "org": "DeusData",
+      "ai_share": 0.0481,
+      "ai": 91,
+      "total": 1892,
       "repos": 1
     },
     {
@@ -16790,7 +16790,7 @@
       "org": "plotly",
       "ai_share": 0.0443,
       "ai": 37,
-      "total": 835,
+      "total": 836,
       "repos": 3
     },
     {
@@ -17963,6 +17963,13 @@
       "repos": 1
     },
     {
+      "org": "scipy",
+      "ai_share": 0.0205,
+      "ai": 10,
+      "total": 488,
+      "repos": 1
+    },
+    {
       "org": "nuxt",
       "ai_share": 0.0203,
       "ai": 11,
@@ -18066,13 +18073,6 @@
       "ai": 11,
       "total": 595,
       "repos": 7
-    },
-    {
-      "org": "scipy",
-      "ai_share": 0.0185,
-      "ai": 9,
-      "total": 487,
-      "repos": 1
     },
     {
       "org": "opencv",
@@ -18288,7 +18288,7 @@
       "org": "ceph",
       "ai_share": 0.0156,
       "ai": 41,
-      "total": 2631,
+      "total": 2633,
       "repos": 1
     },
     {
@@ -18932,7 +18932,7 @@
       "org": "NationalSecurityAgency",
       "ai_share": 0.0087,
       "ai": 4,
-      "total": 459,
+      "total": 460,
       "repos": 1
     },
     {
@@ -19237,13 +19237,6 @@
       "repos": 1
     },
     {
-      "org": "jellyfin",
-      "ai_share": 0.0065,
-      "ai": 3,
-      "total": 465,
-      "repos": 1
-    },
-    {
       "org": "jumpserver",
       "ai_share": 0.0065,
       "ai": 3,
@@ -19262,6 +19255,13 @@
       "ai_share": 0.0065,
       "ai": 1,
       "total": 155,
+      "repos": 1
+    },
+    {
+      "org": "jellyfin",
+      "ai_share": 0.0064,
+      "ai": 3,
+      "total": 467,
       "repos": 1
     },
     {
@@ -19685,18 +19685,18 @@
       "repos": 1
     },
     {
-      "org": "argotorg",
-      "ai_share": 0.0043,
-      "ai": 1,
-      "total": 231,
-      "repos": 1
-    },
-    {
       "org": "frappe",
       "ai_share": 0.0042,
       "ai": 18,
       "total": 4322,
       "repos": 2
+    },
+    {
+      "org": "argotorg",
+      "ai_share": 0.0042,
+      "ai": 1,
+      "total": 238,
+      "repos": 1
     },
     {
       "org": "cockpit-project",
@@ -19954,7 +19954,7 @@
       "org": "oracle",
       "ai_share": 0.0028,
       "ai": 3,
-      "total": 1076,
+      "total": 1077,
       "repos": 1
     },
     {
@@ -20297,7 +20297,7 @@
       "org": "rust-lang",
       "ai_share": 0.0009,
       "ai": 7,
-      "total": 8006,
+      "total": 8007,
       "repos": 7
     },
     {
@@ -20423,7 +20423,7 @@
       "org": "BookStackApp",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 101,
+      "total": 104,
       "repos": 1
     },
     {
@@ -21151,7 +21151,7 @@
       "org": "firefly-iii",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 692,
+      "total": 787,
       "repos": 1
     },
     {
@@ -21256,7 +21256,7 @@
       "org": "godotengine",
       "ai_share": 0.0,
       "ai": 0,
-      "total": 1003,
+      "total": 1005,
       "repos": 1
     },
     {
@@ -22208,9 +22208,9 @@
   "languages": [
     {
       "language": "C#",
-      "ai_share": 0.3534,
+      "ai_share": 0.3533,
       "ai": 6395,
-      "total": 18098,
+      "total": 18100,
       "repos": 95
     },
     {
@@ -22251,15 +22251,15 @@
     {
       "language": "Python",
       "ai_share": 0.1899,
-      "ai": 52290,
-      "total": 275317,
+      "ai": 52291,
+      "total": 275335,
       "repos": 948
     },
     {
       "language": "Rust",
-      "ai_share": 0.188,
-      "ai": 31948,
-      "total": 169940,
+      "ai_share": 0.1884,
+      "ai": 32063,
+      "total": 170179,
       "repos": 263
     },
     {
@@ -22279,8 +22279,8 @@
     {
       "language": "TypeScript",
       "ai_share": 0.166,
-      "ai": 67288,
-      "total": 405329,
+      "ai": 67291,
+      "total": 405347,
       "repos": 785
     },
     {
@@ -22299,9 +22299,9 @@
     },
     {
       "language": "Ruby",
-      "ai_share": 0.1264,
-      "ai": 2620,
-      "total": 20725,
+      "ai_share": 0.1282,
+      "ai": 2665,
+      "total": 20791,
       "repos": 44
     },
     {
@@ -22321,8 +22321,8 @@
     {
       "language": "Go",
       "ai_share": 0.1129,
-      "ai": 10416,
-      "total": 92249,
+      "ai": 10417,
+      "total": 92257,
       "repos": 398
     },
     {
@@ -22357,7 +22357,7 @@
       "language": "C++",
       "ai_share": 0.0788,
       "ai": 8366,
-      "total": 106203,
+      "total": 106214,
       "repos": 250
     },
     {
@@ -22371,14 +22371,14 @@
       "language": "JavaScript",
       "ai_share": 0.0605,
       "ai": 7032,
-      "total": 116286,
+      "total": 116290,
       "repos": 602
     },
     {
       "language": "Java",
       "ai_share": 0.0566,
       "ai": 3190,
-      "total": 56395,
+      "total": 56397,
       "repos": 223
     },
     {
@@ -22390,9 +22390,9 @@
     },
     {
       "language": "PHP",
-      "ai_share": 0.0528,
+      "ai_share": 0.0526,
       "ai": 933,
-      "total": 17656,
+      "total": 17754,
       "repos": 72
     },
     {
@@ -22427,7 +22427,7 @@
       "language": "C",
       "ai_share": 0.0312,
       "ai": 3174,
-      "total": 101826,
+      "total": 101831,
       "repos": 152
     },
     {
@@ -22574,7 +22574,7 @@
   "tools": [
     {
       "rule": "claude_trailer",
-      "ai": 163612
+      "ai": 163770
     },
     {
       "rule": "copilot_trailer",
@@ -22582,7 +22582,7 @@
     },
     {
       "rule": "cursor",
-      "ai": 14170
+      "ai": 14171
     },
     {
       "rule": "claude_generated",
@@ -22594,7 +22594,7 @@
     },
     {
       "rule": "codex_trailer",
-      "ai": 5534
+      "ai": 5541
     },
     {
       "rule": "copilot_author",
@@ -22625,58 +22625,58 @@
     {
       "month": "2025-01",
       "ai": 421,
-      "total": 180467,
+      "total": 183033,
       "ai_share": 0.0023,
-      "repos": 5051
+      "repos": 5053
     },
     {
       "month": "2025-02",
-      "ai": 384,
-      "total": 177332,
-      "ai_share": 0.0022,
-      "repos": 5051
+      "ai": 388,
+      "total": 181818,
+      "ai_share": 0.0021,
+      "repos": 5055
     },
     {
       "month": "2025-03",
-      "ai": 1298,
-      "total": 198193,
-      "ai_share": 0.0065,
-      "repos": 5052
+      "ai": 1302,
+      "total": 202293,
+      "ai_share": 0.0064,
+      "repos": 5055
     },
     {
       "month": "2025-04",
       "ai": 795,
-      "total": 194880,
+      "total": 195434,
       "ai_share": 0.0041,
-      "repos": 5054
+      "repos": 5055
     },
     {
       "month": "2025-05",
-      "ai": 1264,
-      "total": 185259,
+      "ai": 1279,
+      "total": 186826,
       "ai_share": 0.0068,
-      "repos": 5054
+      "repos": 5056
     },
     {
       "month": "2025-06",
-      "ai": 2024,
-      "total": 185625,
-      "ai_share": 0.0109,
-      "repos": 5056
+      "ai": 2030,
+      "total": 187229,
+      "ai_share": 0.0108,
+      "repos": 5058
     },
     {
       "month": "2025-07",
       "ai": 2837,
-      "total": 203583,
-      "ai_share": 0.0139,
-      "repos": 5056
+      "total": 210163,
+      "ai_share": 0.0135,
+      "repos": 5059
     },
     {
       "month": "2025-08",
       "ai": 3096,
-      "total": 211932,
-      "ai_share": 0.0146,
-      "repos": 5059
+      "total": 215704,
+      "ai_share": 0.0144,
+      "repos": 5060
     },
     {
       "month": "2025-09",
@@ -22688,16 +22688,16 @@
     {
       "month": "2025-10",
       "ai": 5635,
-      "total": 219189,
+      "total": 219280,
       "ai_share": 0.0257,
       "repos": 5062
     },
     {
       "month": "2025-11",
       "ai": 5216,
-      "total": 194946,
-      "ai_share": 0.0268,
-      "repos": 5062
+      "total": 196379,
+      "ai_share": 0.0266,
+      "repos": 5063
     },
     {
       "month": "2025-12",
@@ -22709,72 +22709,72 @@
     {
       "month": "2026-01",
       "ai": 15963,
-      "total": 241124,
+      "total": 241125,
       "ai_share": 0.0662,
       "repos": 5063
     },
     {
       "month": "2026-02",
-      "ai": 22851,
-      "total": 248282,
-      "ai_share": 0.092,
-      "repos": 5063
-    },
-    {
-      "month": "2026-03",
-      "ai": 30852,
-      "total": 309135,
-      "ai_share": 0.0998,
+      "ai": 22852,
+      "total": 251716,
+      "ai_share": 0.0908,
       "repos": 5064
     },
     {
+      "month": "2026-03",
+      "ai": 32256,
+      "total": 311628,
+      "ai_share": 0.1035,
+      "repos": 5065
+    },
+    {
       "month": "2026-04",
-      "ai": 31762,
-      "total": 306423,
-      "ai_share": 0.1037,
-      "repos": 5066
+      "ai": 31800,
+      "total": 307818,
+      "ai_share": 0.1033,
+      "repos": 5067
     },
     {
       "month": "2026-05",
-      "ai": 28643,
-      "total": 305370,
-      "ai_share": 0.0938,
-      "repos": 5067
+      "ai": 28957,
+      "total": 309190,
+      "ai_share": 0.0937,
+      "repos": 5069
     },
     {
       "month": "2026-06",
       "ai": 36577,
-      "total": 328456,
+      "total": 328457,
       "ai_share": 0.1114,
       "repos": 5069
     },
     {
       "month": "2026-07",
       "ai": 40628,
-      "total": 380536,
+      "total": 380538,
       "ai_share": 0.1068,
       "repos": 5070
     },
     {
       "month": "2026-08",
-      "ai": 40591,
-      "total": 410913,
+      "ai": 40592,
+      "total": 410921,
       "ai_share": 0.0988,
       "repos": 5071
     },
     {
       "month": "2026-09",
-      "ai": 61815,
-      "total": 478238,
+      "ai": 61860,
+      "total": 478301,
       "ai_share": 0.1293,
       "repos": 5071
     },
     {
       "month": "2026-10",
-      "ai": 112282,
-      "total": 732695,
-      "ai_share": 0.1532,
-      "repos": 5077
+      "ai": 112703,
+      "total": 748753,
+      "ai_share": 0.1505,
+      "repos": 5078
     }
   ]
 }

@@ -5,7 +5,7 @@
   "language": "Python",
   "stars": 23902,
   "default_branch": "main",
-  "scanned_at": "2026-11-26T13:13:34Z",
+  "scanned_at": "2026-11-27T12:59:20Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -106,7 +106,7 @@
     "2026-11": {
       "total": 396,
       "ai": 56,
-      "automation": 8,
+      "automation": 9,
       "merges": 0,
       "by_rule": {
         "claude_trailer": 55,

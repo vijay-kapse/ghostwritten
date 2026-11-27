@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T13:33:07Z",
+  "generated_at": "2026-11-27T13:16:28Z",
   "universe": {
     "repos": 5083,
     "scanned": 5083,
@@ -9,8 +9,8 @@
     "selection": "top by stars, plus on-demand lookups"
   },
   "window": "2026-08..2026-10",
-  "ai": 207703,
-  "total": 1541318,
+  "ai": 207869,
+  "total": 1541833,
   "ai_share": 0.1348,
   "median_repo_ai_share": 0.0306,
   "share_repos_with_ai": 0.8046,

@@ -5,17 +5,18 @@
   "language": "Ruby",
   "stars": 22317,
   "default_branch": "main",
-  "scanned_at": "2026-11-26T13:15:20Z",
-  "window_start": "2026-09-21",
+  "scanned_at": "2026-11-27T13:00:53Z",
+  "window_start": "2026-09-16",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 2290,
-      "ai": 1,
-      "automation": 1,
-      "merges": 2138,
+      "total": 3533,
+      "ai": 2,
+      "automation": 2,
+      "merges": 3294,
       "by_rule": {
-        "claude_trailer": 1
+        "claude_trailer": 1,
+        "cursor": 1
       }
     },
     "2026-10": {
@@ -28,12 +29,12 @@
       }
     },
     "2026-11": {
-      "total": 7814,
-      "ai": 18,
-      "automation": 3,
-      "merges": 7029,
+      "total": 8094,
+      "ai": 19,
+      "automation": 4,
+      "merges": 7294,
       "by_rule": {
-        "claude_trailer": 17,
+        "claude_trailer": 18,
         "copilot_trailer": 1
       }
     }

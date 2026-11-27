@@ -5,38 +5,40 @@
   "language": "C++",
   "stars": 51101,
   "default_branch": "master",
-  "scanned_at": "2026-11-26T12:53:37Z",
-  "window_start": "2026-09-23",
+  "scanned_at": "2026-11-27T12:42:33Z",
+  "window_start": "2026-09-21",
   "complete": false,
   "months": {
     "2026-09": {
-      "total": 2512,
-      "ai": 1426,
-      "automation": 13,
-      "merges": 1349,
+      "total": 3539,
+      "ai": 1908,
+      "automation": 36,
+      "merges": 1939,
       "by_rule": {
-        "claude_trailer": 1426
+        "claude_trailer": 1903,
+        "cursor": 4,
+        "copilot_author": 1
       }
     },
     "2026-10": {
-      "total": 9292,
-      "ai": 6250,
+      "total": 9460,
+      "ai": 6404,
       "automation": 53,
-      "merges": 5672,
+      "merges": 5758,
       "by_rule": {
-        "claude_trailer": 6218,
+        "claude_trailer": 6372,
         "cursor": 21,
         "copilot_trailer": 10,
         "copilot_author": 1
       }
     },
     "2026-11": {
-      "total": 7108,
-      "ai": 4677,
+      "total": 7619,
+      "ai": 5056,
       "automation": 21,
-      "merges": 4217,
+      "merges": 4543,
       "by_rule": {
-        "claude_trailer": 4648,
+        "claude_trailer": 5027,
         "cursor": 28,
         "copilot_trailer": 1
       }

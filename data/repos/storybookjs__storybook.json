@@ -5,7 +5,7 @@
   "language": "TypeScript",
   "stars": 91704,
   "default_branch": "next",
-  "scanned_at": "2026-11-26T13:00:58Z",
+  "scanned_at": "2026-11-27T12:48:38Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -133,10 +133,10 @@
       }
     },
     "2026-03": {
-      "total": 863,
+      "total": 876,
       "ai": 68,
       "automation": 7,
-      "merges": 404,
+      "merges": 405,
       "by_rule": {
         "copilot_author": 48,
         "copilot_trailer": 11,
@@ -144,10 +144,10 @@
       }
     },
     "2026-04": {
-      "total": 751,
+      "total": 758,
       "ai": 119,
       "automation": 2,
-      "merges": 215,
+      "merges": 219,
       "by_rule": {
         "claude_trailer": 47,
         "copilot_author": 39,
@@ -170,7 +170,7 @@
       }
     },
     "2026-06": {
-      "total": 909,
+      "total": 910,
       "ai": 243,
       "automation": 2,
       "merges": 417,
@@ -185,7 +185,7 @@
       "total": 726,
       "ai": 87,
       "automation": 2,
-      "merges": 300,
+      "merges": 301,
       "by_rule": {
         "claude_trailer": 46,
         "cursor": 39,
@@ -196,7 +196,7 @@
       "total": 1118,
       "ai": 202,
       "automation": 1,
-      "merges": 490,
+      "merges": 491,
       "by_rule": {
         "cursor": 179,
         "claude_trailer": 22,
@@ -204,33 +204,33 @@
       }
     },
     "2026-09": {
-      "total": 1108,
+      "total": 1112,
       "ai": 362,
       "automation": 4,
-      "merges": 341,
+      "merges": 346,
       "by_rule": {
         "claude_trailer": 334,
         "cursor": 28
       }
     },
     "2026-10": {
-      "total": 1724,
-      "ai": 974,
+      "total": 1732,
+      "ai": 977,
       "automation": 0,
-      "merges": 719,
+      "merges": 726,
       "by_rule": {
-        "claude_trailer": 960,
+        "claude_trailer": 963,
         "cursor": 13,
         "copilot_trailer": 1
       }
     },
     "2026-11": {
-      "total": 1339,
-      "ai": 874,
+      "total": 1435,
+      "ai": 917,
       "automation": 3,
-      "merges": 432,
+      "merges": 476,
       "by_rule": {
-        "claude_trailer": 869,
+        "claude_trailer": 912,
         "copilot_trailer": 3,
         "copilot_author": 1,
         "cursor": 1

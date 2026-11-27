@@ -5,7 +5,7 @@
   "language": "Python",
   "stars": 12414,
   "default_branch": "main",
-  "scanned_at": "2026-11-26T12:43:46Z",
+  "scanned_at": "2026-11-27T12:34:11Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -188,7 +188,7 @@
       }
     },
     "2026-10": {
-      "total": 205,
+      "total": 206,
       "ai": 6,
       "automation": 2,
       "merges": 92,
@@ -197,10 +197,10 @@
       }
     },
     "2026-11": {
-      "total": 98,
+      "total": 100,
       "ai": 0,
       "automation": 1,
-      "merges": 38,
+      "merges": 41,
       "by_rule": {}
     }
   }

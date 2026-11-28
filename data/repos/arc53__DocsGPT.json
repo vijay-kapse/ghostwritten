@@ -5,7 +5,7 @@
   "language": "Python",
   "stars": 18379,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T13:04:52Z",
+  "scanned_at": "2026-11-28T12:17:08Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -173,7 +173,7 @@
       "by_rule": {}
     },
     "2026-10": {
-      "total": 1317,
+      "total": 1321,
       "ai": 3,
       "automation": 22,
       "merges": 196,
@@ -183,11 +183,13 @@
       }
     },
     "2026-11": {
-      "total": 1053,
-      "ai": 0,
-      "automation": 13,
-      "merges": 141,
-      "by_rule": {}
+      "total": 1063,
+      "ai": 2,
+      "automation": 14,
+      "merges": 150,
+      "by_rule": {
+        "claude_trailer": 2
+      }
     }
   }
 }

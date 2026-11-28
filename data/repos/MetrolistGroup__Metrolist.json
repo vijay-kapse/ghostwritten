@@ -5,15 +5,15 @@
   "language": "Kotlin",
   "stars": 14920,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T13:08:45Z",
+  "scanned_at": "2026-11-28T12:20:05Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 1071,
+      "total": 1209,
       "ai": 10,
       "automation": 2,
-      "merges": 11,
+      "merges": 12,
       "by_rule": {
         "claude_trailer": 5,
         "cursor": 5

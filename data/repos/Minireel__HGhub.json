@@ -5,15 +5,15 @@
   "language": "Rust",
   "stars": 11730,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T12:49:02Z",
+  "scanned_at": "2026-11-28T12:06:06Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
     "2026-11": {
-      "total": 35,
+      "total": 39,
       "ai": 0,
       "automation": 0,
-      "merges": 3,
+      "merges": 4,
       "by_rule": {}
     }
   }

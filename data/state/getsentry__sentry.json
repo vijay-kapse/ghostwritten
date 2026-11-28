@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "getsentry/sentry",
-  "head_sha": "fd77de9b1833e39592d010b64c3aa6b768205480",
-  "oldest": "2025-01-02T21:18:48Z",
-  "complete": false,
+  "head_sha": "8dd7ca92a1d8dc717eacb352d04ed38a68d91d42",
+  "oldest": "2025-01-01T00:00:00Z",
+  "complete": true,
   "default_branch": "master",
-  "updated_at": "2026-11-27T12:44:16Z"
+  "updated_at": "2026-11-28T12:02:19Z"
 }

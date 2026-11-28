@@ -5,7 +5,7 @@
   "language": "Go",
   "stars": 29235,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T12:53:58Z",
+  "scanned_at": "2026-11-28T12:09:25Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,12 +202,12 @@
       }
     },
     "2026-11": {
-      "total": 288,
-      "ai": 44,
-      "automation": 118,
+      "total": 297,
+      "ai": 45,
+      "automation": 119,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 28,
+        "claude_trailer": 29,
         "cursor": 18,
         "copilot_trailer": 1
       }

@@ -5,18 +5,28 @@
   "language": "LLVM",
   "stars": 41585,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T12:46:07Z",
-  "window_start": "2026-03-10",
+  "scanned_at": "2026-11-28T12:03:48Z",
+  "window_start": "2026-02-16",
   "complete": false,
   "months": {
-    "2026-03": {
-      "total": 2829,
-      "ai": 42,
-      "automation": 6,
+    "2026-02": {
+      "total": 1600,
+      "ai": 10,
+      "automation": 0,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 38,
-        "copilot_trailer": 3,
+        "claude_trailer": 9,
+        "cursor": 1
+      }
+    },
+    "2026-03": {
+      "total": 4127,
+      "ai": 54,
+      "automation": 8,
+      "merges": 0,
+      "by_rule": {
+        "claude_trailer": 47,
+        "copilot_trailer": 6,
         "codex_trailer": 1
       }
     },
@@ -112,13 +122,13 @@
       }
     },
     "2026-11": {
-      "total": 5389,
-      "ai": 570,
+      "total": 5481,
+      "ai": 580,
       "automation": 52,
       "merges": 0,
       "by_rule": {
-        "claude_trailer": 527,
-        "cursor": 20,
+        "claude_trailer": 534,
+        "cursor": 23,
         "copilot_trailer": 17,
         "claude_generated": 15,
         "codex_trailer": 2,

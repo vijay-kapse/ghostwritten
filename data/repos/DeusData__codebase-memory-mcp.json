@@ -5,7 +5,7 @@
   "language": "C",
   "stars": 49113,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T12:43:34Z",
+  "scanned_at": "2026-11-28T12:01:56Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -63,12 +63,12 @@
       }
     },
     "2026-08": {
-      "total": 498,
-      "ai": 9,
+      "total": 505,
+      "ai": 12,
       "automation": 8,
-      "merges": 250,
+      "merges": 251,
       "by_rule": {
-        "claude_trailer": 7,
+        "claude_trailer": 10,
         "cursor": 2
       }
     },
@@ -83,19 +83,19 @@
       }
     },
     "2026-10": {
-      "total": 891,
+      "total": 892,
       "ai": 9,
       "automation": 3,
-      "merges": 801,
+      "merges": 804,
       "by_rule": {
         "claude_trailer": 9
       }
     },
     "2026-11": {
-      "total": 240,
+      "total": 255,
       "ai": 3,
       "automation": 11,
-      "merges": 257,
+      "merges": 292,
       "by_rule": {
         "claude_trailer": 3
       }

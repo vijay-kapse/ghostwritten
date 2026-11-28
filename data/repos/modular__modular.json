@@ -5,7 +5,7 @@
   "language": "Mojo",
   "stars": 30192,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T12:53:24Z",
+  "scanned_at": "2026-11-28T12:09:01Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -202,10 +202,10 @@
       }
     },
     "2026-11": {
-      "total": 2054,
+      "total": 2075,
       "ai": 25,
       "automation": 1,
-      "merges": 19,
+      "merges": 20,
       "by_rule": {
         "cursor": 17,
         "other_bot_agent": 6,

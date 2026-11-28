@@ -5,7 +5,7 @@
   "language": "Lua",
   "stars": 18208,
   "default_branch": "main",
-  "scanned_at": "2026-11-27T13:13:15Z",
+  "scanned_at": "2026-11-28T12:23:29Z",
   "window_start": "2025-01-01",
   "complete": true,
   "months": {
@@ -175,7 +175,7 @@
       "by_rule": {}
     },
     "2026-11": {
-      "total": 124,
+      "total": 126,
       "ai": 1,
       "automation": 20,
       "merges": 0,
